@@ -1,0 +1,1746 @@
+{
+    "prompt_id": "T10_mak",
+    "Org - text": "Vakantie\n\nHet liedje Zandvoort bij de zee is geschreven in 1915. In die tijd ging bijna niemand op vakantie. Een vakantie in het buitenland was namelijk alleen weggelegd voor mensen met veel vrije tijd en veel geld. Wie minder rijk was, ging af en toe een dagje uit. Als je niet te ver van de zee woonde, kon je 's zondags naar het strand. Want een plek in het zand en een plons in het water kostten niets. En brood en drinken kon je zelf meenemen.\n\nMaar tegenwoordig is een dagje naar het strand niets bijzonders meer. De mensen in West-Europa hebben namelijk meer geld en meer vrije tijd dan vroeger. Op vakantie gaan is daardoor heel gewoon geworden. Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar op vakantie. Zo gaan ze 's zomers twee weken kamperen en 's winters een week op wintersport. Daarnaast gaan ze een paar keer per jaar een dagje uit naar een pretpark, dierentuin of museum.\n\nEen ander verschil met vroeger is de reisafstand. Mensen gaan niet alleen vaker op vakantie, ze gaan ook verder weg. Steeds meer mensen willen een bijzondere, onvergetelijke vakantie. De televisie laat beelden zien van de mooiste gebieden op aarde. Wie wil daar niet een keer naartoe? De reis ernaartoe is geen probleem. Want al is de aarde nog even groot als vroeger, je hebt veel minder reistijd nodig om ergens te komen. De absolute afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer. Maar de relatieve afstand is veel minder geworden. In 1930 deed een schip drie tot vier weken over de reis van Amsterdam naar Jakarta; tegenwoordig ben je met het vliegtuig in achttien uur in Indonesi\u00eb.\n\nDe mensen verplaatsen zich met steeds snellere en comfortabelere vervoermiddelen. Daardoor reis je straks nog makkelijker naar je favoriete vakantieland en terug. Honderd jaar geleden was het onvoorstelbaar dat je voor een weekend naar Parijs ging. Misschien ga je in 2020 voor een lang weekend naar Singapore. Of wordt het een weekje Antarctica?",
+    "Org - lint": "26",
+    "Org - sent": "30, 6, 33, 18, 29, 57, 27, 35, 18, 9, 17, 43, 48, 27, 8, 22, 38, 8, 23, 10, 37, 34, 36, 26, 43, 18, 10, 18",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Het liedje 'Zandvoort bij de zee' is gemaakt in 1915. Toen ging bijna niemand op vakantie. Vakantie in het buitenland was toen alleen voor mensen met veel vrije tijd en geld. Minder rijke mensen gingen soms een dagje weg. Woonde je dicht bij de zee, dan ging je op zondag naar het strand. Zo'n plek in het zand en zwemmen kostten niks. Je kon brood en drinken zelf meenemen. Vandaag de dag is een dagje naar het strand normaal. Mensen in West-Europa hebben nu meer geld en vrije tijd dan vroeger. Daarom gaat iedereen nu op vakantie. Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar weg. In de zomer kamperen ze twee weken, in de winter gaan ze een week ski\u00ebn. Ook gaan ze een paar keer per jaar een dag naar een pretpark, dierentuin of museum. Een ander verschil met vroeger is hoe ver mensen reizen. Mensen gaan nu vaker en verder op vakantie. Steeds meer mensen willen een bijzondere vakantie die ze niet vergeten. Op tv zie je mooie plekken op de wereld. Wie wil daar niet eens naartoe? De reis ernaartoe is nu makkelijk. De wereld is even groot als vroeger, maar reizen duurt veel korter. De afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer. Maar de reisduur is veel korter geworden. In 1930 duurde een schipreis van Amsterdam naar Jakarta drie tot vier weken. Nu vlieg je er in achttien uur naartoe. Mensen reizen met snellere en comfortabelere vervoermiddelen. Zo reis je straks makkelijker naar je favoriete vakantieplek en weer terug. Honderd jaar geleden kon je niet zomaar voor een weekend naar Parijs gaan. Misschien ga je in 2020 een lang weekend naar Singapore. Of ga je een week naar Antarctica?",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "21",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "26, 7, 20, 20, 19, 41, 20, 24, 19, 2, 10, 19, 42, 32, 14, 14, 24, 27, 38, 29, 26, 52, 14, 39, 28, 14, 8, 0",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Het liedje Zandvoort bij de zee is geschreven in 1915.",
+                "rewritten_sentences": "Het liedje 'Zandvoort bij de zee' is gemaakt in 1915.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Vereenvoudiging woordkeuze en zinstructuur voor betere leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Het liedje Zandvoort bij de zee is geschreven in 1915",
+                        "new_text": "Het liedje 'Zandvoort bij de zee' is gemaakt in 1915",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In die tijd ging bijna niemand op vakantie.",
+                "rewritten_sentences": "Toen ging bijna niemand op vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Kortere zinsconstructie voor betere leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "In die tijd ging bijna niemand op vakantie",
+                        "new_text": "Toen ging bijna niemand op vakantie",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vakantie in het buitenland was namelijk alleen weggelegd voor mensen met veel vrije tijd en veel geld.",
+                "rewritten_sentences": "Vakantie in het buitenland was toen alleen voor mensen met veel vrije tijd en geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Kortere zin door minder woorden en duidelijker formulering.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Een vakantie in het buitenland was namelijk alleen weggelegd voor mensen met veel vrije tijd en veel geld",
+                        "new_text": "Vakantie in het buitenland was toen alleen voor mensen met veel vrije tijd en geld",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie minder rijk was, ging af en toe een dagje uit.",
+                "rewritten_sentences": "Minder rijke mensen gingen soms een dagje weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Gebruik eenvoudigere woorden en actief taalgebruik.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Wie minder rijk was, ging af en toe een dagje uit",
+                        "new_text": "Minder rijke mensen gingen soms een dagje weg",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je niet te ver van de zee woonde, kon je 's zondags naar het strand.",
+                "rewritten_sentences": "Woonde je dicht bij de zee, dan ging je op zondag naar het strand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Eenvoudiger formulering en korte zinnen voor betere leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Als je niet te ver van de zee woonde, kon je 's zondags naar het strand",
+                        "new_text": "Woonde je dicht bij de zee, dan ging je op zondag naar het strand",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want een plek in het zand en een plons in het water kostten niets.",
+                "rewritten_sentences": "Zo'n plek in het zand en zwemmen kostten niks.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Gebruik eenvoudigere woorden en kortere zinnen.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Want een plek in het zand en een plons in het water kostten niets",
+                        "new_text": "Zo'n plek in het zand en zwemmen kostten niks",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En brood en drinken kon je zelf meenemen.",
+                "rewritten_sentences": "Je kon brood en drinken zelf meenemen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Kortere, actieve zinstructuur is makkelijker te lezen.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "En brood en drinken kon je zelf meenemen",
+                        "new_text": "Je kon brood en drinken zelf meenemen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar tegenwoordig is een dagje naar het strand niets bijzonders meer.",
+                "rewritten_sentences": "Vandaag de dag is een dagje naar het strand normaal.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Gebruik eenvoudiger taal en korte zinnen.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Maar tegenwoordig is een dagje naar het strand niets bijzonders meer",
+                        "new_text": "Vandaag de dag is een dagje naar het strand normaal",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De mensen in West-Europa hebben namelijk meer geld en meer vrije tijd dan vroeger.",
+                "rewritten_sentences": "Mensen in West-Europa hebben nu meer geld en vrije tijd dan vroeger.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Korte, duidelijke zin met eenvoudigere woorden.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "De mensen in West-Europa hebben namelijk meer geld en meer vrije tijd dan vroeger",
+                        "new_text": "Mensen in West-Europa hebben nu meer geld en vrije tijd dan vroeger",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op vakantie gaan is daardoor heel gewoon geworden.",
+                "rewritten_sentences": "Daarom gaat iedereen nu op vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Eenvoudige, korte zin met duidelijke boodschap.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Op vakantie gaan is daardoor heel gewoon geworden",
+                        "new_text": "Daarom gaat iedereen nu op vakantie",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                "rewritten_sentences": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Gebruik kortere zinnen en eenvoudiger taal.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar op vakantie",
+                        "new_text": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar weg",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo gaan ze 's zomers twee weken kamperen en 's winters een week op wintersport.",
+                "rewritten_sentences": "In de zomer kamperen ze twee weken, in de winter gaan ze een week ski\u00ebn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Aanpassen van zinsstructuur voor eenvoudiger begrip.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "Zo gaan ze 's zomers twee weken kamperen en 's winters een week op wintersport",
+                        "new_text": "In de zomer kamperen ze twee weken, in de winter gaan ze een week ski\u00ebn",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarnaast gaan ze een paar keer per jaar een dagje uit naar een pretpark, dierentuin of museum.",
+                "rewritten_sentences": "Ook gaan ze een paar keer per jaar een dag naar een pretpark, dierentuin of museum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Kortere en simpelere zinnen met behoud van inhoud.",
+                        "start_word": 1,
+                        "end_word": 19,
+                        "original_text": "Daarnaast gaan ze een paar keer per jaar een dagje uit naar een pretpark, dierentuin of museum",
+                        "new_text": "Ook gaan ze een paar keer per jaar een dag naar een pretpark, dierentuin of museum",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een ander verschil met vroeger is de reisafstand.",
+                "rewritten_sentences": "Een ander verschil met vroeger is hoe ver mensen reizen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Gebruik eenvoudiger woorden en actieve zinsstructuur.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Een ander verschil met vroeger is de reisafstand",
+                        "new_text": "Een ander verschil met vroeger is hoe ver mensen reizen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen gaan niet alleen vaker op vakantie, ze gaan ook verder weg.",
+                "rewritten_sentences": "Mensen gaan nu vaker en verder op vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Kortere zin met eenvoudiger woorden.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Mensen gaan niet alleen vaker op vakantie, ze gaan ook verder weg",
+                        "new_text": "Mensen gaan nu vaker en verder op vakantie",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Steeds meer mensen willen een bijzondere, onvergetelijke vakantie.",
+                "rewritten_sentences": "Steeds meer mensen willen een bijzondere vakantie die ze niet vergeten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Gebruik eenvoudiger en concretere woorden.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Steeds meer mensen willen een bijzondere, onvergetelijke vakantie",
+                        "new_text": "Steeds meer mensen willen een bijzondere vakantie die ze niet vergeten",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De televisie laat beelden zien van de mooiste gebieden op aarde.",
+                "rewritten_sentences": "Op tv zie je mooie plekken op de wereld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Gebruik kortere en duidelijkere zinnen met concrete zelfstandige naamwoorden.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "De televisie laat beelden zien van de mooiste gebieden op aarde",
+                        "new_text": "Op tv zie je mooie plekken op de wereld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie wil daar niet een keer naartoe?",
+                "rewritten_sentences": "Wie wil daar niet eens naartoe?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Kleinere aanpassing, behouden betekenis en eenvoudiger taal.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Wie wil daar niet een keer naartoe",
+                        "new_text": "Wie wil daar niet eens naartoe",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De reis ernaartoe is geen probleem.",
+                "rewritten_sentences": "De reis ernaartoe is nu makkelijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Gebruik kortere en eenvoudiger zin.",
+                        "start_word": 1,
+                        "end_word": 4,
+                        "original_text": "De reis ernaartoe is geen probleem",
+                        "new_text": "De reis ernaartoe is nu makkelijk",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want al is de aarde nog even groot als vroeger, je hebt veel minder reistijd nodig om ergens te komen.",
+                "rewritten_sentences": "De wereld is even groot als vroeger, maar reizen duurt veel korter.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Kortere zinsdelen en eenvoudiger taalgebruik.",
+                        "start_word": 1,
+                        "end_word": 23,
+                        "original_text": "Want al is de aarde nog even groot als vroeger, je hebt veel minder reistijd nodig om ergens te komen",
+                        "new_text": "De wereld is even groot als vroeger, maar reizen duurt veel korter",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De absolute afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                "rewritten_sentences": "De afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Vereenvoudiging door weglaten van minder bekende term \"absolute afstand\".",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "De absolute afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer",
+                        "new_text": "De afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar de relatieve afstand is veel minder geworden.",
+                "rewritten_sentences": "Maar de reisduur is veel korter geworden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Gebruik eenvoudiger en concreter begrip: reisduur in plaats van relatieve afstand.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Maar de relatieve afstand is veel minder geworden",
+                        "new_text": "Maar de reisduur is veel korter geworden",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In 1930 deed een schip drie tot vier weken over de reis van Amsterdam naar Jakarta; tegenwoordig ben je met het vliegtuig in achttien uur in Indonesi\u00eb.",
+                "rewritten_sentences": "In 1930 duurde een schipreis van Amsterdam naar Jakarta drie tot vier weken. Nu vlieg je er in achttien uur naartoe.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Splitsen van lange zin en vereenvoudigen voor betere leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 27,
+                        "original_text": "In 1930 deed een schip drie tot vier weken over de reis van Amsterdam naar Jakarta; tegenwoordig ben je met het vliegtuig in achttien uur in Indonesi\u00eb",
+                        "new_text": "In 1930 duurde een schipreis van Amsterdam naar Jakarta drie tot vier weken. Nu vlieg je er in achttien uur naartoe",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De mensen verplaatsen zich met steeds snellere en comfortabelere vervoermiddelen.",
+                "rewritten_sentences": "Mensen reizen met snellere en comfortabelere vervoermiddelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Kortere zin met eenvoudiger woorden.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "De mensen verplaatsen zich met steeds snellere en comfortabelere vervoermiddelen",
+                        "new_text": "Mensen reizen met snellere en comfortabelere vervoermiddelen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daardoor reis je straks nog makkelijker naar je favoriete vakantieland en terug.",
+                "rewritten_sentences": "Zo reis je straks makkelijker naar je favoriete vakantieplek en weer terug.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Gebruik concretere en eenvoudiger woorden.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Daardoor reis je straks nog makkelijker naar je favoriete vakantieland en terug",
+                        "new_text": "Zo reis je straks makkelijker naar je favoriete vakantieplek en weer terug",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Honderd jaar geleden was het onvoorstelbaar dat je voor een weekend naar Parijs ging.",
+                "rewritten_sentences": "Honderd jaar geleden kon je niet zomaar voor een weekend naar Parijs gaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "Eenvoudig en duidelijk, korte zinsbouw.",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "Honderd jaar geleden was het onvoorstelbaar dat je voor een weekend naar Parijs ging",
+                        "new_text": "Honderd jaar geleden kon je niet zomaar voor een weekend naar Parijs gaan",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Misschien ga je in 2020 voor een lang weekend naar Singapore.",
+                "rewritten_sentences": "Misschien ga je in 2020 een lang weekend naar Singapore.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c27",
+                        "reason_for_change": "Verwijdering onnodig woord voor eenvoud.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Misschien ga je in 2020 voor een lang weekend naar Singapore",
+                        "new_text": "Misschien ga je in 2020 een lang weekend naar Singapore",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Of wordt het een weekje Antarctica?",
+                "rewritten_sentences": "Of ga je een week naar Antarctica?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c28",
+                        "reason_for_change": "Meer concrete en directere formulering.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Of wordt het een weekje Antarctica",
+                        "new_text": "Of ga je een week naar Antarctica",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Het liedje 'Zandvoort bij de zee' is gemaakt in 1915. Toen ging bijna niemand op vakantie. Vakantie in het buitenland was toen alleen voor mensen met veel vrije tijd en geld. Minder rijke mensen gingen soms een dagje weg. Woonde je dicht bij de zee, dan ging je op zondag naar het strand. Zo'n plek in het zand en zwemmen kostten niks. Je kon brood en drinken zelf meenemen. Vandaag de dag is een dagje naar het strand normaal. Mensen in West-Europa hebben nu meer geld en vrije tijd dan vroeger. Daarom gaat iedereen nu op vakantie. Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar weg. In de zomer kamperen ze twee weken, in de winter gaan ze een week ski\u00ebn. Ook gaan ze een paar keer per jaar een dag naar een pretpark, dierentuin of museum. Een ander verschil met vroeger is hoe ver mensen reizen. Mensen gaan nu vaker en verder op vakantie. Steeds meer mensen willen een bijzondere vakantie die ze niet vergeten. Op tv zie je mooie plekken op de wereld. Wie wil daar niet eens naartoe? De reis ernaartoe is nu makkelijk. De wereld is even groot als vroeger, maar reizen duurt veel korter. De afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer. Maar de reisduur is veel korter geworden. In 1930 duurde een schipreis van Amsterdam naar Jakarta drie tot vier weken. Nu vlieg je er in achttien uur naartoe. Mensen reizen met snellere en comfortabelere vervoermiddelen. Zo reis je straks makkelijker naar je favoriete vakantieplek en weer terug. Honderd jaar geleden kon je niet zomaar voor een weekend naar Parijs gaan. Misschien ga je in 2020 een lang weekend naar Singapore. Of ga je een week naar Antarctica?",
+        "prompt_id": "T10_mak",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Vakantie Het lied 'Zandvoort bij de zee' is uit 1915. Toen ging bijna niemand op vakantie. Een vakantie in het buitenland was alleen voor rijke mensen. Zij hadden veel vrije tijd en veel geld. Minder rijke mensen gingen soms een dagje uit. Woonde je dichtbij de zee, dan ging je zondag naar het strand. Een plekje in het zand en een duik in zee waren gratis. Je nam zelf brood en drinken mee. Nu is een dagje naar het strand niet bijzonder. Mensen in West-Europa hebben nu meer geld en meer vrije tijd. Op vakantie gaan is daardoor normaal geworden. Veel mensen gaan meer dan \u00e9\u00e9n keer per jaar op vakantie. In de zomer kamperen ze twee weken. In de winter gaan ze een week op wintersport. Ook gaan ze meerdere keren per jaar naar een pretpark, een dierentuin of een museum. Een ander verschil met vroeger is de afstand die je reist. Mensen gaan vaker op vakantie. Ze reizen ook verder weg. Meer mensen willen een bijzondere vakantie. Op tv zie je beelden van mooie plekken op aarde. Wie wil er niet naartoe? De reis erheen is geen probleem. De aarde is nog even groot als vroeger. Maar je hebt nu veel minder reistijd nodig. De afstand van Amsterdam naar Jakarta is nog steeds 11.361 kilometer. Maar de relatieve afstand is veel kleiner geworden. In 1930 duurde de reis per schip drie tot vier weken. Nu vlieg je in achttien uur naar Indonesi\u00eb. Mensen reizen met steeds snellere en comfortabelere vervoermiddelen. Zo reis je later nog makkelijker naar je favoriete vakantieland en terug. Honderd jaar geleden leek een weekend naar Parijs ondenkbaar. Misschien ga je in 2020 een lang weekend naar Singapore. Of ga je een week naar Antarctica?",
+    "GPT 5.1 mini/gpt-5-mini - lint": "21",
+    "GPT 5.1 mini/gpt-5-mini - sent": "28, 7, 20, 19, 20, 19, 43, 19, 32, 16, 10, 16, 20, 23, 36, 27, 7, 11, 28, 23, 11, 0, 29, 36, 30, 17, 40, 44, 25, 8, 0",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Vakantie",
+                "rewritten_sentences": "Vakantie",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s0c1",
+                        "reason_for_change": "Titel laten zoals in de originele tekst; geen inhoudelijke wijziging nodig.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "Vakantie",
+                        "new_text": "Vakantie",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het liedje Zandvoort bij de zee is geschreven in 1915.",
+                "rewritten_sentences": "Het lied 'Zandvoort bij de zee' is uit 1915.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s1c1",
+                        "reason_for_change": "Kortere formulering en eenvoudiger zinsbouw; vermindert lange afhankelijke constructies.",
+                        "start_word": 2,
+                        "end_word": 11,
+                        "original_text": "Het liedje Zandvoort bij de zee is geschreven in 1915.",
+                        "new_text": "Het lied 'Zandvoort bij de zee' is uit 1915.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In die tijd ging bijna niemand op vakantie.",
+                "rewritten_sentences": "Toen ging bijna niemand op vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "Vervanging van een langere woordgroep door \u00e9\u00e9n veelgebruikt woord ('Toen') voor eenvoud.",
+                        "start_word": 12,
+                        "end_word": 19,
+                        "original_text": "In die tijd ging bijna niemand op vakantie.",
+                        "new_text": "Toen ging bijna niemand op vakantie.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vakantie in het buitenland was namelijk alleen weggelegd voor mensen met veel vrije tijd en veel geld.",
+                "rewritten_sentences": "Een vakantie in het buitenland was alleen voor rijke mensen. Zij hadden veel vrije tijd en veel geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3c1",
+                        "reason_for_change": "Zin opgesplitst en eenvoudiger gemaakt; korte zinnen met minder syntactische complexiteit.",
+                        "start_word": 20,
+                        "end_word": 37,
+                        "original_text": "Een vakantie in het buitenland was namelijk alleen weggelegd voor mensen met veel vrije tijd en veel geld.",
+                        "new_text": "Een vakantie in het buitenland was alleen voor rijke mensen. Zij hadden veel vrije tijd en veel geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie minder rijk was, ging af en toe een dagje uit.",
+                "rewritten_sentences": "Minder rijke mensen gingen soms een dagje uit.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "Actie in eenvoudigere actieve vorm en korter onderwerp voor betere leesbaarheid.",
+                        "start_word": 38,
+                        "end_word": 48,
+                        "original_text": "Wie minder rijk was, ging af en toe een dagje uit.",
+                        "new_text": "Minder rijke mensen gingen soms een dagje uit.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je niet te ver van de zee woonde, kon je 's zondags naar het strand.",
+                "rewritten_sentences": "Woonde je dichtbij de zee, dan ging je zondag naar het strand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Omgekeerde en kortere zinsbouw; eenvoudiger signaalwoorden en minder woorden.",
+                        "start_word": 49,
+                        "end_word": 64,
+                        "original_text": "Als je niet te ver van de zee woonde, kon je 's zondags naar het strand.",
+                        "new_text": "Woonde je dichtbij de zee, dan ging je zondag naar het strand.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want een plek in het zand en een plons in het water kostten niets.",
+                "rewritten_sentences": "Een plekje in het zand en een duik in zee waren gratis.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "Eenvoudigere en concretere woorden ('plekje', 'duik', 'gratis') voor beeldende en korte zin.",
+                        "start_word": 65,
+                        "end_word": 78,
+                        "original_text": "Want een plek in het zand en een plons in het water kostten niets.",
+                        "new_text": "Een plekje in het zand en een duik in zee waren gratis.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En brood en drinken kon je zelf meenemen.",
+                "rewritten_sentences": "Je nam zelf brood en drinken mee.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "Actieve zin en volgorde van woorden vereenvoudigd; kortere constructie.",
+                        "start_word": 79,
+                        "end_word": 86,
+                        "original_text": "En brood en drinken kon je zelf meenemen.",
+                        "new_text": "Je nam zelf brood en drinken mee.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar tegenwoordig is een dagje naar het strand niets bijzonders meer.",
+                "rewritten_sentences": "Nu is een dagje naar het strand niet bijzonder.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Korter en moderner woordgebruik; minder bijvoegelijke constructies.",
+                        "start_word": 87,
+                        "end_word": 97,
+                        "original_text": "Maar tegenwoordig is een dagje naar het strand niets bijzonders meer.",
+                        "new_text": "Nu is een dagje naar het strand niet bijzonder.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De mensen in West-Europa hebben namelijk meer geld en meer vrije tijd dan vroeger.",
+                "rewritten_sentences": "Mensen in West-Europa hebben nu meer geld en meer vrije tijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "Vervanging van 'namelijk' door 'nu' en kortere zinsvolgorde voor eenvoud.",
+                        "start_word": 98,
+                        "end_word": 111,
+                        "original_text": "De mensen in West-Europa hebben namelijk meer geld en meer vrije tijd dan vroeger.",
+                        "new_text": "Mensen in West-Europa hebben nu more geld en meer vrije tijd.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op vakantie gaan is daardoor heel gewoon geworden.",
+                "rewritten_sentences": "Op vakantie gaan is daardoor normaal geworden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "Vervanging door een korter, veelgebruikt bijvoeglijk naamwoord ('normaal').",
+                        "start_word": 112,
+                        "end_word": 119,
+                        "original_text": "Op vakantie gaan is daardoor heel gewoon geworden.",
+                        "new_text": "Op vakantie gaan is daardoor normaal geworden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                "rewritten_sentences": "Veel mensen gaan meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "Verwijdering van overbodig woord ('soms' was niet aanwezig; kleine vereenvoudiging door directer formuleren).",
+                        "start_word": 120,
+                        "end_word": 131,
+                        "original_text": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                        "new_text": "Veel mensen gaan meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo gaan ze 's zomers twee weken kamperen en 's winters een week op wintersport.",
+                "rewritten_sentences": "In de zomer kamperen ze twee weken. In de winter gaan ze een week op wintersport.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "Opsplitsing in twee korte zinnen voor duidelijkheid en eenvoudigere syntaxis.",
+                        "start_word": 132,
+                        "end_word": 146,
+                        "original_text": "Zo gaan ze 's zomers twee weken kamperen en 's winters een week op wintersport.",
+                        "new_text": "In de zomer kamperen ze twee weken. In de winter gaan ze een week op wintersport.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarnaast gaan ze een paar keer per jaar een dagje uit naar een pretpark, dierentuin of museum.",
+                "rewritten_sentences": "Ook gaan ze meerdere keren per jaar naar een pretpark, een dierentuin of een museum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "Iets modernere en frequent gebruikte woorden gekozen; zinsbouw licht vereenvoudigd.",
+                        "start_word": 147,
+                        "end_word": 163,
+                        "original_text": "Daarnaast gaan ze een paar keer per jaar een dagje uit naar een pretpark, dierentuin of museum.",
+                        "new_text": "Ook gaan ze meerdere keren per jaar naar een pretpark, een dierentuin of een museum.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een ander verschil met vroeger is de reisafstand.",
+                "rewritten_sentences": "Een ander verschil met vroeger is de afstand die je reist.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Specifieker en directer taalgebruik; licht vereenvoudigde zinsstructuur.",
+                        "start_word": 164,
+                        "end_word": 171,
+                        "original_text": "Een ander verschil met vroeger is de reisafstand.",
+                        "new_text": "Een ander verschil met vroeger is de afstand die je reist.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen gaan niet alleen vaker op vakantie, ze gaan ook verder weg.",
+                "rewritten_sentences": "Mensen gaan vaker op vakantie. Ze reizen ook verder weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Splitst de zin in twee korte zinnen; eenvoudiger en directer.",
+                        "start_word": 172,
+                        "end_word": 183,
+                        "original_text": "Mensen gaan niet alleen vaker op vakantie, ze gaan ook verder weg.",
+                        "new_text": "Mensen gaan vaker op vakantie. Ze reizen ook verder weg.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Steeds meer mensen willen een bijzondere, onvergetelijke vakantie.",
+                "rewritten_sentences": "Meer mensen willen een bijzondere vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Vermindering van bijvoeglijke omschrijvingen voor eenvoud en kortere zinnen.",
+                        "start_word": 184,
+                        "end_word": 191,
+                        "original_text": "Steeds meer mensen willen een bijzondere, onvergetelijke vakantie.",
+                        "new_text": "Meer mensen willen een bijzondere vakantie.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De televisie laat beelden zien van de mooiste gebieden op aarde.",
+                "rewritten_sentences": "Op tv zie je beelden van mooie plekken op aarde.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "Meer alledaagse woorden ('tv', 'plekken') en kortere woordkeuze voor leesbaarheid.",
+                        "start_word": 192,
+                        "end_word": 202,
+                        "original_text": "De televisie laat beelden zien van de mooiste gebieden op aarde.",
+                        "new_text": "Op tv zie je beelden van mooie plekken op aarde.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie wil daar niet een keer naartoe?",
+                "rewritten_sentences": "Wie wil er niet naartoe?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "Kortere formulering met hetzelfde doel en minder woorden.",
+                        "start_word": 203,
+                        "end_word": 209,
+                        "original_text": "Wie wil daar niet een keer naartoe?",
+                        "new_text": "Wie wil er niet naartoe?",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De reis ernaartoe is geen probleem.",
+                "rewritten_sentences": "De reis erheen is geen probleem.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "Eenvoudiger woord ('erheen') en korte, directe zin.",
+                        "start_word": 210,
+                        "end_word": 215,
+                        "original_text": "De reis ernaartoe is geen probleem.",
+                        "new_text": "De reis erheen is geen probleem.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want al is de aarde nog even groot als vroeger, je hebt veel minder reistijd nodig om ergens te komen.",
+                "rewritten_sentences": "De aarde is nog even groot als vroeger. Maar je hebt nu veel minder reistijd nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20c1",
+                        "reason_for_change": "Opsplitsing in twee korte zinnen en eenvoudiger woordkeuze voor betere toegankelijkheid.",
+                        "start_word": 216,
+                        "end_word": 235,
+                        "original_text": "Want al is de aarde nog even groot als vroeger, je hebt veel minder reistijd nodig om ergens te komen.",
+                        "new_text": "De aarde is nog even groot als vroeger. Maar je hebt nu veel minder reistijd nodig.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De absolute afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                "rewritten_sentences": "De afstand van Amsterdam naar Jakarta is nog steeds 11.361 kilometer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21c1",
+                        "reason_for_change": "Eenvoudigere woordvolgorde en directere zinsbouw; dezelfde informatie blijft behouden.",
+                        "start_word": 236,
+                        "end_word": 247,
+                        "original_text": "De absolute afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                        "new_text": "De afstand van Amsterdam naar Jakarta is nog steeds 11.361 kilometer.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar de relatieve afstand is veel minder geworden.",
+                "rewritten_sentences": "Maar de relatieve afstand is veel kleiner geworden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s22c1",
+                        "reason_for_change": "Gebruik van een korter adjectief ('kleiner') voor eenvoud zonder betekenisverlies.",
+                        "start_word": 248,
+                        "end_word": 255,
+                        "original_text": "Maar de relatieve afstand is veel minder geworden.",
+                        "new_text": "Maar de relatieve afstand is veel kleiner geworden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In 1930 deed een schip drie tot vier weken over de reis van Amsterdam naar Jakarta; tegenwoordig ben je met het vliegtuig in achttien uur in Indonesi\u00eb.",
+                "rewritten_sentences": "In 1930 duurde de reis per schip drie tot vier weken. Nu vlieg je in achttien uur naar Indonesi\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23c1",
+                        "reason_for_change": "Opsplitsing in twee zinnen en eenvoudiger werkwoordkeuze; vergelijkbare informatie in kortere vorm.",
+                        "start_word": 256,
+                        "end_word": 282,
+                        "original_text": "In 1930 deed een schip drie tot vier weken over de reis van Amsterdam naar Jakarta; tegenwoordig ben je met het vliegtuig in achttien uur in Indonesi\u00eb.",
+                        "new_text": "In 1930 duurde de reis per schip drie tot vier weken. Nu vlieg je in achttien uur naar Indonesi\u00eb.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De mensen verplaatsen zich met steeds snellere en comfortabelere vervoermiddelen.",
+                "rewritten_sentences": "Mensen reizen met steeds snellere en comfortabelere vervoermiddelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s24c1",
+                        "reason_for_change": "Vervanging van reflexieve vorm door eenvoudiger werkwoord 'reizen' voor directheid.",
+                        "start_word": 283,
+                        "end_word": 292,
+                        "original_text": "De mensen verplaatsen zich met steeds snellere en comfortabelere vervoermiddelen.",
+                        "new_text": "Mensen reizen met steeds snellere en comfortabelere vervoermiddelen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daardoor reis je straks nog makkelijker naar je favoriete vakantieland en terug.",
+                "rewritten_sentences": "Zo reis je later nog makkelijker naar je favoriete vakantieland en terug.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s25c1",
+                        "reason_for_change": "Klein woordgebruik ('zo', 'later') en kortere structuur voor vlot lezen.",
+                        "start_word": 293,
+                        "end_word": 304,
+                        "original_text": "Daardoor reis je straks nog makkelijker naar je favoriete vakantieland en terug.",
+                        "new_text": "Zo reis je later nog makkelijker naar je favoriete vakantieland en terug.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Honderd jaar geleden was het onvoorstelbaar dat je voor een weekend naar Parijs ging.",
+                "rewritten_sentences": "Honderd jaar geleden leek een weekend naar Parijs ondenkbaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s26c1",
+                        "reason_for_change": "Compactere formulering met behoud van de betekenis; eenvoudiger woordkeuze.",
+                        "start_word": 305,
+                        "end_word": 318,
+                        "original_text": "Honderd jaar geleden was het onvoorstelbaar dat je voor een weekend naar Parijs ging.",
+                        "new_text": "Honderd jaar geleden leek een weekend naar Parijs ondenkbaar.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Misschien ga je in 2020 voor een lang weekend naar Singapore.",
+                "rewritten_sentences": "Misschien ga je in 2020 een lang weekend naar Singapore.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s27c1",
+                        "reason_for_change": "Kleine aanpassing in woordvolgorde voor vlottere lezing; informatie gelijk gehouden.",
+                        "start_word": 319,
+                        "end_word": 329,
+                        "original_text": "Misschien ga je in 2020 voor een lang weekend naar Singapore.",
+                        "new_text": "Misschien ga je in 2020 een lang weekend naar Singapore.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Of wordt het een weekje Antarctica?",
+                "rewritten_sentences": "Of ga je een week naar Antarctica?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s28c1",
+                        "reason_for_change": "Directere vraagvorm en eenvoudigere werkwoordkeuze voor betere toegankelijkheid.",
+                        "start_word": 330,
+                        "end_word": 335,
+                        "original_text": "Of wordt het een weekje Antarctica?",
+                        "new_text": "Of ga je een week naar Antarctica?",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatieve tekst",
+        "full_text": "Vakantie Het lied 'Zandvoort bij de zee' is uit 1915. Toen ging bijna niemand op vakantie. Een vakantie in het buitenland was alleen voor rijke mensen. Zij hadden veel vrije tijd en veel geld. Minder rijke mensen gingen soms een dagje uit. Woonde je dichtbij de zee, dan ging je zondag naar het strand. Een plekje in het zand en een duik in zee waren gratis. Je nam zelf brood en drinken mee. Nu is een dagje naar het strand niet bijzonder. Mensen in West-Europa hebben nu meer geld en meer vrije tijd. Op vakantie gaan is daardoor normaal geworden. Veel mensen gaan meer dan \u00e9\u00e9n keer per jaar op vakantie. In de zomer kamperen ze twee weken. In de winter gaan ze een week op wintersport. Ook gaan ze meerdere keren per jaar naar een pretpark, een dierentuin of een museum. Een ander verschil met vroeger is de afstand die je reist. Mensen gaan vaker op vakantie. Ze reizen ook verder weg. Meer mensen willen een bijzondere vakantie. Op tv zie je beelden van mooie plekken op aarde. Wie wil er niet naartoe? De reis erheen is geen probleem. De aarde is nog even groot als vroeger. Maar je hebt nu veel minder reistijd nodig. De afstand van Amsterdam naar Jakarta is nog steeds 11.361 kilometer. Maar de relatieve afstand is veel kleiner geworden. In 1930 duurde de reis per schip drie tot vier weken. Nu vlieg je in achttien uur naar Indonesi\u00eb. Mensen reizen met steeds snellere en comfortabelere vervoermiddelen. Zo reis je later nog makkelijker naar je favoriete vakantieland en terug. Honderd jaar geleden leek een weekend naar Parijs ondenkbaar. Misschien ga je in 2020 een lang weekend naar Singapore. Of ga je een week naar Antarctica?",
+        "prompt_id": "T10_mak",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "In 1915 schreef een man een liedje over het strand van Zandvoort. Toen gingen bijna geen mensen op vakantie. Alleen rijke mensen hadden genoeg geld voor een verre reis. Andere mensen gingen soms een dagje weg. Mensen bij de zee liepen op zondag naar het strand. Het zand en het water waren gratis. Je nam je eigen brood en drinken mee. Nu is een dagje strand heel gewoon. Mensen in Europa hebben nu meer geld en meer vrije tijd. Daarom gaan we vaak op vakantie. Veel mensen gaan twee keer per jaar weg. In de zomer gaan ze kamperen en in de winter gaan ze ski\u00ebn. Ze gaan ook vaak naar een park of een museum. De reis is nu ook veel langer. Mensen reizen vaker en ze gaan verder weg. Iedereen wil een heel mooie reis maken. De tv laat mooie plekken op de wereld zien. Iedereen wil die plekken graag zien. Reizen is nu heel makkelijk. De aarde is groot, maar de reis duurt kort. De weg naar Jakarta is elf duizend kilometer lang. Toch ben je er nu heel snel. In 1930 voer een boot vier weken naar Jakarta. Nu vlieg je in achttien uur naar Indonesi\u00eb. Boten en vliegtuigen worden steeds sneller en fijner. Je reist straks heel makkelijk naar elk land. Vroeger ging niemand voor een weekend naar Parijs. Nu vliegen mensen voor een paar dagen naar Singapore. Of gaan ze een week naar de koude Zuidpool?",
+    "Gemini/gemini-3-flash-preview - lint": "17",
+    "Gemini/gemini-3-flash-preview - sent": "28, 8, 33, 14, 22, 24, 14, 10, 16, 6, 5, 17, 17, 29, 7, 23, 28, 18, 24, 16, 23, 17, 34, 20, 13, 19, 15",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Het liedje Zandvoort bij de zee is geschreven in 1915.",
+                "rewritten_sentences": "In 1915 schreef een man een liedje over het strand van Zandvoort.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Maak de zin actiever en concreter door 'het strand' toe te voegen.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Het liedje Zandvoort bij de zee is geschreven in 1915.",
+                        "new_text": "In 1915 schreef een man een liedje over het strand van Zandvoort.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In die tijd ging bijna niemand op vakantie.",
+                "rewritten_sentences": "Toen gingen bijna geen mensen op vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Gebruik vaker voorkomende woorden.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "In die tijd ging bijna niemand op vakantie.",
+                        "new_text": "Toen gingen bijna geen mensen op vakantie.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vakantie in het buitenland was namelijk alleen weggelegd voor mensen met veel vrije tijd en veel geld.",
+                "rewritten_sentences": "Alleen rijke mensen hadden genoeg geld voor een verre reis.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vereenvoudig de zinstructuur en gebruik concretere termen zoals 'rijke mensen'.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Een vakantie in het buitenland was namelijk alleen weggelegd voor mensen met veel vrije tijd en veel geld.",
+                        "new_text": "Alleen rijke mensen hadden genoeg geld voor een verre reis.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie minder rijk was, ging af en toe een dagje uit.",
+                "rewritten_sentences": "Andere mensen gingen soms een dagje weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Vervang 'minder rijk' door een simpelere verwijzing en gebruik 'weg' in plaats van 'uit'.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Wie minder rijk was, ging af en toe een dagje uit.",
+                        "new_text": "Andere mensen gingen soms een dagje weg.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je niet te ver van de zee woonde, kon je 's zondags naar het strand.",
+                "rewritten_sentences": "Mensen bij de zee liepen op zondag naar het strand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Verwijder de bijzin voor een kortere afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Als je niet te ver van de zee woonde, kon je 's zondags naar het strand.",
+                        "new_text": "Mensen bij de zee liepen op zondag naar het strand.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want een plek in het zand en een plons in het water kostten niets.",
+                "rewritten_sentences": "Het zand en het water waren gratis.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Vervang abstracte begrippen door concrete kernwoorden.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Want een plek in het zand en een plons in het water kostten niets.",
+                        "new_text": "Het zand en het water waren gratis.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En brood en drinken kon je zelf meenemen.",
+                "rewritten_sentences": "Je nam je eigen brood en drinken mee.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Maak de zin directer en actiever.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "En brood en drinken kon je zelf meenemen.",
+                        "new_text": "Je nam je eigen brood en drinken mee.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar tegenwoordig is een dagje naar het strand niets bijzonders meer.",
+                "rewritten_sentences": "Nu is een dagje strand heel gewoon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Vervang 'tegenwoordig' door het frequentere 'nu' en verkort de zin.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Maar tegenwoordig is een dagje naar het strand niets bijzonders meer.",
+                        "new_text": "Nu is een dagje strand heel gewoon.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De mensen in West-Europa hebben namelijk meer geld en meer vrije tijd dan vroeger.",
+                "rewritten_sentences": "Mensen in Europa hebben nu meer geld en meer vrije tijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Verkort de geografische aanduiding en verwijder 'namelijk'.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "De mensen in West-Europa hebben namelijk meer geld en meer vrije tijd dan vroeger.",
+                        "new_text": "Mensen in Europa hebben nu meer geld en meer vrije tijd.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op vakantie gaan is daardoor heel gewoon geworden.",
+                "rewritten_sentences": "Daarom gaan we vaak op vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Gebruik een actievere vorm en simpelere woorden.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Op vakantie gaan is daardoor heel gewoon geworden.",
+                        "new_text": "Daarom gaan we vaak op vakantie.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                "rewritten_sentences": "Veel mensen gaan twee keer per jaar weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Vervang '\u00e9\u00e9n keer per jaar' door een concreter aantal.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                        "new_text": "Veel mensen gaan twee keer per jaar weg.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo gaan ze 's zomers twee weken kamperen en 's winters een week op wintersport.",
+                "rewritten_sentences": "In de zomer gaan ze kamperen en in de winter gaan ze ski\u00ebn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vervang 'wintersport' door de concrete actie 'ski\u00ebn'.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Zo gaan ze 's zomers twee weken kamperen en 's winters een week op wintersport.",
+                        "new_text": "In de zomer gaan ze kamperen en in de winter gaan ze ski\u00ebn.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarnaast gaan ze een paar keer per jaar een dagje uit naar een pretpark, dierentuin of museum.",
+                "rewritten_sentences": "Ze gaan ook vaak naar een park of een museum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Maak de opsomming korter en simpeler.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Daarnaast gaan ze een paar keer per jaar een dagje uit naar een pretpark, dierentuin of museum.",
+                        "new_text": "Ze gaan ook vaak naar een park of een museum.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een ander verschil met vroeger is de reisafstand.",
+                "rewritten_sentences": "De reis is nu ook veel langer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Vervang het abstracte 'reisafstand' door een simpele omschrijving.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Een ander verschil met vroeger is de reisafstand.",
+                        "new_text": "De reis is nu ook veel langer.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen gaan niet alleen vaker op vakantie, ze gaan ook verder weg.",
+                "rewritten_sentences": "Mensen reizen vaker en ze gaan verder weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Maak de zinsdelen gelijkwaardig en korter.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Mensen gaan niet alleen vaker op vakantie, ze gaan ook verder weg.",
+                        "new_text": "Mensen reizen vaker en ze gaan verder weg.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Steeds meer mensen willen een bijzondere, onvergetelijke vakantie.",
+                "rewritten_sentences": "Iedereen wil een heel mooie reis maken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Vervang moeilijke bijvoeglijke naamwoorden door simpele woorden.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Steeds meer mensen willen een bijzondere, onvergetelijke vakantie.",
+                        "new_text": "Iedereen wil een heel mooie reis maken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De televisie laat beelden zien van de mooiste gebieden op aarde.",
+                "rewritten_sentences": "De tv laat mooie plekken op de wereld zien.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Vervang 'beelden' en 'gebieden' door concretere woorden zoals 'plekken'.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "De televisie laat beelden zien van de mooiste gebieden op aarde.",
+                        "new_text": "De tv laat mooie plekken op de wereld zien.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie wil daar niet een keer naartoe?",
+                "rewritten_sentences": "Iedereen wil die plekken graag zien.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Maak van de vraag een stellende zin met simpele woorden.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Wie wil daar niet een keer naartoe?",
+                        "new_text": "Iedereen wil die plekken graag zien.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De reis ernaartoe is geen probleem.",
+                "rewritten_sentences": "Reizen is nu heel makkelijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Gebruik een vaker voorkomend woord zoals 'makkelijk'.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "De reis ernaartoe is geen probleem.",
+                        "new_text": "Reizen is nu heel makkelijk.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want al is de aarde nog even groot als vroeger, je hebt veel minder reistijd nodig om ergens te komen.",
+                "rewritten_sentences": "De aarde is groot, maar de reis duurt kort.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Verwijder de complexe vergelijking en verkort de zin drastisch.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Want al is de aarde nog even groot als vroeger, je hebt veel minder reistijd nodig om ergens te komen.",
+                        "new_text": "De aarde is groot, maar de reis duurt kort.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De absolute afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                "rewritten_sentences": "De weg naar Jakarta is elf duizend kilometer lang.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Verwijder abstracte termen zoals 'absolute afstand'.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "De absolute afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                        "new_text": "De weg naar Jakarta is elf duizend kilometer lang.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar de relatieve afstand is veel minder geworden.",
+                "rewritten_sentences": "Toch ben je er nu heel snel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Vertaal het abstracte 'relatieve afstand' naar een concrete ervaring.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Maar de relatieve afstand is veel minder geworden.",
+                        "new_text": "Toch ben je er nu heel snel.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In 1930 deed een schip drie tot vier weken over de reis van Amsterdam naar Jakarta; tegenwoordig ben je met het vliegtuig in achttien uur in Indonesi\u00eb.",
+                "rewritten_sentences": "In 1930 voer een boot vier weken naar Jakarta. Nu vlieg je in achttien uur naar Indonesi\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Splits de lange samengestelde zin in twee korte zinnen.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "In 1930 deed een schip drie tot vier weken over de reis van Amsterdam naar Jakarta; tegenwoordig ben je met het vliegtuig in achttien uur in Indonesi\u00eb.",
+                        "new_text": "In 1930 voer een boot vier weken naar Jakarta. Nu vlieg je in achttien uur naar Indonesi\u00eb.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De mensen verplaatsen zich met steeds snellere en comfortabelere vervoermiddelen.",
+                "rewritten_sentences": "Boten en vliegtuigen worden steeds sneller en fijner.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Vervang de abstracte term 'vervoermiddelen' door concrete voorbeelden.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "De mensen verplaatsen zich met steeds snellere en comfortabelere vervoermiddelen.",
+                        "new_text": "Boten en vliegtuigen worden steeds sneller en fijner.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daardoor reis je straks nog makkelijker naar je favoriete vakantieland en terug.",
+                "rewritten_sentences": "Je reist straks heel makkelijk naar elk land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Maak de zin korter en verwijder overbodige woorden.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Daardoor reis je straks nog makkelijker naar je favoriete vakantieland en terug.",
+                        "new_text": "Je reist straks heel makkelijk naar elk land.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Honderd jaar geleden was het onvoorstelbaar dat je voor een weekend naar Parijs ging.",
+                "rewritten_sentences": "Vroeger ging niemand voor een weekend naar Parijs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "Vervang 'onvoorstelbaar' door een simpelere ontkenning.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Honderd jaar geleden was het onvoorstelbaar dat je voor een weekend naar Parijs ging.",
+                        "new_text": "Vroeger ging niemand voor een weekend naar Parijs.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Misschien ga je in 2020 voor een lang weekend naar Singapore.",
+                "rewritten_sentences": "Nu vliegen mensen voor een paar dagen naar Singapore.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "27",
+                        "reason_for_change": "Gebruik het concrete werkwoord 'vliegen' en vereenvoudig de tijdsbepaling.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Misschien ga je in 2020 voor een lang weekend naar Singapore.",
+                        "new_text": "Nu vliegen mensen voor een paar dagen naar Singapore.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Of wordt het een weekje Antarctica?",
+                "rewritten_sentences": "Of gaan ze een week naar de koude Zuidpool?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "28",
+                        "reason_for_change": "Gebruik een bekender en concreter woord voor Antarctica.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Of wordt het een weekje Antarctica?",
+                        "new_text": "Of gaan ze een week naar de koude Zuidpool?",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst",
+        "full_text": "In 1915 schreef een man een liedje over het strand van Zandvoort. Toen gingen bijna geen mensen op vakantie. Alleen rijke mensen hadden genoeg geld voor een verre reis. Andere mensen gingen soms een dagje weg. Mensen bij de zee liepen op zondag naar het strand. Het zand en het water waren gratis. Je nam je eigen brood en drinken mee. Nu is een dagje strand heel gewoon. Mensen in Europa hebben nu meer geld en meer vrije tijd. Daarom gaan we vaak op vakantie. Veel mensen gaan twee keer per jaar weg. In de zomer gaan ze kamperen en in de winter gaan ze ski\u00ebn. Ze gaan ook vaak naar een park of een museum. De reis is nu ook veel langer. Mensen reizen vaker en ze gaan verder weg. Iedereen wil een heel mooie reis maken. De tv laat mooie plekken op de wereld zien. Iedereen wil die plekken graag zien. Reizen is nu heel makkelijk. De aarde is groot, maar de reis duurt kort. De weg naar Jakarta is elf duizend kilometer lang. Toch ben je er nu heel snel. In 1930 voer een boot vier weken naar Jakarta. Nu vlieg je in achttien uur naar Indonesi\u00eb. Boten en vliegtuigen worden steeds sneller en fijner. Je reist straks heel makkelijk naar elk land. Vroeger ging niemand voor een weekend naar Parijs. Nu vliegen mensen voor een paar dagen naar Singapore. Of gaan ze een week naar de koude Zuidpool?",
+        "prompt_id": "T10_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "In 1915 werd het bekende liedje *Zandvoort bij de zee* gemaakt. Toen was vakantie voor bijna niemand weggelegd. Een buitenlandse vakantie was alleen voor rijke mensen met veel tijd. Arme mensen gingen soms een dagje naar buiten. Als je dicht bij de zee woonde, ging je zondags naar het strand. Want zand en water waren gratis. Je kon zelf eten en drinken meenemen. Tegenwoordig is een dagje strand gewoon. Mensen in West-Europa hebben nu meer geld en meer vrije tijd. Daardoor gaan mensen vaak op vakantie. Veel mensen gaan nu meer dan \u00e9\u00e9n keer per jaar op vakantie. In de zomer kamperen ze twee weken. In de winter gaan ze een week op wintersport. Daarnaast gaan ze een paar keer per jaar uit naar een pretpark, dierentuin of museum. Een ander verschil is dat mensen verder reizen. Mensen gaan vaker op vakantie en reizen verder. Veel mensen willen een speciale vakantie. Op tv zie je mooie plekken op aarde. Wie wil daar niet heen? Reizen is nu makkelijk. De aarde is even groot, maar reizen duurt minder tijd. De afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer. Maar het lijkt veel dichterbij. In 1930 duurde de reis met een schip drie tot vier weken. Nu vlieg je in achttien uur naar Indonesi\u00eb. Vervoermiddelen worden steeds sneller en comfortabeler. Daardoor wordt reizen makkelijker. Honderd jaar geleden kon je niet voor een weekend naar Parijs. Misschien ga je in 2020 naar Singapore voor een lang weekend. Of ga je naar Antarctica?",
+    "Mistral/ministral-14b-latest - lint": "18",
+    "Mistral/ministral-14b-latest - sent": "36, 33, 20, 19, 14, 24, 16, 16, 6, 17, 20, 23, 40, 25, 25, 9, 21, 13, 29, 32, 17, 28, 7, 13, 0",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Het liedje *Zandvoort bij de zee* is geschreven in 1915.",
+                "rewritten_sentences": "In 1915 werd het bekende liedje *Zandvoort bij de zee* gemaakt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_1_change_1",
+                        "reason_for_change": "Verduidelijking van de context en actie (geschreven \u2192 gemaakt) voor betere leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Het liedje Zandvoort bij de zee is geschreven in 1915.",
+                        "new_text": "In 1915 werd het bekende liedje *Zandvoort bij de zee* gemaakt.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In die tijd ging bijna niemand op vakantie.",
+                "rewritten_sentences": "Toen was vakantie voor bijna niemand weggelegd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_2_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en gebruik van eenvoudiger woorden (ging op vakantie \u2192 was weggelegd).",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "In die tijd ging bijna niemand op vakantie.",
+                        "new_text": "Toen was vakantie voor bijna niemand weggelegd.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vakantie in het buitenland was namelijk alleen weggelegd voor mensen met veel vrije tijd en veel geld.",
+                "rewritten_sentences": "Een buitenlandse vakantie was alleen voor rijke mensen met veel tijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_3_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van herhalingen en het gebruik van eenvoudiger woorden (veel vrije tijd en veel geld \u2192 rijke mensen met veel tijd).",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Een vakantie in het buitenland was namelijk alleen weggelegd voor mensen met veel vrije tijd en veel geld.",
+                        "new_text": "Een buitenlandse vakantie was alleen voor rijke mensen met veel tijd.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie minder rijk was, ging af en toe een dagje uit.",
+                "rewritten_sentences": "Arme mensen gingen soms een dagje naar buiten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_4_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het gebruik van eenvoudiger woorden (minder rijk was \u2192 arme mensen, af en toe \u2192 soms).",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Wie minder rijk was, ging af en toe een dagje uit.",
+                        "new_text": "Arme mensen gingen soms een dagje naar buiten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je niet te ver van de zee woonde, kon je 's zondags naar het strand.",
+                "rewritten_sentences": "Als je dicht bij de zee woonde, ging je zondags naar het strand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_5_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het gebruik van eenvoudiger woorden (niet te ver \u2192 dicht bij).",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Als je niet te ver van de zee woonde, kon je 's zondags naar het strand.",
+                        "new_text": "Als je dicht bij de zee woonde, ging je zondags naar het strand.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want een plek in het zand en een plons in het water kostten niets.",
+                "rewritten_sentences": "Want zand en water waren gratis.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_6_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van onnodige details en het gebruik van eenvoudiger woorden (een plek in het zand en een plons in het water \u2192 zand en water).",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Want een plek in het zand en een plons in het water kostten niets.",
+                        "new_text": "Want zand en water waren gratis.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En brood en drinken kon je zelf meenemen.",
+                "rewritten_sentences": "Je kon zelf eten en drinken meenemen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_7_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zin door het gebruik van een algemenere term (brood en drinken \u2192 eten en drinken).",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "En brood en drinken kon je zelf meenemen.",
+                        "new_text": "Je kon zelf eten en drinken meenemen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar tegenwoordig is een dagje naar het strand niets bijzonders meer.",
+                "rewritten_sentences": "Tegenwoordig is een dagje strand gewoon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_8_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het gebruik van eenvoudiger woorden (dagje naar het strand \u2192 dagje strand, niets bijzonders meer \u2192 gewoon).",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Maar tegenwoordig is een dagje naar het strand niets bijzonders meer.",
+                        "new_text": "Tegenwoordig is een dagje strand gewoon.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De mensen in West-Europa hebben namelijk meer geld en meer vrije tijd dan vroeger.",
+                "rewritten_sentences": "Mensen in West-Europa hebben nu meer geld en meer vrije tijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_9_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het verwijderen van onnodige woorden (namelijk, dan vroeger).",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "De mensen in West-Europa hebben namelijk meer geld en meer vrije tijd dan vroeger.",
+                        "new_text": "Mensen in West-Europa hebben nu meer geld en meer vrije tijd.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op vakantie gaan is daardoor heel gewoon geworden.",
+                "rewritten_sentences": "Daardoor gaan mensen vaak op vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_10_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het gebruik van een actiever werkwoord (is gewoon geworden \u2192 gaan vaak).",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Op vakantie gaan is daardoor heel gewoon geworden.",
+                        "new_text": "Daardoor gaan mensen vaak op vakantie.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                "rewritten_sentences": "Veel mensen gaan nu meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_11_change_1",
+                        "reason_for_change": "Vereenvoudiging door het verwijderen van herhalingen (meer dan \u00e9\u00e9n keer \u2192 meer dan \u00e9\u00e9n keer).",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Veel mensen gaan zelfs meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                        "new_text": "Veel mensen gaan nu meer dan \u00e9\u00e9n keer per jaar op vakantie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo gaan ze 's zomers twee weken kamperen en 's winters een week op wintersport.",
+                "rewritten_sentences": "In de zomer kamperen ze twee weken. In de winter gaan ze een week op wintersport.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_12_change_1",
+                        "reason_for_change": "Onderverdelen in twee eenvoudige zinnen voor betere leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Zo gaan ze 's zomers twee weken kamperen en 's winters een week op wintersport.",
+                        "new_text": "In de zomer kamperen ze twee weken. In de winter gaan ze een week op wintersport.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarnaast gaan ze een paar keer per jaar een dagje uit naar een pretpark, dierentuin of museum.",
+                "rewritten_sentences": "Daarnaast gaan ze een paar keer per jaar uit naar een pretpark, dierentuin of museum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_13_change_1",
+                        "reason_for_change": "Vereenvoudiging door het verwijderen van herhalende woorden (dagje uit \u2192 uit).",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Daarnaast gaan ze een paar keer per jaar een dagje uit naar een pretpark, dierentuin of museum.",
+                        "new_text": "Daarnaast gaan ze een paar keer per jaar uit naar een pretpark, dierentuin of museum.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een ander verschil met vroeger is de reisafstand.",
+                "rewritten_sentences": "Een ander verschil is dat mensen verder reizen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_14_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het gebruik van een actiever werkwoord (is de reisafstand \u2192 reizen).",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Een ander verschil met vroeger is de reisafstand.",
+                        "new_text": "Een ander verschil is dat mensen verder reizen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen gaan niet alleen vaker op vakantie, ze gaan ook verder weg.",
+                "rewritten_sentences": "Mensen gaan vaker op vakantie en reizen verder.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_15_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur door het samenvoegen van twee acties in \u00e9\u00e9n zin.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Mensen gaan niet alleen vaker op vakantie, ze gaan ook verder weg.",
+                        "new_text": "Mensen gaan vaker op vakantie en reizen verder.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Steeds meer mensen willen een bijzondere, onvergetelijke vakantie.",
+                "rewritten_sentences": "Veel mensen willen een speciale vakantie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_16_change_1",
+                        "reason_for_change": "Vereenvoudiging door het verwijderen van herhalende en complexe woorden (bijzondere, onvergetelijke \u2192 speciale).",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Steeds meer mensen willen een bijzondere, onvergetelijke vakantie.",
+                        "new_text": "Veel mensen willen een speciale vakantie.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De televisie laat beelden zien van de mooiste gebieden op aarde.",
+                "rewritten_sentences": "Op tv zie je mooie plekken op aarde.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_17_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het gebruik van eenvoudiger woorden (televisie \u2192 tv, laat beelden zien \u2192 zie je).",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "De televisie laat beelden zien van de mooiste gebieden op aarde.",
+                        "new_text": "Op tv zie je mooie plekken op aarde.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie wil daar niet een keer naartoe?",
+                "rewritten_sentences": "Wie wil daar niet heen?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_18_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zin door het gebruik van eenvoudiger woorden (een keer naartoe \u2192 heen).",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Wie wil daar niet een keer naartoe?",
+                        "new_text": "Wie wil daar niet heen?",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De reis ernaartoe is geen probleem.",
+                "rewritten_sentences": "Reizen is nu makkelijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_19_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het gebruik van een algemenere term (reis ernaartoe \u2192 reizen).",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "De reis ernaartoe is geen probleem.",
+                        "new_text": "Reizen is nu makkelijk.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want al is de aarde nog even groot als vroeger, je hebt veel minder reistijd nodig om ergens te komen.",
+                "rewritten_sentences": "De aarde is even groot, maar reizen duurt minder tijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_20_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het verwijderen van herhalingen (al is de aarde nog even groot als vroeger \u2192 De aarde is even groot).",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Want al is de aarde nog even groot als vroeger, je hebt veel minder reistijd nodig om ergens te komen.",
+                        "new_text": "De aarde is even groot, maar reizen duurt minder tijd.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De absolute afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                "rewritten_sentences": "De afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_21_change_1",
+                        "reason_for_change": "Vereenvoudiging door het verwijderen van een onnodig woord (absolute).",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "De absolute afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                        "new_text": "De afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar de relatieve afstand is veel minder geworden.",
+                "rewritten_sentences": "Maar het lijkt veel dichterbij.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_22_change_1",
+                        "reason_for_change": "Vereenvoudiging door het gebruik van een eenvoudiger vergelijking (relatieve afstand is minder \u2192 lijkt dichterbij).",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Maar de relatieve afstand is veel minder geworden.",
+                        "new_text": "Maar het lijkt veel dichterbij.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In 1930 deed een schip drie tot vier weken over de reis van Amsterdam naar Jakarta; tegenwoordig ben je met het vliegtuig in achttien uur in Indonesi\u00eb.",
+                "rewritten_sentences": "In 1930 duurde de reis met een schip drie tot vier weken. Nu vlieg je in achttien uur naar Indonesi\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_23_change_1",
+                        "reason_for_change": "Onderverdelen in twee eenvoudige zinnen en het gebruik van eenvoudiger woorden (deed over \u2192 duurde, ben met het vliegtuig \u2192 vlieg je).",
+                        "start_word": 1,
+                        "end_word": 23,
+                        "original_text": "In 1930 deed een schip drie tot vier weken over de reis van Amsterdam naar Jakarta; tegenwoordig ben je met het vliegtuig in achttien uur in Indonesi\u00eb.",
+                        "new_text": "In 1930 duurde de reis met een schip drie tot vier weken. Nu vlieg je in achttien uur naar Indonesi\u00eb.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De mensen verplaatsen zich met steeds snellere en comfortabelere vervoermiddelen.",
+                "rewritten_sentences": "Vervoermiddelen worden steeds sneller en comfortabeler.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_24_change_1",
+                        "reason_for_change": "Vereenvoudiging door het verwijderen van een onnodige herhaling (de mensen verplaatsen zich \u2192 vervoermiddelen worden).",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "De mensen verplaatsen zich met steeds snellere en comfortabelere vervoermiddelen.",
+                        "new_text": "Vervoermiddelen worden steeds sneller en comfortabeler.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daardoor reis je straks nog makkelijker naar je favoriete vakantieland en terug.",
+                "rewritten_sentences": "Daardoor wordt reizen makkelijker.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_25_change_1",
+                        "reason_for_change": "Vereenvoudiging door het verwijderen van onnodige details (straks, naar je favoriete vakantieland en terug).",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Daardoor reis je straks nog makkelijker naar je favoriete vakantieland en terug.",
+                        "new_text": "Daardoor wordt reizen makkelijker.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Honderd jaar geleden was het onvoorstelbaar dat je voor een weekend naar Parijs ging.",
+                "rewritten_sentences": "Honderd jaar geleden kon je niet voor een weekend naar Parijs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_26_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur en het gebruik van eenvoudiger woorden (onvoorstelbaar \u2192 kon niet).",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Honderd jaar geleden was het onvoorstelbaar dat je voor een weekend naar Parijs ging.",
+                        "new_text": "Honderd jaar geleden kon je niet voor een weekend naar Parijs.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Misschien ga je in 2020 voor een lang weekend naar Singapore.",
+                "rewritten_sentences": "Misschien ga je in 2020 naar Singapore voor een lang weekend.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_27_change_1",
+                        "reason_for_change": "Vereenvoudiging van de zinstructuur door het verplaatsen van de locatie (Singapore) naar een logischer plek in de zin.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Misschien ga je in 2020 voor een lang weekend naar Singapore.",
+                        "new_text": "Misschien ga je in 2020 naar Singapore voor een lang weekend.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Of wordt het een weekje Antarctica?",
+                "rewritten_sentences": "Of ga je naar Antarctica?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_28_change_1",
+                        "reason_for_change": "Vereenvoudiging door het verwijderen van onnodige details (een weekje).",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Of wordt het een weekje Antarctica?",
+                        "new_text": "Of ga je naar Antarctica?",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "historisch-vergelijkend",
+        "full_text": "In 1915 werd het bekende liedje *Zandvoort bij de zee* gemaakt. Toen was vakantie voor bijna niemand weggelegd. Een buitenlandse vakantie was alleen voor rijke mensen met veel tijd. Arme mensen gingen soms een dagje naar buiten. Als je dicht bij de zee woonde, ging je zondags naar het strand. Want zand en water waren gratis. Je kon zelf eten en drinken meenemen. Tegenwoordig is een dagje strand gewoon. Mensen in West-Europa hebben nu meer geld en meer vrije tijd. Daardoor gaan mensen vaak op vakantie. Veel mensen gaan nu meer dan \u00e9\u00e9n keer per jaar op vakantie. In de zomer kamperen ze twee weken. In de winter gaan ze een week op wintersport. Daarnaast gaan ze een paar keer per jaar uit naar een pretpark, dierentuin of museum. Een ander verschil is dat mensen verder reizen. Mensen gaan vaker op vakantie en reizen verder. Veel mensen willen een speciale vakantie. Op tv zie je mooie plekken op aarde. Wie wil daar niet heen? Reizen is nu makkelijk. De aarde is even groot, maar reizen duurt minder tijd. De afstand tussen Amsterdam en Jakarta is nog steeds 11.361 kilometer. Maar het lijkt veel dichterbij. In 1930 duurde de reis met een schip drie tot vier weken. Nu vlieg je in achttien uur naar Indonesi\u00eb. Vervoermiddelen worden steeds sneller en comfortabeler. Daardoor wordt reizen makkelijker. Honderd jaar geleden kon je niet voor een weekend naar Parijs. Misschien ga je in 2020 naar Singapore voor een lang weekend. Of ga je naar Antarctica?",
+        "prompt_id": "T10_mak",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-24 19:26:09.305593"
+}

@@ -1,0 +1,1853 @@
+{
+    "prompt_id": "T20_mak",
+    "Org - text": "Ontwikkelingslanden\n\nPedro woont in S\u00e3o Paulo. Dat is de grootste stad van Brazili\u00eb. Hij woont in een arme wijk aan de rand van de stad. Het leven valt niet mee in zo'n sloppenwijk. Pedro verzamelt lege blikjes die toeristen achterlaten. Daarmee verdient hij ongeveer $1,25 per dag.\n\nDe meeste mensen in een ontwikkelingsland zijn arm. Door de armoede zijn de levensomstandigheden er slecht. Omdat er veel werkloosheid is in ontwikkelingslanden, moeten kinderen ook werken. Pedro en zijn familie wonen in een sloppenwijk en hebben weinig eten en geen schoon drinkwater. Er is \u00e9\u00e9n kraan waaruit duizend huishoudens hun water moeten tappen. Daarvoor moet Pedro ver lopen. In ontwikkelingslanden worden veel kinderen geboren en groeit de bevolking sterk. Toch is de kindersterfte er hoog in vergelijking met ons land. Gelukkig wordt de gezondheidszorg er de laatste jaren beter. Daardoor daalt de kindersterfte ook in Brazili\u00eb.\n\nDe ouders van Pedro woonden vroeger op het platteland. Ze verhuisden naar de stad in de hoop op een baan, en dus een beter leven. Maar ze kwamen terecht in een sloppenwijk. Iedereen bouwt daar zijn eigen huis van hout, plastic en ander afvalmateriaal. In sloppenwijken komen vaak geweld, criminaliteit en drugshandel voor. De vader van Pedro bedacht niet-offici\u00eble baantjes zoals schoenenpoetser, omdat hij geen werk kon vinden. Voor zulke zelfbedachte baantjes heb je geen geld of opleiding nodig. Je noemt deze banen de vluchtsector. De vluchtsector hoort bij de diensten. Ook Pedro werkt in de vluchtsector. Hij verzamelt blikjes.\n\nOntwikkelingslanden zijn arm. Maar er zijn ook veel verschillen tussen ontwikkelingslanden. In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven. Zij zijn analfabeet. Maar in Brazili\u00eb gaan veel kinderen gewoon naar school en dus is daar het analfabetisme lager dan in andere ontwikkelingslanden. In veel landen is er niet genoeg voedsel en schoon drinkwater. In Brazili\u00eb wordt dat steeds beter, vooral in de steden. Want daar worden steeds meer riolering en waterleidingen aangelegd. Sloppenwijken veranderen langzaam in woonwijken. Brazili\u00eb is niet meer het armste ontwikkelingsland. Het verschil tussen arm en rijk wordt er langzaam kleiner. Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+    "Org - lint": "30",
+    "Org - sent": "13, 10, 35, 22, 36, 13, 39, 20, 32, 37, 10, 24, 58, 25, 57, 20, 47, 22, 31, 43, 56, 47, 43, 37, 37, 33, 21, 16, 39, 38, 14, 19, 41, 22, 41, 37, 24",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Pedro woont in S\u00e3o Paulo. S\u00e3o Paulo is de grootste stad van Brazili\u00eb. Hij woont in een arme wijk buiten de stad. Leven in zo\u2019n sloppenwijk is moeilijk. Pedro verzamelt lege blikjes die toeristen weggooien. Daarmee verdient hij ongeveer 1,25 dollar per dag. De meeste mensen in ontwikkelingslanden zijn arm. Door armoede zijn de leefomstandigheden slecht. Er is veel werkloosheid in ontwikkelingslanden. Daarom moeten kinderen ook werken. Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon water om te drinken. Er is \u00e9\u00e9n kraan waar duizend huishoudens water moeten halen. Pedro moet daarvoor ver lopen. In ontwikkelingslanden worden veel kinderen geboren. De bevolking groeit snel. Toch sterven er meer kinderen dan in ons land. De gezondheidszorg is de laatste jaren beter geworden. Daardoor sterven er ook minder kinderen in Brazili\u00eb. Pedro zijn ouders woonden vroeger op het platteland. Ze gingen naar de stad in de hoop op een baan en een beter leven. Maar ze kwamen in een sloppenwijk terecht. Iedereen bouwt daar zijn huis van hout, plastic en ander afval. In sloppenwijken zijn vaak geweld, criminaliteit en drugshandel. Pedro zijn vader vond niet-offici\u00eble baantjes, zoals schoenenpoetser, omdat hij geen werk kon vinden. Voor deze baantjes heb je geen geld en opleiding nodig. Deze banen noemen we de vluchtsector. De vluchtsector hoort bij de diensten. Pedro werkt ook in de vluchtsector. Hij verzamelt blikjes. Ontwikkelingslanden zijn arm. Maar ontwikkelingslanden verschillen veel van elkaar. Veel mensen in ontwikkelingslanden kunnen niet lezen of schrijven. Deze mensen zijn analfabeet. In Brazili\u00eb gaan veel kinderen naar school. Daarom is het analfabetisme daar lager dan in andere landen. In veel landen is er niet genoeg eten en schoon water om te drinken. In Brazili\u00eb wordt dat beter, vooral in steden. Daar worden meer riolen en waterleidingen gemaakt. Sloppenwijken worden langzaam betere woonwijken. Brazili\u00eb is niet meer het armste land onder de ontwikkelingslanden. Het verschil tussen arm en rijk wordt kleiner. Toch heeft Brazili\u00eb nog steeds kenmerken van ontwikkelingslanden.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "25",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "17, 25, 15, 36, 11, 38, 22, 0, 21, 18, 30, 10, 16, 28, 2, 23, 2, 20, 39, 22, 36, 41, 44, 39, 39, 37, 38, 33, 32, 21, 16, 7, 41, 11, 12, 21, 28, 41, 30, 24",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Pedro woont in S\u00e3o Paulo.",
+                "rewritten_sentences": "Pedro woont in S\u00e3o Paulo.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Dat is de grootste stad van Brazili\u00eb.",
+                "rewritten_sentences": "S\u00e3o Paulo is de grootste stad van Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Verduidelijkt onderwerp dichtbij de beginsel van zin voor duidelijkheid.",
+                        "start_word": 1,
+                        "end_word": 2,
+                        "original_text": "Dat is de",
+                        "new_text": "S\u00e3o Paulo is de",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij woont in een arme wijk aan de rand van de stad.",
+                "rewritten_sentences": "Hij woont in een arme wijk buiten de stad.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "'aan de rand' vervangen door eenvoudiger 'buiten' voor betere leesbaarheid.",
+                        "start_word": 5,
+                        "end_word": 8,
+                        "original_text": "aan de rand van de stad",
+                        "new_text": "buiten de stad",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het leven valt niet mee in zo'n sloppenwijk.",
+                "rewritten_sentences": "Leven in zo\u2019n sloppenwijk is moeilijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Kortere, duidelijkere structuur gekozen voor eenvoudiger begrip.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Het leven valt niet mee in zo'n sloppenwijk.",
+                        "new_text": "Leven in zo\u2019n sloppenwijk is moeilijk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Pedro verzamelt lege blikjes die toeristen achterlaten.",
+                "rewritten_sentences": "Pedro verzamelt lege blikjes die toeristen weggooien.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "'Achterlaten' vervangen door eenvoudiger 'weggooien' voor betere woordfrequentie.",
+                        "start_word": 3,
+                        "end_word": 5,
+                        "original_text": "die toeristen achterlaten",
+                        "new_text": "die toeristen weggooien",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarmee verdient hij ongeveer $1,25 per dag.",
+                "rewritten_sentences": "Daarmee verdient hij ongeveer 1,25 dollar per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Symbool '$' vervangen door woord 'dollar' voor betere leesbaarheid.",
+                        "start_word": 3,
+                        "end_word": 7,
+                        "original_text": "$1,25 per dag.",
+                        "new_text": "1,25 dollar per dag.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste mensen in een ontwikkelingsland zijn arm.",
+                "rewritten_sentences": "De meeste mensen in ontwikkelingslanden zijn arm.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "'Ontwikkelingsland' naar meervoud om concreter en duidelijker te maken.",
+                        "start_word": 4,
+                        "end_word": 5,
+                        "original_text": "een ontwikkelingsland",
+                        "new_text": "ontwikkelingslanden",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Door de armoede zijn de levensomstandigheden er slecht.",
+                "rewritten_sentences": "Door armoede zijn de leefomstandigheden slecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "'De levensomstandigheden er' vereenvoudigd naar 'de leefomstandigheden' voor beter begrip.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "de armoede zijn de levensomstandigheden er",
+                        "new_text": "armoede zijn de leefomstandigheden",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Omdat er veel werkloosheid is in ontwikkelingslanden, moeten kinderen ook werken.",
+                "rewritten_sentences": "Er is veel werkloosheid in ontwikkelingslanden. Daarom moeten kinderen ook werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Lange zin gesplitst in twee korte zinnen voor eenvoudiger lezen.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Omdat er veel werkloosheid is in ontwikkelingslanden, moeten kinderen ook werken.",
+                        "new_text": "Er is veel werkloosheid in ontwikkelingslanden. Daarom moeten kinderen ook werken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Pedro en zijn familie wonen in een sloppenwijk en hebben weinig eten en geen schoon drinkwater.",
+                "rewritten_sentences": "Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon water om te drinken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Lange zin gesplitst om eenvoudiger te maken en concreter: 'schoon drinkwater' vervangen door 'schoon water om te drinken'.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Pedro en zijn familie wonen in een sloppenwijk en hebben weinig eten en geen schoon drinkwater.",
+                        "new_text": "Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon water om te drinken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is \u00e9\u00e9n kraan waaruit duizend huishoudens hun water moeten tappen.",
+                "rewritten_sentences": "Er is \u00e9\u00e9n kraan waar duizend huishoudens water moeten halen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "'Tappen' vervangen door eenvoudiger 'halen' voor betere leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "waaruit duizend huishoudens hun water moeten tappen",
+                        "new_text": "waar duizend huishoudens water moeten halen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarvoor moet Pedro ver lopen.",
+                "rewritten_sentences": "Pedro moet daarvoor ver lopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Woordvolgorde iets aangepast voor vloeiender en eenvoudiger begrip.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Daarvoor moet Pedro ver lopen.",
+                        "new_text": "Pedro moet daarvoor ver lopen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In ontwikkelingslanden worden veel kinderen geboren en groeit de bevolking sterk.",
+                "rewritten_sentences": "In ontwikkelingslanden worden veel kinderen geboren. De bevolking groeit snel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Lange zin gesplitst in twee om eenvoudiger te maken.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "In ontwikkelingslanden worden veel kinderen geboren en groeit de bevolking sterk.",
+                        "new_text": "In ontwikkelingslanden worden veel kinderen geboren. De bevolking groeit snel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch is de kindersterfte er hoog in vergelijking met ons land.",
+                "rewritten_sentences": "Toch sterven er meer kinderen dan in ons land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Passieve zin actiever en eenvoudiger gemaakt, concreter met begrip kindersterfte.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Toch is de kindersterfte er hoog in vergelijking met ons land.",
+                        "new_text": "Toch sterven er meer kinderen dan in ons land.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Gelukkig wordt de gezondheidszorg er de laatste jaren beter.",
+                "rewritten_sentences": "De gezondheidszorg is de laatste jaren beter geworden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Zinsconstructie eenvoudiger en actiever gemaakt.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Gelukkig wordt de gezondheidszorg er de laatste jaren beter.",
+                        "new_text": "De gezondheidszorg is de laatste jaren beter geworden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daardoor daalt de kindersterfte ook in Brazili\u00eb.",
+                "rewritten_sentences": "Daardoor sterven er ook minder kinderen in Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Passieve zin actief en eenvoudiger geformuleerd.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Daardoor daalt de kindersterfte ook in Brazili\u00eb.",
+                        "new_text": "Daardoor sterven er ook minder kinderen in Brazili\u00eb.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De ouders van Pedro woonden vroeger op het platteland.",
+                "rewritten_sentences": "Pedro zijn ouders woonden vroeger op het platteland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Bescheiden verschuiving om onderwerp directer en spreektaalachtig te maken, makkelijker lezen.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "De ouders van Pedro woonden vroeger",
+                        "new_text": "Pedro zijn ouders woonden vroeger",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ze verhuisden naar de stad in de hoop op een baan, en dus een beter leven.",
+                "rewritten_sentences": "Ze gingen naar de stad in de hoop op een baan en een beter leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "'Verhuisden' vervangen door eenvoudiger 'gingen' en 'dus' weggelaten voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Ze verhuisden naar de stad in de hoop op een baan, en dus een beter leven.",
+                        "new_text": "Ze gingen naar de stad in de hoop op een baan en een beter leven.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar ze kwamen terecht in een sloppenwijk.",
+                "rewritten_sentences": "Maar ze kwamen in een sloppenwijk terecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Woordvolgorde aangepast voor vloeiender en eenvoudiger taalgebruik.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Maar ze kwamen terecht in een sloppenwijk.",
+                        "new_text": "Maar ze kwamen in een sloppenwijk terecht.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Iedereen bouwt daar zijn eigen huis van hout, plastic en ander afvalmateriaal.",
+                "rewritten_sentences": "Iedereen bouwt daar zijn huis van hout, plastic en ander afval.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "'Eigen huis' naar 'huis' verkort, 'afvalmateriaal' naar 'afval' eenvoudiger woordkeuze.",
+                        "start_word": 3,
+                        "end_word": 14,
+                        "original_text": "zijn eigen huis van hout, plastic en ander afvalmateriaal",
+                        "new_text": "zijn huis van hout, plastic en ander afval",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In sloppenwijken komen vaak geweld, criminaliteit en drugshandel voor.",
+                "rewritten_sentences": "In sloppenwijken zijn vaak geweld, criminaliteit en drugshandel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Zin korter en directer gemaakt, 'drugshandel' past beter bij woorden 'geweld' en 'criminaliteit'.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "In sloppenwijken komen vaak geweld, criminaliteit en drugshandel voor.",
+                        "new_text": "In sloppenwijken zijn vaak geweld, criminaliteit en drugshandel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De vader van Pedro bedacht niet-offici\u00eble baantjes zoals schoenenpoetser, omdat hij geen werk kon vinden.",
+                "rewritten_sentences": "Pedro zijn vader vond niet-offici\u00eble baantjes, zoals schoenenpoetser, omdat hij geen werk kon vinden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Onderwerp directer gemaakt en zin iets eenvoudiger gehouden.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "De vader van Pedro bedacht niet-offici\u00eble baantjes zoals schoenenpoetser, omdat hij geen werk kon vinden.",
+                        "new_text": "Pedro zijn vader vond niet-offici\u00eble baantjes, zoals schoenenpoetser, omdat hij geen werk kon vinden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor zulke zelfbedachte baantjes heb je geen geld of opleiding nodig.",
+                "rewritten_sentences": "Voor deze baantjes heb je geen geld en opleiding nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "'Zelfbedachte' verwijderd voor eenvoud, 'of' vervangen door 'en' voor correctere samenhang.",
+                        "start_word": 3,
+                        "end_word": 9,
+                        "original_text": "zelfbedachte baantjes heb je geen geld of opleiding nodig",
+                        "new_text": "baantjes heb je geen geld en opleiding nodig",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je noemt deze banen de vluchtsector.",
+                "rewritten_sentences": "Deze banen noemen we de vluchtsector.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Zin actief en eenvoudiger gemaakt.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Je noemt deze banen de vluchtsector.",
+                        "new_text": "Deze banen noemen we de vluchtsector.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De vluchtsector hoort bij de diensten.",
+                "rewritten_sentences": "De vluchtsector hoort bij de diensten.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Ook Pedro werkt in de vluchtsector.",
+                "rewritten_sentences": "Pedro werkt ook in de vluchtsector.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Woorden 'ook' dichter bij werkwoord geplaatst voor eenvoudiger taalgebruik.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Ook Pedro werkt in de vluchtsector.",
+                        "new_text": "Pedro werkt ook in de vluchtsector.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij verzamelt blikjes.",
+                "rewritten_sentences": "Hij verzamelt blikjes.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Ontwikkelingslanden zijn arm.",
+                "rewritten_sentences": "Ontwikkelingslanden zijn arm.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Maar er zijn ook veel verschillen tussen ontwikkelingslanden.",
+                "rewritten_sentences": "Maar ontwikkelingslanden verschillen veel van elkaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Kortere en actiefere zin gecre\u00eberd voor betere leesbaarheid.",
+                        "start_word": 4,
+                        "end_word": 9,
+                        "original_text": "er zijn ook veel verschillen tussen ontwikkelingslanden",
+                        "new_text": "ontwikkelingslanden verschillen veel van elkaar",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven.",
+                "rewritten_sentences": "Veel mensen in ontwikkelingslanden kunnen niet lezen of schrijven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "'In veel ontwikkelingslanden kunnen mensen' veranderd naar 'Veel mensen in ontwikkelingslanden' voor eenvoudiger begrip.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven.",
+                        "new_text": "Veel mensen in ontwikkelingslanden kunnen niet lezen of schrijven.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zij zijn analfabeet.",
+                "rewritten_sentences": "Deze mensen zijn analfabeet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c27",
+                        "reason_for_change": "Verduidelijkt waar 'zij' naar verwijst voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 1,
+                        "original_text": "Zij zijn",
+                        "new_text": "Deze mensen zijn",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar in Brazili\u00eb gaan veel kinderen gewoon naar school en dus is daar het analfabetisme lager dan in andere ontwikkelingslanden.",
+                "rewritten_sentences": "In Brazili\u00eb gaan veel kinderen naar school. Daarom is het analfabetisme daar lager dan in andere landen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c28",
+                        "reason_for_change": "Lange zin gesplitst in twee korte zinnen. 'Dus' vervangen door 'daarom' simpelere overgangswoord.",
+                        "start_word": 0,
+                        "end_word": 25,
+                        "original_text": "Maar in Brazili\u00eb gaan veel kinderen gewoon naar school en dus is daar het analfabetisme lager dan in andere ontwikkelingslanden.",
+                        "new_text": "In Brazili\u00eb gaan veel kinderen naar school. Daarom is het analfabetisme daar lager dan in andere landen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel landen is er niet genoeg voedsel en schoon drinkwater.",
+                "rewritten_sentences": "In veel landen is er niet genoeg eten en schoon water om te drinken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c29",
+                        "reason_for_change": "'Voedsel' veranderd naar 'eten' en 'schoon drinkwater' naar 'schoon water om te drinken' voor eenvoudiger taal.",
+                        "start_word": 5,
+                        "end_word": 10,
+                        "original_text": "voedsel en schoon drinkwater",
+                        "new_text": "eten en schoon water om te drinken",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Brazili\u00eb wordt dat steeds beter, vooral in de steden.",
+                "rewritten_sentences": "In Brazili\u00eb wordt dat beter, vooral in steden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c30",
+                        "reason_for_change": "'Steeds' weggelaten om de zin korter te maken zonder betekenisverlies.",
+                        "start_word": 2,
+                        "end_word": 7,
+                        "original_text": "wordt dat steeds beter, vooral in de steden",
+                        "new_text": "wordt dat beter, vooral in steden",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want daar worden steeds meer riolering en waterleidingen aangelegd.",
+                "rewritten_sentences": "Daar worden meer riolen en waterleidingen gemaakt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c31",
+                        "reason_for_change": "'Steeds' weggelaten en 'riolering' vervangen door 'riolen' voor eenvoudigere taal en concreter zelfstandig naamwoord.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "worden steeds meer riolering en waterleidingen aangelegd",
+                        "new_text": "worden meer riolen en waterleidingen gemaakt",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Sloppenwijken veranderen langzaam in woonwijken.",
+                "rewritten_sentences": "Sloppenwijken worden langzaam betere woonwijken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c32",
+                        "reason_for_change": "'Veranderen' vervangen door eenvoudiger 'worden', voegt concreetheid toe aan 'betere woonwijken'.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Sloppenwijken veranderen langzaam in woonwijken.",
+                        "new_text": "Sloppenwijken worden langzaam betere woonwijken.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Brazili\u00eb is niet meer het armste ontwikkelingsland.",
+                "rewritten_sentences": "Brazili\u00eb is niet meer het armste land onder de ontwikkelingslanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c33",
+                        "reason_for_change": "Zin iets verduidelijkt door vollediger beschrijving.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Brazili\u00eb is niet meer het armste ontwikkelingsland.",
+                        "new_text": "Brazili\u00eb is niet meer het armste land onder de ontwikkelingslanden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het verschil tussen arm en rijk wordt er langzaam kleiner.",
+                "rewritten_sentences": "Het verschil tussen arm en rijk wordt kleiner.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c34",
+                        "reason_for_change": "'Er langzaam' weggelaten voor kortere en directere zin zonder veel betekenisverlies.",
+                        "start_word": 5,
+                        "end_word": 10,
+                        "original_text": "wordt er langzaam kleiner",
+                        "new_text": "wordt kleiner",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+                "rewritten_sentences": "Toch heeft Brazili\u00eb nog steeds kenmerken van ontwikkelingslanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c35",
+                        "reason_for_change": "'Een ontwikkelingsland' aangepast naar 'ontwikkelingslanden' om de zin algemener te maken en concreter waar mogelijk.",
+                        "start_word": 5,
+                        "end_word": 9,
+                        "original_text": "een ontwikkelingsland",
+                        "new_text": "ontwikkelingslanden",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informerend",
+        "full_text": "Pedro woont in S\u00e3o Paulo. S\u00e3o Paulo is de grootste stad van Brazili\u00eb. Hij woont in een arme wijk buiten de stad. Leven in zo\u2019n sloppenwijk is moeilijk. Pedro verzamelt lege blikjes die toeristen weggooien. Daarmee verdient hij ongeveer 1,25 dollar per dag. De meeste mensen in ontwikkelingslanden zijn arm. Door armoede zijn de leefomstandigheden slecht. Er is veel werkloosheid in ontwikkelingslanden. Daarom moeten kinderen ook werken. Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon water om te drinken. Er is \u00e9\u00e9n kraan waar duizend huishoudens water moeten halen. Pedro moet daarvoor ver lopen. In ontwikkelingslanden worden veel kinderen geboren. De bevolking groeit snel. Toch sterven er meer kinderen dan in ons land. De gezondheidszorg is de laatste jaren beter geworden. Daardoor sterven er ook minder kinderen in Brazili\u00eb. Pedro zijn ouders woonden vroeger op het platteland. Ze gingen naar de stad in de hoop op een baan en een beter leven. Maar ze kwamen in een sloppenwijk terecht. Iedereen bouwt daar zijn huis van hout, plastic en ander afval. In sloppenwijken zijn vaak geweld, criminaliteit en drugshandel. Pedro zijn vader vond niet-offici\u00eble baantjes, zoals schoenenpoetser, omdat hij geen werk kon vinden. Voor deze baantjes heb je geen geld en opleiding nodig. Deze banen noemen we de vluchtsector. De vluchtsector hoort bij de diensten. Pedro werkt ook in de vluchtsector. Hij verzamelt blikjes. Ontwikkelingslanden zijn arm. Maar ontwikkelingslanden verschillen veel van elkaar. Veel mensen in ontwikkelingslanden kunnen niet lezen of schrijven. Deze mensen zijn analfabeet. In Brazili\u00eb gaan veel kinderen naar school. Daarom is het analfabetisme daar lager dan in andere landen. In veel landen is er niet genoeg eten en schoon water om te drinken. In Brazili\u00eb wordt dat beter, vooral in steden. Daar worden meer riolen en waterleidingen gemaakt. Sloppenwijken worden langzaam betere woonwijken. Brazili\u00eb is niet meer het armste land onder de ontwikkelingslanden. Het verschil tussen arm en rijk wordt kleiner. Toch heeft Brazili\u00eb nog steeds kenmerken van ontwikkelingslanden.",
+        "prompt_id": "T20_mak",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Ontwikkelingslanden Pedro woont in S\u00e3o Paulo. S\u00e3o Paulo is de grootste stad van Brazili\u00eb. Hij woont in een arme wijk aan de stadsrand. In zo'n sloppenwijk is het leven zwaar. Pedro verzamelt lege blikjes die toeristen achterlaten. Zo verdient hij ongeveer $1,25 per dag. In veel ontwikkelingslanden zijn de meeste mensen arm. Door armoede zijn de leefomstandigheden slecht. Er is veel werkloosheid in ontwikkelingslanden. Daarom moeten kinderen ook werken. Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon drinkwater. Er is \u00e9\u00e9n kraan waaruit duizend huishoudens water moeten halen. Daarvoor moet Pedro ver lopen. In ontwikkelingslanden worden veel kinderen geboren. De bevolking groeit snel. Toch is de kindersterfte hoger dan bij ons. Gelukkig wordt de gezondheidszorg de laatste jaren beter. Daarom daalt de kindersterfte in Brazili\u00eb. Pedros ouders woonden vroeger op het platteland. Ze verhuisden naar de stad in de hoop op werk en een beter leven. Maar ze kwamen in een sloppenwijk terecht. Mensen bouwen hun huizen van hout, plastic en ander afval. In sloppenwijken is vaak geweld en criminaliteit. Ook is er drugshandel. Pedros vader vond geen officieel werk. Hij nam kleine baantjes, zoals schoenenpoetser. Voor zulke baantjes heb je geen geld of opleiding nodig. Je noemt dit de vluchtsector. De vluchtsector hoort bij de diensten. Ook Pedro werkt in de vluchtsector. Hij verzamelt blikjes. Ontwikkelingslanden zijn arm. Er zijn ook grote verschillen tussen ontwikkelingslanden. In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven. Ze zijn analfabeet. In Brazili\u00eb gaan veel kinderen naar school. Het aantal analfabeten is daar kleiner dan in andere ontwikkelingslanden. In veel landen is er te weinig voedsel en geen schoon drinkwater. In Brazili\u00eb wordt dat steeds beter, vooral in de steden. Daar worden meer riolering en waterleidingen gemaakt. Sloppenwijken veranderen langzaam in gewone woonwijken. Brazili\u00eb is niet meer het armste ontwikkelingsland. Het verschil tussen arm en rijk wordt kleiner. Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "25",
+    "GPT 5.1 mini/gpt-5-mini - sent": "13, 17, 31, 22, 36, 13, 16, 38, 22, 0, 21, 14, 30, 10, 16, 28, 53, 24, 52, 20, 31, 22, 35, 37, 9, 18, 50, 37, 37, 37, 37, 33, 23, 16, 39, 7, 36, 22, 14, 22, 25, 41, 30, 24",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Ontwikkelingslanden",
+                "rewritten_sentences": "Ontwikkelingslanden",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s1c1",
+                        "reason_for_change": "Titel is kort en duidelijk; geen aanpassing nodig, tekst behouden.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "Ontwikkelingslanden",
+                        "new_text": "Ontwikkelingslanden",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Pedro woont in S\u00e3o Paulo.",
+                "rewritten_sentences": "Pedro woont in S\u00e3o Paulo.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "Zin is al kort en duidelijk; behouden om informatie te bewaren.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Pedro woont in S\u00e3o Paulo.",
+                        "new_text": "Pedro woont in S\u00e3o Paulo.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is de grootste stad van Brazili\u00eb.",
+                "rewritten_sentences": "S\u00e3o Paulo is de grootste stad van Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3c1",
+                        "reason_for_change": "Vervangen van het aanwijzend voornaamwoord door de eigennaam maakt de zin directer en duidelijker.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Dat is de grootste stad van Brazili\u00eb.",
+                        "new_text": "S\u00e3o Paulo is de grootste stad van Brazili\u00eb.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij woont in een arme wijk aan de rand van de stad.",
+                "rewritten_sentences": "Hij woont in een arme wijk aan de stadsrand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "Kortere woordcombinatie ('stadsrand') vermindert complexiteit en maakt de zin compacter.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Hij woont in een arme wijk aan de rand van de stad.",
+                        "new_text": "Hij woont in een arme wijk aan de stadsrand.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het leven valt niet mee in zo'n sloppenwijk.",
+                "rewritten_sentences": "In zo'n sloppenwijk is het leven zwaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Herformulering met eenvoudig en concreet woord ('zwaar') voor leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Het leven valt niet mee in zo'n sloppenwijk.",
+                        "new_text": "In zo'n sloppenwijk is het leven zwaar.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Pedro verzamelt lege blikjes die toeristen achterlaten.",
+                "rewritten_sentences": "Pedro verzamelt lege blikjes die toeristen achterlaten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "Zin is duidelijk en kort; behouden om informatie te bewaren.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Pedro verzamelt lege blikjes die toeristen achterlaten.",
+                        "new_text": "Pedro verzamelt lege blikjes die toeristen achterlaten.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarmee verdient hij ongeveer $1,25 per dag.",
+                "rewritten_sentences": "Zo verdient hij ongeveer $1,25 per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "'Zo' is een korter verbindingswoord en houdt de zin eenvoudig.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Daarmee verdient hij ongeveer $1,25 per dag.",
+                        "new_text": "Zo verdient hij ongeveer $1,25 per dag.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste mensen in een ontwikkelingsland zijn arm.",
+                "rewritten_sentences": "In veel ontwikkelingslanden zijn de meeste mensen arm.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Formulering verduidelijkt dat het om veel landen gaat; behoud van informatie.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "De meeste mensen in een ontwikkelingsland zijn arm.",
+                        "new_text": "In veel ontwikkelingslanden zijn de meeste mensen arm.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Door de armoede zijn de levensomstandigheden er slecht.",
+                "rewritten_sentences": "Door armoede zijn de leefomstandigheden slecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "Kortere woordkeuze en weglaten van 'er' maakt de zin directer.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Door de armoede zijn de levensomstandigheden er slecht.",
+                        "new_text": "Door armoede zijn de leefomstandigheden slecht.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Omdat er veel werkloosheid is in ontwikkelingslanden, moeten kinderen ook werken.",
+                "rewritten_sentences": "Er is veel werkloosheid in ontwikkelingslanden. Daarom moeten kinderen ook werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "Gesplitst in twee korte zinnen om de afhankelijkheidslengte te verlagen en de reden-gevoldstructuur duidelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Omdat er veel werkloosheid is in ontwikkelingslanden, moeten kinderen ook werken.",
+                        "new_text": "Er is veel werkloosheid in ontwikkelingslanden. Daarom moeten kinderen ook werken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Pedro en zijn familie wonen in een sloppenwijk en hebben weinig eten en geen schoon drinkwater.",
+                "rewritten_sentences": "Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon drinkwater.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "De samengestelde zin is gesplitst in twee zinnen om elke boodschap kort en helder te houden.",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "Pedro en zijn familie wonen in een sloppenwijk en hebben weinig eten en geen schoon drinkwater.",
+                        "new_text": "Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon drinkwater.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is \u00e9\u00e9n kraan waaruit duizend huishoudens hun water moeten tappen.",
+                "rewritten_sentences": "Er is \u00e9\u00e9n kraan waaruit duizend huishoudens water moeten halen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "'tappen' vervangen door 'halen' is eenvoudiger taalgebruik; zin kort gehouden.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Er is \u00e9\u00e9n kraan waaruit duizend huishoudens hun water moeten tappen.",
+                        "new_text": "Er is \u00e9\u00e9n kraan waaruit duizend huishoudens water moeten halen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarvoor moet Pedro ver lopen.",
+                "rewritten_sentences": "Daarvoor moet Pedro ver lopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "Kort en duidelijk; geen wijziging nodig.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Daarvoor moet Pedro ver lopen.",
+                        "new_text": "Daarvoor moet Pedro ver lopen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In ontwikkelingslanden worden veel kinderen geboren en groeit de bevolking sterk.",
+                "rewritten_sentences": "In ontwikkelingslanden worden veel kinderen geboren. De bevolking groeit snel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Gesplitst in twee zinnen om informatiestroom te vereenvoudigen en afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "In ontwikkelingslanden worden veel kinderen geboren en groeit de bevolking sterk.",
+                        "new_text": "In ontwikkelingslanden worden veel kinderen geboren. De bevolking groeit snel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch is de kindersterfte er hoog in vergelijking met ons land.",
+                "rewritten_sentences": "Toch is de kindersterfte hoger dan bij ons.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Kortere vergelijking en eenvoudiger formulering voor duidelijkheid.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Toch is de kindersterfte er hoog in vergelijking met ons land.",
+                        "new_text": "Toch is de kindersterfte hoger dan bij ons.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Gelukkig wordt de gezondheidszorg er de laatste jaren beter.",
+                "rewritten_sentences": "Gelukkig wordt de gezondheidszorg de laatste jaren beter.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Verwijdering van 'er' maakt de zin directer en eenvoudiger.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Gelukkig wordt de gezondheidszorg er de laatste jaren beter.",
+                        "new_text": "Gelukkig wordt de gezondheidszorg de laatste jaren beter.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daardoor daalt de kindersterfte ook in Brazili\u00eb.",
+                "rewritten_sentences": "Daarom daalt de kindersterfte in Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "'Daardoor' vervangen door 'Daarom' maakt de zin iets directer en eenvoudiger.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Daardoor daalt de kindersterfte ook in Brazili\u00eb.",
+                        "new_text": "Daarom daalt de kindersterfte in Brazili\u00eb.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De ouders van Pedro woonden vroeger op het platteland.",
+                "rewritten_sentences": "Pedros ouders woonden vroeger op het platteland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "Bezitsvorm gecombineerd met naam ('Pedros ouders') maakt de zin korter.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "De ouders van Pedro woonden vroeger op het platteland.",
+                        "new_text": "Pedros ouders woonden vroeger op het platteland.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ze verhuisden naar de stad in de hoop op een baan, en dus een beter leven.",
+                "rewritten_sentences": "Ze verhuisden naar de stad in de hoop op werk en een beter leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "'baan' vervangen door 'werk' is korter; komma en verbindingswoord vereenvoudigd voor vlot lezen.",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "Ze verhuisden naar de stad in de hoop op een baan, en dus een beter leven.",
+                        "new_text": "Ze verhuisden naar de stad in de hoop op werk en een beter leven.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar ze kwamen terecht in een sloppenwijk.",
+                "rewritten_sentences": "Maar ze kwamen in een sloppenwijk terecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20c1",
+                        "reason_for_change": "Woordvolgorde licht aangepast om ritme en leesbaarheid te verbeteren.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Maar ze kwamen terecht in een sloppenwijk.",
+                        "new_text": "Maar ze kwamen in een sloppenwijk terecht.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Iedereen bouwt daar zijn eigen huis van hout, plastic en ander afvalmateriaal.",
+                "rewritten_sentences": "Mensen bouwen hun huizen van hout, plastic en ander afval.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21c1",
+                        "reason_for_change": "'Iedereen' vervangen door 'mensen' en 'huis' naar meervoud; woordkeuze iets eenvoudiger en compacter.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Iedereen bouwt daar zijn eigen huis van hout, plastic en ander afvalmateriaal.",
+                        "new_text": "Mensen bouwen hun huizen van hout, plastic en ander afval.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In sloppenwijken komen vaak geweld, criminaliteit en drugshandel voor.",
+                "rewritten_sentences": "In sloppenwijken is vaak geweld en criminaliteit. Ook is er drugshandel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s22c1",
+                        "reason_for_change": "Gesplitst in twee korte zinnen zodat elke probleemcategorie helder genoemd wordt en de zin minder complex is.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "In sloppenwijken komen vaak geweld, criminaliteit en drugshandel voor.",
+                        "new_text": "In sloppenwijken is vaak geweld en criminaliteit. Ook is er drugshandel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De vader van Pedro bedacht niet-offici\u00eble baantjes zoals schoenenpoetser, omdat hij geen werk kon vinden.",
+                "rewritten_sentences": "Pedros vader vond geen officieel werk. Hij nam kleine baantjes, zoals schoenenpoetser.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23c1",
+                        "reason_for_change": "Gesplitst en herschreven: korte zinnen beschrijven oorzaak en gevolg duidelijker.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "De vader van Pedro bedacht niet-offici\u00eble baantjes zoals schoenenpoetser, omdat hij geen werk kon vinden.",
+                        "new_text": "Pedros vader vond geen officieel werk. Hij nam kleine baantjes, zoals schoenenpoetser.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor zulke zelfbedachte baantjes heb je geen geld of opleiding nodig.",
+                "rewritten_sentences": "Voor zulke baantjes heb je geen geld of opleiding nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s24c1",
+                        "reason_for_change": "'zelfbedachte' weggelaten om de zin eenvoudiger te maken zonder informatieverlies.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Voor zulke zelfbedachte baantjes heb je geen geld of opleiding nodig.",
+                        "new_text": "Voor zulke baantjes heb je geen geld of opleiding nodig.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je noemt deze banen de vluchtsector.",
+                "rewritten_sentences": "Je noemt dit de vluchtsector.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s25c1",
+                        "reason_for_change": "'deze banen' vervangen door 'dit' korter en nog begrijpelijk.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Je noemt deze banen de vluchtsector.",
+                        "new_text": "Je noemt dit de vluchtsector.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De vluchtsector hoort bij de diensten.",
+                "rewritten_sentences": "De vluchtsector hoort bij de diensten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s26c1",
+                        "reason_for_change": "Zin is kort en duidelijk; behouden om informatie te bewaren.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "De vluchtsector hoort bij de diensten.",
+                        "new_text": "De vluchtsector hoort bij de diensten.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook Pedro werkt in de vluchtsector.",
+                "rewritten_sentences": "Ook Pedro werkt in de vluchtsector.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s27c1",
+                        "reason_for_change": "Kort en direct; blijft ongewijzigd om betekenis te behouden.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Ook Pedro werkt in de vluchtsector.",
+                        "new_text": "Ook Pedro werkt in de vluchtsector.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij verzamelt blikjes.",
+                "rewritten_sentences": "Hij verzamelt blikjes.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s28c1",
+                        "reason_for_change": "Zin is kort en duidelijk; behouden.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "Hij verzamelt blikjes.",
+                        "new_text": "Hij verzamelt blikjes.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ontwikkelingslanden zijn arm.",
+                "rewritten_sentences": "Ontwikkelingslanden zijn arm.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s29c1",
+                        "reason_for_change": "Korte feitelijke zin; geen wijziging nodig.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "Ontwikkelingslanden zijn arm.",
+                        "new_text": "Ontwikkelingslanden zijn arm.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar er zijn ook veel verschillen tussen ontwikkelingslanden.",
+                "rewritten_sentences": "Er zijn ook grote verschillen tussen ontwikkelingslanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s30c1",
+                        "reason_for_change": "'grote' vervangt 'veel' voor een directere formulering; zin blijft kort.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Maar er zijn ook veel verschillen tussen ontwikkelingslanden.",
+                        "new_text": "Er zijn ook grote verschillen tussen ontwikkelingslanden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven.",
+                "rewritten_sentences": "In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s31c1",
+                        "reason_for_change": "Zin is duidelijk; behouden om de kernboodschap te bewaren.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven.",
+                        "new_text": "In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zij zijn analfabeet.",
+                "rewritten_sentences": "Ze zijn analfabeet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s32c1",
+                        "reason_for_change": "'Zij' naar 'Ze' maakt de zin vlotter zonder inhoudsverlies.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "Zij zijn analfabeet.",
+                        "new_text": "Ze zijn analfabeet.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar in Brazili\u00eb gaan veel kinderen gewoon naar school en dus is daar het analfabetisme lager dan in andere ontwikkelingslanden.",
+                "rewritten_sentences": "In Brazili\u00eb gaan veel kinderen naar school. Het aantal analfabeten is daar kleiner dan in andere ontwikkelingslanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s33c1",
+                        "reason_for_change": "Gesplitst en herformuleerd om de lange zin te vereenvoudigen en 'analfabetisme' concreter te maken als 'aantal analfabeten'.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "Maar in Brazili\u00eb gaan veel kinderen gewoon naar school en dus is daar het analfabetisme lager dan in andere ontwikkelingslanden.",
+                        "new_text": "In Brazili\u00eb gaan veel kinderen naar school. Het aantal analfabeten is daar kleiner dan in andere ontwikkelingslanden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel landen is er niet genoeg voedsel en schoon drinkwater.",
+                "rewritten_sentences": "In veel landen is er te weinig voedsel en geen schoon drinkwater.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s34c1",
+                        "reason_for_change": "'te weinig' en 'geen' maken het probleem concreter en de zin directer.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "In veel landen is er niet genoeg voedsel en schoon drinkwater.",
+                        "new_text": "In veel landen is er te weinig voedsel en geen schoon drinkwater.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Brazili\u00eb wordt dat steeds beter, vooral in de steden.",
+                "rewritten_sentences": "In Brazili\u00eb wordt dat steeds beter, vooral in de steden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s35c1",
+                        "reason_for_change": "Zin is helder en kort; behouden om informatie te bewaren.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "In Brazili\u00eb wordt dat steeds beter, vooral in de steden.",
+                        "new_text": "In Brazili\u00eb wordt dat steeds beter, vooral in de steden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want daar worden steeds meer riolering en waterleidingen aangelegd.",
+                "rewritten_sentences": "Daar worden meer riolering en waterleidingen gemaakt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s36c1",
+                        "reason_for_change": "Eenvoudigere werkwoordsvorm en kortere constructie om de zin toegankelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Want daar worden steeds meer riolering en waterleidingen aangelegd.",
+                        "new_text": "Daar worden meer riolering en waterleidingen gemaakt.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Sloppenwijken veranderen langzaam in woonwijken.",
+                "rewritten_sentences": "Sloppenwijken veranderen langzaam in gewone woonwijken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s37c1",
+                        "reason_for_change": "Toevoeging van 'gewone' maakt het beeld concreter en behoudt de korte zin.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Sloppenwijken veranderen langzaam in woonwijken.",
+                        "new_text": "Sloppenwijken veranderen langzaam in gewone woonwijken.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Brazili\u00eb is niet meer het armste ontwikkelingsland.",
+                "rewritten_sentences": "Brazili\u00eb is niet meer het armste ontwikkelingsland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s38c1",
+                        "reason_for_change": "Korte feitelijke zin; behouden voor precisie.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Brazili\u00eb is niet meer het armste ontwikkelingsland.",
+                        "new_text": "Brazili\u00eb is niet meer het armste ontwikkelingsland.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het verschil tussen arm en rijk wordt er langzaam kleiner.",
+                "rewritten_sentences": "Het verschil tussen arm en rijk wordt kleiner.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s39c1",
+                        "reason_for_change": "'er' en 'langzaam' deels weggelaten voor compactheid en vlottere leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Het verschil tussen arm en rijk wordt er langzaam kleiner.",
+                        "new_text": "Het verschil tussen arm en rijk wordt kleiner.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+                "rewritten_sentences": "Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s40c1",
+                        "reason_for_change": "Slotzin duidelijk en beknopt; behouden om de hoofdboodschap te bewaren.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+                        "new_text": "Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatieve tekst",
+        "full_text": "Ontwikkelingslanden Pedro woont in S\u00e3o Paulo. S\u00e3o Paulo is de grootste stad van Brazili\u00eb. Hij woont in een arme wijk aan de stadsrand. In zo'n sloppenwijk is het leven zwaar. Pedro verzamelt lege blikjes die toeristen achterlaten. Zo verdient hij ongeveer $1,25 per dag. In veel ontwikkelingslanden zijn de meeste mensen arm. Door armoede zijn de leefomstandigheden slecht. Er is veel werkloosheid in ontwikkelingslanden. Daarom moeten kinderen ook werken. Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon drinkwater. Er is \u00e9\u00e9n kraan waaruit duizend huishoudens water moeten halen. Daarvoor moet Pedro ver lopen. In ontwikkelingslanden worden veel kinderen geboren. De bevolking groeit snel. Toch is de kindersterfte hoger dan bij ons. Gelukkig wordt de gezondheidszorg de laatste jaren beter. Daarom daalt de kindersterfte in Brazili\u00eb. Pedros ouders woonden vroeger op het platteland. Ze verhuisden naar de stad in de hoop op werk en een beter leven. Maar ze kwamen in een sloppenwijk terecht. Mensen bouwen hun huizen van hout, plastic en ander afval. In sloppenwijken is vaak geweld en criminaliteit. Ook is er drugshandel. Pedros vader vond geen officieel werk. Hij nam kleine baantjes, zoals schoenenpoetser. Voor zulke baantjes heb je geen geld of opleiding nodig. Je noemt dit de vluchtsector. De vluchtsector hoort bij de diensten. Ook Pedro werkt in de vluchtsector. Hij verzamelt blikjes. Ontwikkelingslanden zijn arm. Er zijn ook grote verschillen tussen ontwikkelingslanden. In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven. Ze zijn analfabeet. In Brazili\u00eb gaan veel kinderen naar school. Het aantal analfabeten is daar kleiner dan in andere ontwikkelingslanden. In veel landen is er te weinig voedsel en geen schoon drinkwater. In Brazili\u00eb wordt dat steeds beter, vooral in de steden. Daar worden meer riolering en waterleidingen gemaakt. Sloppenwijken veranderen langzaam in gewone woonwijken. Brazili\u00eb is niet meer het armste ontwikkelingsland. Het verschil tussen arm en rijk wordt kleiner. Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+        "prompt_id": "T20_mak",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "Arme landen Pedro woont in S\u00e3o Paulo. Dat is een grote stad in Brazili\u00eb. Hij woont in een arme buurt bij de stad. Het leven in die buurt is erg zwaar. Pedro raapt lege blikjes op. Hij verdient hiermee heel weinig geld. In arme landen zijn de meeste mensen arm. Het leven daar is erg slecht. Er is geen werk. Daarom moeten kinderen ook werken. Duizend gezinnen gebruiken samen \u00e9\u00e9n kraan voor water. Er worden veel baby's geboren. Veel kinderen gaan dood. De hulp van dokters wordt nu beter. Er is in die wijken veel ruzie en diefstal. De vader van Pedro poetst schoenen voor geld. Zij kunnen niet lezen. In Brazili\u00eb gaan kinderen naar school. Daar kunnen meer mensen lezen. Er komen meer buizen voor water en poep. Arme wijken worden langzaam gewone wijken.",
+    "Gemini/gemini-3-flash-preview - lint": "16",
+    "Gemini/gemini-3-flash-preview - sent": "21, 4, 13, 19, 41, 20, 13, 0, 0, 32, 18, 0, 18, 44, 22, 6, 0, 20, 31",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Ontwikkelingslanden",
+                "rewritten_sentences": "Arme landen",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Het woord 'ontwikkelingslanden' is minder frequent en minder concreet dan 'arme landen'.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Ontwikkelingslanden",
+                        "new_text": "Arme landen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Pedro woont in S\u00e3o Paulo. Dat is de grootste stad van Brazili\u00eb.",
+                "rewritten_sentences": "Pedro woont in S\u00e3o Paulo. Dat is een grote stad in Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Versimpeling van de beschrijving door minder contentwoorden per deelzin.",
+                        "start_word": 8,
+                        "end_word": 8,
+                        "original_text": "grootste",
+                        "new_text": "grote",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij woont in een arme wijk aan de rand van de stad. Het leven valt niet mee in zo'n sloppenwijk.",
+                "rewritten_sentences": "Hij woont in een arme buurt bij de stad. Het leven in die buurt is erg zwaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Sloppenwijk is een complexer woord. Buurt is concreter en frequenter.",
+                        "start_word": 18,
+                        "end_word": 18,
+                        "original_text": "sloppenwijk",
+                        "new_text": "buurt",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Vervanging van de abstracte uitdrukking door een directer en concreter adjectief.",
+                        "start_word": 13,
+                        "end_word": 16,
+                        "original_text": "valt niet mee",
+                        "new_text": "is erg zwaar",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Pedro verzamelt lege blikjes die toeristen achterlaten. Daarmee verdient hij ongeveer $1,25 per dag.",
+                "rewritten_sentences": "Pedro raapt lege blikjes op. Hij verdient hiermee heel weinig geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Verwijdering van de bijvoeglijke bijzin om de syntactische afhankelijkheidslengte te verlagen.",
+                        "start_word": 4,
+                        "end_word": 6,
+                        "original_text": "die toeristen achterlaten",
+                        "new_text": "op",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste mensen in een ontwikkelingsland zijn arm. Door de armoede zijn de levensomstandigheden er slecht.",
+                "rewritten_sentences": "In arme landen zijn de meeste mensen arm. Het leven daar is erg slecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Het woord 'levensomstandigheden' is erg abstract en lang; vervangen door een concreter woord.",
+                        "start_word": 14,
+                        "end_word": 14,
+                        "original_text": "levensomstandigheden",
+                        "new_text": "leven",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Omdat er veel werkloosheid is in ontwikkelingslanden, moeten kinderen ook werken.",
+                "rewritten_sentences": "Er is geen werk. Daarom moeten kinderen ook werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Splitsen van de zin om de syntactische afhankelijkheidslengte en contentwoorden per bijzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Omdat er veel werkloosheid is in ontwikkelingslanden",
+                        "new_text": "Er is geen werk. Daarom",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is \u00e9\u00e9n kraan waaruit duizend huishoudens hun water moeten tappen.",
+                "rewritten_sentences": "Duizend gezinnen gebruiken samen \u00e9\u00e9n kraan voor water.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Vervanging van 'huishoudens' door het concretere 'gezinnen'.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "huishoudens",
+                        "new_text": "gezinnen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In ontwikkelingslanden worden veel kinderen geboren en groeit de bevolking sterk. Toch is de kindersterfte er hoog in vergelijking met ons land. Gelukkig wordt de gezondheidszorg er de laatste jaren beter.",
+                "rewritten_sentences": "Er worden veel baby's geboren. Veel kinderen gaan dood. De hulp van dokters wordt nu beter.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vervanging van abstracte termen als 'bevolking' en 'gezondheidszorg' door concrete woorden als 'baby's' en 'dokters'.",
+                        "start_word": 30,
+                        "end_word": 30,
+                        "original_text": "gezondheidszorg",
+                        "new_text": "hulp van dokters",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In sloppenwijken komen vaak geweld, criminaliteit en drugshandel voor. De vader van Pedro bedacht niet-offici\u00eble baantjes zoals schoenenpoetser, omdat hij geen werk kon vinden.",
+                "rewritten_sentences": "Er is in die wijken veel ruzie en diefstal. De vader van Pedro poetst schoenen voor geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Complexe woorden zoals criminaliteit en drugshandel vervangen door frequentere en concretere woorden zoals ruzie en diefstal.",
+                        "start_word": 5,
+                        "end_word": 8,
+                        "original_text": "geweld, criminaliteit en drugshandel",
+                        "new_text": "ruzie en diefstal",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zij zijn analfabeet. Maar in Brazili\u00eb gaan veel kinderen gewoon naar school en dus is daar het analfabetisme lager dan in andere ontwikkelingslanden.",
+                "rewritten_sentences": "Zij kunnen niet lezen. In Brazili\u00eb gaan kinderen naar school. Daar kunnen meer mensen lezen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Vervanging van het abstracte 'analfabetisme' door het concrete werkwoord 'lezen'.",
+                        "start_word": 16,
+                        "end_word": 16,
+                        "original_text": "analfabetisme",
+                        "new_text": "mensen lezen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want daar worden steeds meer riolering en waterleidingen aangelegd. Sloppenwijken veranderen langzaam in woonwijken.",
+                "rewritten_sentences": "Er komen meer buizen voor water en poep. Arme wijken worden langzaam gewone wijken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Riolering en waterleidingen zijn complexer. Buizen, water en poep zijn zeer concreet.",
+                        "start_word": 6,
+                        "end_word": 8,
+                        "original_text": "riolering en waterleidingen",
+                        "new_text": "buizen voor water en poep",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Educatieve tekst",
+        "full_text": "Arme landen Pedro woont in S\u00e3o Paulo. Dat is een grote stad in Brazili\u00eb. Hij woont in een arme buurt bij de stad. Het leven in die buurt is erg zwaar. Pedro raapt lege blikjes op. Hij verdient hiermee heel weinig geld. In arme landen zijn de meeste mensen arm. Het leven daar is erg slecht. Er is geen werk. Daarom moeten kinderen ook werken. Duizend gezinnen gebruiken samen \u00e9\u00e9n kraan voor water. Er worden veel baby's geboren. Veel kinderen gaan dood. De hulp van dokters wordt nu beter. Er is in die wijken veel ruzie en diefstal. De vader van Pedro poetst schoenen voor geld. Zij kunnen niet lezen. In Brazili\u00eb gaan kinderen naar school. Daar kunnen meer mensen lezen. Er komen meer buizen voor water en poep. Arme wijken worden langzaam gewone wijken.",
+        "prompt_id": "T20_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Pedro leeft in S\u00e3o Paulo, de grootste stad van Brazili\u00eb. Hij woont in een arm deel van de stad, aan de rand. Het leven in zo'n wijk is moeilijk. Pedro zoekt lege blikjes van toeristen. Daarmee verdient hij ongeveer 1,25 dollar per dag. Veel mensen in ontwikkelingslanden zijn arm. Daardoor is het leven er moeilijk. In ontwikkelingslanden is er veel werkloosheid. Daarom moeten kinderen ook werken. Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon water. Er is maar \u00e9\u00e9n kraan voor duizend huizen. Pedro moet ver lopen om water te halen. In ontwikkelingslanden worden veel baby's geboren. De bevolking groeit snel. Toch sterven er veel kinderen. Gelukkig wordt de zorg voor kinderen steeds beter. Pedro's ouders woonden vroeger op het platteland. Ze verhuisden naar de stad voor werk en een beter leven. Maar ze belandden in een sloppenwijk. Iedereen bouwt daar zelf een huis van hout, plastic en afval. In sloppenwijken is er vaak geweld, criminaliteit en drugs. Pedro's vader vond kleine baantjes, zoals schoenenschijnen, omdat hij geen werk had. Voor zulke baantjes heb je geen geld of opleiding nodig. Deze baantjes heten vluchtsector. Deze baantjes zijn dienstverlening. Pedro werkt ook in de vluchtsector. Hij zoekt blikjes op. Ontwikkelingslanden zijn arm. Maar er zijn grote verschillen tussen deze landen. In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven. Dat noemen we analfabetisme. Maar in Brazili\u00eb gaan veel kinderen naar school. Daardoor is analfabetisme er minder dan in andere ontwikkelingslanden. In veel landen is er te weinig eten en schoon water. In Brazili\u00eb wordt dat steeds beter, vooral in steden. Daar worden steeds meer riolering en waterleidingen gebouwd. Sloppenwijken worden langzaam betere wijken. Brazili\u00eb is niet langer het armste land. Het verschil tussen arm en rijk wordt kleiner. Brazili\u00eb is nog steeds een ontwikkelingsland.",
+    "Mistral/ministral-14b-latest - lint": "25",
+    "Mistral/ministral-14b-latest - sent": "21, 40, 22, 35, 11, 17, 23, 0, 21, 16, 14, 15, 24, 28, 0, 18, 20, 32, 40, 30, 38, 40, 37, 59, 64, 38, 36, 14, 16, 45, 7, 38, 13, 17, 36, 29, 38, 29, 14",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Pedro woont in S\u00e3o Paulo. Dat is de grootste stad van Brazili\u00eb. Hij woont in een arme wijk aan de rand van de stad.",
+                "rewritten_sentences": "Pedro leeft in S\u00e3o Paulo, de grootste stad van Brazili\u00eb. Hij woont in een arm deel van de stad, aan de rand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Verhoog woordfrequentie door herhaling van 'stad' te vermijden en zinnen korter te maken.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Pedro woont in S\u00e3o Paulo. Dat is de grootste stad van Brazili\u00eb.",
+                        "new_text": "Pedro leeft in S\u00e3o Paulo, de grootste stad van Brazili\u00eb.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Verduidelijk en verkort de zin om de leesbaarheid te verbeteren.",
+                        "start_word": 13,
+                        "end_word": 21,
+                        "original_text": "Hij woont in een arme wijk aan de rand van de stad.",
+                        "new_text": "Hij woont in een arm deel van de stad, aan de rand.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het leven valt niet mee in zo'n sloppenwijk.",
+                "rewritten_sentences": "Het leven in zo'n wijk is moeilijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vereenvoudigde formulering om de zin korter en duidelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Het leven valt niet mee",
+                        "new_text": "Het leven is moeilijk",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Pedro verzamelt lege blikjes die toeristen achterlaten. Daarmee verdient hij ongeveer $1,25 per dag.",
+                "rewritten_sentences": "Pedro zoekt lege blikjes van toeristen. Daarmee verdient hij ongeveer 1,25 dollar per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Vereenvoudigde woordkeuze en verwijdering van onnodige woorden om de zin korter te maken.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Pedro verzamelt lege blikjes die toeristen achterlaten.",
+                        "new_text": "Pedro zoekt lege blikjes van toeristen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vereenvoudigde weergave van het geldbedrag.",
+                        "start_word": 9,
+                        "end_word": 15,
+                        "original_text": "Daarmee verdient hij ongeveer $1,25 per dag.",
+                        "new_text": "Daarmee verdient hij ongeveer 1,25 dollar per dag.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste mensen in een ontwikkelingsland zijn arm. Door de armoede zijn de levensomstandigheden er slecht.",
+                "rewritten_sentences": "Veel mensen in ontwikkelingslanden zijn arm. Daardoor is het leven er moeilijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Vereenvoudigde formulering om de zin korter en duidelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "De meeste mensen in een ontwikkelingsland zijn arm.",
+                        "new_text": "Veel mensen in ontwikkelingslanden zijn arm.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vereenvoudigde formulering om de zin korter en duidelijker te maken.",
+                        "start_word": 8,
+                        "end_word": 14,
+                        "original_text": "Door de armoede zijn de levensomstandigheden er slecht.",
+                        "new_text": "Daardoor is het leven er moeilijk.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Omdat er veel werkloosheid is in ontwikkelingslanden, moeten kinderen ook werken.",
+                "rewritten_sentences": "In ontwikkelingslanden is er veel werkloosheid. Daarom moeten kinderen ook werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Zin gesplitst om de afhankelijkheidslengte te verkorten.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Omdat er veel werkloosheid is in ontwikkelingslanden,",
+                        "new_text": "In ontwikkelingslanden is er veel werkloosheid.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Pedro en zijn familie wonen in een sloppenwijk en hebben weinig eten en geen schoon drinkwater.",
+                "rewritten_sentences": "Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon water.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vereenvoudigde formulering door 'drink' te verwijderen en de zin te splitsen.",
+                        "start_word": 15,
+                        "end_word": 20,
+                        "original_text": "en geen schoon drinkwater",
+                        "new_text": "en geen schoon water",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is \u00e9\u00e9n kraan waaruit duizend huishoudens hun water moeten tappen. Daarvoor moet Pedro ver lopen.",
+                "rewritten_sentences": "Er is maar \u00e9\u00e9n kraan voor duizend huizen. Pedro moet ver lopen om water te halen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Vereenvoudigde formulering en splitsing van de zin om de leesbaarheid te verbeteren.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Er is \u00e9\u00e9n kraan waaruit duizend huishoudens hun water moeten tappen.",
+                        "new_text": "Er is maar \u00e9\u00e9n kraan voor duizend huizen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Vereenvoudigde formulering om de zin korter en duidelijker te maken.",
+                        "start_word": 13,
+                        "end_word": 19,
+                        "original_text": "Daarvoor moet Pedro ver lopen.",
+                        "new_text": "Pedro moet ver lopen om water te halen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In ontwikkelingslanden worden veel kinderen geboren en groeit de bevolking sterk.",
+                "rewritten_sentences": "In ontwikkelingslanden worden veel baby's geboren. De bevolking groeit snel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Zin gesplitst om de afhankelijkheidslengte te verkorten en concrete woorden te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "In ontwikkelingslanden worden veel kinderen geboren en",
+                        "new_text": "In ontwikkelingslanden worden veel baby's geboren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 12,
+                        "end_word": 17,
+                        "original_text": "groeit de bevolking sterk",
+                        "new_text": "De bevolking groeit snel",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch is de kindersterfte er hoog in vergelijking met ons land. Gelukkig wordt de gezondheidszorg er de laatste jaren beter.",
+                "rewritten_sentences": "Toch sterven er veel kinderen. Gelukkig wordt de zorg voor kinderen steeds beter.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Vereenvoudigde formulering om de zin korter en duidelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Toch is de kindersterfte er hoog in vergelijking met ons land.",
+                        "new_text": "Toch sterven er veel kinderen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vereenvoudigde formulering om de zin korter en duidelijker te maken.",
+                        "start_word": 11,
+                        "end_word": 19,
+                        "original_text": "Gelukkig wordt de gezondheidszorg er de laatste jaren beter.",
+                        "new_text": "Gelukkig wordt de zorg voor kinderen steeds beter.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De ouders van Pedro woonden vroeger op het platteland. Ze verhuisden naar de stad in de hoop op een baan, en dus een beter leven.",
+                "rewritten_sentences": "Pedro's ouders woonden vroeger op het platteland. Ze verhuisden naar de stad voor werk en een beter leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Vereenvoudigde formulering en verwijdering van herhaling.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "De ouders van Pedro woonden vroeger op het platteland.",
+                        "new_text": "Pedro's ouders woonden vroeger op het platteland.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Vereenvoudigde formulering om de zin korter en duidelijker te maken.",
+                        "start_word": 11,
+                        "end_word": 21,
+                        "original_text": "Ze verhuisden naar de stad in de hoop op een baan, en dus een beter leven.",
+                        "new_text": "Ze verhuisden naar de stad voor werk en een beter leven.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar ze kwamen terecht in een sloppenwijk.",
+                "rewritten_sentences": "Maar ze belandden in een sloppenwijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Maar ze kwamen terecht in een sloppenwijk.",
+                        "new_text": "Maar ze belandden in een sloppenwijk.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Iedereen bouwt daar zijn eigen huis van hout, plastic en ander afvalmateriaal.",
+                "rewritten_sentences": "Iedereen bouwt daar zelf een huis van hout, plastic en afval.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Vereenvoudigde formulering door 'ander' en 'materiaal' te verwijderen.",
+                        "start_word": 11,
+                        "end_word": 17,
+                        "original_text": "ander afvalmateriaal",
+                        "new_text": "afval",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In sloppenwijken komen vaak geweld, criminaliteit en drugshandel voor.",
+                "rewritten_sentences": "In sloppenwijken is er vaak geweld, criminaliteit en drugs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 15,
+                        "end_word": 20,
+                        "original_text": "drugshandel voor",
+                        "new_text": "drugs",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De vader van Pedro bedacht niet-offici\u00eble baantjes zoals schoenenpoetser, omdat hij geen werk kon vinden.",
+                "rewritten_sentences": "Pedro's vader vond kleine baantjes, zoals schoenenschijnen, omdat hij geen werk had.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Vereenvoudigde formulering en concrete woordkeuze.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "De vader van Pedro bedacht niet-offici\u00eble baantjes",
+                        "new_text": "Pedro's vader vond kleine baantjes",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 11,
+                        "end_word": 15,
+                        "original_text": "zoals schoenenpoetser",
+                        "new_text": "zoals schoenenschijnen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 16,
+                        "end_word": 23,
+                        "original_text": "omdat hij geen werk kon vinden",
+                        "new_text": "omdat hij geen werk had",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor zulke zelfbedachte baantjes heb je geen geld of opleiding nodig. Je noemt deze banen de vluchtsector.",
+                "rewritten_sentences": "Voor zulke baantjes heb je geen geld of opleiding nodig. Deze baantjes heten vluchtsector.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Voor zulke zelfbedachte baantjes",
+                        "new_text": "Voor zulke baantjes",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 21,
+                        "end_word": 27,
+                        "original_text": "Je noemt deze banen de vluchtsector",
+                        "new_text": "Deze baantjes heten vluchtsector",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De vluchtsector hoort bij de diensten.",
+                "rewritten_sentences": "Deze baantjes zijn dienstverlening.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "Vereenvoudigde formulering om de zin korter en duidelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "De vluchtsector hoort bij de diensten.",
+                        "new_text": "Deze baantjes zijn dienstverlening.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook Pedro werkt in de vluchtsector. Hij verzamelt blikjes.",
+                "rewritten_sentences": "Pedro werkt ook in de vluchtsector. Hij zoekt blikjes op.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "27",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 13,
+                        "end_word": 16,
+                        "original_text": "Hij verzamelt blikjes",
+                        "new_text": "Hij zoekt blikjes op",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ontwikkelingslanden zijn arm. Maar er zijn ook veel verschillen tussen ontwikkelingslanden.",
+                "rewritten_sentences": "Ontwikkelingslanden zijn arm. Maar er zijn grote verschillen tussen deze landen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "28",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 13,
+                        "end_word": 19,
+                        "original_text": "tussen ontwikkelingslanden",
+                        "new_text": "tussen deze landen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven. Zij zijn analfabeet.",
+                "rewritten_sentences": "In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven. Dat noemen we analfabetisme.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "29",
+                        "reason_for_change": "Vereenvoudigde formulering en uitleg van de term.",
+                        "start_word": 13,
+                        "end_word": 18,
+                        "original_text": "Zij zijn analfabeet",
+                        "new_text": "Dat noemen we analfabetisme",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar in Brazili\u00eb gaan veel kinderen gewoon naar school en dus is daar het analfabetisme lager dan in andere ontwikkelingslanden.",
+                "rewritten_sentences": "Maar in Brazili\u00eb gaan veel kinderen naar school. Daardoor is analfabetisme er minder dan in andere ontwikkelingslanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "30",
+                        "reason_for_change": "Vereenvoudigde formulering en zin gesplitst.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Maar in Brazili\u00eb gaan veel kinderen gewoon naar school en dus is daar het analfabetisme lager dan in andere ontwikkelingslanden.",
+                        "new_text": "Maar in Brazili\u00eb gaan veel kinderen naar school. Daardoor is analfabetisme er minder dan in andere ontwikkelingslanden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel landen is er niet genoeg voedsel en schoon drinkwater. In Brazili\u00eb wordt dat steeds beter, vooral in de steden.",
+                "rewritten_sentences": "In veel landen is er te weinig eten en schoon water. In Brazili\u00eb wordt dat steeds beter, vooral in steden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "31",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 5,
+                        "end_word": 8,
+                        "original_text": "niet genoeg voedsel",
+                        "new_text": "te weinig eten",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "32",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 17,
+                        "end_word": 19,
+                        "original_text": "in de steden",
+                        "new_text": "in steden",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want daar worden steeds meer riolering en waterleidingen aangelegd.",
+                "rewritten_sentences": "Daar worden steeds meer riolering en waterleidingen gebouwd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "33",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 10,
+                        "end_word": 14,
+                        "original_text": "worden aangelegd",
+                        "new_text": "worden gebouwd",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Sloppenwijken veranderen langzaam in woonwijken.",
+                "rewritten_sentences": "Sloppenwijken worden langzaam betere wijken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "34",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Sloppenwijken veranderen langzaam in woonwijken.",
+                        "new_text": "Sloppenwijken worden langzaam betere wijken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Brazili\u00eb is niet meer het armste ontwikkelingsland. Het verschil tussen arm en rijk wordt er langzaam kleiner.",
+                "rewritten_sentences": "Brazili\u00eb is niet langer het armste land. Het verschil tussen arm en rijk wordt kleiner.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "35",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 10,
+                        "end_word": 18,
+                        "original_text": "het armste ontwikkelingsland",
+                        "new_text": "het armste land",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "36",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 20,
+                        "end_word": 27,
+                        "original_text": "langzaam kleiner",
+                        "new_text": "kleiner",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+                "rewritten_sentences": "Brazili\u00eb is nog steeds een ontwikkelingsland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "37",
+                        "reason_for_change": "Vereenvoudigde formulering.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "Toch heeft Brazili\u00eb nog steeds kenmerken van een ontwikkelingsland.",
+                        "new_text": "Brazili\u00eb is nog steeds een ontwikkelingsland.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst over ontwikkelingslanden",
+        "full_text": "Pedro leeft in S\u00e3o Paulo, de grootste stad van Brazili\u00eb. Hij woont in een arm deel van de stad, aan de rand. Het leven in zo'n wijk is moeilijk. Pedro zoekt lege blikjes van toeristen. Daarmee verdient hij ongeveer 1,25 dollar per dag. Veel mensen in ontwikkelingslanden zijn arm. Daardoor is het leven er moeilijk. In ontwikkelingslanden is er veel werkloosheid. Daarom moeten kinderen ook werken. Pedro en zijn familie wonen in een sloppenwijk. Ze hebben weinig eten en geen schoon water. Er is maar \u00e9\u00e9n kraan voor duizend huizen. Pedro moet ver lopen om water te halen. In ontwikkelingslanden worden veel baby's geboren. De bevolking groeit snel. Toch sterven er veel kinderen. Gelukkig wordt de zorg voor kinderen steeds beter. Pedro's ouders woonden vroeger op het platteland. Ze verhuisden naar de stad voor werk en een beter leven. Maar ze belandden in een sloppenwijk. Iedereen bouwt daar zelf een huis van hout, plastic en afval. In sloppenwijken is er vaak geweld, criminaliteit en drugs. Pedro's vader vond kleine baantjes, zoals schoenenschijnen, omdat hij geen werk had. Voor zulke baantjes heb je geen geld of opleiding nodig. Deze baantjes heten vluchtsector. Deze baantjes zijn dienstverlening. Pedro werkt ook in de vluchtsector. Hij zoekt blikjes op. Ontwikkelingslanden zijn arm. Maar er zijn grote verschillen tussen deze landen. In veel ontwikkelingslanden kunnen mensen niet lezen of schrijven. Dat noemen we analfabetisme. Maar in Brazili\u00eb gaan veel kinderen naar school. Daardoor is analfabetisme er minder dan in andere ontwikkelingslanden. In veel landen is er te weinig eten en schoon water. In Brazili\u00eb wordt dat steeds beter, vooral in steden. Daar worden steeds meer riolering en waterleidingen gebouwd. Sloppenwijken worden langzaam betere wijken. Brazili\u00eb is niet langer het armste land. Het verschil tussen arm en rijk wordt kleiner. Brazili\u00eb is nog steeds een ontwikkelingsland.",
+        "prompt_id": "T20_mak",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-24 19:57:54.489861"
+}

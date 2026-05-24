@@ -1,0 +1,1468 @@
+{
+    "prompt_id": "T09_mak",
+    "Org - text": "Inkomen en sociale zekerheid\n\nLars is bouwkundig tekenaar bij Bouwvast BV. Hij is bang dat hij zijn baan kwijtraakt, want er is erg weinig werk te doen. Lars maakt zich meer zorgen over zijn baan dan over zijn inkomen. Toch raakt hij met zijn baan ook zijn loon kwijt.\n\nNiet iedereen verdient een inkomen. Veel mensen leven van het inkomen van hun partner of van hun ouders. Er zijn echter ook mensen zonder inkomen, die niet worden onderhouden door hun ouders en geen partner met een baan hebben. Ook zij hebben recht op geld, vindt de Nederlandse overheid. Daarom geeft de overheid hun een inkomen. Dat heet sociale zekerheid.\n\nIedereen die een inkomen heeft, moet sociale premies en belasting betalen. Dat staat in een serie belastingwetten en sociale wetten. De overheid gebruikt de sociale premies en een deel van het belastinggeld voor de sociale zekerheid. Mensen met een inkomen betalen dus voor mensen zonder inkomen.\n\nIn de sociale wetten staat hoe hoog een uitkering is. Zo staat in de Werkloosheidswet bijvoorbeeld dat de WW-uitkering 70% is van het laatst verdiende loon. En in de Bijstandswet staat dat je inkomen wordt aangevuld tot het sociaal minimum, een bedrag waarvan je net kunt rondkomen. De hoogte van het sociaal minimum hangt af van de samenstelling van het gezin. Zo is voor alleenstaanden het sociaal minimum lager dan voor alleenstaande ouders.\n\nIn de sociale wetten staat ook wie er voor een uitkering in aanmerking komen. In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering. Voor andere groepen werklozen is er de bijstand. Maar dat krijgen ze alleen als ze niet te veel spaargeld of een partner met voldoende inkomen hebben. Dat staat in de Bijstandswet.\n\nIn de sociale wetten is ten slotte geregeld hoe lang een uitkering mag duren. Zo duurt de WW-uitkering enkele maanden tot hooguit een paar jaar. Bijstand duurt op zijn langst totdat iemand 67 jaar is.",
+    "Org - lint": "37",
+    "Org - sent": "58, 35, 21, 41, 28, 19, 43, 28, 33, 33, 47, 41, 56, 31, 53, 38, 54, 55, 42, 43, 47, 34, 12, 49, 26, 35, 37",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Lars werkt als bouwkundig tekenaar bij Bouwvast BV. Hij is bang zijn baan te verliezen, omdat er weinig werk is. Lars maakt zich meer zorgen over zijn baan dan over het geld dat hij verdient. Als hij zijn baan verliest, verliest hij ook zijn loon. Niet iedereen verdient geld. Veel mensen leven van het geld van hun partner of ouders. Er zijn ook mensen zonder geld, die niet door hun ouders worden geholpen en geen werkende partner hebben. De Nederlandse overheid vindt dat zij ook recht op geld hebben. Daarom geeft de overheid hen geld. Dit noemen we sociale zekerheid. Iedereen met geld moet sociale premies en belasting betalen. Dat staat in verschillende belasting- en sociale wetten. De overheid gebruikt de sociale premies en een deel van de belasting voor sociale zekerheid. Mensen met geld betalen voor mensen zonder geld. De sociale wetten vertellen hoeveel een uitkering is. In de Werkloosheidswet staat dat de WW-uitkering 70% is van het laatste loon. In de Bijstandswet staat dat je geld wordt aangevuld tot het sociaal minimum, het bedrag dat je net genoeg hebt om rond te komen. Hoe hoog het sociaal minimum is, hangt af van het gezin. Voor alleenstaanden is het sociaal minimum lager dan voor alleenstaande ouders. De sociale wetten zeggen ook wie een uitkering kunnen krijgen. In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering. Andere werklozen krijgen bijstand. Ze krijgen het alleen als ze niet veel spaargeld hebben en geen partner met genoeg geld. Dat staat in de Bijstandswet. De sociale wetten zeggen ook hoe lang een uitkering mag duren. De WW-uitkering duurt enkele maanden tot een paar jaar. Bijstand duurt meestal tot iemand 67 jaar is.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "31",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "60, 20, 31, 34, 18, 14, 24, 33, 26, 37, 51, 41, 58, 36, 33, 33, 41, 51, 31, 43, 36, 28, 12, 35, 30, 25",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Lars is bouwkundig tekenaar bij Bouwvast BV.",
+                "rewritten_sentences": "Lars werkt als bouwkundig tekenaar bij Bouwvast BV.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vervangen van 'is' door het actievere 'werkt als' maakt de zin concreter en eenvoudiger.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "is",
+                        "new_text": "werkt als",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij is bang dat hij zijn baan kwijtraakt, want er is erg weinig werk te doen.",
+                "rewritten_sentences": "Hij is bang zijn baan te verliezen, omdat er weinig werk is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Kortere zinsbouw en eenvoudiger formulering verminderen de afhankelijkheidslengte.",
+                        "start_word": 3,
+                        "end_word": 8,
+                        "original_text": "dat hij zijn baan kwijtraakt, want er is erg weinig werk te doen",
+                        "new_text": "zijn baan te verliezen, omdat er weinig werk is",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Lars maakt zich meer zorgen over zijn baan dan over zijn inkomen.",
+                "rewritten_sentences": "Lars maakt zich meer zorgen over zijn baan dan over het geld dat hij verdient.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "'Inkomen' vervangen door concreter 'het geld dat hij verdient'.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "inkomen",
+                        "new_text": "het geld dat hij verdient",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch raakt hij met zijn baan ook zijn loon kwijt.",
+                "rewritten_sentences": "Als hij zijn baan verliest, verliest hij ook zijn loon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Herstructureren voor duidelijkheid en concreetheid, vermijden abstracte formulering.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Toch raakt hij met zijn baan ook zijn loon kwijt",
+                        "new_text": "Als hij zijn baan verliest, verliest hij ook zijn loon",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet iedereen verdient een inkomen.",
+                "rewritten_sentences": "Niet iedereen verdient geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vervanging van 'inkomen' door concreter 'geld' om de tekst eenvoudiger te maken.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "inkomen",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Veel mensen leven van het inkomen van hun partner of van hun ouders.",
+                "rewritten_sentences": "Veel mensen leven van het geld van hun partner of ouders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "'Inkomen' vervangen door het concretere 'geld'.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "inkomen",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zijn echter ook mensen zonder inkomen, die niet worden onderhouden door hun ouders en geen partner met een baan hebben.",
+                "rewritten_sentences": "Er zijn ook mensen zonder geld, die niet door hun ouders worden geholpen en geen werkende partner hebben.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vervangen van 'inkomen' door 'geld' en vereenvoudigen van zinsstructuur.",
+                        "start_word": 5,
+                        "end_word": 21,
+                        "original_text": "zonder inkomen, die niet worden onderhouden door hun ouders en geen partner met een baan hebben",
+                        "new_text": "zonder geld, die niet door hun ouders worden geholpen en geen werkende partner hebben",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook zij hebben recht op geld, vindt de Nederlandse overheid.",
+                "rewritten_sentences": "De Nederlandse overheid vindt dat zij ook recht op geld hebben.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Omkering van de zin maakt de structuur eenvoudiger en directer.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Ook zij hebben recht op geld, vindt de Nederlandse overheid",
+                        "new_text": "De Nederlandse overheid vindt dat zij ook recht op geld hebben",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom geeft de overheid hun een inkomen.",
+                "rewritten_sentences": "Daarom geeft de overheid hen geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vervangen van 'inkomen' door 'geld' concreter en eenvoudiger maken.",
+                        "start_word": 4,
+                        "end_word": 6,
+                        "original_text": "hun een inkomen",
+                        "new_text": "hen geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat heet sociale zekerheid.",
+                "rewritten_sentences": "Dit noemen we sociale zekerheid.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Gebruik van 'Dit noemen we' in plaats van 'Dat heet' voor eenvoud en leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 2,
+                        "original_text": "Dat heet sociale zekerheid",
+                        "new_text": "Dit noemen we sociale zekerheid",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Iedereen die een inkomen heeft, moet sociale premies en belasting betalen.",
+                "rewritten_sentences": "Iedereen met geld moet sociale premies en belasting betalen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "'Een inkomen hebben' vervangen door 'met geld' om concreter en simpel te zijn.",
+                        "start_word": 3,
+                        "end_word": 6,
+                        "original_text": "een inkomen heeft, moet",
+                        "new_text": "met geld moet",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat staat in een serie belastingwetten en sociale wetten.",
+                "rewritten_sentences": "Dat staat in verschillende belasting- en sociale wetten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vereenvoudiging en samenvoeging van termen voor betere leesbaarheid.",
+                        "start_word": 3,
+                        "end_word": 7,
+                        "original_text": "in een serie belastingwetten en sociale wetten",
+                        "new_text": "in verschillende belasting- en sociale wetten",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De overheid gebruikt de sociale premies en een deel van het belastinggeld voor de sociale zekerheid.",
+                "rewritten_sentences": "De overheid gebruikt de sociale premies en een deel van de belasting voor sociale zekerheid.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vereenvoudiging, ",
+                        "start_word": 4,
+                        "end_word": 11,
+                        "original_text": "de sociale premies en een deel van het belastinggeld voor de sociale zekerheid",
+                        "new_text": "de sociale premies en een deel van de belasting voor sociale zekerheid",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen met een inkomen betalen dus voor mensen zonder inkomen.",
+                "rewritten_sentences": "Mensen met geld betalen voor mensen zonder geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "'Inkomen' vervangen door concreter 'geld' om eenvoudiger te zijn.",
+                        "start_word": 2,
+                        "end_word": 9,
+                        "original_text": "met een inkomen betalen dus voor mensen zonder inkomen",
+                        "new_text": "met geld betalen voor mensen zonder geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten staat hoe hoog een uitkering is.",
+                "rewritten_sentences": "De sociale wetten vertellen hoeveel een uitkering is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vereenvoudigen van de zin met actievere werkwoordsvorm en eenvoudiger taal.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "de sociale wetten staat hoe hoog een uitkering is",
+                        "new_text": "de sociale wetten vertellen hoeveel een uitkering is",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo staat in de Werkloosheidswet bijvoorbeeld dat de WW-uitkering 70% is van het laatst verdiende loon.",
+                "rewritten_sentences": "In de Werkloosheidswet staat dat de WW-uitkering 70% is van het laatste loon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Vereenvoudiging en verkorting van de zin, verminderde afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Zo staat in de Werkloosheidswet bijvoorbeeld dat de WW-uitkering 70% is van het laatst verdiende loon",
+                        "new_text": "In de Werkloosheidswet staat dat de WW-uitkering 70% is van het laatste loon",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En in de Bijstandswet staat dat je inkomen wordt aangevuld tot het sociaal minimum, een bedrag waarvan je net kunt rondkomen.",
+                "rewritten_sentences": "In de Bijstandswet staat dat je geld wordt aangevuld tot het sociaal minimum, het bedrag dat je net genoeg hebt om rond te komen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "'Inkomen' vervangen door 'geld' en verduidelijking van 'sociaal minimum'.",
+                        "start_word": 4,
+                        "end_word": 22,
+                        "original_text": "je inkomen wordt aangevuld tot het sociaal minimum, een bedrag waarvan je net kunt rondkomen",
+                        "new_text": "je geld wordt aangevuld tot het sociaal minimum, het bedrag dat je net genoeg hebt om rond te komen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De hoogte van het sociaal minimum hangt af van de samenstelling van het gezin.",
+                "rewritten_sentences": "Hoe hoog het sociaal minimum is, hangt af van het gezin.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Kortere en eenvoudigere zin zonder verlies van betekenis.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "De hoogte van het sociaal minimum hangt af van de samenstelling van het gezin",
+                        "new_text": "Hoe hoog het sociaal minimum is, hangt af van het gezin",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo is voor alleenstaanden het sociaal minimum lager dan voor alleenstaande ouders.",
+                "rewritten_sentences": "Voor alleenstaanden is het sociaal minimum lager dan voor alleenstaande ouders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Verdwijnen van overbodig 'Zo is' voor directheid en eenvoud.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Zo is voor alleenstaanden het sociaal minimum lager dan voor alleenstaande ouders",
+                        "new_text": "Voor alleenstaanden is het sociaal minimum lager dan voor alleenstaande ouders",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten staat ook wie er voor een uitkering in aanmerking komen.",
+                "rewritten_sentences": "De sociale wetten zeggen ook wie een uitkering kunnen krijgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Eenvoudigere woordkeuze en kortere zin voor beter begrip.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "de sociale wetten staat ook wie er voor een uitkering in aanmerking komen",
+                        "new_text": "de sociale wetten zeggen ook wie een uitkering kunnen krijgen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering.",
+                "rewritten_sentences": "In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Voor andere groepen werklozen is er de bijstand.",
+                "rewritten_sentences": "Andere werklozen krijgen bijstand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Zin verkorten voor directe en eenvoudige stijl.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Voor andere groepen werklozen is er de bijstand",
+                        "new_text": "Andere werklozen krijgen bijstand",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar dat krijgen ze alleen als ze niet te veel spaargeld of een partner met voldoende inkomen hebben.",
+                "rewritten_sentences": "Ze krijgen het alleen als ze niet veel spaargeld hebben en geen partner met genoeg geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Vereenvoudiging en duidelijker maken van voorwaarden.",
+                        "start_word": 3,
+                        "end_word": 20,
+                        "original_text": "dat krijgen ze alleen als ze niet te veel spaargeld of een partner met voldoende inkomen hebben",
+                        "new_text": "ze krijgen het alleen als ze niet veel spaargeld hebben en geen partner met genoeg geld",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat staat in de Bijstandswet.",
+                "rewritten_sentences": "Dat staat in de Bijstandswet.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "In de sociale wetten is ten slotte geregeld hoe lang een uitkering mag duren.",
+                "rewritten_sentences": "De sociale wetten zeggen ook hoe lang een uitkering mag duren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Gebruik eenvoudiger verbuiging 'zeggen ook' in plaats van 'is geregeld'.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "in de sociale wetten is ten slotte geregeld hoe lang een uitkering mag duren",
+                        "new_text": "de sociale wetten zeggen ook hoe lang een uitkering mag duren",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo duurt de WW-uitkering enkele maanden tot hooguit een paar jaar.",
+                "rewritten_sentences": "De WW-uitkering duurt enkele maanden tot een paar jaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Korter en duidelijker maken van zin door 'Zo' te verwijderen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Zo duurt de WW-uitkering enkele maanden tot hooguit een paar jaar",
+                        "new_text": "De WW-uitkering duurt enkele maanden tot een paar jaar",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bijstand duurt op zijn langst totdat iemand 67 jaar is.",
+                "rewritten_sentences": "Bijstand duurt meestal tot iemand 67 jaar is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Vervangen van 'op zijn langst totdat' door eenvoudiger 'meestal tot'.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Bijstand duurt op zijn langst totdat iemand 67 jaar is",
+                        "new_text": "Bijstand duurt meestal tot iemand 67 jaar is",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Lars werkt als bouwkundig tekenaar bij Bouwvast BV. Hij is bang zijn baan te verliezen, omdat er weinig werk is. Lars maakt zich meer zorgen over zijn baan dan over het geld dat hij verdient. Als hij zijn baan verliest, verliest hij ook zijn loon. Niet iedereen verdient geld. Veel mensen leven van het geld van hun partner of ouders. Er zijn ook mensen zonder geld, die niet door hun ouders worden geholpen en geen werkende partner hebben. De Nederlandse overheid vindt dat zij ook recht op geld hebben. Daarom geeft de overheid hen geld. Dit noemen we sociale zekerheid. Iedereen met geld moet sociale premies en belasting betalen. Dat staat in verschillende belasting- en sociale wetten. De overheid gebruikt de sociale premies en een deel van de belasting voor sociale zekerheid. Mensen met geld betalen voor mensen zonder geld. De sociale wetten vertellen hoeveel een uitkering is. In de Werkloosheidswet staat dat de WW-uitkering 70% is van het laatste loon. In de Bijstandswet staat dat je geld wordt aangevuld tot het sociaal minimum, het bedrag dat je net genoeg hebt om rond te komen. Hoe hoog het sociaal minimum is, hangt af van het gezin. Voor alleenstaanden is het sociaal minimum lager dan voor alleenstaande ouders. De sociale wetten zeggen ook wie een uitkering kunnen krijgen. In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering. Andere werklozen krijgen bijstand. Ze krijgen het alleen als ze niet veel spaargeld hebben en geen partner met genoeg geld. Dat staat in de Bijstandswet. De sociale wetten zeggen ook hoe lang een uitkering mag duren. De WW-uitkering duurt enkele maanden tot een paar jaar. Bijstand duurt meestal tot iemand 67 jaar is.",
+        "prompt_id": "T09_mak",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Inkomen en sociale zekerheid Lars werkt als bouwkundig tekenaar bij Bouwvast BV. Hij is bang zijn baan te verliezen. Er is heel weinig werk. Lars is meer bezorgd over zijn baan dan over zijn inkomen. Als hij zijn baan verliest, verliest hij ook zijn loon. Niet iedereen heeft een inkomen. Veel mensen leven van het inkomen van hun partner of hun ouders. Er zijn ook mensen zonder inkomen. Zij worden niet door hun ouders onderhouden en hebben geen werkende partner. De Nederlandse overheid zegt dat ook zij recht op geld hebben. Daarom geeft de overheid hen een inkomen. Dat noemen we sociale zekerheid. Iedereen met een inkomen betaalt sociale premies en belasting. Dat staat in verschillende belasting- en sociale wetten. De overheid gebruikt die premies en een deel van de belasting voor sociale zekerheid. Kortom: mensen met inkomen betalen voor mensen zonder inkomen. De wetten bepalen hoe hoog een uitkering is. De Werkloosheidswet zegt bijvoorbeeld: de WW-uitkering is 70% van het laatst verdiende loon. De Bijstandswet zegt dat je inkomen wordt aangevuld tot het sociaal minimum. Dat is het bedrag om net rond te komen. Hoe hoog het sociaal minimum is, hangt af van het gezin. Alleenstaanden krijgen een lager sociaal minimum dan alleenstaande ouders. De wetten zeggen ook wie recht heeft op een uitkering. Volgens de Werkloosheidswet hebben alleen werkloze werknemers recht op WW. Andere werklozen kunnen bijstand krijgen. Ze krijgen bijstand alleen als ze niet te veel spaargeld hebben en geen partner met genoeg inkomen. Dat staat in de Bijstandswet. De wetten regelen ook hoe lang een uitkering mag duren. Een WW-uitkering duurt enkele maanden tot maximaal een paar jaar. Bijstand duurt tot iemand 67 jaar wordt.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "32",
+    "GPT 5.1 mini/gpt-5-mini - sent": "60, 25, 10, 34, 34, 0, 17, 0, 12, 32, 33, 37, 53, 41, 54, 35, 18, 48, 42, 27, 41, 49, 20, 46, 40, 12, 37, 38, 20",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Inkomen en sociale zekerheid",
+                "rewritten_sentences": "Inkomen en sociale zekerheid",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Lars is bouwkundig tekenaar bij Bouwvast BV.",
+                "rewritten_sentences": "Lars werkt als bouwkundig tekenaar bij Bouwvast BV.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s1_c1",
+                        "reason_for_change": "Vervangen van 'is ... tekenaar' door 'werkt als ... tekenaar' maakt de zin actiever en gebruikt een vaker voorkomend werkwoord.",
+                        "start_word": 2,
+                        "end_word": 4,
+                        "original_text": "is bouwkundig tekenaar",
+                        "new_text": "werkt als bouwkundig tekenaar",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij is bang dat hij zijn baan kwijtraakt, want er is erg weinig werk te doen.",
+                "rewritten_sentences": "Hij is bang zijn baan te verliezen. Er is heel weinig werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2_c1",
+                        "reason_for_change": "De lange bijzin is opgesplitst en eenvoudiger geformuleerd om de zinslengte en afhankelijkheden te verkleinen.",
+                        "start_word": 3,
+                        "end_word": 16,
+                        "original_text": "bang dat hij zijn baan kwijtraakt, want er is erg weinig werk te doen",
+                        "new_text": "bang zijn baan te verliezen. Er is heel weinig werk",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "s2_c2",
+                        "reason_for_change": "Vervanging van 'erg weinig' door 'heel weinig' gebruikt een algemener woord en kortere constructie.",
+                        "start_word": 12,
+                        "end_word": 13,
+                        "original_text": "erg weinig",
+                        "new_text": "heel weinig",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Lars maakt zich meer zorgen over zijn baan dan over zijn inkomen.",
+                "rewritten_sentences": "Lars is meer bezorgd over zijn baan dan over zijn inkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3_c1",
+                        "reason_for_change": "Kortere, directere formulering ('is meer bezorgd') verlaagt syntactische afhankelijkheid.",
+                        "start_word": 2,
+                        "end_word": 5,
+                        "original_text": "maakt zich meer zorgen",
+                        "new_text": "is meer bezorgd",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch raakt hij met zijn baan ook zijn loon kwijt.",
+                "rewritten_sentences": "Als hij zijn baan verliest, verliest hij ook zijn loon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4_c1",
+                        "reason_for_change": "Herformulering naar een duidelijke voorwaardelijke zin met eenvoudige woordvolgorde; dit vermindert ambigu\u00efteit en afhankelijkheden.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Toch raakt hij met zijn baan ook zijn loon kwijt",
+                        "new_text": "Als hij zijn baan verliest, verliest hij ook zijn loon",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet iedereen verdient een inkomen.",
+                "rewritten_sentences": "Niet iedereen heeft een inkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5_c1",
+                        "reason_for_change": "Vervangen van 'verdient' door het kortere en veelvoorkomende 'heeft'.",
+                        "start_word": 3,
+                        "end_word": 3,
+                        "original_text": "verdient",
+                        "new_text": "heeft",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Veel mensen leven van het inkomen van hun partner of van hun ouders.",
+                "rewritten_sentences": "Veel mensen leven van het inkomen van hun partner of hun ouders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6_c1",
+                        "reason_for_change": "Weghalen van een overbodige herhaling ('van') maakt de zin korter en eenvoudiger.",
+                        "start_word": 10,
+                        "end_word": 13,
+                        "original_text": "of van hun ouders",
+                        "new_text": "of hun ouders",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zijn echter ook mensen zonder inkomen, die niet worden onderhouden door hun ouders en geen partner met een baan hebben.",
+                "rewritten_sentences": "Er zijn ook mensen zonder inkomen. Zij worden niet door hun ouders onderhouden en hebben geen werkende partner.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7_c1",
+                        "reason_for_change": "De lange samengestelde zin is gesplitst en omgevormd naar twee korte zinnen. 'geen partner met een baan' is vervangen door 'geen werkende partner' voor compactheid.",
+                        "start_word": 1,
+                        "end_word": 21,
+                        "original_text": "Er zijn echter ook mensen zonder inkomen, die niet worden onderhouden door hun ouders en geen partner met een baan hebben",
+                        "new_text": "Er zijn ook mensen zonder inkomen. Zij worden niet door hun ouders onderhouden en hebben geen werkende partner",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook zij hebben recht op geld, vindt de Nederlandse overheid.",
+                "rewritten_sentences": "De Nederlandse overheid zegt dat ook zij recht op geld hebben.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8_c1",
+                        "reason_for_change": "Herordening van de zin en vervangen van 'vindt' door 'zegt' maakt de zin eenvoudiger en directer.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Ook zij hebben recht op geld, vindt de Nederlandse overheid",
+                        "new_text": "De Nederlandse overheid zegt dat ook zij recht op geld hebben",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom geeft de overheid hun een inkomen.",
+                "rewritten_sentences": "Daarom geeft de overheid hen een inkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9_c1",
+                        "reason_for_change": "Correctie van het voornaamwoord ('hun' -> 'hen') en zo eenvoudiger en juist taalgebruik.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "hun",
+                        "new_text": "hen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat heet sociale zekerheid.",
+                "rewritten_sentences": "Dat noemen we sociale zekerheid.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10_c1",
+                        "reason_for_change": "Actievere en gebruikelijkere formulering met 'noemen we' maakt de zin natuurlijker.",
+                        "start_word": 1,
+                        "end_word": 4,
+                        "original_text": "Dat heet sociale zekerheid",
+                        "new_text": "Dat noemen we sociale zekerheid",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Iedereen die een inkomen heeft, moet sociale premies en belasting betalen.",
+                "rewritten_sentences": "Iedereen met een inkomen betaalt sociale premies en belasting.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11_c1",
+                        "reason_for_change": "Kortere constructie ('Iedereen met een inkomen betaalt') vermindert complexiteit van de zin.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Iedereen die een inkomen heeft, moet sociale premies en belasting betalen",
+                        "new_text": "Iedereen met een inkomen betaalt sociale premies en belasting",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat staat in een serie belastingwetten en sociale wetten.",
+                "rewritten_sentences": "Dat staat in verschillende belasting- en sociale wetten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12_c1",
+                        "reason_for_change": "Vervangen van 'een serie ... en ... wetten' door 'verschillende belasting- en sociale wetten' maakt de zin compacter.",
+                        "start_word": 4,
+                        "end_word": 9,
+                        "original_text": "een serie belastingwetten en sociale wetten",
+                        "new_text": "verschillende belasting- en sociale wetten",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De overheid gebruikt de sociale premies en een deel van het belastinggeld voor de sociale zekerheid.",
+                "rewritten_sentences": "De overheid gebruikt die premies en een deel van de belasting voor sociale zekerheid.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13_c1",
+                        "reason_for_change": "Inkorten van herhaalde woorden en vereenvoudigen van woordvolgorde om de zin duidelijker te maken.",
+                        "start_word": 3,
+                        "end_word": 16,
+                        "original_text": "gebruikt de sociale premies en een deel van het belastinggeld voor de sociale zekerheid",
+                        "new_text": "gebruikt die premies en een deel van de belasting voor sociale zekerheid",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen met een inkomen betalen dus voor mensen zonder inkomen.",
+                "rewritten_sentences": "Kortom: mensen met inkomen betalen voor mensen zonder inkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14_c1",
+                        "reason_for_change": "Toevoegen van 'Kortom:' en weglaten van onnodige lidwoorden maakt de boodschap directer.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Mensen met een inkomen betalen dus voor mensen zonder inkomen",
+                        "new_text": "Kortom: mensen met inkomen betalen voor mensen zonder inkomen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten staat hoe hoog een uitkering is.",
+                "rewritten_sentences": "De wetten bepalen hoe hoog een uitkering is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15_c1",
+                        "reason_for_change": "Kortere formulering ('De wetten bepalen') is directer en eenvoudiger.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "In de sociale wetten staat hoe hoog een uitkering is",
+                        "new_text": "De wetten bepalen hoe hoog een uitkering is",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo staat in de Werkloosheidswet bijvoorbeeld dat de WW-uitkering 70% is van het laatst verdiende loon.",
+                "rewritten_sentences": "De Werkloosheidswet zegt bijvoorbeeld: de WW-uitkering is 70% van het laatst verdiende loon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16_c1",
+                        "reason_for_change": "Herordening naar een direct citaat-achtige structuur maakt de zin eenvoudiger te volgen.",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "Zo staat in de Werkloosheidswet bijvoorbeeld dat de WW-uitkering 70% is van het laatst verdiende loon",
+                        "new_text": "De Werkloosheidswet zegt bijvoorbeeld: de WW-uitkering is 70% van het laatst verdiende loon",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En in de Bijstandswet staat dat je inkomen wordt aangevuld tot het sociaal minimum, een bedrag waarvan je net kunt rondkomen.",
+                "rewritten_sentences": "De Bijstandswet zegt dat je inkomen wordt aangevuld tot het sociaal minimum. Dat is het bedrag om net rond te komen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17_c1",
+                        "reason_for_change": "Opsplitsen in twee korte zinnen en herformuleren van het tweede deel verkleint complexiteit en verbetert helderheid.",
+                        "start_word": 1,
+                        "end_word": 22,
+                        "original_text": "En in de Bijstandswet staat dat je inkomen wordt aangevuld tot het sociaal minimum, een bedrag waarvan je net kunt rondkomen",
+                        "new_text": "De Bijstandswet zegt dat je inkomen wordt aangevuld tot het sociaal minimum. Dat is het bedrag om net rond te komen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De hoogte van het sociaal minimum hangt af van de samenstelling van het gezin.",
+                "rewritten_sentences": "Hoe hoog het sociaal minimum is, hangt af van het gezin.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18_c1",
+                        "reason_for_change": "Kortere woordvolgorde en eenvoudiger zinsstructuur, zonder informatie te verliezen.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "De hoogte van het sociaal minimum hangt af van de samenstelling van het gezin",
+                        "new_text": "Hoe hoog het sociaal minimum is, hangt af van het gezin",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo is voor alleenstaanden het sociaal minimum lager dan voor alleenstaande ouders.",
+                "rewritten_sentences": "Alleenstaanden krijgen een lager sociaal minimum dan alleenstaande ouders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19_c1",
+                        "reason_for_change": "Actievere formulering ('krijgen') en eenvoudiger woordvolgorde maken de zin directer.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Zo is voor alleenstaanden het sociaal minimum lager dan voor alleenstaande ouders",
+                        "new_text": "Alleenstaanden krijgen een lager sociaal minimum dan alleenstaande ouders",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten staat ook wie er voor een uitkering in aanmerking komen.",
+                "rewritten_sentences": "De wetten zeggen ook wie recht heeft op een uitkering.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20_c1",
+                        "reason_for_change": "Kortere en directere formulering vermindert complexiteit zonder informatieverlies.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "In de sociale wetten staat ook wie er voor een uitkering in aanmerking komen",
+                        "new_text": "De wetten zeggen ook wie recht heeft op een uitkering",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering.",
+                "rewritten_sentences": "Volgens de Werkloosheidswet hebben alleen werkloze werknemers recht op WW.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21_c1",
+                        "reason_for_change": "Vervanging door 'Volgens de ...' en kortere formulering maakt de zin vlotter.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering",
+                        "new_text": "Volgens de Werkloosheidswet hebben alleen werkloze werknemers recht op WW",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor andere groepen werklozen is er de bijstand.",
+                "rewritten_sentences": "Andere werklozen kunnen bijstand krijgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s22_c1",
+                        "reason_for_change": "Actievere constructie ('kunnen bijstand krijgen') is eenvoudiger en duidelijker.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Voor andere groepen werklozen is er de bijstand",
+                        "new_text": "Andere werklozen kunnen bijstand krijgen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar dat krijgen ze alleen als ze niet te veel spaargeld of een partner met voldoende inkomen hebben.",
+                "rewritten_sentences": "Ze krijgen bijstand alleen als ze niet te veel spaargeld hebben en geen partner met genoeg inkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23_c1",
+                        "reason_for_change": "Herformulering verduidelijkt de twee voorwaarden (spaargeld en partnerinkomen) en gebruikt eenvoudigere woorden.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "Maar dat krijgen ze alleen als ze niet te veel spaargeld of een partner met voldoende inkomen hebben",
+                        "new_text": "Ze krijgen bijstand alleen als ze niet te veel spaargeld hebben en geen partner met genoeg inkomen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat staat in de Bijstandswet.",
+                "rewritten_sentences": "Dat staat in de Bijstandswet.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "In de sociale wetten is ten slotte geregeld hoe lang een uitkering mag duren.",
+                "rewritten_sentences": "De wetten regelen ook hoe lang een uitkering mag duren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s25_c1",
+                        "reason_for_change": "Kortere en directere formulering met behoud van betekenis.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "In de sociale wetten is ten slotte geregeld hoe lang een uitkering mag duren",
+                        "new_text": "De wetten regelen ook hoe lang een uitkering mag duren",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo duurt de WW-uitkering enkele maanden tot hooguit een paar jaar.",
+                "rewritten_sentences": "Een WW-uitkering duurt enkele maanden tot maximaal een paar jaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s26_c1",
+                        "reason_for_change": "Vervanging van 'hooguit' door 'maximaal' en kleine herordening maakt de zin vlotter.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Zo duurt de WW-uitkering enkele maanden tot hooguit een paar jaar",
+                        "new_text": "Een WW-uitkering duurt enkele maanden tot maximaal een paar jaar",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bijstand duurt op zijn langst totdat iemand 67 jaar is.",
+                "rewritten_sentences": "Bijstand duurt tot iemand 67 jaar wordt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s27_c1",
+                        "reason_for_change": "Kortere en gangbare formulering ('tot iemand 67 jaar wordt') is duidelijker.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Bijstand duurt op zijn langst totdat iemand 67 jaar is",
+                        "new_text": "Bijstand duurt tot iemand 67 jaar wordt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatieve tekst",
+        "full_text": "Inkomen en sociale zekerheid Lars werkt als bouwkundig tekenaar bij Bouwvast BV. Hij is bang zijn baan te verliezen. Er is heel weinig werk. Lars is meer bezorgd over zijn baan dan over zijn inkomen. Als hij zijn baan verliest, verliest hij ook zijn loon. Niet iedereen heeft een inkomen. Veel mensen leven van het inkomen van hun partner of hun ouders. Er zijn ook mensen zonder inkomen. Zij worden niet door hun ouders onderhouden en hebben geen werkende partner. De Nederlandse overheid zegt dat ook zij recht op geld hebben. Daarom geeft de overheid hen een inkomen. Dat noemen we sociale zekerheid. Iedereen met een inkomen betaalt sociale premies en belasting. Dat staat in verschillende belasting- en sociale wetten. De overheid gebruikt die premies en een deel van de belasting voor sociale zekerheid. Kortom: mensen met inkomen betalen voor mensen zonder inkomen. De wetten bepalen hoe hoog een uitkering is. De Werkloosheidswet zegt bijvoorbeeld: de WW-uitkering is 70% van het laatst verdiende loon. De Bijstandswet zegt dat je inkomen wordt aangevuld tot het sociaal minimum. Dat is het bedrag om net rond te komen. Hoe hoog het sociaal minimum is, hangt af van het gezin. Alleenstaanden krijgen een lager sociaal minimum dan alleenstaande ouders. De wetten zeggen ook wie recht heeft op een uitkering. Volgens de Werkloosheidswet hebben alleen werkloze werknemers recht op WW. Andere werklozen kunnen bijstand krijgen. Ze krijgen bijstand alleen als ze niet te veel spaargeld hebben en geen partner met genoeg inkomen. Dat staat in de Bijstandswet. De wetten regelen ook hoe lang een uitkering mag duren. Een WW-uitkering duurt enkele maanden tot maximaal een paar jaar. Bijstand duurt tot iemand 67 jaar wordt.",
+        "prompt_id": "T09_mak",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "Lars tekent huizen voor zijn werk. Hij is bang voor ontslag. Er is weinig werk. Lars vindt zijn baan belangrijker dan zijn geld. Zonder zijn baan krijgt hij geen loon. Niet iedereen heeft werk. Veel mensen krijgen geld van hun man, vrouw of ouders. Sommige mensen hebben geen werk en geen hulp. De overheid vindt dat zij ook geld moeten krijgen. Daarom geeft de staat hen geld. Dat heet sociale zekerheid. Wie werkt, betaalt belasting en premies. Dit staat in de wet. De staat betaalt de uitkeringen met dit geld. Werkende mensen betalen voor mensen zonder werk. De wet zegt hoeveel geld iemand krijgt. De WW is 70 procent van het oude loon. De bijstand vult het geld aan tot een vast bedrag. Dit bedrag hangt af van je gezin. Een persoon alleen krijgt minder geld dan een vader of moeder alleen. De wet zegt wie recht heeft op geld. Alleen mensen zonder baan krijgen de WW. Anderen krijgen een uitkering uit de bijstand. Dat krijg je alleen als je geen spaargeld hebt. Dat staat in de wet. De wet zegt ook hoe lang de uitkering duurt. De WW duurt een paar maanden of jaren. De bijstand stopt als je 67 jaar wordt.",
+    "Gemini/gemini-3-flash-preview - lint": "20",
+    "Gemini/gemini-3-flash-preview - sent": "24, 23, 0, 24, 28, 3, 14, 12, 24, 17, 33, 45, 19, 23, 15, 18, 31, 41, 28, 19, 15, 11, 34, 15, 19, 26, 24, 21",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Lars is bouwkundig tekenaar bij Bouwvast BV.",
+                "rewritten_sentences": "Lars tekent huizen voor zijn werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vervangen van een abstracte functietitel door een concrete handeling voor betere begrijpelijkheid.",
+                        "start_word": 2,
+                        "end_word": 6,
+                        "original_text": "bouwkundig tekenaar bij Bouwvast BV",
+                        "new_text": "tekent huizen voor zijn werk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij is bang dat hij zijn baan kwijtraakt, want er is erg weinig werk te doen.",
+                "rewritten_sentences": "Hij is bang voor ontslag. Er is weinig werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Inkorten van de zin en verwijderen van complexe bijzinnen om de afhankelijkheidslengte te verlagen.",
+                        "start_word": 3,
+                        "end_word": 15,
+                        "original_text": "dat hij zijn baan kwijtraakt, want er is erg weinig werk te doen",
+                        "new_text": "voor ontslag. Er is weinig werk",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Lars maakt zich meer zorgen over zijn baan dan over zijn inkomen.",
+                "rewritten_sentences": "Lars vindt zijn baan belangrijker dan zijn geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vervangen van 'inkomen' door het concretere woord 'geld'.",
+                        "start_word": 9,
+                        "end_word": 10,
+                        "original_text": "zijn inkomen",
+                        "new_text": "zijn geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch raakt hij met zijn baan ook zijn loon kwijt.",
+                "rewritten_sentences": "Zonder zijn baan krijgt hij geen loon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Gebruik van een directere zinsbouw.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Toch raakt hij met zijn baan ook zijn loon kwijt",
+                        "new_text": "Zonder zijn baan krijgt hij geen loon",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet iedereen verdient een inkomen.",
+                "rewritten_sentences": "Niet iedereen heeft werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vervangen van 'inkomen' door het concretere 'werk'.",
+                        "start_word": 2,
+                        "end_word": 4,
+                        "original_text": "verdient een inkomen",
+                        "new_text": "heeft werk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Veel mensen leven van het inkomen van hun partner of van hun ouders.",
+                "rewritten_sentences": "Veel mensen krijgen geld van hun man, vrouw of ouders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Vervangen van abstracte termen door concrete personen en woorden.",
+                        "start_word": 3,
+                        "end_word": 12,
+                        "original_text": "leven van het inkomen van hun partner of van hun ouders",
+                        "new_text": "krijgen geld van hun man, vrouw of ouders",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zijn echter ook mensen zonder inkomen, die niet worden onderhouden door hun ouders en geen partner met een baan hebben.",
+                "rewritten_sentences": "Sommige mensen hebben geen werk en geen hulp.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Verwijderen van lange bijzinnen om de tekst overzichtelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Er zijn echter ook mensen zonder inkomen, die niet worden onderhouden door hun ouders en geen partner met een baan hebben",
+                        "new_text": "Sommige mensen hebben geen werk en geen hulp",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook zij hebben recht op geld, vindt de Nederlandse overheid.",
+                "rewritten_sentences": "De overheid vindt dat zij ook geld moeten krijgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Omdraaien van de zin voor een logischere volgorde en kortere afhankelijkheden.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Ook zij hebben recht op geld, vindt de Nederlandse overheid",
+                        "new_text": "De overheid vindt dat zij ook geld moeten krijgen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom geeft de overheid hun een inkomen.",
+                "rewritten_sentences": "Daarom geeft de staat hen geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vervangen van 'inkomen' door 'geld' en 'overheid' door 'staat'.",
+                        "start_word": 3,
+                        "end_word": 6,
+                        "original_text": "de overheid hun een inkomen",
+                        "new_text": "de staat hen geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat heet sociale zekerheid.",
+                "rewritten_sentences": "Dat heet sociale zekerheid.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Iedereen die een inkomen heeft, moet sociale premies en belasting betalen.",
+                "rewritten_sentences": "Wie werkt, betaalt belasting en premies.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Inkorten van de zin door onnodige woorden te schrappen.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Iedereen die een inkomen heeft, moet sociale premies en belasting betalen",
+                        "new_text": "Wie werkt, betaalt belasting en premies",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat staat in een serie belastingwetten en sociale wetten.",
+                "rewritten_sentences": "Dit staat in de wet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Versimpelen van de opsomming naar een enkel concreet begrip.",
+                        "start_word": 3,
+                        "end_word": 9,
+                        "original_text": "in een serie belastingwetten en sociale wetten",
+                        "new_text": "in de wet",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De overheid gebruikt de sociale premies en een deel van het belastinggeld voor de sociale zekerheid.",
+                "rewritten_sentences": "De staat betaalt de uitkeringen met dit geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vervangen van abstracte processen door een concrete handeling.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "De overheid gebruikt de sociale premies en een deel van het belastinggeld voor de sociale zekerheid",
+                        "new_text": "De staat betaalt de uitkeringen met dit geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen met een inkomen betalen dus voor mensen zonder inkomen.",
+                "rewritten_sentences": "Werkende mensen betalen voor mensen zonder werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vervangen van 'inkomen' door het concretere 'werk'.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Mensen met een inkomen betalen dus voor mensen zonder inkomen",
+                        "new_text": "Werkende mensen betalen voor mensen zonder werk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten staat hoe hoog een uitkering is.",
+                "rewritten_sentences": "De wet zegt hoeveel geld iemand krijgt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Vervangen van passieve en abstracte taal door actieve taal met concrete woorden.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "In de sociale wetten staat hoe hoog een uitkering is",
+                        "new_text": "De wet zegt hoeveel geld iemand krijgt",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo staat in de Werkloosheidswet bijvoorbeeld dat de WW-uitkering 70% is van het laatst verdiende loon.",
+                "rewritten_sentences": "De WW is 70 procent van het oude loon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Verwijderen van de bijzin en versimpelen van de terminologie.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Zo staat in de Werkloosheidswet bijvoorbeeld dat de WW-uitkering 70% is van het laatst verdiende loon",
+                        "new_text": "De WW is 70 procent van het oude loon",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En in de Bijstandswet staat dat je inkomen wordt aangevuld tot het sociaal minimum, een bedrag waarvan je net kunt rondkomen.",
+                "rewritten_sentences": "De bijstand vult het geld aan tot een vast bedrag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Inkorten van de zin en verwijderen van de extra uitleg in de bijzin.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "En in de Bijstandswet staat dat je inkomen wordt aangevuld tot het sociaal minimum, een bedrag waarvan je net kunt rondkomen",
+                        "new_text": "De bijstand vult het geld aan tot een vast bedrag",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De hoogte van het sociaal minimum hangt af van de samenstelling van het gezin.",
+                "rewritten_sentences": "Dit bedrag hangt af van je gezin.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Vervangen van abstracte termen door korte en veelvoorkomende woorden.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "De hoogte van het sociaal minimum hangt af van de samenstelling van het gezin",
+                        "new_text": "Dit bedrag hangt af van je gezin",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo is voor alleenstaanden het sociaal minimum lager dan voor alleenstaande ouders.",
+                "rewritten_sentences": "Een persoon alleen krijgt minder geld dan een vader of moeder alleen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Vervangen van de term 'alleenstaanden' door concretere persoonsomschrijvingen.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Zo is voor alleenstaanden het sociaal minimum lager dan voor alleenstaande ouders",
+                        "new_text": "Een persoon alleen krijgt minder geld dan een vader of moeder alleen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten staat ook wie er voor een uitkering in aanmerking komen.",
+                "rewritten_sentences": "De wet zegt wie recht heeft op geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Inkorten van de zin en gebruik van actievere werkwoorden.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "In de sociale wetten staat ook wie er voor een uitkering in aanmerking komen",
+                        "new_text": "De wet zegt wie recht heeft op geld",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering.",
+                "rewritten_sentences": "Alleen mensen zonder baan krijgen de WW.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Versimpelen van de terminologie en verkorten van de zinsstructuur.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering",
+                        "new_text": "Alleen mensen zonder baan krijgen de WW",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor andere groepen werklozen is er de bijstand.",
+                "rewritten_sentences": "Anderen krijgen een uitkering uit de bijstand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Gebruik van een directere zinsbouw.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Voor andere groepen werklozen is er de bijstand",
+                        "new_text": "Anderen krijgen een uitkering uit de bijstand",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar dat krijgen ze alleen als ze niet te veel spaargeld of een partner met voldoende inkomen hebben.",
+                "rewritten_sentences": "Dat krijg je alleen als je geen spaargeld hebt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Verwijderen van de tweede voorwaarde om de zin korter en duidelijker te maken.",
+                        "start_word": 4,
+                        "end_word": 17,
+                        "original_text": "alleen als ze niet te veel spaargeld of een partner met voldoende inkomen hebben",
+                        "new_text": "alleen als je geen spaargeld hebt",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat staat in de Bijstandswet.",
+                "rewritten_sentences": "Dat staat in de wet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Vervangen van een specifieke wet door het algemene woord 'wet'.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "Bijstandswet",
+                        "new_text": "wet",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten is ten slotte geregeld hoe lang een uitkering mag duren.",
+                "rewritten_sentences": "De wet zegt ook hoe lang de uitkering duurt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Vervangen van de passieve vorm door een actieve vorm.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "In de sociale wetten is ten slotte geregeld hoe lang een uitkering mag duren",
+                        "new_text": "De wet zegt ook hoe lang de uitkering duurt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo duurt de WW-uitkering enkele maanden tot hooguit een paar jaar.",
+                "rewritten_sentences": "De WW duurt een paar maanden of jaren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Inkorten van de tijdsaanduiding en versimpelen van het onderwerp.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Zo duurt de WW-uitkering enkele maanden tot hooguit een paar jaar",
+                        "new_text": "De WW duurt een paar maanden of jaren",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bijstand duurt op zijn langst totdat iemand 67 jaar is.",
+                "rewritten_sentences": "De bijstand stopt als je 67 jaar wordt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "Vervangen van 'duurt op zijn langst' door het concretere 'stopt'.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Bijstand duurt op zijn langst totdat iemand 67 jaar is",
+                        "new_text": "De bijstand stopt als je 67 jaar wordt",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst over inkomen",
+        "full_text": "Lars tekent huizen voor zijn werk. Hij is bang voor ontslag. Er is weinig werk. Lars vindt zijn baan belangrijker dan zijn geld. Zonder zijn baan krijgt hij geen loon. Niet iedereen heeft werk. Veel mensen krijgen geld van hun man, vrouw of ouders. Sommige mensen hebben geen werk en geen hulp. De overheid vindt dat zij ook geld moeten krijgen. Daarom geeft de staat hen geld. Dat heet sociale zekerheid. Wie werkt, betaalt belasting en premies. Dit staat in de wet. De staat betaalt de uitkeringen met dit geld. Werkende mensen betalen voor mensen zonder werk. De wet zegt hoeveel geld iemand krijgt. De WW is 70 procent van het oude loon. De bijstand vult het geld aan tot een vast bedrag. Dit bedrag hangt af van je gezin. Een persoon alleen krijgt minder geld dan een vader of moeder alleen. De wet zegt wie recht heeft op geld. Alleen mensen zonder baan krijgen de WW. Anderen krijgen een uitkering uit de bijstand. Dat krijg je alleen als je geen spaargeld hebt. Dat staat in de wet. De wet zegt ook hoe lang de uitkering duurt. De WW duurt een paar maanden of jaren. De bijstand stopt als je 67 jaar wordt.",
+        "prompt_id": "T09_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Lars werkt als tekenaar bij Bouwvast BV. Hij heeft angst om zijn baan te verliezen, omdat er bijna geen werk is. Hij maakt zich vooral zorgen over zijn baan, want zonder baan heeft hij ook geen loon meer. Niet iedereen heeft een eigen inkomen. Sommige mensen leven van het geld van hun partner of hun ouders. Er zijn ook mensen zonder inkomen. Zij krijgen geen geld van hun ouders of partner. Toch heeft iedereen recht op geld, volgens de overheid. Daarom geeft de overheid hen een inkomen. Dit heet sociale zekerheid. Wie een inkomen heeft, betaalt belasting en sociale premies. Dit staat in de wetten. De overheid gebruikt dit geld voor sociale zekerheid. Mensen met inkomen betalen zo mee voor mensen zonder inkomen. De sociale wetten zeggen hoe hoog een uitkering is. Bij werkloosheid krijg je 70% van je laatste loon. Bijstand zorgt dat je inkomen voldoende is om rond te komen. Hoeveel je krijgt, hangt af van je gezinssituatie. Een alleenstaande krijgt minder dan een alleenstaande ouder. De wetten zeggen wie een uitkering krijgt. Werkloze werknemers krijgen een uitkering. Andere werklozen krijgen bijstand, maar alleen als ze weinig geld hebben of geen partner met inkomen. De wetten zeggen hoe lang een uitkering duurt. Een werkloosheidsuitkering gaat enkele maanden tot een paar jaar. Bijstand duurt tot je 67 jaar bent.",
+    "Mistral/ministral-14b-latest - lint": "26",
+    "Mistral/ministral-14b-latest - sent": "49, 22, 36, 10, 16, 0, 16, 29, 33, 33, 39, 25, 41, 14, 30, 42, 44, 25, 23, 34, 36, 26, 25, 24",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Lars is bouwkundig tekenaar bij Bouwvast BV. Hij is bang dat hij zijn baan kwijtraakt, want er is erg weinig werk te doen. Lars maakt zich meer zorgen over zijn baan dan over zijn inkomen. Toch raakt hij met zijn baan ook zijn loon kwijt.",
+                "rewritten_sentences": "Lars werkt als tekenaar bij Bouwvast BV. Hij heeft angst om zijn baan te verliezen, omdat er bijna geen werk is. Hij maakt zich vooral zorgen over zijn baan, want zonder baan heeft hij ook geen loon meer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vereenvoudigde zinnen en verwijderde herhaling van 'inkomen' om de leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Lars is bouwkundig tekenaar bij Bouwvast BV. Hij is bang dat hij zijn baan kwijtraakt, want er is erg weinig werk te doen.",
+                        "new_text": "Lars werkt als tekenaar bij Bouwvast BV. Hij heeft angst om zijn baan te verliezen, omdat er bijna geen werk is.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Vereenvoudigde zin om de focus te behouden op de kernboodschap en de leesbaarheid te verhogen.",
+                        "start_word": 11,
+                        "end_word": 24,
+                        "original_text": "Lars maakt zich meer zorgen over zijn baan dan over zijn inkomen. Toch raakt hij met zijn baan ook zijn loon kwijt.",
+                        "new_text": "Hij maakt zich vooral zorgen over zijn baan, want zonder baan heeft hij ook geen loon meer.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet iedereen verdient een inkomen. Veel mensen leven van het inkomen van hun partner of van hun ouders.",
+                "rewritten_sentences": "Niet iedereen heeft een eigen inkomen. Sommige mensen leven van het geld van hun partner of hun ouders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vereenvoudigde woordkeuze om de tekst toegankelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Niet iedereen verdient een inkomen.",
+                        "new_text": "Niet iedereen heeft een eigen inkomen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Vereenvoudigde formulering om de leesbaarheid te verbeteren.",
+                        "start_word": 6,
+                        "end_word": 12,
+                        "original_text": "Veel mensen leven van het inkomen van hun partner of van hun ouders.",
+                        "new_text": "Sommige mensen leven van het geld van hun partner of hun ouders.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zijn echter ook mensen zonder inkomen, die niet worden onderhouden door hun ouders en geen partner met een baan hebben. Ook zij hebben recht op geld, vindt de Nederlandse overheid. Daarom geeft de overheid hun een inkomen. Dat heet sociale zekerheid.",
+                "rewritten_sentences": "Er zijn ook mensen zonder inkomen. Zij krijgen geen geld van hun ouders of partner. Toch heeft iedereen recht op geld, volgens de overheid. Daarom geeft de overheid hen een inkomen. Dit heet sociale zekerheid.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vereenvoudigde zinnen en verwijderde complexe structuur om de leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Er zijn echter ook mensen zonder inkomen, die niet worden onderhouden door hun ouders en geen partner met een baan hebben.",
+                        "new_text": "Er zijn ook mensen zonder inkomen. Zij krijgen geen geld van hun ouders of partner.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst toegankelijker te maken.",
+                        "start_word": 13,
+                        "end_word": 22,
+                        "original_text": "Ook zij hebben recht op geld, vindt de Nederlandse overheid.",
+                        "new_text": "Toch heeft iedereen recht op geld, volgens de overheid.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Iedereen die een inkomen heeft, moet sociale premies en belasting betalen. Dat staat in een serie belastingwetten en sociale wetten. De overheid gebruikt de sociale premies en een deel van het belastinggeld voor de sociale zekerheid. Mensen met een inkomen betalen dus voor mensen zonder inkomen.",
+                "rewritten_sentences": "Wie een inkomen heeft, betaalt belasting en sociale premies. Dit staat in de wetten. De overheid gebruikt dit geld voor sociale zekerheid. Mensen met inkomen betalen zo mee voor mensen zonder inkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst korter en toegankelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Iedereen die een inkomen heeft, moet sociale premies en belasting betalen.",
+                        "new_text": "Wie een inkomen heeft, betaalt belasting en sociale premies.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Vereenvoudigde zin om de leesbaarheid te verhogen.",
+                        "start_word": 11,
+                        "end_word": 19,
+                        "original_text": "Dat staat in een serie belastingwetten en sociale wetten.",
+                        "new_text": "Dit staat in de wetten.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst toegankelijker te maken.",
+                        "start_word": 20,
+                        "end_word": 32,
+                        "original_text": "De overheid gebruikt de sociale premies en een deel van het belastinggeld voor de sociale zekerheid.",
+                        "new_text": "De overheid gebruikt dit geld voor sociale zekerheid.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten staat hoe hoog een uitkering is. Zo staat in de Werkloosheidswet bijvoorbeeld dat de WW-uitkering 70% is van het laatst verdiende loon. En in de Bijstandswet staat dat je inkomen wordt aangevuld tot het sociaal minimum, een bedrag waarvan je net kunt rondkomen.",
+                "rewritten_sentences": "De sociale wetten zeggen hoe hoog een uitkering is. Bij werkloosheid krijg je 70% van je laatste loon. Bijstand zorgt dat je inkomen voldoende is om rond te komen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst toegankelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "In de sociale wetten staat hoe hoog een uitkering is.",
+                        "new_text": "De sociale wetten zeggen hoe hoog een uitkering is.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Vereenvoudigde zin en verwijderde afkorting om de leesbaarheid te verbeteren.",
+                        "start_word": 11,
+                        "end_word": 25,
+                        "original_text": "Zo staat in de Werkloosheidswet bijvoorbeeld dat de WW-uitkering 70% is van het laatst verdiende loon.",
+                        "new_text": "Bij werkloosheid krijg je 70% van je laatste loon.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst korter en toegankelijker te maken.",
+                        "start_word": 26,
+                        "end_word": 40,
+                        "original_text": "En in de Bijstandswet staat dat je inkomen wordt aangevuld tot het sociaal minimum, een bedrag waarvan je net kunt rondkomen.",
+                        "new_text": "Bijstand zorgt dat je inkomen voldoende is om rond te komen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De hoogte van het sociaal minimum hangt af van de samenstelling van het gezin. Zo is voor alleenstaanden het sociaal minimum lager dan voor alleenstaande ouders.",
+                "rewritten_sentences": "Hoeveel je krijgt, hangt af van je gezinssituatie. Een alleenstaande krijgt minder dan een alleenstaande ouder.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst toegankelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "De hoogte van het sociaal minimum hangt af van de samenstelling van het gezin.",
+                        "new_text": "Hoeveel je krijgt, hangt af van je gezinssituatie.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Vereenvoudigde zin om de leesbaarheid te verhogen.",
+                        "start_word": 16,
+                        "end_word": 30,
+                        "original_text": "Zo is voor alleenstaanden het sociaal minimum lager dan voor alleenstaande ouders.",
+                        "new_text": "Een alleenstaande krijgt minder dan een alleenstaande ouder.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten staat ook wie er voor een uitkering in aanmerking komen. In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering. Voor andere groepen werklozen is er de bijstand. Maar dat krijgen ze alleen als ze niet te veel spaargeld of een partner met voldoende inkomen hebben. Dat staat in de Bijstandswet.",
+                "rewritten_sentences": "De wetten zeggen wie een uitkering krijgt. Werkloze werknemers krijgen een uitkering. Andere werklozen krijgen bijstand, maar alleen als ze weinig geld hebben of geen partner met inkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst toegankelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "In de sociale wetten staat ook wie er voor een uitkering in aanmerking komen.",
+                        "new_text": "De wetten zeggen wie een uitkering krijgt.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Vereenvoudigde zin en verwijderde afkorting om de leesbaarheid te verbeteren.",
+                        "start_word": 11,
+                        "end_word": 25,
+                        "original_text": "In de Werkloosheidswet staat dat alleen werkloze werknemers recht hebben op een WW-uitkering.",
+                        "new_text": "Werkloze werknemers krijgen een uitkering.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst korter en toegankelijker te maken.",
+                        "start_word": 26,
+                        "end_word": 46,
+                        "original_text": "Voor andere groepen werklozen is er de bijstand. Maar dat krijgen ze alleen als ze niet te veel spaargeld of een partner met voldoende inkomen hebben.",
+                        "new_text": "Andere werklozen krijgen bijstand, maar alleen als ze weinig geld hebben of geen partner met inkomen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de sociale wetten is ten slotte geregeld hoe lang een uitkering mag duren. Zo duurt de WW-uitkering enkele maanden tot hooguit een paar jaar. Bijstand duurt op zijn langst totdat iemand 67 jaar is.",
+                "rewritten_sentences": "De wetten zeggen hoe lang een uitkering duurt. Een werkloosheidsuitkering gaat enkele maanden tot een paar jaar. Bijstand duurt tot je 67 jaar bent.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst toegankelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "In de sociale wetten is ten slotte geregeld hoe lang een uitkering mag duren.",
+                        "new_text": "De wetten zeggen hoe lang een uitkering duurt.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Vereenvoudigde zin en verwijderde afkorting om de leesbaarheid te verbeteren.",
+                        "start_word": 13,
+                        "end_word": 27,
+                        "original_text": "Zo duurt de WW-uitkering enkele maanden tot hooguit een paar jaar.",
+                        "new_text": "Een werkloosheidsuitkering gaat enkele maanden tot een paar jaar.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Vereenvoudigde formulering om de tekst korter en toegankelijker te maken.",
+                        "start_word": 28,
+                        "end_word": 38,
+                        "original_text": "Bijstand duurt op zijn langst totdat iemand 67 jaar is.",
+                        "new_text": "Bijstand duurt tot je 67 jaar bent.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "uitleg over sociale zekerheid",
+        "full_text": "Lars werkt als tekenaar bij Bouwvast BV. Hij heeft angst om zijn baan te verliezen, omdat er bijna geen werk is. Hij maakt zich vooral zorgen over zijn baan, want zonder baan heeft hij ook geen loon meer. Niet iedereen heeft een eigen inkomen. Sommige mensen leven van het geld van hun partner of hun ouders. Er zijn ook mensen zonder inkomen. Zij krijgen geen geld van hun ouders of partner. Toch heeft iedereen recht op geld, volgens de overheid. Daarom geeft de overheid hen een inkomen. Dit heet sociale zekerheid. Wie een inkomen heeft, betaalt belasting en sociale premies. Dit staat in de wetten. De overheid gebruikt dit geld voor sociale zekerheid. Mensen met inkomen betalen zo mee voor mensen zonder inkomen. De sociale wetten zeggen hoe hoog een uitkering is. Bij werkloosheid krijg je 70% van je laatste loon. Bijstand zorgt dat je inkomen voldoende is om rond te komen. Hoeveel je krijgt, hangt af van je gezinssituatie. Een alleenstaande krijgt minder dan een alleenstaande ouder. De wetten zeggen wie een uitkering krijgt. Werkloze werknemers krijgen een uitkering. Andere werklozen krijgen bijstand, maar alleen als ze weinig geld hebben of geen partner met inkomen. De wetten zeggen hoe lang een uitkering duurt. Een werkloosheidsuitkering gaat enkele maanden tot een paar jaar. Bijstand duurt tot je 67 jaar bent.",
+        "prompt_id": "T09_mak",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-24 19:32:53.948092"
+}

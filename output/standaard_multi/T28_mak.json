@@ -1,0 +1,1369 @@
+{
+    "prompt_id": "T28_mak",
+    "Org - text": "Arbeidsovereenkomst\n\nMeneer Smit bekijkt de arbeidsovereenkomst van een chauffeur die minder wil gaan werken. De chauffeur wil het liefst \u00e9\u00e9n dag in de week thuis voor zijn baby zorgen. In de arbeidsovereenkomst staat dat hij vijf dagen per week zal werken.\n\nEen arbeidsovereenkomst is een afspraak tussen werkgever en werknemer. De werknemer werkt en de werkgever betaalt loon.\n\nEen half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit: die ging in een andere stad wonen en kon niet meer bij hem blijven werken. Die chauffeur heeft een maand voordat hij ging verhuizen zijn baan opgezegd. Meneer Smit heeft toen een afscheidsfeestje gegeven voor die chauffeur.\n\nIn de arbeidsovereenkomst staat een opzegtermijn. Een opzegtermijn is een periode waarin je nog je werk blijft doen nadat je hebt opgezegd, of nadat je ontslag hebt gekregen. Die periode is gewoonlijk een maand, soms twee of drie maanden.\n\nDe chauffeur die nu minder wil werken en voor zijn baby wil zorgen is een goede chauffeur. Het bedrijf heeft het bovendien heel druk. Meneer Smit doet een voorstel aan de chauffeur: als hij vier dagen in de week 9 uur komt werken, kan hij \u00e9\u00e9n hele dag vrij nemen. Hij gaat dan 36 uur per week werken in plaats van 40 uur. Hij zal een nieuwe arbeidsovereenkomst krijgen, maar dan zonder proeftijd.\n\nProeftijd is een afgesproken periode waarin je een arbeidsovereenkomst kunt opzeggen. Ook is er tijdens de proeftijd geen opzegtermijn. Zowel de werkgever als de werknemer kunnen de overeenkomst opzeggen. Voor beiden biedt de proeftijd de mogelijkheid om te kijken of het bevalt. De proeftijd mag niet langer zijn dan twee maanden.\n\nMeneer Smit weet nu zeker dat hij nieuwe chauffeurs gaat aannemen. Het komende half jaar verwacht hij heel veel werk. Hij denkt erover om een aantal chauffeurs in tijdelijke dienst te nemen. In vaste dienst betekent dat je een arbeidsovereenkomst hebt voor onbepaalde tijd, dus zonder einddatum. In tijdelijke dienst betekent dat je een tijdelijk dienstverband hebt voor een afgesproken periode. Een tijdelijke arbeidsovereenkomst stopt automatisch als de einddatum is bereikt.",
+    "Org - lint": "27",
+    "Org - sent": "14, 25, 20, 45, 43, 44, 25, 30, 25, 29, 24, 22, 20, 46, 18, 23, 25, 5, 54, 30, 3, 10, 23, 47, 39, 38, 39",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Meneer Smit kijkt naar het contract van een chauffeur die minder uren wil werken. De chauffeur wil graag \u00e9\u00e9n dag per week thuis zijn om voor zijn baby te zorgen. In het contract staat dat hij vijf dagen per week moet werken. Een arbeidsovereenkomst is een afspraak tussen baas en werknemer. De werknemer werkt en de baas betaalt salaris. Zes maanden geleden stopte een chauffeur bij het bedrijf van meneer Smit. Hij ging in een andere stad wonen en kon niet meer werken. Die chauffeur zei zijn baan op een maand voordat hij verhuisde. Meneer Smit gaf een afscheidsfeest voor die chauffeur. In het contract staat hoelang je moet werken na opzeggen. Een opzegtermijn is de tijd dat je nog werkt nadat je hebt opgezegd of ontslagen bent. Die tijd duurt meestal \u00e9\u00e9n maand, soms twee of drie maanden. De chauffeur die minder wil werken en voor zijn baby wil zorgen, is een goede chauffeur. Het bedrijf heeft het erg druk. Meneer Smit stelt de chauffeur voor om vier dagen per week negen uur te werken. Dan kan hij \u00e9\u00e9n hele dag vrij zijn. Hij werkt dan 36 uur per week in plaats van 40 uur. Hij krijgt een nieuw contract, maar dan zonder proefperiode. Een proefperiode is een afgesproken tijd waarin je het contract kunt stoppen. Tijdens de proefperiode is er geen opzegtijd. Zowel de baas als de werknemer kunnen het contract stoppen. De proefperiode geeft beide personen tijd om te zien of het werkt. De proefperiode mag niet langer dan twee maanden duren. Meneer Smit weet zeker dat hij nieuwe chauffeurs gaat aannemen. Hij verwacht veel werk de komende zes maanden. Hij wil een paar chauffeurs tijdelijk in dienst nemen. In vaste dienst betekent dat je een contract hebt zonder einddatum. In tijdelijke dienst betekent dat je een tijdelijk contract hebt voor een periode die is afgesproken. Een tijdelijk contract stopt automatisch als de einddatum komt.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "22",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "17, 16, 19, 32, 29, 24, 11, 26, 15, 24, 16, 18, 20, 19, 36, 5, 25, 32, 21, 25, 31, 9, 25, 9, 25, 35, 27, 31, 31",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Meneer Smit bekijkt de arbeidsovereenkomst van een chauffeur die minder wil gaan werken.",
+                "rewritten_sentences": "Meneer Smit kijkt naar het contract van een chauffeur die minder uren wil werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Vervangen van ,,bekijkt\" door ,,kijkt\" om woordfrequentie te verhogen en eenvoudiger taal te gebruiken.",
+                        "start_word": 0,
+                        "end_word": 1,
+                        "original_text": "bekijkt de",
+                        "new_text": "kijkt naar het",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De chauffeur wil het liefst \u00e9\u00e9n dag in de week thuis voor zijn baby zorgen.",
+                "rewritten_sentences": "De chauffeur wil graag \u00e9\u00e9n dag per week thuis zijn om voor zijn baby te zorgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": ",,per week\" is concreter dan ,,in de week\". Zin duidelijker en eenvoudiger gemaakt.",
+                        "start_word": 3,
+                        "end_word": 5,
+                        "original_text": "\u00e9\u00e9n dag in de",
+                        "new_text": "\u00e9\u00e9n dag per week",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de arbeidsovereenkomst staat dat hij vijf dagen per week zal werken.",
+                "rewritten_sentences": "In het contract staat dat hij vijf dagen per week moet werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Vervangen van ,,arbeidsovereenkomst\" door ,,contract\" om concreter zelfstandig naamwoord te gebruiken en woordfrequentie te verhogen.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "arbeidsovereenkomst",
+                        "new_text": "contract",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een arbeidsovereenkomst is een afspraak tussen werkgever en werknemer.",
+                "rewritten_sentences": "Een arbeidsovereenkomst is een afspraak tussen baas en werknemer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Gebruik van eenvoudiger woord ,,baas\" in plaats van ,,werkgever\" verhoogt woordfrequentie en vergemakkelijkt begrip.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "werkgever",
+                        "new_text": "baas",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De werknemer werkt en de werkgever betaalt loon.",
+                "rewritten_sentences": "De werknemer werkt en de baas betaalt salaris.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Gebruik van ,,baas\" en ,,salaris\" eenvoudiger en concreter dan ,,werkgever\" en ,,loon\".",
+                        "start_word": 3,
+                        "end_word": 4,
+                        "original_text": "werkgever betaalt loon",
+                        "new_text": "baas betaalt salaris",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit: die ging in een andere stad wonen en kon niet meer bij hem blijven werken.",
+                "rewritten_sentences": "Zes maanden geleden stopte een chauffeur bij het bedrijf van meneer Smit. Hij ging in een andere stad wonen en kon niet meer werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": ",,Zes maanden geleden\" is concreter en eenvoudiger dan ,,Een half jaar geleden\". De zin is opgesplitst om afhankelijkheidslengte te verlagen.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit: die ging in een andere stad wonen en kon niet meer bij hem blijven werken",
+                        "new_text": "Zes maanden geleden stopte een chauffeur bij het bedrijf van meneer Smit. Hij ging in een andere stad wonen en kon niet meer werken",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die chauffeur heeft een maand voordat hij ging verhuizen zijn baan opgezegd.",
+                "rewritten_sentences": "Die chauffeur zei zijn baan op een maand voordat hij verhuisde.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "De zin is korter en eenvoudiger gemaakt met meer directe woordvolgorde.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Die chauffeur heeft een maand voordat hij ging verhuizen zijn baan opgezegd",
+                        "new_text": "Die chauffeur zei zijn baan op een maand voordat hij verhuisde",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit heeft toen een afscheidsfeestje gegeven voor die chauffeur.",
+                "rewritten_sentences": "Meneer Smit gaf een afscheidsfeest voor die chauffeur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Gebruik van kortere en concretere woorden zoals ,,gaf\" i.p.v. ,,heeft gegeven\" verhoogt woordfrequentie en leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Meneer Smit heeft toen een afscheidsfeestje gegeven voor",
+                        "new_text": "Meneer Smit gaf een afscheidsfeest voor",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de arbeidsovereenkomst staat een opzegtermijn.",
+                "rewritten_sentences": "In het contract staat hoelang je moet werken na opzeggen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": ",,Opzegtermijn\" is moeilijk woord; uitleg is eenvoudiger voor de lezer. Herstructurering zin verlaagt afhankelijkheidslengte.",
+                        "start_word": 1,
+                        "end_word": 2,
+                        "original_text": "arbeidsovereenkomst staat",
+                        "new_text": "contract staat hoelang je moet",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een opzegtermijn is een periode waarin je nog je werk blijft doen nadat je hebt opgezegd, of nadat je ontslag hebt gekregen.",
+                "rewritten_sentences": "Een opzegtermijn is de tijd dat je nog werkt nadat je hebt opgezegd of ontslagen bent.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Kortere en eenvoudigere zin vermindert aantal inhoudswoorden, verhoogt woordfrequentie en verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "Een opzegtermijn is een periode waarin je nog je werk blijft doen nadat je hebt opgezegd, of nadat je ontslag hebt gekregen",
+                        "new_text": "Een opzegtermijn is de tijd dat je nog werkt nadat je hebt opgezegd of ontslagen bent",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die periode is gewoonlijk een maand, soms twee of drie maanden.",
+                "rewritten_sentences": "Die tijd duurt meestal \u00e9\u00e9n maand, soms twee of drie maanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Eenvoudiger woordgebruik en verkorte zinsbouw verbeteren leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Die periode is gewoonlijk een maand, soms",
+                        "new_text": "Die tijd duurt meestal \u00e9\u00e9n maand, soms",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De chauffeur die nu minder wil werken en voor zijn baby wil zorgen is een goede chauffeur.",
+                "rewritten_sentences": "De chauffeur die minder wil werken en voor zijn baby wil zorgen, is een goede chauffeur.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het bedrijf heeft het bovendien heel druk.",
+                "rewritten_sentences": "Het bedrijf heeft het erg druk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Vermindering van het aantal woorden door eenvoudiger woord \"erg\" in plaats van \"heel\".",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Het bedrijf heeft het bovendien heel druk",
+                        "new_text": "Het bedrijf heeft het erg druk",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit doet een voorstel aan de chauffeur: als hij vier dagen in de week 9 uur komt werken, kan hij \u00e9\u00e9n hele dag vrij nemen.",
+                "rewritten_sentences": "Meneer Smit stelt de chauffeur voor om vier dagen per week negen uur te werken. Dan kan hij \u00e9\u00e9n hele dag vrij zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Splitsing van de zin verlaagt afhankelijkheidslengte, gebruik van eenvoudiger woorden verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Meneer Smit doet een voorstel aan de chauffeur: als hij vier dagen in de week 9 uur komt werken, kan hij \u00e9\u00e9n hele dag vrij nemen",
+                        "new_text": "Meneer Smit stelt de chauffeur voor om vier dagen per week negen uur te werken. Dan kan hij \u00e9\u00e9n hele dag vrij zijn",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij gaat dan 36 uur per week werken in plaats van 40 uur.",
+                "rewritten_sentences": "Hij werkt dan 36 uur per week in plaats van 40 uur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Kortere zinsbouw verhoogt woordfrequentie en leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Hij gaat dan 36 uur per week werken in plaats van 40 uur",
+                        "new_text": "Hij werkt dan 36 uur per week in plaats van 40 uur",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij zal een nieuwe arbeidsovereenkomst krijgen, maar dan zonder proeftijd.",
+                "rewritten_sentences": "Hij krijgt een nieuw contract, maar dan zonder proefperiode.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Gebruik van kortere, concretere woorden verhoogt woordfrequentie en de verhouding van concrete zelfstandige naamwoorden.",
+                        "start_word": 4,
+                        "end_word": 6,
+                        "original_text": "arbeidsovereenkomst krijgen, maar",
+                        "new_text": "contract krijgen, maar",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Proeftijd is een afgesproken periode waarin je een arbeidsovereenkomst kunt opzeggen.",
+                "rewritten_sentences": "Een proefperiode is een afgesproken tijd waarin je het contract kunt stoppen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Gebruik eenvoudiger woorden en kortere zinsbouw verlaagt inhoudswoorden per bijzin en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Proeftijd is een afgesproken periode waarin je een arbeidsovereenkomst kunt opzeggen",
+                        "new_text": "Een proefperiode is een afgesproken tijd waarin je het contract kunt stoppen",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook is er tijdens de proeftijd geen opzegtermijn.",
+                "rewritten_sentences": "Tijdens de proefperiode is er geen opzegtijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Kortere, eenvoudigere woorden verminderen afhankelijkheidslengte en aantal inhoudswoorden.",
+                        "start_word": 4,
+                        "end_word": 7,
+                        "original_text": "tijdens de proeftijd geen opzegtermijn",
+                        "new_text": "de proefperiode is er geen opzegtijd",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zowel de werkgever als de werknemer kunnen de overeenkomst opzeggen.",
+                "rewritten_sentences": "Zowel de baas als de werknemer kunnen het contract stoppen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Gebruik van ,,baas\" en ,,contract\" verhoogt woordfrequentie en concreetheid.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Zowel de werkgever als de werknemer kunnen de overeenkomst opzeggen",
+                        "new_text": "Zowel de baas als de werknemer kunnen het contract stoppen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor beiden biedt de proeftijd de mogelijkheid om te kijken of het bevalt.",
+                "rewritten_sentences": "De proefperiode geeft beide personen tijd om te zien of het werkt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Kortere zinsbouw en eenvoudiger woorden verlagen afhankelijkheidslengte en verhogen woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Voor beiden biedt de proeftijd de mogelijkheid om te kijken of het bevalt",
+                        "new_text": "De proefperiode geeft beide personen tijd om te zien of het werkt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De proeftijd mag niet langer zijn dan twee maanden.",
+                "rewritten_sentences": "De proefperiode mag niet langer dan twee maanden duren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Kortere en eenvoudigere zinsstructuur verhoogt leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "De proeftijd mag niet langer zijn dan twee maanden",
+                        "new_text": "De proefperiode mag niet langer dan twee maanden duren",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit weet nu zeker dat hij nieuwe chauffeurs gaat aannemen.",
+                "rewritten_sentences": "Meneer Smit weet zeker dat hij nieuwe chauffeurs gaat aannemen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Verwijderen van het woord ,,nu\" verlaagt afhankelijkheidslengte zonder informatieverlies.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "nu",
+                        "new_text": "",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het komende half jaar verwacht hij heel veel werk.",
+                "rewritten_sentences": "Hij verwacht veel werk de komende zes maanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Herschikking en gebruik van concretere termen verlagen afhankelijkheidslengte en verhogen concreetheid.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Het komende half jaar verwacht hij heel veel werk",
+                        "new_text": "Hij verwacht veel werk de komende zes maanden",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij denkt erover om een aantal chauffeurs in tijdelijke dienst te nemen.",
+                "rewritten_sentences": "Hij wil een paar chauffeurs tijdelijk in dienst nemen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Gebruik van eenvoudiger taal maakt zin korter en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Hij denkt erover om een aantal chauffeurs in tijdelijke dienst te nemen",
+                        "new_text": "Hij wil een paar chauffeurs tijdelijk in dienst nemen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In vaste dienst betekent dat je een arbeidsovereenkomst hebt voor onbepaalde tijd, dus zonder einddatum.",
+                "rewritten_sentences": "In vaste dienst betekent dat je een contract hebt zonder einddatum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Kortere zin met concretere woorden verlaagt afhankelijkheidslengte en verhoogt concreetheid.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "In vaste dienst betekent dat je een arbeidsovereenkomst hebt voor onbepaalde tijd, dus zonder einddatum",
+                        "new_text": "In vaste dienst betekent dat je een contract hebt zonder einddatum",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In tijdelijke dienst betekent dat je een tijdelijk dienstverband hebt voor een afgesproken periode.",
+                "rewritten_sentences": "In tijdelijke dienst betekent dat je een tijdelijk contract hebt voor een periode die is afgesproken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Gebruik van ,,contract\" verhoogt concreetheid; zin beter leesbaar door helderere volgorde.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "In tijdelijke dienst betekent dat je een tijdelijk dienstverband hebt voor een afgesproken periode",
+                        "new_text": "In tijdelijke dienst betekent dat je een tijdelijk contract hebt voor een periode die is afgesproken",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een tijdelijke arbeidsovereenkomst stopt automatisch als de einddatum is bereikt.",
+                "rewritten_sentences": "Een tijdelijk contract stopt automatisch als de einddatum komt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "Kortere en eenvoudigere woorden verhogen woordfrequentie en leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Een tijdelijke arbeidsovereenkomst stopt automatisch als de einddatum is bereikt",
+                        "new_text": "Een tijdelijk contract stopt automatisch als de einddatum komt",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informerend",
+        "full_text": "Meneer Smit kijkt naar het contract van een chauffeur die minder uren wil werken. De chauffeur wil graag \u00e9\u00e9n dag per week thuis zijn om voor zijn baby te zorgen. In het contract staat dat hij vijf dagen per week moet werken. Een arbeidsovereenkomst is een afspraak tussen baas en werknemer. De werknemer werkt en de baas betaalt salaris. Zes maanden geleden stopte een chauffeur bij het bedrijf van meneer Smit. Hij ging in een andere stad wonen en kon niet meer werken. Die chauffeur zei zijn baan op een maand voordat hij verhuisde. Meneer Smit gaf een afscheidsfeest voor die chauffeur. In het contract staat hoelang je moet werken na opzeggen. Een opzegtermijn is de tijd dat je nog werkt nadat je hebt opgezegd of ontslagen bent. Die tijd duurt meestal \u00e9\u00e9n maand, soms twee of drie maanden. De chauffeur die minder wil werken en voor zijn baby wil zorgen, is een goede chauffeur. Het bedrijf heeft het erg druk. Meneer Smit stelt de chauffeur voor om vier dagen per week negen uur te werken. Dan kan hij \u00e9\u00e9n hele dag vrij zijn. Hij werkt dan 36 uur per week in plaats van 40 uur. Hij krijgt een nieuw contract, maar dan zonder proefperiode. Een proefperiode is een afgesproken tijd waarin je het contract kunt stoppen. Tijdens de proefperiode is er geen opzegtijd. Zowel de baas als de werknemer kunnen het contract stoppen. De proefperiode geeft beide personen tijd om te zien of het werkt. De proefperiode mag niet langer dan twee maanden duren. Meneer Smit weet zeker dat hij nieuwe chauffeurs gaat aannemen. Hij verwacht veel werk de komende zes maanden. Hij wil een paar chauffeurs tijdelijk in dienst nemen. In vaste dienst betekent dat je een contract hebt zonder einddatum. In tijdelijke dienst betekent dat je een tijdelijk contract hebt voor een periode die is afgesproken. Een tijdelijk contract stopt automatisch als de einddatum komt.",
+        "prompt_id": "T28_mak",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Arbeidsovereenkomst Meneer Smit leest het contract van een chauffeur die minder wil werken. De chauffeur wil het liefst \u00e9\u00e9n dag per week thuis voor zijn baby zorgen. In het contract staat dat hij vijf dagen per week werkt. Een contract is een afspraak tussen werkgever en werknemer. De werknemer werkt en de werkgever betaalt salaris. Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit. Hij verhuisde naar een andere stad en kon niet meer bij het bedrijf blijven werken. Die chauffeur heeft een maand voordat hij verhuisde zijn baan opgezegd. Meneer Smit gaf toen een afscheidsfeestje voor die chauffeur. In het contract staat een opzegtermijn. Een opzegtermijn is de periode dat je blijft werken nadat je hebt opgezegd of nadat je ontslag kreeg. Die periode is meestal \u00e9\u00e9n maand, soms twee of drie maanden. De chauffeur die nu minder wil werken om voor zijn baby te zorgen is een goede chauffeur. Het bedrijf heeft het erg druk. Meneer Smit stelt voor: als hij vier dagen per week 9 uur werkt, kan hij \u00e9\u00e9n hele dag vrij nemen. Dan werkt hij 36 uur per week in plaats van 40 uur. Hij krijgt een nieuw contract zonder proeftijd. Proeftijd is een korte periode waarin je het contract mag opzeggen. Tijdens de proeftijd is er ook geen opzegtermijn. Zowel werkgever als werknemer kunnen het contract opzeggen. De proeftijd geeft beiden de kans te kijken of het bevalt. De proeftijd mag maximaal twee maanden duren. Meneer Smit weet nu zeker dat hij nieuwe chauffeurs aanneemt. Het komende half jaar verwacht hij veel werk. Hij overweegt enkele chauffeurs tijdelijk aan te nemen. In vaste dienst heb je een contract voor onbepaalde tijd, dus zonder einddatum. In tijdelijke dienst heb je een tijdelijk contract voor een afgesproken periode. Een tijdelijk contract stopt automatisch als de einddatum is bereikt.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "25",
+    "GPT 5.1 mini/gpt-5-mini - sent": "12, 24, 18, 44, 43, 25, 32, 33, 25, 23, 19, 33, 26, 27, 19, 7, 13, 25, 18, 25, 13, 51, 14, 20, 12, 21, 42, 46, 44, 37",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Arbeidsovereenkomst",
+                "rewritten_sentences": "Arbeidsovereenkomst",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Meneer Smit bekijkt de arbeidsovereenkomst van een chauffeur die minder wil gaan werken.",
+                "rewritten_sentences": "Meneer Smit leest het contract van een chauffeur die minder wil werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "Vervangen van een minder frequent werkwoord door een gangbaarder woord om de woordfrequentie te verhogen.",
+                        "start_word": 3,
+                        "end_word": 3,
+                        "original_text": "bekijkt",
+                        "new_text": "leest",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "s2c2",
+                        "reason_for_change": "Kortere, concretere term voor hetzelfde begrip om het aandeel concrete zelfstandige naamwoorden te verhogen.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "arbeidsovereenkomst",
+                        "new_text": "contract",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "s2c3",
+                        "reason_for_change": "Weglaten van onnodig hulpwerkwoord om de zin korter en eenvoudiger te maken (minder inhoudswoorden per deelzin).",
+                        "start_word": 12,
+                        "end_word": 12,
+                        "original_text": "gaan",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De chauffeur wil het liefst \u00e9\u00e9n dag in de week thuis voor zijn baby zorgen.",
+                "rewritten_sentences": "De chauffeur wil het liefst \u00e9\u00e9n dag per week thuis voor zijn baby zorgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3c1",
+                        "reason_for_change": "Kortere en gebruikelijke woordcombinatie vervangen 'in de week' door 'per week'.",
+                        "start_word": 8,
+                        "end_word": 10,
+                        "original_text": "in de week",
+                        "new_text": "per week",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de arbeidsovereenkomst staat dat hij vijf dagen per week zal werken.",
+                "rewritten_sentences": "In het contract staat dat hij vijf dagen per week werkt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "Vervangen door een korter, concreet woord voor hetzelfde begrip.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "In de arbeidsovereenkomst",
+                        "new_text": "In het contract",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "s4c2",
+                        "reason_for_change": "Tijdsvorm vereenvoudigen en hulpwerkwoord weghalen om de zin compacter te maken.",
+                        "start_word": 11,
+                        "end_word": 12,
+                        "original_text": "zal werken",
+                        "new_text": "werkt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een arbeidsovereenkomst is een afspraak tussen werkgever en werknemer.",
+                "rewritten_sentences": "Een contract is een afspraak tussen werkgever en werknemer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Kortere en frequentere term gebruikt voor leesbaarheid en concreetheid.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "arbeidsovereenkomst",
+                        "new_text": "contract",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De werknemer werkt en de werkgever betaalt loon.",
+                "rewritten_sentences": "De werknemer werkt en de werkgever betaalt salaris.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "Vervangen door een gebruikelijker woord met vergelijkbare betekenis.",
+                        "start_word": 8,
+                        "end_word": 8,
+                        "original_text": "loon",
+                        "new_text": "salaris",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit: die ging in een andere stad wonen en kon niet meer bij hem blijven werken.",
+                "rewritten_sentences": "Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit. Hij verhuisde naar een andere stad en kon niet meer bij het bedrijf blijven werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "De lange zin opgesplitst en herschreven om de zinsstructuur korter te maken en de afhankelijkheidslengte te verlagen.",
+                        "start_word": 13,
+                        "end_word": 28,
+                        "original_text": "die ging in een andere stad wonen en kon niet meer bij hem blijven werken",
+                        "new_text": "Hij verhuisde naar een andere stad en kon niet meer bij het bedrijf blijven werken",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die chauffeur heeft een maand voordat hij ging verhuizen zijn baan opgezegd.",
+                "rewritten_sentences": "Die chauffeur heeft een maand voordat hij verhuisde zijn baan opgezegd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Werkwoordsvorm vereenvoudigd ('ging verhuizen' -> 'verhuisde') om de zin korter en directer te maken.",
+                        "start_word": 7,
+                        "end_word": 9,
+                        "original_text": "ging verhuizen",
+                        "new_text": "verhuisde",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit heeft toen een afscheidsfeestje gegeven voor die chauffeur.",
+                "rewritten_sentences": "Meneer Smit gaf toen een afscheidsfeestje voor die chauffeur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "Voltooid tegenwoordige tijd vervangen door korte verleden tijd om de zin compacter te maken.",
+                        "start_word": 3,
+                        "end_word": 7,
+                        "original_text": "heeft toen een afscheidsfeestje gegeven",
+                        "new_text": "gaf toen een afscheidsfeestje",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de arbeidsovereenkomst staat een opzegtermijn.",
+                "rewritten_sentences": "In het contract staat een opzegtermijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "Kortere term gebruikt voor hetzelfde begrip.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "In de arbeidsovereenkomst",
+                        "new_text": "In het contract",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een opzegtermijn is een periode waarin je nog je werk blijft doen nadat je hebt opgezegd, of nadat je ontslag hebt gekregen.",
+                "rewritten_sentences": "Een opzegtermijn is de periode dat je blijft werken nadat je hebt opgezegd of nadat je ontslag kreeg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "Zinsfrase vereenvoudigd en ingekort om afhankelijkheidslengte en complexiteit te verlagen.",
+                        "start_word": 4,
+                        "end_word": 12,
+                        "original_text": "een periode waarin je nog je werk blijft doen",
+                        "new_text": "de periode dat je blijft werken",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "s11c2",
+                        "reason_for_change": "Korte en directere formulering gekozen voor het tweede deel om de zin eenvoudiger te maken.",
+                        "start_word": 15,
+                        "end_word": 22,
+                        "original_text": "hebt opgezegd, of nadat je ontslag hebt gekregen",
+                        "new_text": "hebt opgezegd of ontslag kreeg",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die periode is gewoonlijk een maand, soms twee of drie maanden.",
+                "rewritten_sentences": "Die periode is meestal \u00e9\u00e9n maand, soms twee of drie maanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "Minder formeel en frequenter woord gebruikt ('gewoonlijk' -> 'meestal').",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "gewoonlijk",
+                        "new_text": "meestal",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De chauffeur die nu minder wil werken en voor zijn baby wil zorgen is een goede chauffeur.",
+                "rewritten_sentences": "De chauffeur die nu minder wil werken om voor zijn baby te zorgen is een goede chauffeur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "Verband tussen zinsdelen duidelijker en compacter gemaakt ('en voor ... wil zorgen' -> 'om voor ... te zorgen').",
+                        "start_word": 8,
+                        "end_word": 13,
+                        "original_text": "en voor zijn baby wil zorgen",
+                        "new_text": "om voor zijn baby te zorgen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bedrijf heeft het bovendien heel druk.",
+                "rewritten_sentences": "Het bedrijf heeft het erg druk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Kortere, gangbare bijwoordcombinatie gebruikt ('bovendien heel' -> 'erg') om de zin vloeiender te maken.",
+                        "start_word": 4,
+                        "end_word": 6,
+                        "original_text": "bovendien heel",
+                        "new_text": "erg",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit doet een voorstel aan de chauffeur: als hij vier dagen in de week 9 uur komt werken, kan hij \u00e9\u00e9n hele dag vrij nemen.",
+                "rewritten_sentences": "Meneer Smit stelt voor: als hij vier dagen per week 9 uur werkt, kan hij \u00e9\u00e9n hele dag vrij nemen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Korter en directer werkwoord gebruikt ('doet een voorstel' -> 'stelt voor').",
+                        "start_word": 3,
+                        "end_word": 5,
+                        "original_text": "doet een voorstel",
+                        "new_text": "stelt voor",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "s15c2",
+                        "reason_for_change": "Gebruik van 'per week' in plaats van 'in de week' voor beknoptheid.",
+                        "start_word": 12,
+                        "end_word": 15,
+                        "original_text": "in de week",
+                        "new_text": "per week",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "s15c3",
+                        "reason_for_change": "Hulpwerkwoord weggelaten om de zin directer en korter te maken.",
+                        "start_word": 17,
+                        "end_word": 19,
+                        "original_text": "komt werken",
+                        "new_text": "werkt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij gaat dan 36 uur per week werken in plaats van 40 uur.",
+                "rewritten_sentences": "Dan werkt hij 36 uur per week in plaats van 40 uur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Volgorde aangepast en hulpwerkwoord weggelaten voor kortere en directere zin.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "Hij gaat dan",
+                        "new_text": "Dan werkt hij",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij zal een nieuwe arbeidsovereenkomst krijgen, maar dan zonder proeftijd.",
+                "rewritten_sentences": "Hij krijgt een nieuw contract zonder proeftijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "Hulpwerkwoord en omslachtige formulering weggelaten; korter en concreter gemaakt.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Hij zal een nieuwe arbeidsovereenkomst krijgen",
+                        "new_text": "Hij krijgt een nieuw contract",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "s17c2",
+                        "reason_for_change": "Overbodige tussenwoordgroep verwijderd ('maar dan') om de zin eenvoudiger te maken.",
+                        "start_word": 7,
+                        "end_word": 8,
+                        "original_text": "maar dan",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Proeftijd is een afgesproken periode waarin je een arbeidsovereenkomst kunt opzeggen.",
+                "rewritten_sentences": "Proeftijd is een korte periode waarin je het contract mag opzeggen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "Minder abstract en concreter woord gekozen en 'afgesproken' vervangen door 'korte' om de betekenis te verduidelijken.",
+                        "start_word": 3,
+                        "end_word": 4,
+                        "original_text": "een afgesproken",
+                        "new_text": "een korte",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "s18c2",
+                        "reason_for_change": "Vervanging van 'een arbeidsovereenkomst' door het concrete en kortere 'het contract' voor duidelijkheid.",
+                        "start_word": 8,
+                        "end_word": 9,
+                        "original_text": "een arbeidsovereenkomst",
+                        "new_text": "het contract",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook is er tijdens de proeftijd geen opzegtermijn.",
+                "rewritten_sentences": "Tijdens de proeftijd is er ook geen opzegtermijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "Woordvolgorde licht aangepast voor natuurlijke leerbaarheid; inhoud ongewijzigd.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Ook is er tijdens de proeftijd geen opzegtermijn",
+                        "new_text": "Tijdens de proeftijd is er ook geen opzegtermijn",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zowel de werkgever als de werknemer kunnen de overeenkomst opzeggen.",
+                "rewritten_sentences": "Zowel werkgever als werknemer kunnen het contract opzeggen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20c1",
+                        "reason_for_change": "Onnodige lidwoorden verwijderd en 'overeenkomst' vervangen door het concretere 'contract' voor beknoptheid en duidelijkheid.",
+                        "start_word": 2,
+                        "end_word": 9,
+                        "original_text": "de werkgever als de werknemer kunnen de overeenkomst",
+                        "new_text": "werkgever als werknemer kunnen het contract",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor beiden biedt de proeftijd de mogelijkheid om te kijken of het bevalt.",
+                "rewritten_sentences": "De proeftijd geeft beiden de kans te kijken of het bevalt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21c1",
+                        "reason_for_change": "Zinsconstructie omgedraaid en eenvoudiger woordgebruik gekozen om de afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Voor beiden biedt de proeftijd de mogelijkheid",
+                        "new_text": "De proeftijd geeft beiden de kans",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De proeftijd mag niet langer zijn dan twee maanden.",
+                "rewritten_sentences": "De proeftijd mag maximaal twee maanden duren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s22c1",
+                        "reason_for_change": "Kortere formulering gekozen ('mag maximaal ... duren') voor eenvoud en duidelijkheid.",
+                        "start_word": 3,
+                        "end_word": 7,
+                        "original_text": "mag niet langer zijn dan",
+                        "new_text": "mag maximaal",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit weet nu zeker dat hij nieuwe chauffeurs gaat aannemen.",
+                "rewritten_sentences": "Meneer Smit weet nu zeker dat hij nieuwe chauffeurs aanneemt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23c1",
+                        "reason_for_change": "Hulpwerkwoord weggelaten voor directere formulering.",
+                        "start_word": 9,
+                        "end_word": 10,
+                        "original_text": "gaat aannemen",
+                        "new_text": "aanneemt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het komende half jaar verwacht hij heel veel werk.",
+                "rewritten_sentences": "Het komende half jaar verwacht hij veel werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s24c1",
+                        "reason_for_change": "Bijwoord 'heel' weggelaten om de zin compacter te maken zonder betekenisverlies.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "heel",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij denkt erover om een aantal chauffeurs in tijdelijke dienst te nemen.",
+                "rewritten_sentences": "Hij overweegt enkele chauffeurs tijdelijk aan te nemen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s25c1",
+                        "reason_for_change": "Kortere en directere formulering gekozen ('overweegt' en 'enkele' in plaats van 'denkt erover om een aantal').",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Hij denkt erover om een aantal chauffeurs in tijdelijke dienst te nemen",
+                        "new_text": "Hij overweegt enkele chauffeurs tijdelijk aan te nemen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In vaste dienst betekent dat je een arbeidsovereenkomst hebt voor onbepaalde tijd, dus zonder einddatum.",
+                "rewritten_sentences": "In vaste dienst heb je een contract voor onbepaalde tijd, dus zonder einddatum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s26c1",
+                        "reason_for_change": "Term 'arbeidsovereenkomst' vervangen door 'contract' en zin ingekort voor duidelijkheid.",
+                        "start_word": 7,
+                        "end_word": 9,
+                        "original_text": "een arbeidsovereenkomst hebt",
+                        "new_text": "een contract heb",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In tijdelijke dienst betekent dat je een tijdelijk dienstverband hebt voor een afgesproken periode.",
+                "rewritten_sentences": "In tijdelijke dienst heb je een tijdelijk contract voor een afgesproken periode.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s27c1",
+                        "reason_for_change": "Het abstracte 'dienstverband' vervangen door het concretere en kortere 'contract'.",
+                        "start_word": 7,
+                        "end_word": 9,
+                        "original_text": "tijdelijk dienstverband hebt",
+                        "new_text": "tijdelijk contract heb",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een tijdelijke arbeidsovereenkomst stopt automatisch als de einddatum is bereikt.",
+                "rewritten_sentences": "Een tijdelijk contract stopt automatisch als de einddatum is bereikt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s28c1",
+                        "reason_for_change": "'Tijdelijke arbeidsovereenkomst' vervangen door het kortere 'tijdelijk contract' voor helderheid.",
+                        "start_word": 2,
+                        "end_word": 3,
+                        "original_text": "tijdelijke arbeidsovereenkomst",
+                        "new_text": "tijdelijk contract",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Arbeidsovereenkomst Meneer Smit leest het contract van een chauffeur die minder wil werken. De chauffeur wil het liefst \u00e9\u00e9n dag per week thuis voor zijn baby zorgen. In het contract staat dat hij vijf dagen per week werkt. Een contract is een afspraak tussen werkgever en werknemer. De werknemer werkt en de werkgever betaalt salaris. Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit. Hij verhuisde naar een andere stad en kon niet meer bij het bedrijf blijven werken. Die chauffeur heeft een maand voordat hij verhuisde zijn baan opgezegd. Meneer Smit gaf toen een afscheidsfeestje voor die chauffeur. In het contract staat een opzegtermijn. Een opzegtermijn is de periode dat je blijft werken nadat je hebt opgezegd of nadat je ontslag kreeg. Die periode is meestal \u00e9\u00e9n maand, soms twee of drie maanden. De chauffeur die nu minder wil werken om voor zijn baby te zorgen is een goede chauffeur. Het bedrijf heeft het erg druk. Meneer Smit stelt voor: als hij vier dagen per week 9 uur werkt, kan hij \u00e9\u00e9n hele dag vrij nemen. Dan werkt hij 36 uur per week in plaats van 40 uur. Hij krijgt een nieuw contract zonder proeftijd. Proeftijd is een korte periode waarin je het contract mag opzeggen. Tijdens de proeftijd is er ook geen opzegtermijn. Zowel werkgever als werknemer kunnen het contract opzeggen. De proeftijd geeft beiden de kans te kijken of het bevalt. De proeftijd mag maximaal twee maanden duren. Meneer Smit weet nu zeker dat hij nieuwe chauffeurs aanneemt. Het komende half jaar verwacht hij veel werk. Hij overweegt enkele chauffeurs tijdelijk aan te nemen. In vaste dienst heb je een contract voor onbepaalde tijd, dus zonder einddatum. In tijdelijke dienst heb je een tijdelijk contract voor een afgesproken periode. Een tijdelijk contract stopt automatisch als de einddatum is bereikt.",
+        "prompt_id": "T28_mak",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "Meneer Smit bekijkt het contract van een chauffeur. De chauffeur wil minder uren werken. Hij wil \u00e9\u00e9n dag per week thuis zijn voor zijn baby. In het contract staat dat hij vijf dagen werkt. Een contract is een afspraak tussen de baas en de werknemer. Zes maanden geleden ging een chauffeur weg. Hij ging in een andere stad wonen. Hij kon daar niet meer werken. In het contract staat een opzegtermijn. Soms stopt iemand met werken. Je moet dan nog een tijdje doorwerken. Dat heet de opzegtermijn. Meneer Smit doet een voorstel. De man kan vier dagen van 9 uur werken. Dan is hij \u00e9\u00e9n dag vrij. Hij krijgt een nieuw contract. In dat contract staat geen proeftijd. Vaste dienst betekent dat je een contract hebt voor altijd. Er is geen einddatum.",
+    "Gemini/gemini-3-flash-preview - lint": "14",
+    "Gemini/gemini-3-flash-preview - sent": "26, 11, 0, 16, 34, 10, 7, 23, 18, 14, 12, 9, 2, 27, 11, 32, 0",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Meneer Smit bekijkt de arbeidsovereenkomst van een chauffeur die minder wil gaan werken.",
+                "rewritten_sentences": "Meneer Smit bekijkt het contract van een chauffeur. De chauffeur wil minder uren werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Het woord 'arbeidsovereenkomst' is lang en abstract. 'Contract' is vaker gebruikt.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "arbeidsovereenkomst",
+                        "new_text": "contract",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "De zin is gesplitst om de afhankelijkheidslengte te verlagen.",
+                        "start_word": 8,
+                        "end_word": 12,
+                        "original_text": "die minder wil gaan werken",
+                        "new_text": ". De chauffeur wil minder uren werken",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De chauffeur wil het liefst \u00e9\u00e9n dag in de week thuis voor zijn baby zorgen.",
+                "rewritten_sentences": "Hij wil \u00e9\u00e9n dag per week thuis zijn voor zijn baby.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Kortere zinsbouw en frequentere woorden gebruikt.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "De chauffeur wil het liefst \u00e9\u00e9n dag in de week thuis voor zijn baby zorgen",
+                        "new_text": "Hij wil \u00e9\u00e9n dag per week thuis zijn voor zijn baby",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de arbeidsovereenkomst staat dat hij vijf dagen per week zal werken.",
+                "rewritten_sentences": "In het contract staat dat hij vijf dagen werkt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Minder woorden in de bijzin.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "arbeidsovereenkomst",
+                        "new_text": "contract",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een arbeidsovereenkomst is een afspraak tussen werkgever en werknemer.",
+                "rewritten_sentences": "Een contract is een afspraak tussen de baas en de werknemer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Het woord 'baas' is concreter dan 'werkgever'.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "werkgever",
+                        "new_text": "baas",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit: die ging in een andere stad wonen en kon niet meer bij hem blijven werken.",
+                "rewritten_sentences": "Zes maanden geleden ging een chauffeur weg. Hij ging in een andere stad wonen. Hij kon daar niet meer werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Lange zin opgesplitst in drie korte zinnen.",
+                        "start_word": 0,
+                        "end_word": 28,
+                        "original_text": "Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit: die ging in een andere stad wonen en kon niet meer bij hem blijven werken",
+                        "new_text": "Zes maanden geleden ging een chauffeur weg. Hij ging in een andere stad wonen. Hij kon daar niet meer werken",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de arbeidsovereenkomst staat een opzegtermijn.",
+                "rewritten_sentences": "In het contract staat een opzegtermijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vervanging door een frequenter woord.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "arbeidsovereenkomst",
+                        "new_text": "contract",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een opzegtermijn is een periode waarin je nog je werk blijft doen nadat je hebt opgezegd, of nadat je ontslag hebt gekregen.",
+                "rewritten_sentences": "Soms stopt iemand met werken. Je moet dan nog een tijdje doorwerken. Dat heet de opzegtermijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Complexe definitie vereenvoudigd naar korte zinnen.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Een opzegtermijn is een periode waarin je nog je werk blijft doen nadat je hebt opgezegd, of nadat je ontslag hebt gekregen",
+                        "new_text": "Soms stopt iemand met werken. Je moet dan nog een tijdje doorwerken. Dat heet de opzegtermijn",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit doet een voorstel aan de chauffeur: als hij vier dagen in de week 9 uur komt werken, kan hij \u00e9\u00e9n hele dag vrij nemen.",
+                "rewritten_sentences": "Meneer Smit doet een voorstel. De man kan vier dagen van 9 uur werken. Dan is hij \u00e9\u00e9n dag vrij.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Zin met dubbele punt en voorwaarde opgesplitst.",
+                        "start_word": 0,
+                        "end_word": 26,
+                        "original_text": "Meneer Smit doet een voorstel aan de chauffeur: als hij vier dagen in de week 9 uur komt werken, kan hij \u00e9\u00e9n hele dag vrij nemen",
+                        "new_text": "Meneer Smit doet een voorstel. De man kan vier dagen van 9 uur werken. Dan is hij \u00e9\u00e9n dag vrij",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij zal een nieuwe arbeidsovereenkomst krijgen, maar dan zonder proeftijd.",
+                "rewritten_sentences": "Hij krijgt een nieuw contract. In dat contract staat geen proeftijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Woordgebruik versimpeld en zin gesplitst.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "arbeidsovereenkomst",
+                        "new_text": "contract",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In vaste dienst betekent dat je een arbeidsovereenkomst hebt voor onbepaalde tijd, dus zonder einddatum.",
+                "rewritten_sentences": "Vaste dienst betekent dat je een contract hebt voor altijd. Er is geen einddatum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Onbepaalde tijd is een abstract begrip. 'Voor altijd' is concreter.",
+                        "start_word": 10,
+                        "end_word": 11,
+                        "original_text": "onbepaalde tijd",
+                        "new_text": "altijd",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst",
+        "full_text": "Meneer Smit bekijkt het contract van een chauffeur. De chauffeur wil minder uren werken. Hij wil \u00e9\u00e9n dag per week thuis zijn voor zijn baby. In het contract staat dat hij vijf dagen werkt. Een contract is een afspraak tussen de baas en de werknemer. Zes maanden geleden ging een chauffeur weg. Hij ging in een andere stad wonen. Hij kon daar niet meer werken. In het contract staat een opzegtermijn. Soms stopt iemand met werken. Je moet dan nog een tijdje doorwerken. Dat heet de opzegtermijn. Meneer Smit doet een voorstel. De man kan vier dagen van 9 uur werken. Dan is hij \u00e9\u00e9n dag vrij. Hij krijgt een nieuw contract. In dat contract staat geen proeftijd. Vaste dienst betekent dat je een contract hebt voor altijd. Er is geen einddatum.",
+        "prompt_id": "T28_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Meneer Smit praat met een chauffeur die minder wil werken. De chauffeur wil graag \u00e9\u00e9n dag per week thuisblijven om voor zijn baby te zorgen. Nu staat in zijn contract dat hij vijf dagen per week moet werken. Een arbeidsovereenkomst is een afspraak tussen baas en werknemer. De werknemer doet het werk en de baas betaalt hem. Half jaar geleden stopte een chauffeur bij meneer Smit. Hij verhuisde naar een andere stad. Een maand van tevoren zei hij zijn baan op. Meneer Smit gaf toen een afscheidspartijtje. In een contract staat vaak een opzegtermijn. Dat is de tijd dat je nog werkt nadat je bent vertrokken. Meestal is dat \u00e9\u00e9n maand, soms twee of drie maanden. De chauffeur die minder wil werken is goed in zijn werk. Het bedrijf heeft veel te doen. Meneer Smit maakt een plan: vier dagen per week werkt hij 9 uur. Dan krijgt hij \u00e9\u00e9n dag vrij. Zo werkt hij 36 uur per week, in plaats van 40 uur. Hij krijgt een nieuw contract, maar dan zonder proeftijd. Proeftijd is een tijd dat je een contract kunt be\u00ebindigen. Tijdens die tijd hoef je geen opzegtermijn te wachten. Baas en werknemer kunnen het contract stoppen. Zo kunnen ze kijken of het goed gaat. Proeftijd mag niet langer zijn dan twee maanden. Meneer Smit wil nieuwe chauffeurs aannemen. De komende zes maanden heeft hij veel werk. Hij overweegt tijdelijke medewerkers in te huren. Bij vaste dienst heb je een contract zonder einddatum. Bij tijdelijke dienst heb je een contract voor een bepaalde tijd. Zo\u2019n contract eindigt automatisch op de afgesproken datum.",
+    "Mistral/ministral-14b-latest - lint": "20",
+    "Mistral/ministral-14b-latest - sent": "3, 23, 24, 32, 21, 20, 14, 14, 30, 25, 4, 14, 6, 16, 15, 3, 25, 24, 18, 21, 30, 3, 13, 18, 39, 36, 34, 50",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Arbeidsovereenkomst",
+                "rewritten_sentences": "Meneer Smit praat met een chauffeur die minder wil werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_1",
+                        "reason_for_change": "Vereenvoudigde titel en voegde context toe om de tekst direct begrijpelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Arbeidsovereenkomst",
+                        "new_text": "Meneer Smit praat met een chauffeur die minder wil werken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit bekijkt de arbeidsovereenkomst van een chauffeur die minder wil gaan werken. De chauffeur wil het liefst \u00e9\u00e9n dag in de week thuis voor zijn baby zorgen. In de arbeidsovereenkomst staat dat hij vijf dagen per week zal werken.",
+                "rewritten_sentences": "De chauffeur wil graag \u00e9\u00e9n dag per week thuisblijven om voor zijn baby te zorgen. Nu staat in zijn contract dat hij vijf dagen per week moet werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_2a",
+                        "reason_for_change": "Vereenvoudigde zinnen en gebruikte eenvoudiger woorden om de betekenis te behouden.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Meneer Smit bekijkt de arbeidsovereenkomst van een chauffeur die minder wil gaan werken. De chauffeur wil het liefst \u00e9\u00e9n dag in de week thuis voor zijn baby zorgen.",
+                        "new_text": "De chauffeur wil graag \u00e9\u00e9n dag per week thuisblijven om voor zijn baby te zorgen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_2b",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en gebruikte eenvoudiger woorden.",
+                        "start_word": 12,
+                        "end_word": 20,
+                        "original_text": "In de arbeidsovereenkomst staat dat hij vijf dagen per week zal werken.",
+                        "new_text": "Nu staat in zijn contract dat hij vijf dagen per week moet werken.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een arbeidsovereenkomst is een afspraak tussen werkgever en werknemer. De werknemer werkt en de werkgever betaalt loon.",
+                "rewritten_sentences": "Een arbeidsovereenkomst is een afspraak tussen baas en werknemer. De werknemer doet het werk en de baas betaalt hem.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_3a",
+                        "reason_for_change": "Vereenvoudigde termen om de tekst toegankelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Een arbeidsovereenkomst is een afspraak tussen werkgever en werknemer.",
+                        "new_text": "Een arbeidsovereenkomst is een afspraak tussen baas en werknemer.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_3b",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en gebruikte eenvoudiger woorden.",
+                        "start_word": 11,
+                        "end_word": 20,
+                        "original_text": "De werknemer werkt en de werkgever betaalt loon.",
+                        "new_text": "De werknemer doet het werk en de baas betaalt hem.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit: die ging in een andere stad wonen en kon niet meer bij hem blijven werken. Die chauffeur heeft een maand voordat hij ging verhuizen zijn baan opgezegd. Meneer Smit heeft toen een afscheidsfeestje gegeven voor die chauffeur.",
+                "rewritten_sentences": "Half jaar geleden stopte een chauffeur bij meneer Smit. Hij verhuisde naar een andere stad. Een maand van tevoren zei hij zijn baan op. Meneer Smit gaf toen een afscheidspartijtje.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_4a",
+                        "reason_for_change": "Vereenvoudigde zinnen en verwijderde herhalingen.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Een half jaar geleden vertrok een chauffeur bij het bedrijf van meneer Smit: die ging in een andere stad wonen en kon niet meer bij hem blijven werken.",
+                        "new_text": "Half jaar geleden stopte een chauffeur bij meneer Smit. Hij verhuisde naar een andere stad.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_4b",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en gebruikte eenvoudiger woorden.",
+                        "start_word": 16,
+                        "end_word": 28,
+                        "original_text": "Die chauffeur heeft een maand voordat hij ging verhuizen zijn baan opgezegd.",
+                        "new_text": "Een maand van tevoren zei hij zijn baan op.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "sentence_4c",
+                        "reason_for_change": "Vereenvoudigde woordkeuze.",
+                        "start_word": 29,
+                        "end_word": 38,
+                        "original_text": "Meneer Smit heeft toen een afscheidsfeestje gegeven voor die chauffeur.",
+                        "new_text": "Meneer Smit gaf toen een afscheidspartijtje.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de arbeidsovereenkomst staat een opzegtermijn. Een opzegtermijn is een periode waarin je nog je werk blijft doen nadat je hebt opgezegd, of nadat je ontslag hebt gekregen. Die periode is gewoonlijk een maand, soms twee of drie maanden.",
+                "rewritten_sentences": "In een contract staat vaak een opzegtermijn. Dat is de tijd dat je nog werkt nadat je bent vertrokken. Meestal is dat \u00e9\u00e9n maand, soms twee of drie maanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_5a",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en verwijderde herhalingen.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "In de arbeidsovereenkomst staat een opzegtermijn.",
+                        "new_text": "In een contract staat vaak een opzegtermijn.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_5b",
+                        "reason_for_change": "Vereenvoudigde uitleg en gebruikte eenvoudiger woorden.",
+                        "start_word": 11,
+                        "end_word": 30,
+                        "original_text": "Een opzegtermijn is een periode waarin je nog je werk blijft doen nadat je hebt opgezegd, of nadat je ontslag hebt gekregen.",
+                        "new_text": "Dat is de tijd dat je nog werkt nadat je bent vertrokken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_5c",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur.",
+                        "start_word": 31,
+                        "end_word": 45,
+                        "original_text": "Die periode is gewoonlijk een maand, soms twee of drie maanden.",
+                        "new_text": "Meestal is dat \u00e9\u00e9n maand, soms twee of drie maanden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De chauffeur die nu minder wil werken en voor zijn baby wil zorgen is een goede chauffeur. Het bedrijf heeft het bovendien heel druk. Meneer Smit doet een voorstel aan de chauffeur: als hij vier dagen in de week 9 uur komt werken, kan hij \u00e9\u00e9n hele dag vrij nemen. Hij gaat dan 36 uur per week werken in plaats van 40 uur. Hij zal een nieuwe arbeidsovereenkomst krijgen, maar dan zonder proeftijd.",
+                "rewritten_sentences": "De chauffeur die minder wil werken is goed in zijn werk. Het bedrijf heeft veel te doen. Meneer Smit maakt een plan: vier dagen per week werkt hij 9 uur. Dan krijgt hij \u00e9\u00e9n dag vrij. Zo werkt hij 36 uur per week, in plaats van 40 uur. Hij krijgt een nieuw contract, maar dan zonder proeftijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_6a",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en verwijderde herhalingen.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "De chauffeur die nu minder wil werken en voor zijn baby wil zorgen is een goede chauffeur.",
+                        "new_text": "De chauffeur die minder wil werken is goed in zijn werk.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "sentence_6b",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur.",
+                        "start_word": 16,
+                        "end_word": 20,
+                        "original_text": "Het bedrijf heeft het bovendien heel druk.",
+                        "new_text": "Het bedrijf heeft veel te doen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_6c",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en gebruikte eenvoudiger woorden.",
+                        "start_word": 21,
+                        "end_word": 45,
+                        "original_text": "Meneer Smit doet een voorstel aan de chauffeur: als hij vier dagen in de week 9 uur komt werken, kan hij \u00e9\u00e9n hele dag vrij nemen. Hij gaat dan 36 uur per week werken in plaats van 40 uur.",
+                        "new_text": "Meneer Smit maakt een plan: vier dagen per week werkt hij 9 uur. Dan krijgt hij \u00e9\u00e9n dag vrij. Zo werkt hij 36 uur per week, in plaats van 40 uur.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_6d",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur.",
+                        "start_word": 46,
+                        "end_word": 58,
+                        "original_text": "Hij zal een nieuwe arbeidsovereenkomst krijgen, maar dan zonder proeftijd.",
+                        "new_text": "Hij krijgt een nieuw contract, maar dan zonder proeftijd.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Proeftijd is een afgesproken periode waarin je een arbeidsovereenkomst kunt opzeggen. Ook is er tijdens de proeftijd geen opzegtermijn. Zowel de werkgever als de werknemer kunnen de overeenkomst opzeggen. Voor beiden biedt de proeftijd de mogelijkheid om te kijken of het bevalt. De proeftijd mag niet langer zijn dan twee maanden.",
+                "rewritten_sentences": "Proeftijd is een tijd dat je een contract kunt be\u00ebindigen. Tijdens die tijd hoef je geen opzegtermijn te wachten. Baas en werknemer kunnen het contract stoppen. Zo kunnen ze kijken of het goed gaat. Proeftijd mag niet langer zijn dan twee maanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_7a",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en gebruikte eenvoudiger woorden.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Proeftijd is een afgesproken periode waarin je een arbeidsovereenkomst kunt opzeggen.",
+                        "new_text": "Proeftijd is een tijd dat je een contract kunt be\u00ebindigen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_7b",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur.",
+                        "start_word": 11,
+                        "end_word": 20,
+                        "original_text": "Ook is er tijdens de proeftijd geen opzegtermijn.",
+                        "new_text": "Tijdens die tijd hoef je geen opzegtermijn te wachten.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "sentence_7c",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en gebruikte eenvoudiger woorden.",
+                        "start_word": 21,
+                        "end_word": 35,
+                        "original_text": "Zowel de werkgever als de werknemer kunnen de overeenkomst opzeggen.",
+                        "new_text": "Baas en werknemer kunnen het contract stoppen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_7d",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur.",
+                        "start_word": 36,
+                        "end_word": 48,
+                        "original_text": "Voor beiden biedt de proeftijd de mogelijkheid om te kijken of het bevalt.",
+                        "new_text": "Zo kunnen ze kijken of het goed gaat.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "sentence_7e",
+                        "reason_for_change": "Behoudt de informatie maar in een eenvoudiger vorm.",
+                        "start_word": 49,
+                        "end_word": 60,
+                        "original_text": "De proeftijd mag niet langer zijn dan twee maanden.",
+                        "new_text": "Proeftijd mag niet langer zijn dan twee maanden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit weet nu zeker dat hij nieuwe chauffeurs gaat aannemen. Het komende half jaar verwacht hij heel veel werk. Hij denkt erover om een aantal chauffeurs in tijdelijke dienst te nemen. In vaste dienst betekent dat je een arbeidsovereenkomst hebt voor onbepaalde tijd, dus zonder einddatum. In tijdelijke dienst betekent dat je een tijdelijk dienstverband hebt voor een afgesproken periode. Een tijdelijke arbeidsovereenkomst stopt automatisch als de einddatum is bereikt.",
+                "rewritten_sentences": "Meneer Smit wil nieuwe chauffeurs aannemen. De komende zes maanden heeft hij veel werk. Hij overweegt tijdelijke medewerkers in te huren. Bij vaste dienst heb je een contract zonder einddatum. Bij tijdelijke dienst heb je een contract voor een bepaalde tijd. Zo\u2019n contract eindigt automatisch op de afgesproken datum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_8a",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Meneer Smit weet nu zeker dat hij nieuwe chauffeurs gaat aannemen.",
+                        "new_text": "Meneer Smit wil nieuwe chauffeurs aannemen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_8b",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en gebruikte eenvoudiger woorden.",
+                        "start_word": 11,
+                        "end_word": 20,
+                        "original_text": "Het komende half jaar verwacht hij heel veel werk.",
+                        "new_text": "De komende zes maanden heeft hij veel werk.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_8c",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en gebruikte eenvoudiger woorden.",
+                        "start_word": 21,
+                        "end_word": 30,
+                        "original_text": "Hij denkt erover om een aantal chauffeurs in tijdelijke dienst te nemen.",
+                        "new_text": "Hij overweegt tijdelijke medewerkers in te huren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_8d",
+                        "reason_for_change": "Vereenvoudigde uitleg en gebruikte eenvoudiger woorden.",
+                        "start_word": 31,
+                        "end_word": 45,
+                        "original_text": "In vaste dienst betekent dat je een arbeidsovereenkomst hebt voor onbepaalde tijd, dus zonder einddatum.",
+                        "new_text": "Bij vaste dienst heb je een contract zonder einddatum.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "sentence_8e",
+                        "reason_for_change": "Vereenvoudigde uitleg en gebruikte eenvoudiger woorden.",
+                        "start_word": 46,
+                        "end_word": 65,
+                        "original_text": "In tijdelijke dienst betekent dat je een tijdelijk dienstverband hebt voor een afgesproken periode.",
+                        "new_text": "Bij tijdelijke dienst heb je een contract voor een bepaalde tijd.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "sentence_8f",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur.",
+                        "start_word": 66,
+                        "end_word": 80,
+                        "original_text": "Een tijdelijke arbeidsovereenkomst stopt automatisch als de einddatum is bereikt.",
+                        "new_text": "Zo\u2019n contract eindigt automatisch op de afgesproken datum.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "verhaal/werkverhaal",
+        "full_text": "Meneer Smit praat met een chauffeur die minder wil werken. De chauffeur wil graag \u00e9\u00e9n dag per week thuisblijven om voor zijn baby te zorgen. Nu staat in zijn contract dat hij vijf dagen per week moet werken. Een arbeidsovereenkomst is een afspraak tussen baas en werknemer. De werknemer doet het werk en de baas betaalt hem. Half jaar geleden stopte een chauffeur bij meneer Smit. Hij verhuisde naar een andere stad. Een maand van tevoren zei hij zijn baan op. Meneer Smit gaf toen een afscheidspartijtje. In een contract staat vaak een opzegtermijn. Dat is de tijd dat je nog werkt nadat je bent vertrokken. Meestal is dat \u00e9\u00e9n maand, soms twee of drie maanden. De chauffeur die minder wil werken is goed in zijn werk. Het bedrijf heeft veel te doen. Meneer Smit maakt een plan: vier dagen per week werkt hij 9 uur. Dan krijgt hij \u00e9\u00e9n dag vrij. Zo werkt hij 36 uur per week, in plaats van 40 uur. Hij krijgt een nieuw contract, maar dan zonder proeftijd. Proeftijd is een tijd dat je een contract kunt be\u00ebindigen. Tijdens die tijd hoef je geen opzegtermijn te wachten. Baas en werknemer kunnen het contract stoppen. Zo kunnen ze kijken of het goed gaat. Proeftijd mag niet langer zijn dan twee maanden. Meneer Smit wil nieuwe chauffeurs aannemen. De komende zes maanden heeft hij veel werk. Hij overweegt tijdelijke medewerkers in te huren. Bij vaste dienst heb je een contract zonder einddatum. Bij tijdelijke dienst heb je een contract voor een bepaalde tijd. Zo\u2019n contract eindigt automatisch op de afgesproken datum.",
+        "prompt_id": "T28_mak",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-24 20:06:01.448224"
+}
