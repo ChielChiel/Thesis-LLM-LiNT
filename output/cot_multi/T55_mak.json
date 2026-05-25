@@ -1,0 +1,824 @@
+{
+    "prompt_id": "T55_mak",
+    "Org - text": "Werkende jongeren\n\nJongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben. Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen. Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen.\n\nOm te voorkomen dat jongeren te zwaar werk doen of te veel werken, zijn er regels. De Inspectie SZW let erop dat deze regels worden gevolgd.\n\nKinderen van 12 jaar mogen alleen werken als onderdeel van een werkstraf of een leerproject. Het kind moet altijd onder toezicht van een volwassene werken. Voor kinderen tot 13 jaar die meewerken aan een uitvoering gelden andere regels.\n\nKinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht, niet-industrieel werk. Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken. Voor kinderen vanaf 13 jaar die meewerken aan een uitvoering gelden andere regels.\n\nKinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen, zoals vakken vullen in een supermarkt en avondkranten en reclamefolders bezorgen. Voor het bezorgen van ochtendkranten gelden extra regels. De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is.\n\nJongeren van 16 en 17 jaar mogen bijna elk soort werk doen, maar geen gevaarlijk werk. Bovendien mag het werk hen niet verhinderen om naar school te gaan. Er gelden andere regels voor werktijden voor 16- en 17-jarigen dan voor volwassenen.\n\nKinderen van 14 en 15 jaar mogen onder bepaalde voorwaarden stage lopen. Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf, of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd. Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs (vo). Leerlingen doen vrijwilligerswerk om anderen te helpen. Kinderen van 13, 14 en 15 jaar mogen tijdens hun maatschappelijke stage licht, niet-industrieel werk doen.",
+    "Org - lint": "39",
+    "Org - sent": "26, 30, 30, 51, 51, 35, 37, 35, 48, 31, 35, 40, 42, 28, 46, 30, 60, 36, 63, 58, 20, 49",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Werkende jongeren Jongeren moeten naar school tot ze 18 zijn of een startkwalificatie halen. Tot die tijd mogen zij een bijbaan, vakantiebaan, of stage doen. Er gelden regels over het soort werk dat zij mogen doen. Er zijn regels om te voorkomen dat jongeren zwaar werk doen of te veel werken. De Inspectie SZW ziet erop toe dat de regels worden gevolgd. Kinderen van 12 jaar mogen alleen werken in een werkstraf of leerproject. Het kind werkt altijd onder toezicht van een volwassene. Kinderen tot 13 jaar die meewerken aan een uitvoering hebben andere regels. Kinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht niet-industrieel werk. Kinderen van 13 en 14 jaar mogen in schoolweken minder uren werken dan in vakantieweken. Kinderen vanaf 13 jaar die meewerken aan een uitvoering hebben andere regels. Kinderen van 15 jaar mogen zelfstandig licht niet-industrieel werk doen. Bijvoorbeeld vakken vullen in een supermarkt of kranten en folders bezorgen. Er gelden extra regels voor het bezorgen van ochtendkranten. De maximale werktijden voor kinderen van 15 jaar hangen af van leerplicht en schooldagen. Jongeren van 16 en 17 jaar mogen bijna elk werk doen, behalve gevaarlijk werk. Het werk mag hen ook niet stoppen om naar school te gaan. Voor werktijden gelden andere regels voor 16- en 17-jarigen dan voor volwassenen. Kinderen van 14 en 15 jaar mogen onder voorwaarden stage lopen. Er moet een stageovereenkomst zijn tussen school en bedrijf. Of de burgemeester en wethouders moeten een vervangende leerplicht goedkeuren. Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs. Leerlingen doen vrijwilligerswerk om anderen te helpen. Kinderen van 13, 14 en 15 jaar mogen tijdens maatschappelijke stage licht niet-industrieel werk doen.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "35",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "45, 27, 32, 44, 35, 28, 33, 33, 47, 26, 33, 28, 56, 42, 33, 21, 45, 32, 26, 46, 58, 20, 58",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Werkende jongeren",
+                "rewritten_sentences": "Werkende jongeren",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Jongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben.",
+                "rewritten_sentences": "Jongeren moeten naar school tot ze 18 zijn of een startkwalificatie halen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "'Horen op school te zitten totdat' is langer en minder direct dan 'moeten naar school tot'. Zo verminder ik afhankelijkheidslengte en vereenvoudig ik de zin.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Jongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben.",
+                        "new_text": "Jongeren moeten naar school tot ze 18 zijn of een startkwalificatie halen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen.",
+                "rewritten_sentences": "Tot die tijd mogen zij een bijbaan, vakantiebaan, of stage doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "'Hebben of stage lopen' wordt eenvoudig en direct vervangen door 'doen'. Dat verlaagt woordfrequentie en afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen.",
+                        "new_text": "Tot die tijd mogen zij een bijbaan, vakantiebaan, of stage doen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen.",
+                "rewritten_sentences": "Er gelden regels over het soort werk dat zij mogen doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Vereenvoudigen en verkorten van de zin verlaagt afhankelijkheidslengte en aantal inhoudswoorden.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen.",
+                        "new_text": "Er gelden regels over het soort werk dat zij mogen doen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Om te voorkomen dat jongeren te zwaar werk doen of te veel werken, zijn er regels.",
+                "rewritten_sentences": "Er zijn regels om te voorkomen dat jongeren zwaar werk doen of te veel werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Herstructureren zodat 'er zijn regels' aan het begin staat vermindert afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Om te voorkomen dat jongeren te zwaar werk doen of te veel werken, zijn er regels.",
+                        "new_text": "Er zijn regels om te voorkomen dat jongeren zwaar werk doen of te veel werken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Inspectie SZW let erop dat deze regels worden gevolgd.",
+                "rewritten_sentences": "De Inspectie SZW ziet erop toe dat de regels worden gevolgd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Vervangen 'let erop' door eenvoudiger 'ziet erop toe' verduidelijkt de zin met eenvoudiger woorden.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "De Inspectie SZW let erop dat deze regels worden gevolgd.",
+                        "new_text": "De Inspectie SZW ziet erop toe dat de regels worden gevolgd.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 12 jaar mogen alleen werken als onderdeel van een werkstraf of een leerproject.",
+                "rewritten_sentences": "Kinderen van 12 jaar mogen alleen werken in een werkstraf of leerproject.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Zin inkorten door deelzinnen te verwijderen verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Kinderen van 12 jaar mogen alleen werken als onderdeel van een werkstraf of een leerproject.",
+                        "new_text": "Kinderen van 12 jaar mogen alleen werken in een werkstraf of leerproject.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het kind moet altijd onder toezicht van een volwassene werken.",
+                "rewritten_sentences": "Het kind werkt altijd onder toezicht van een volwassene.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Vervangen 'moet' door directe formulering 'werkt altijd onder toezicht' maakt zin eenvoudiger.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Het kind moet altijd onder toezicht van een volwassene werken.",
+                        "new_text": "Het kind werkt altijd onder toezicht van een volwassene.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor kinderen tot 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                "rewritten_sentences": "Kinderen tot 13 jaar die meewerken aan een uitvoering hebben andere regels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Vervangen 'gelden andere regels' door eenvoudiger 'hebben andere regels'.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Voor kinderen tot 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                        "new_text": "Kinderen tot 13 jaar die meewerken aan een uitvoering hebben andere regels.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht, niet-industrieel werk.",
+                "rewritten_sentences": "Kinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht niet-industrieel werk.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken.",
+                "rewritten_sentences": "Kinderen van 13 en 14 jaar mogen in schoolweken minder uren werken dan in vakantieweken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Zin verkorten en uitleg vereenvoudigen verlaagt afhankelijkheidslengte en aantal inhoudswoorden.",
+                        "start_word": 0,
+                        "end_word": 26,
+                        "original_text": "Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken.",
+                        "new_text": "Kinderen van 13 en 14 jaar mogen in schoolweken minder uren werken dan in vakantieweken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor kinderen vanaf 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                "rewritten_sentences": "Kinderen vanaf 13 jaar die meewerken aan een uitvoering hebben andere regels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Zelfde als eerdere aanpassing, vereenvoudigd en verkort.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Voor kinderen vanaf 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                        "new_text": "Kinderen vanaf 13 jaar die meewerken aan een uitvoering hebben andere regels.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen, zoals vakken vullen in een supermarkt en avondkranten en reclamefolders bezorgen.",
+                "rewritten_sentences": "Kinderen van 15 jaar mogen zelfstandig licht niet-industrieel werk doen. Bijvoorbeeld vakken vullen in een supermarkt of kranten en folders bezorgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Opdelen van lange zin in twee zinnen verlaagt afhankelijkheidslengte en aantal inhoudswoorden per deelzin.",
+                        "start_word": 0,
+                        "end_word": 30,
+                        "original_text": "Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen, zoals vakken vullen in een supermarkt en avondkranten en reclamefolders bezorgen.",
+                        "new_text": "Kinderen van 15 jaar mogen zelfstandig licht niet-industrieel werk doen. Bijvoorbeeld vakken vullen in een supermarkt of kranten en folders bezorgen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor het bezorgen van ochtendkranten gelden extra regels.",
+                "rewritten_sentences": "Er gelden extra regels voor het bezorgen van ochtendkranten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Zin herstructureren om afhankelijkheidslengte te verlagen.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Voor het bezorgen van ochtendkranten gelden extra regels.",
+                        "new_text": "Er gelden extra regels voor het bezorgen van ochtendkranten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is.",
+                "rewritten_sentences": "De maximale werktijden voor kinderen van 15 jaar hangen af van leerplicht en schooldagen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Vereenvoudiging van lange bijzin, vermindering afhankelijkslengte en aantal inhoudswoorden.",
+                        "start_word": 0,
+                        "end_word": 26,
+                        "original_text": "De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is.",
+                        "new_text": "De maximale werktijden voor kinderen van 15 jaar hangen af van leerplicht en schooldagen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen, maar geen gevaarlijk werk.",
+                "rewritten_sentences": "Jongeren van 16 en 17 jaar mogen bijna elk werk doen, behalve gevaarlijk werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Korte formulering 'behalve gevaarlijk werk' in plaats van 'maar geen gevaarlijk werk' vereenvoudigt en verkort de zin.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen, maar geen gevaarlijk werk.",
+                        "new_text": "Jongeren van 16 en 17 jaar mogen bijna elk werk doen, behalve gevaarlijk werk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bovendien mag het werk hen niet verhinderen om naar school te gaan.",
+                "rewritten_sentences": "Het werk mag hen ook niet stoppen om naar school te gaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Vervanging van 'verhinderen' door eenvoudiger 'stoppen' en verkorten van zin verlaagt moeilijkheid.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Bovendien mag het werk hen niet verhinderen om naar school te gaan.",
+                        "new_text": "Het werk mag hen ook niet stoppen om naar school te gaan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er gelden andere regels voor werktijden voor 16- en 17-jarigen dan voor volwassenen.",
+                "rewritten_sentences": "Voor werktijden gelden andere regels voor 16- en 17-jarigen dan voor volwassenen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Herstructureren van zin vermindert afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Er gelden andere regels voor werktijden voor 16- en 17-jarigen dan voor volwassenen.",
+                        "new_text": "Voor werktijden gelden andere regels voor 16- en 17-jarigen dan voor volwassenen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 14 en 15 jaar mogen onder bepaalde voorwaarden stage lopen.",
+                "rewritten_sentences": "Kinderen van 14 en 15 jaar mogen onder voorwaarden stage lopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Weglaten van 'bepaalde' verlaagt aantal inhoudswoorden, zonder betekenisverlies.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Kinderen van 14 en 15 jaar mogen onder bepaalde voorwaarden stage lopen.",
+                        "new_text": "Kinderen van 14 en 15 jaar mogen onder voorwaarden stage lopen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf, of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd.",
+                "rewritten_sentences": "Er moet een stageovereenkomst zijn tussen school en bedrijf. Of de burgemeester en wethouders moeten een vervangende leerplicht goedkeuren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Scheiden van lange zin in twee zinnen verlaagt afhankelijkheidslengte. Vereenvoudigen van zinsstructuur ook.",
+                        "start_word": 0,
+                        "end_word": 33,
+                        "original_text": "Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf, of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd.",
+                        "new_text": "Er moet een stageovereenkomst zijn tussen school en bedrijf. Of de burgemeester en wethouders moeten een vervangende leerplicht goedkeuren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs (vo).",
+                "rewritten_sentences": "Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Verwijderen afkorting '(vo)' verlaagt concreetheid en woordfrequentie licht, maar is niet essentieel hier en maakt zin eenvoudiger.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs (vo).",
+                        "new_text": "Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Leerlingen doen vrijwilligerswerk om anderen te helpen.",
+                "rewritten_sentences": "Leerlingen doen vrijwilligerswerk om anderen te helpen.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Kinderen van 13, 14 en 15 jaar mogen tijdens hun maatschappelijke stage licht, niet-industrieel werk doen.",
+                "rewritten_sentences": "Kinderen van 13, 14 en 15 jaar mogen tijdens maatschappelijke stage licht niet-industrieel werk doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Verwijderen lidwoord 'hun' verlaagt contentwoorden zonder betekenisverlies.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Kinderen van 13, 14 en 15 jaar mogen tijdens hun maatschappelijke stage licht, niet-industrieel werk doen.",
+                        "new_text": "Kinderen van 13, 14 en 15 jaar mogen tijdens maatschappelijke stage licht niet-industrieel werk doen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informerende tekst",
+        "full_text": "Werkende jongeren Jongeren moeten naar school tot ze 18 zijn of een startkwalificatie halen. Tot die tijd mogen zij een bijbaan, vakantiebaan, of stage doen. Er gelden regels over het soort werk dat zij mogen doen. Er zijn regels om te voorkomen dat jongeren zwaar werk doen of te veel werken. De Inspectie SZW ziet erop toe dat de regels worden gevolgd. Kinderen van 12 jaar mogen alleen werken in een werkstraf of leerproject. Het kind werkt altijd onder toezicht van een volwassene. Kinderen tot 13 jaar die meewerken aan een uitvoering hebben andere regels. Kinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht niet-industrieel werk. Kinderen van 13 en 14 jaar mogen in schoolweken minder uren werken dan in vakantieweken. Kinderen vanaf 13 jaar die meewerken aan een uitvoering hebben andere regels. Kinderen van 15 jaar mogen zelfstandig licht niet-industrieel werk doen. Bijvoorbeeld vakken vullen in een supermarkt of kranten en folders bezorgen. Er gelden extra regels voor het bezorgen van ochtendkranten. De maximale werktijden voor kinderen van 15 jaar hangen af van leerplicht en schooldagen. Jongeren van 16 en 17 jaar mogen bijna elk werk doen, behalve gevaarlijk werk. Het werk mag hen ook niet stoppen om naar school te gaan. Voor werktijden gelden andere regels voor 16- en 17-jarigen dan voor volwassenen. Kinderen van 14 en 15 jaar mogen onder voorwaarden stage lopen. Er moet een stageovereenkomst zijn tussen school en bedrijf. Of de burgemeester en wethouders moeten een vervangende leerplicht goedkeuren. Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs. Leerlingen doen vrijwilligerswerk om anderen te helpen. Kinderen van 13, 14 en 15 jaar mogen tijdens maatschappelijke stage licht niet-industrieel werk doen.",
+        "prompt_id": "T55_mak",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Werkende jongeren Jongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben. Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen. Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen. Er zijn regels om te voorkomen dat jongeren te zwaar werk doen of te veel werken. De Inspectie SZW controleert of die regels worden gevolgd. Kinderen van 12 jaar mogen alleen werken als het deel is van een werkstraf of een leerproject. Het kind moet altijd onder het toezicht van een volwassene werken. Voor kinderen tot 13 jaar die meedoen aan een uitvoering gelden andere regels. Kinderen van 13 en 14 jaar mogen alleen klusjes doen. Ze mogen helpen bij licht, niet-industrieel werk. Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken. Voor kinderen vanaf 13 jaar die meedoen aan een uitvoering gelden andere regels. Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen. Bijvoorbeeld vakken vullen in een supermarkt. Ook mogen ze avondkranten en reclamefolders bezorgen. Voor het bezorgen van ochtendkranten gelden er extra regels. De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is. Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen. Ze mogen geen gevaarlijk werk doen. Bovendien mag het werk hen niet verhinderen om naar school te gaan. Voor werktijden gelden andere regels voor 16- en 17-jarigen dan voor volwassenen. Kinderen van 14 en 15 jaar mogen stage lopen als aan bepaalde voorwaarden is voldaan. Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf. Of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd. Maatschappelijke stage is leren binnen het voortgezet onderwijs (vo). Leerlingen doen vrijwilligerswerk om anderen te helpen. Tijdens hun maatschappelijke stage mogen kinderen van 13, 14 en 15 jaar licht, niet-industrieel werk doen.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "33",
+    "GPT 5.1 mini/gpt-5-mini - sent": "26, 30, 30, 46, 44, 26, 37, 35, 23, 41, 31, 35, 33, 48, 31, 42, 28, 32, 19, 30, 45, 36, 40, 51, 57, 20, 46",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Werkende jongeren",
+                "rewritten_sentences": "Werkende jongeren",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Jongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben.",
+                "rewritten_sentences": "Jongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen.",
+                "rewritten_sentences": "Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen.",
+                "rewritten_sentences": "Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Om te voorkomen dat jongeren te zwaar werk doen of te veel werken, zijn er regels.",
+                "rewritten_sentences": "Er zijn regels om te voorkomen dat jongeren te zwaar werk doen of te veel werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Hoofdzin naar voren halen om afhankelijkheidslengte te verkorten en de zin directer te maken zonder inhoud te veranderen.",
+                        "start_word": 45,
+                        "end_word": 60,
+                        "original_text": "Om te voorkomen dat jongeren te zwaar werk doen of te veel werken, zijn er regels.",
+                        "new_text": "Er zijn regels om te voorkomen dat jongeren te zwaar werk doen of te veel werken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Inspectie SZW let erop dat deze regels worden gevolgd.",
+                "rewritten_sentences": "De Inspectie SZW controleert of die regels worden gevolgd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "Vervanging van het minder directe 'let erop dat' door het frequente werkwoord 'controleert' om woordfrequentie te verhogen en de zin duidelijker te maken.",
+                        "start_word": 61,
+                        "end_word": 70,
+                        "original_text": "De Inspectie SZW let erop dat deze regels worden gevolgd.",
+                        "new_text": "De Inspectie SZW controleert of die regels worden gevolgd.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 12 jaar mogen alleen werken als onderdeel van een werkstraf of een leerproject.",
+                "rewritten_sentences": "Kinderen van 12 jaar mogen alleen werken als het deel is van een werkstraf of een leerproject.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "Vervanging van 'onderdeel' door het kortere, frequentere 'deel' om woordfrequentie te verhogen en de zin eenvoudiger te maken.",
+                        "start_word": 71,
+                        "end_word": 85,
+                        "original_text": "Kinderen van 12 jaar mogen alleen werken als onderdeel van een werkstraf of een leerproject.",
+                        "new_text": "Kinderen van 12 jaar mogen alleen werken als het deel is van een werkstraf of een leerproject.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het kind moet altijd onder toezicht van een volwassene werken.",
+                "rewritten_sentences": "Het kind moet altijd onder het toezicht van een volwassene werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Kleine herformulering ('onder het toezicht') om de woordkeuze iets gebruikelijker te maken en zo de woordfrequentie te verhogen zonder inhoud te veranderen.",
+                        "start_word": 86,
+                        "end_word": 95,
+                        "original_text": "Het kind moet altijd onder toezicht van een volwassene werken.",
+                        "new_text": "Het kind moet altijd onder het toezicht van een volwassene werken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor kinderen tot 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                "rewritten_sentences": "Voor kinderen tot 13 jaar die meedoen aan een uitvoering gelden andere regels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "Vervanging van 'meewerken' door het kortere en frequente 'meedoen' om woordfrequentie te verhogen en de zin eenvoudiger te maken.",
+                        "start_word": 96,
+                        "end_word": 108,
+                        "original_text": "Voor kinderen tot 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                        "new_text": "Voor kinderen tot 13 jaar die meedoen aan een uitvoering gelden andere regels.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht, niet-industrieel werk.",
+                "rewritten_sentences": "Kinderen van 13 en 14 jaar mogen alleen klusjes doen. Ze mogen helpen bij licht, niet-industrieel werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "De originele zin in twee zinnen gesplitst om het aantal inhoudswoorden per deelzin te verlagen en de afhankelijkheidslengte te beperken.",
+                        "start_word": 109,
+                        "end_word": 124,
+                        "original_text": "Kinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht, niet-industrieel werk.",
+                        "new_text": "Kinderen van 13 en 14 jaar mogen alleen klusjes doen. Ze mogen helpen bij licht, niet-industrieel werk.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken.",
+                "rewritten_sentences": "Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Voor kinderen vanaf 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                "rewritten_sentences": "Voor kinderen vanaf 13 jaar die meedoen aan een uitvoering gelden andere regels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "Vervanging van 'meewerken' door 'meedoen' om de woordfrequentie te verhogen en de zin eenvoudiger te maken.",
+                        "start_word": 147,
+                        "end_word": 159,
+                        "original_text": "Voor kinderen vanaf 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                        "new_text": "Voor kinderen vanaf 13 jaar die meedoen aan een uitvoering gelden andere regels.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen, zoals vakken vullen in een supermarkt en avondkranten en reclamefolders bezorgen.",
+                "rewritten_sentences": "Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen. Bijvoorbeeld vakken vullen in een supermarkt. Ook mogen ze avondkranten en reclamefolders bezorgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "De lange opsomming opgesplitst in korte zinnen en 'zoals' vervangen door 'bijvoorbeeld' om de zinstructuur te vereenvoudigen en het aantal inhoudswoorden per deelzin te verminderen.",
+                        "start_word": 160,
+                        "end_word": 180,
+                        "original_text": "Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen, zoals vakken vullen in een supermarkt en avondkranten en reclamefolders bezorgen.",
+                        "new_text": "Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen. Bijvoorbeeld vakken vullen in een supermarkt. Ook mogen ze avondkranten en reclamefolders bezorgen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor het bezorgen van ochtendkranten gelden extra regels.",
+                "rewritten_sentences": "Voor het bezorgen van ochtendkranten gelden er extra regels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Toevoeging van het veelgebruikte 'er' om de zin natuurlijker en frequenter te maken zonder de betekenis te veranderen.",
+                        "start_word": 181,
+                        "end_word": 188,
+                        "original_text": "Voor het bezorgen van ochtendkranten gelden extra regels.",
+                        "new_text": "Voor het bezorgen van ochtendkranten gelden er extra regels.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is.",
+                "rewritten_sentences": "De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen, maar geen gevaarlijk werk.",
+                "rewritten_sentences": "Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen. Ze mogen geen gevaarlijk werk doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Zin gesplitst in twee korte zinnen om afhankelijkheidslengte en het aantal inhoudswoorden per deelzin te verkleinen en de leesbaarheid te verlagen volgens de methode.",
+                        "start_word": 213,
+                        "end_word": 228,
+                        "original_text": "Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen, maar geen gevaarlijk werk.",
+                        "new_text": "Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen. Ze mogen geen gevaarlijk werk doen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bovendien mag het werk hen niet verhinderen om naar school te gaan.",
+                "rewritten_sentences": "Bovendien mag het werk hen niet verhinderen om naar school te gaan.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Er gelden andere regels voor werktijden voor 16- en 17-jarigen dan voor volwassenen.",
+                "rewritten_sentences": "Voor werktijden gelden andere regels voor 16- en 17-jarigen dan voor volwassenen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "Herordening van zinsdelen om de afhankelijkheidslengte te verkorten en de zin directer te maken zonder de betekenis te veranderen.",
+                        "start_word": 241,
+                        "end_word": 253,
+                        "original_text": "Er gelden andere regels voor werktijden voor 16- en 17-jarigen dan voor volwassenen.",
+                        "new_text": "Voor werktijden gelden andere regels voor 16- en 17-jarigen dan voor volwassenen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 14 en 15 jaar mogen onder bepaalde voorwaarden stage lopen.",
+                "rewritten_sentences": "Kinderen van 14 en 15 jaar mogen stage lopen als aan bepaalde voorwaarden is voldaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "De voorwaarde dichterbij geplaatst ('als aan bepaalde voorwaarden is voldaan') om de afhankelijkheidslengte te verkorten en de formulering gangbaarder te maken.",
+                        "start_word": 254,
+                        "end_word": 265,
+                        "original_text": "Kinderen van 14 en 15 jaar mogen onder bepaalde voorwaarden stage lopen.",
+                        "new_text": "Kinderen van 14 en 15 jaar mogen stage lopen als aan bepaalde voorwaarden is voldaan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf, of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd.",
+                "rewritten_sentences": "Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf. Of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20c1",
+                        "reason_for_change": "De lange samengestelde zin opgesplitst in twee zinnen om het aantal inhoudswoorden per deelzin te verlagen en de afhankelijkheidslengte te beperken, zonder informatie toe te voegen.",
+                        "start_word": 266,
+                        "end_word": 290,
+                        "original_text": "Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf, of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd.",
+                        "new_text": "Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf. Of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs (vo).",
+                "rewritten_sentences": "Maatschappelijke stage is leren binnen het voortgezet onderwijs (vo).",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21c1",
+                        "reason_for_change": "Verwijdering van 'een vorm van' om de zin korter en frequenter te maken, waardoor woordfrequentie stijgt en de zin directer wordt.",
+                        "start_word": 291,
+                        "end_word": 302,
+                        "original_text": "Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs (vo).",
+                        "new_text": "Maatschappelijke stage is leren binnen het voortgezet onderwijs (vo).",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Leerlingen doen vrijwilligerswerk om anderen te helpen.",
+                "rewritten_sentences": "Leerlingen doen vrijwilligerswerk om anderen te helpen.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Kinderen van 13, 14 en 15 jaar mogen tijdens hun maatschappelijke stage licht, niet-industrieel werk doen.",
+                "rewritten_sentences": "Tijdens hun maatschappelijke stage mogen kinderen van 13, 14 en 15 jaar licht, niet-industrieel werk doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23c1",
+                        "reason_for_change": "Zinsdeel ('tijdens hun maatschappelijke stage') naar voren gehaald om afhankelijkheidslengte te verkorten en de zinstructuur eenvoudiger te maken.",
+                        "start_word": 310,
+                        "end_word": 325,
+                        "original_text": "Kinderen van 13, 14 en 15 jaar mogen tijdens hun maatschappelijke stage licht, niet-industrieel werk doen.",
+                        "new_text": "Tijdens hun maatschappelijke stage mogen kinderen van 13, 14 en 15 jaar licht, niet-industrieel werk doen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "beleidsinformatie",
+        "full_text": "Werkende jongeren Jongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben. Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen. Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen. Er zijn regels om te voorkomen dat jongeren te zwaar werk doen of te veel werken. De Inspectie SZW controleert of die regels worden gevolgd. Kinderen van 12 jaar mogen alleen werken als het deel is van een werkstraf of een leerproject. Het kind moet altijd onder het toezicht van een volwassene werken. Voor kinderen tot 13 jaar die meedoen aan een uitvoering gelden andere regels. Kinderen van 13 en 14 jaar mogen alleen klusjes doen. Ze mogen helpen bij licht, niet-industrieel werk. Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken. Voor kinderen vanaf 13 jaar die meedoen aan een uitvoering gelden andere regels. Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen. Bijvoorbeeld vakken vullen in een supermarkt. Ook mogen ze avondkranten en reclamefolders bezorgen. Voor het bezorgen van ochtendkranten gelden er extra regels. De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is. Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen. Ze mogen geen gevaarlijk werk doen. Bovendien mag het werk hen niet verhinderen om naar school te gaan. Voor werktijden gelden andere regels voor 16- en 17-jarigen dan voor volwassenen. Kinderen van 14 en 15 jaar mogen stage lopen als aan bepaalde voorwaarden is voldaan. Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf. Of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd. Maatschappelijke stage is leren binnen het voortgezet onderwijs (vo). Leerlingen doen vrijwilligerswerk om anderen te helpen. Tijdens hun maatschappelijke stage mogen kinderen van 13, 14 en 15 jaar licht, niet-industrieel werk doen.",
+        "prompt_id": "T55_mak",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "",
+    "Gemini/gemini-3-flash-preview - lint": NaN,
+    "Gemini/gemini-3-flash-preview - sent": NaN,
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [],
+        "text_genre": "NA",
+        "full_text": "",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Jongeren moeten naar school tot ze 18 zijn of een startkwalificatie halen. Tot 18 jaar mogen ze een bijbaan, vakantiebaan of stage doen. Er zijn regels over welk werk ze mogen doen. Er zijn regels om te voorkomen dat jongeren te zwaar of te veel werken. De Inspectie SZW controleert of deze regels worden nageleefd. Kinderen van 12 mogen alleen werken in een werkstraf of leerproject. Ze moeten altijd onder toezicht van een volwassene zijn. Voor kinderen onder de 13 jaar die meedoen aan een voorstelling, gelden andere regels. Kinderen van 13 en 14 mogen alleen kleine klusjes doen of helpen bij licht werk. Ze mogen niet in een fabriek werken. Het aantal uren dat ze mogen werken is anders in schoolweken dan in vakantieweken. Voor kinderen vanaf 13 die meedoen aan een voorstelling, gelden andere regels. Kinderen van 15 mogen zelfstandig licht werk doen. Bijvoorbeeld: boodschappen doen in de supermarkt, avondkranten en reclamefolders bezorgen. Voor ochtendkranten zijn er extra regels. De maximale uren hangen af van of het kind nog naar school moet en of het een schooldag is. Jongeren van 16 en 17 mogen bijna alles doen, maar geen gevaarlijk werk. Het werk mag niet in de weg zitten om naar school te gaan. De regels voor werktijden zijn anders voor 16- en 17-jarigen dan voor volwassenen. Kinderen van 14 en 15 mogen onder voorwaarden stage lopen. Er moet een overeenkomst zijn tussen school en bedrijf. Of de burgemeester en wethouders moeten toestemming geven voor vervangende leerplicht. Maatschappelijke stage is leren in het voortgezet onderwijs. Leerlingen helpen anderen door vrijwilligerswerk. Kinderen van 13, 14 en 15 mogen tijdens hun maatschappelijke stage licht werk doen. Ze mogen niet in een fabriek werken.",
+    "Mistral/ministral-14b-latest - lint": "34",
+    "Mistral/ministral-14b-latest - sent": "45, 27, 13, 43, 51, 30, 51, 41, 40, 42, 24, 33, 26, 38, 25, 31, 40, 22, 54, 36, 34, 44, 57, 18, 48, 42",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Jongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben.",
+                "rewritten_sentences": "Jongeren moeten naar school tot ze 18 zijn of een startkwalificatie halen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vereenvoudigde woordkeuze ('horen' \u2192 'moeten') en verwijderde onnodige woorden ('totdat ze') om de zin korter en duidelijker te maken. Dit verlaagt de afhankelijkheidslengte en verbetert de leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Jongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben.",
+                        "new_text": "Jongeren moeten naar school tot ze 18 zijn of een startkwalificatie halen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen. Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen.",
+                "rewritten_sentences": "Tot 18 jaar mogen ze een bijbaan, vakantiebaan of stage doen. Er zijn regels over welk werk ze mogen doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door verwijdering van onnodige woorden ('Tot die tijd', 'wel') en splitsing van de complexe zin in twee kortere zinnen. Dit verlaagt de afhankelijkheidslengte en inhoudswoorden per deelzin.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen. Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen.",
+                        "new_text": "Tot 18 jaar mogen ze een bijbaan, vakantiebaan of stage doen. Er zijn regels over welk werk ze mogen doen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Om te voorkomen dat jongeren te zwaar werk doen of te veel werken, zijn er regels. De Inspectie SZW let erop dat deze regels worden gevolgd.",
+                "rewritten_sentences": "Er zijn regels om te voorkomen dat jongeren te zwaar of te veel werken. De Inspectie SZW controleert of deze regels worden nageleefd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vereenvoudigde woordkeuze ('te voorkomen dat' \u2192 'om te voorkomen dat') en verwijdering van onnodige woorden ('dat' in de tweede zin). Dit verlaagt de afhankelijkheidslengte en verbetert de leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Om te voorkomen dat jongeren te zwaar werk doen of te veel werken, zijn er regels. De Inspectie SZW let erop dat deze regels worden gevolgd.",
+                        "new_text": "Er zijn regels om te voorkomen dat jongeren te zwaar of te veel werken. De Inspectie SZW controleert of deze regels worden nageleefd.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 12 jaar mogen alleen werken als onderdeel van een werkstraf of een leerproject. Het kind moet altijd onder toezicht van een volwassene werken. Voor kinderen tot 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                "rewritten_sentences": "Kinderen van 12 mogen alleen werken in een werkstraf of leerproject. Ze moeten altijd onder toezicht van een volwassene zijn. Voor kinderen onder de 13 jaar die meedoen aan een voorstelling, gelden andere regels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Vereenvoudigde woordkeuze ('van 12 jaar' \u2192 'van 12', 'onderdeel van' \u2192 'in', 'uitvoering' \u2192 'voorstelling') en verwijdering van onnodige woorden ('altijd' in de tweede zin). Dit verlaagt de afhankelijkheidslengte en inhoudswoorden per deelzin.",
+                        "start_word": 0,
+                        "end_word": 29,
+                        "original_text": "Kinderen van 12 jaar mogen alleen werken als onderdeel van een werkstraf of een leerproject. Het kind moet altijd onder toezicht van een volwassene werken. Voor kinderen tot 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                        "new_text": "Kinderen van 12 mogen alleen werken in een werkstraf of leerproject. Ze moeten altijd onder toezicht van een volwassene zijn. Voor kinderen onder de 13 jaar die meedoen aan een voorstelling, gelden andere regels.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht, niet-industrieel werk. Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken.",
+                "rewritten_sentences": "Kinderen van 13 en 14 mogen alleen kleine klusjes doen of helpen bij licht werk. Ze mogen niet in een fabriek werken. Het aantal uren dat ze mogen werken is anders in schoolweken dan in vakantieweken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vereenvoudigde woordkeuze ('niet-industrieel' \u2192 'niet in een fabriek') en verwijdering van onnodige woorden ('alleen' in de tweede zin). De zin is gesplitst om de afhankelijkheidslengte te verkorten en de inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 25,
+                        "original_text": "Kinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht, niet-industrieel werk. Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken.",
+                        "new_text": "Kinderen van 13 en 14 mogen alleen kleine klusjes doen of helpen bij licht werk. Ze mogen niet in een fabriek werken. Het aantal uren dat ze mogen werken is anders in schoolweken dan in vakantieweken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor kinderen vanaf 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                "rewritten_sentences": "Voor kinderen vanaf 13 die meedoen aan een voorstelling, gelden andere regels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Vereenvoudigde woordkeuze ('meewerken aan een uitvoering' \u2192 'meedoen aan een voorstelling') om de zin korter en duidelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Voor kinderen vanaf 13 jaar die meewerken aan een uitvoering gelden andere regels.",
+                        "new_text": "Voor kinderen vanaf 13 die meedoen aan een voorstelling, gelden andere regels.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen, zoals vakken vullen in een supermarkt en avondkranten en reclamefolders bezorgen.",
+                "rewritten_sentences": "Kinderen van 15 mogen zelfstandig licht werk doen. Bijvoorbeeld: boodschappen doen in de supermarkt, avondkranten en reclamefolders bezorgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door verwijdering van 'niet-industrieel' en splitsing van de opsomming in een nieuwe zin. Dit verlaagt de afhankelijkheidslengte en inhoudswoorden per deelzin.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Kinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen, zoals vakken vullen in een supermarkt en avondkranten en reclamefolders bezorgen.",
+                        "new_text": "Kinderen van 15 mogen zelfstandig licht werk doen. Bijvoorbeeld: boodschappen doen in de supermarkt, avondkranten en reclamefolders bezorgen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor het bezorgen van ochtendkranten gelden extra regels. De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is.",
+                "rewritten_sentences": "Voor ochtendkranten zijn er extra regels. De maximale uren hangen af van of het kind nog naar school moet en of het een schooldag is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Vereenvoudigde woordkeuze ('hangen af van' \u2192 'hangen af van of', 'leerplichtig' \u2192 'nog naar school moet') om de zin korter en duidelijker te maken. Dit verlaagt de afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 25,
+                        "original_text": "Voor het bezorgen van ochtendkranten gelden extra regels. De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is.",
+                        "new_text": "Voor ochtendkranten zijn er extra regels. De maximale uren hangen af van of het kind nog naar school moet en of het een schooldag is.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen, maar geen gevaarlijk werk. Bovendien mag het werk hen niet verhinderen om naar school te gaan.",
+                "rewritten_sentences": "Jongeren van 16 en 17 mogen bijna alles doen, maar geen gevaarlijk werk. Het werk mag niet in de weg zitten om naar school te gaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vereenvoudigde woordkeuze ('elk soort werk' \u2192 'alles', 'verhinderen om naar school te gaan' \u2192 'in de weg zitten om naar school te gaan') om de zin korter en duidelijker te maken. Dit verlaagt de afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 23,
+                        "original_text": "Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen, maar geen gevaarlijk werk. Bovendien mag het werk hen niet verhinderen om naar school te gaan.",
+                        "new_text": "Jongeren van 16 en 17 mogen bijna alles doen, maar geen gevaarlijk werk. Het werk mag niet in de weg zitten om naar school te gaan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er gelden andere regels voor werktijden voor 16- en 17-jarigen dan voor volwassenen.",
+                "rewritten_sentences": "De regels voor werktijden zijn anders voor 16- en 17-jarigen dan voor volwassenen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door verwijdering van onnodige woorden ('Er gelden andere regels voor') om de zin korter en duidelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Er gelden andere regels voor werktijden voor 16- en 17-jarigen dan voor volwassenen.",
+                        "new_text": "De regels voor werktijden zijn anders voor 16- en 17-jarigen dan voor volwassenen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 14 en 15 jaar mogen onder bepaalde voorwaarden stage lopen. Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf, of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd.",
+                "rewritten_sentences": "Kinderen van 14 en 15 mogen onder voorwaarden stage lopen. Er moet een overeenkomst zijn tussen school en bedrijf. Of de burgemeester en wethouders moeten toestemming geven voor vervangende leerplicht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Vereenvoudigde woordkeuze ('onder bepaalde voorwaarden' \u2192 'onder voorwaarden', 'stageovereenkomst' \u2192 'overeenkomst', 'goedgekeurd' \u2192 'geven') en splitsing van de complexe zin in twee kortere zinnen om de afhankelijkheidslengte te verkorten.",
+                        "start_word": 0,
+                        "end_word": 30,
+                        "original_text": "Kinderen van 14 en 15 jaar mogen onder bepaalde voorwaarden stage lopen. Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf, of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd.",
+                        "new_text": "Kinderen van 14 en 15 mogen onder voorwaarden stage lopen. Er moet een overeenkomst zijn tussen school en bedrijf. Of de burgemeester en wethouders moeten toestemming geven voor vervangende leerplicht.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs (vo). Leerlingen doen vrijwilligerswerk om anderen te helpen.",
+                "rewritten_sentences": "Maatschappelijke stage is leren in het voortgezet onderwijs. Leerlingen helpen anderen door vrijwilligerswerk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door verwijdering van onnodige woorden ('een vorm van leren binnen', 'om anderen te helpen') en herformulering om de inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs (vo). Leerlingen doen vrijwilligerswerk om anderen te helpen.",
+                        "new_text": "Maatschappelijke stage is leren in het voortgezet onderwijs. Leerlingen helpen anderen door vrijwilligerswerk.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 13, 14 en 15 jaar mogen tijdens hun maatschappelijke stage licht, niet-industrieel werk doen.",
+                "rewritten_sentences": "Kinderen van 13, 14 en 15 mogen tijdens hun maatschappelijke stage licht werk doen. Ze mogen niet in een fabriek werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vereenvoudigde woordkeuze ('niet-industrieel' \u2192 'niet in een fabriek') om de zin duidelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Kinderen van 13, 14 en 15 jaar mogen tijdens hun maatschappelijke stage licht, niet-industrieel werk doen.",
+                        "new_text": "Kinderen van 13, 14 en 15 mogen tijdens hun maatschappelijke stage licht werk doen. Ze mogen niet in een fabriek werken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst",
+        "full_text": "Jongeren moeten naar school tot ze 18 zijn of een startkwalificatie halen. Tot 18 jaar mogen ze een bijbaan, vakantiebaan of stage doen. Er zijn regels over welk werk ze mogen doen. Er zijn regels om te voorkomen dat jongeren te zwaar of te veel werken. De Inspectie SZW controleert of deze regels worden nageleefd. Kinderen van 12 mogen alleen werken in een werkstraf of leerproject. Ze moeten altijd onder toezicht van een volwassene zijn. Voor kinderen onder de 13 jaar die meedoen aan een voorstelling, gelden andere regels. Kinderen van 13 en 14 mogen alleen kleine klusjes doen of helpen bij licht werk. Ze mogen niet in een fabriek werken. Het aantal uren dat ze mogen werken is anders in schoolweken dan in vakantieweken. Voor kinderen vanaf 13 die meedoen aan een voorstelling, gelden andere regels. Kinderen van 15 mogen zelfstandig licht werk doen. Bijvoorbeeld: boodschappen doen in de supermarkt, avondkranten en reclamefolders bezorgen. Voor ochtendkranten zijn er extra regels. De maximale uren hangen af van of het kind nog naar school moet en of het een schooldag is. Jongeren van 16 en 17 mogen bijna alles doen, maar geen gevaarlijk werk. Het werk mag niet in de weg zitten om naar school te gaan. De regels voor werktijden zijn anders voor 16- en 17-jarigen dan voor volwassenen. Kinderen van 14 en 15 mogen onder voorwaarden stage lopen. Er moet een overeenkomst zijn tussen school en bedrijf. Of de burgemeester en wethouders moeten toestemming geven voor vervangende leerplicht. Maatschappelijke stage is leren in het voortgezet onderwijs. Leerlingen helpen anderen door vrijwilligerswerk. Kinderen van 13, 14 en 15 mogen tijdens hun maatschappelijke stage licht werk doen. Ze mogen niet in een fabriek werken.",
+        "prompt_id": "T55_mak",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-25 14:14:59.207303"
+}

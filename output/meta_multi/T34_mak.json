@@ -1,0 +1,941 @@
+{
+    "prompt_id": "T34_mak",
+    "Org - text": "Donorregistratie\n\nIn het Donorregister kunt u laten vastleggen of u uw organen na uw overlijden wel of niet beschikbaar stelt voor transplantatie. U kunt er ook voor kiezen uw nabestaanden of \u00e9\u00e9n specifieke persoon te laten beslissen na uw overlijden. U kunt uw beslissing alleen vastleggen door het invullen en versturen van het donorformulier. Dit kan online of per post.\n\nHet laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen. Registratie in het Donorregister is niet verplicht. Maar als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet.\n\nNiet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente. Op dit moment staan ruim vijf miljoen keuzes in het Donorregister vastgelegd. De meeste geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen. Als u uw keuze heeft laten vastleggen, kunt u deze altijd wijzigen. Daarvoor moet u een nieuw donorformulier invullen.\n\nMinderjarigen kunnen vanaf hun twaalfde hun wens in het Donorregister laten opnemen. Ouders of voogden hoeven hiervoor g\u00e9\u00e9n toestemming te verlenen. Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren. Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen. Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd. Maar het vetorecht geldt andersom niet. Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn. Vanaf zestien jaar heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring.",
+    "Org - lint": "45",
+    "Org - sent": "63, 48, 48, 57, 57, 36, 56, 29, 47, 68, 38, 26, 51, 41, 58, 56, 50, 29, 44, 34",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Donorregistratie U kunt in het Donorregister vastleggen of uw organen na overlijden beschikbaar zijn voor transplantatie of niet. U kunt ook kiezen dat uw nabestaanden of \u00e9\u00e9n persoon beslissen na uw overlijden. U legt uw keuze vast via het invullen en versturen van het donorformulier. Dit doet u online of per post. Registreer uw keuze in het Donorregister. Dit geeft duidelijkheid en zekerheid. Iedereen in orgaan- en weefseldonatie heeft daar baat bij: donoren, naasten, artsen en verpleegkundigen. U hoeft zich niet te registreren in het Donorregister. Als uw keuze niet staat geregistreerd, moeten uw nabestaanden na uw overlijden beslissen of u donor bent. Niet iedereen kan zich inschrijven in het Donorregister. U moet minstens twaalf jaar zijn en staan ingeschreven bij een Nederlandse gemeente. Er staan nu ruim vijf miljoen keuzes vast in het Donorregister. De meeste mensen geven toestemming voor donatie. Soms met uitzondering. U kunt uw keuze altijd wijzigen als u die vastlegde. Daarvoor vult u een nieuw donorformulier in. Minderjarigen vanaf twaalf jaar kunnen hun wens in het Donorregister registreren. Ouders of voogden hoeven hier geen toestemming voor te geven. Als minderjarigen donatie willen en voor hun zestiende overlijden, kunnen ouders of voogden toch weigeren. Ouders hebben een vetorecht. Zonder hun goedkeuring worden geen organen of weefsels uitgenomen. Zijn de ouders of voogden niet bereikbaar? Dan wordt de wens van de minderjarige uitgevoerd. Het vetorecht geldt niet andersom. Ouders of voogden kunnen geen toestemming geven als de minderjarige registreren dat hij geen donor wil zijn. Vanaf zestien jaar beslist iemand zelf. Dan geldt de eigen wilsverklaring.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "40",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "65, 37, 45, 15, 51, 36, 59, 47, 36, 56, 23, 44, 24, 55, 29, 53, 40, 60, 7, 58, 38, 49, 27, 35, 4, 30",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Donorregistratie",
+                "rewritten_sentences": "Donorregistratie",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "In het Donorregister kunt u laten vastleggen of u uw organen na uw overlijden wel of niet beschikbaar stelt voor transplantatie.",
+                "rewritten_sentences": "U kunt in het Donorregister vastleggen of uw organen na overlijden beschikbaar zijn voor transplantatie of niet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "De zin is eenvoudiger gemaakt door kortere zinsdelen en minder functionele woorden te gebruiken, wat de afhankelijkheidslengte verlaagt.",
+                        "start_word": 0,
+                        "end_word": 23,
+                        "original_text": "In het Donorregister kunt u laten vastleggen of u uw organen na uw overlijden wel of niet beschikbaar stelt voor transplantatie.",
+                        "new_text": "U kunt in het Donorregister vastleggen of uw organen na overlijden beschikbaar zijn voor transplantatie of niet.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "U kunt er ook voor kiezen uw nabestaanden of \u00e9\u00e9n specifieke persoon te laten beslissen na uw overlijden.",
+                "rewritten_sentences": "U kunt ook kiezen dat uw nabestaanden of \u00e9\u00e9n persoon beslissen na uw overlijden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Verkorten van zinsdeel en weglaten van overbodige woorden verlaagt de afhankelijkheidslengte en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "U kunt er ook voor kiezen uw nabestaanden of \u00e9\u00e9n specifieke persoon te laten beslissen na uw overlijden.",
+                        "new_text": "U kunt ook kiezen dat uw nabestaanden of \u00e9\u00e9n persoon beslissen na uw overlijden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "U kunt uw beslissing alleen vastleggen door het invullen en versturen van het donorformulier.",
+                "rewritten_sentences": "U legt uw keuze vast via het invullen en versturen van het donorformulier.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Kortere constructie en directe formulering verminderen afhankelijkheidslengte en aantal inhoudswoorden per bijzin.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "U kunt uw beslissing alleen vastleggen door het invullen en versturen van het donorformulier.",
+                        "new_text": "U legt uw keuze vast via het invullen en versturen van het donorformulier.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit kan online of per post.",
+                "rewritten_sentences": "Dit doet u online of per post.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Actiegericht en simpel geformuleerd; verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Dit kan online of per post.",
+                        "new_text": "Dit doet u online of per post.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen.",
+                "rewritten_sentences": "Registreer uw keuze in het Donorregister. Dit geeft duidelijkheid en zekerheid. Iedereen in orgaan- en weefseldonatie heeft daar baat bij: donoren, naasten, artsen en verpleegkundigen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Ongesplitste lange zin opgesplitst in kortere zinnen voor lagere afhankelijkheidslengte en minder inhoudswoorden per bijzin.",
+                        "start_word": 0,
+                        "end_word": 37,
+                        "original_text": "Het laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen.",
+                        "new_text": "Registreer uw keuze in het Donorregister. Dit geeft duidelijkheid en zekerheid. Iedereen in orgaan- en weefseldonatie heeft daar baat bij: donoren, naasten, artsen en verpleegkundigen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Registratie in het Donorregister is niet verplicht.",
+                "rewritten_sentences": "U hoeft zich niet te registreren in het Donorregister.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Actieve formulering verhoogt woordfrequentie en verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Registratie in het Donorregister is niet verplicht.",
+                        "new_text": "U hoeft zich niet te registreren in het Donorregister.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet.",
+                "rewritten_sentences": "Als uw keuze niet staat geregistreerd, moeten uw nabestaanden na uw overlijden beslissen of u donor bent.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Kortere zinsbouw en directheid verlagen afhankelijkheidslengte en aantal inhoudswoorden per bijzin.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Maar als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet.",
+                        "new_text": "Als uw keuze niet staat geregistreerd, moeten uw nabestaanden na uw overlijden beslissen of u donor bent.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente.",
+                "rewritten_sentences": "Niet iedereen kan zich inschrijven in het Donorregister. U moet minstens twaalf jaar zijn en staan ingeschreven bij een Nederlandse gemeente.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Splitsen kolonzinnen in aparte zinnen verlaagt afhankelijkheidslengte en inhoudswoorden per bijzin.",
+                        "start_word": 0,
+                        "end_word": 29,
+                        "original_text": "Niet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente.",
+                        "new_text": "Niet iedereen kan zich inschrijven in het Donorregister. U moet minstens twaalf jaar zijn en staan ingeschreven bij een Nederlandse gemeente.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op dit moment staan ruim vijf miljoen keuzes in het Donorregister vastgelegd.",
+                "rewritten_sentences": "Er staan nu ruim vijf miljoen keuzes vast in het Donorregister.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Actiegericht en simpele formulering verhogen woordfrequentie en verlagen afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Op dit moment staan ruim vijf miljoen keuzes in het Donorregister vastgelegd.",
+                        "new_text": "Er staan nu ruim vijf miljoen keuzes vast in het Donorregister.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen.",
+                "rewritten_sentences": "De meeste mensen geven toestemming voor donatie. Soms met uitzondering.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Splitsen van complexe zin in eenvoudige zinnen verlaagt afhankelijkheidslengte en inhoudswoorden per bijzin.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "De meeste geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen.",
+                        "new_text": "De meeste mensen geven toestemming voor donatie. Soms met uitzondering.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als u uw keuze heeft laten vastleggen, kunt u deze altijd wijzigen.",
+                "rewritten_sentences": "U kunt uw keuze altijd wijzigen als u die vastlegde.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Actievere en kortere formulering verhoogt woordfrequentie en verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Als u uw keuze heeft laten vastleggen, kunt u deze altijd wijzigen.",
+                        "new_text": "U kunt uw keuze altijd wijzigen als u die vastlegde.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarvoor moet u een nieuw donorformulier invullen.",
+                "rewritten_sentences": "Daarvoor vult u een nieuw donorformulier in.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Kortere en actievere formulering verhoogt woordfrequentie en verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Daarvoor moet u een nieuw donorformulier invullen.",
+                        "new_text": "Daarvoor vult u een nieuw donorformulier in.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Minderjarigen kunnen vanaf hun twaalfde hun wens in het Donorregister laten opnemen.",
+                "rewritten_sentences": "Minderjarigen vanaf twaalf jaar kunnen hun wens in het Donorregister registreren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Eenvoudiger en directer geformuleerd, korte zinnen scheiden, minder complexiteit.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Minderjarigen kunnen vanaf hun twaalfde hun wens in het Donorregister laten opnemen.",
+                        "new_text": "Minderjarigen vanaf twaalf jaar kunnen hun wens in het Donorregister registreren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders of voogden hoeven hiervoor g\u00e9\u00e9n toestemming te verlenen.",
+                "rewritten_sentences": "Ouders of voogden hoeven hier geen toestemming voor te geven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Simpelere formulering verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Ouders of voogden hoeven hiervoor g\u00e9\u00e9n toestemming te verlenen.",
+                        "new_text": "Ouders of voogden hoeven hier geen toestemming voor te geven.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren.",
+                "rewritten_sentences": "Als minderjarigen donatie willen en voor hun zestiende overlijden, kunnen ouders of voogden toch weigeren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Kortere en simpelere structuur verlaagt afhankelijkheidslengte en inhoudswoorden per bijzin.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren.",
+                        "new_text": "Als minderjarigen donatie willen en voor hun zestiende overlijden, kunnen ouders of voogden toch weigeren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen.",
+                "rewritten_sentences": "Ouders hebben een vetorecht. Zonder hun goedkeuring worden geen organen of weefsels uitgenomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Splitsen van lange zin in korte zinnen verlaagt afhankelijkheidslengte en inhoudswoorden per bijzin.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen.",
+                        "new_text": "Ouders hebben een vetorecht. Zonder hun goedkeuring worden geen organen of weefsels uitgenomen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd.",
+                "rewritten_sentences": "Zijn de ouders of voogden niet bereikbaar? Dan wordt de wens van de minderjarige uitgevoerd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Vragen en korte zinnen verminderen afhankelijkheidslengte en verhogen woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 23,
+                        "original_text": "Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd.",
+                        "new_text": "Zijn de ouders of voogden niet bereikbaar? Dan wordt de wens van de minderjarige uitgevoerd.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar het vetorecht geldt andersom niet.",
+                "rewritten_sentences": "Het vetorecht geldt niet andersom.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Kortere formulering, eenvoudigere volgorde verhoogt woordfrequentie en verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Maar het vetorecht geldt andersom niet.",
+                        "new_text": "Het vetorecht geldt niet andersom.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn.",
+                "rewritten_sentences": "Ouders of voogden kunnen geen toestemming geven als de minderjarige registreren dat hij geen donor wil zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Kortere, actievere zinsbouw verlaagt afhankelijkheidslengte en aantal inhoudswoorden per bijzin.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn.",
+                        "new_text": "Ouders of voogden kunnen geen toestemming geven als de minderjarige registreren dat hij geen donor wil zijn.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vanaf zestien jaar heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring.",
+                "rewritten_sentences": "Vanaf zestien jaar beslist iemand zelf. Dan geldt de eigen wilsverklaring.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Splitsen in twee korte zinnen verlaagt afhankelijkheidslengte en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Vanaf zestien jaar heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring.",
+                        "new_text": "Vanaf zestien jaar beslist iemand zelf. Dan geldt de eigen wilsverklaring.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Donorregistratie U kunt in het Donorregister vastleggen of uw organen na overlijden beschikbaar zijn voor transplantatie of niet. U kunt ook kiezen dat uw nabestaanden of \u00e9\u00e9n persoon beslissen na uw overlijden. U legt uw keuze vast via het invullen en versturen van het donorformulier. Dit doet u online of per post. Registreer uw keuze in het Donorregister. Dit geeft duidelijkheid en zekerheid. Iedereen in orgaan- en weefseldonatie heeft daar baat bij: donoren, naasten, artsen en verpleegkundigen. U hoeft zich niet te registreren in het Donorregister. Als uw keuze niet staat geregistreerd, moeten uw nabestaanden na uw overlijden beslissen of u donor bent. Niet iedereen kan zich inschrijven in het Donorregister. U moet minstens twaalf jaar zijn en staan ingeschreven bij een Nederlandse gemeente. Er staan nu ruim vijf miljoen keuzes vast in het Donorregister. De meeste mensen geven toestemming voor donatie. Soms met uitzondering. U kunt uw keuze altijd wijzigen als u die vastlegde. Daarvoor vult u een nieuw donorformulier in. Minderjarigen vanaf twaalf jaar kunnen hun wens in het Donorregister registreren. Ouders of voogden hoeven hier geen toestemming voor te geven. Als minderjarigen donatie willen en voor hun zestiende overlijden, kunnen ouders of voogden toch weigeren. Ouders hebben een vetorecht. Zonder hun goedkeuring worden geen organen of weefsels uitgenomen. Zijn de ouders of voogden niet bereikbaar? Dan wordt de wens van de minderjarige uitgevoerd. Het vetorecht geldt niet andersom. Ouders of voogden kunnen geen toestemming geven als de minderjarige registreren dat hij geen donor wil zijn. Vanaf zestien jaar beslist iemand zelf. Dan geldt de eigen wilsverklaring.",
+        "prompt_id": "T34_mak",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Donorregistratie U kunt in het Donorregister vastleggen of uw organen na uw overlijden beschikbaar zijn voor transplantatie. Denk aan hart, nieren of lever. U kunt ook kiezen dat uw naasten beslissen. U kunt een specifieke persoon aanwijzen. Registreer uw beslissing met het donorformulier. Vul het formulier in en verstuur het. U kunt dat online of per post doen. Registratie in het Donorregister geeft duidelijkheid en zekerheid. Dit geldt voor donoren, familie, artsen en verpleegkundigen. Registratie is niet verplicht. Als uw keuze niet is geregistreerd, moeten uw nabestaanden na uw overlijden beslissen. Zij bepalen dan of u donor bent. Niet iedereen kan zich inschrijven. U moet minstens twaalf jaar zijn. U moet ook ingeschreven staan bij een Nederlandse gemeente. Op dit moment zijn er ruim vijf miljoen keuzes geregistreerd in het Donorregister. De meeste mensen geven toestemming voor donatie. Soms voegen zij uitsluitingen toe aan hun keuze. U kunt uw keuze altijd wijzigen als u dat wilt. Vul daarvoor een nieuw donorformulier in. Minderjarigen vanaf twaalf jaar kunnen hun wens laten registreren. Ouders of voogden hoeven hiervoor geen toestemming te geven. Als een minderjarige ja zegt en overlijdt voor zijn zestiende, kunnen ouders of voogden toch weigeren. Ouders hebben een vetorecht. Zonder hun goedkeuring worden geen organen of weefsels uitgenomen. Als ouders of voogden niet bereikbaar zijn, geldt de geregistreerde wens van de minderjarige. Het vetorecht werkt niet andersom. Ouders kunnen geen toestemming geven als de minderjarige heeft vastgelegd geen donor te willen zijn. Vanaf zestien jaar beslist iemand zelf. Dan geldt de eigen wilsverklaring.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "36",
+    "GPT 5.1 mini/gpt-5-mini - sent": "66, 37, 29, 27, 41, 39, 10, 51, 42, 47, 40, 29, 0, 41, 39, 24, 66, 32, 28, 35, 34, 39, 7, 58, 41, 20, 31, 4, 30",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Donorregistratie",
+                "rewritten_sentences": "Donorregistratie",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "In het Donorregister kunt u laten vastleggen of u uw organen na uw overlijden wel of niet beschikbaar stelt voor transplantatie.",
+                "rewritten_sentences": "U kunt in het Donorregister vastleggen of uw organen na uw overlijden beschikbaar zijn voor transplantatie. Denk aan hart, nieren of lever.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "De zin is opgesplitst in kortere zinnen om de syntactische afhankelijkheidslengte te verlagen. Concrete zelfstandige naamwoorden (hart, nieren, lever) zijn toegevoegd en er zijn eenvoudiger woordkeuzes gebruikt om de woordfrequentie te verhogen.",
+                        "start_word": 1,
+                        "end_word": 21,
+                        "original_text": "In het Donorregister kunt u laten vastleggen of u uw organen na uw overlijden wel of niet beschikbaar stelt voor transplantatie.",
+                        "new_text": "U kunt in het Donorregister vastleggen of uw organen na uw overlijden beschikbaar zijn voor transplantatie. Denk aan hart, nieren of lever.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "U kunt er ook voor kiezen uw nabestaanden of \u00e9\u00e9n specifieke persoon te laten beslissen na uw overlijden.",
+                "rewritten_sentences": "U kunt ook kiezen dat uw naasten beslissen. U kunt een specifieke persoon aanwijzen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3c1",
+                        "reason_for_change": "Opgesplitst in twee korte zinnen om de afhankelijkheidslengte te verlagen en het aantal inhoudswoorden per bijzin te verminderen. Eenvoudige woorden gebruikt voor hogere woordfrequentie.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "U kunt er ook voor kiezen uw nabestaanden of \u00e9\u00e9n specifieke persoon te laten beslissen na uw overlijden.",
+                        "new_text": "U kunt ook kiezen dat uw naasten beslissen. U kunt een specifieke persoon aanwijzen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "U kunt uw beslissing alleen vastleggen door het invullen en versturen van het donorformulier.",
+                "rewritten_sentences": "Registreer uw beslissing met het donorformulier. Vul het formulier in en verstuur het.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "Opgesplitst in korte instructiezinnen om syntactische afhankelijkheidslengte te verlagen en het aantal inhoudswoorden per zin te verminderen. Eenvoudigere werkwoorden gekozen.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "U kunt uw beslissing alleen vastleggen door het invullen en versturen van het donorformulier.",
+                        "new_text": "Registreer uw beslissing met het donorformulier. Vul het formulier in en verstuur het.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit kan online of per post.",
+                "rewritten_sentences": "U kunt dat online of per post doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Herformuleerd tot \u00e9\u00e9n korte zin met hoge woordfrequentie en lagere afhankelijkheidslengte.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Dit kan online of per post.",
+                        "new_text": "U kunt dat online of per post doen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen.",
+                "rewritten_sentences": "Registratie in het Donorregister geeft duidelijkheid en zekerheid. Dit geldt voor donoren, familie, artsen en verpleegkundigen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "Opgesplitst in korte zinnen om syntactische afhankelijkheidslengte te verlagen. Lange opsomming is vereenvoudigd en concrete zelfstandige naamwoorden (donoren, familie, artsen, verpleegkundigen) gebruikt.",
+                        "start_word": 1,
+                        "end_word": 32,
+                        "original_text": "Het laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen.",
+                        "new_text": "Registratie in het Donorregister geeft duidelijkheid en zekerheid. Dit geldt voor donoren, familie, artsen en verpleegkundigen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Registratie in het Donorregister is niet verplicht.",
+                "rewritten_sentences": "Registratie is niet verplicht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "Korte herformulering met eenvoudigere woordvolgorde om afhankelijkheidslengte te verlagen en woordfrequentie te verhogen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Registratie in het Donorregister is niet verplicht.",
+                        "new_text": "Registratie is niet verplicht.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet.",
+                "rewritten_sentences": "Als uw keuze niet is geregistreerd, moeten uw nabestaanden na uw overlijden beslissen. Zij bepalen dan of u donor bent.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Opgesplitst in twee korte zinnen om de syntactische afhankelijkheidslengte te verlagen en de informatie stap-voor-stap aan te bieden.",
+                        "start_word": 1,
+                        "end_word": 23,
+                        "original_text": "Maar als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet.",
+                        "new_text": "Als uw keuze niet is geregistreerd, moeten uw nabestaanden na uw overlijden beslissen. Zij bepalen dan of u donor bent.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente.",
+                "rewritten_sentences": "Niet iedereen kan zich inschrijven. U moet minstens twaalf jaar zijn. U moet ook ingeschreven staan bij een Nederlandse gemeente.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "De oorspronkelijke samengestelde zin is opgesplitst in drie losse zinnen om afhankelijkheidslengte te verlagen en het aantal inhoudswoorden per bijzin te beperken.",
+                        "start_word": 1,
+                        "end_word": 24,
+                        "original_text": "Niet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente.",
+                        "new_text": "Niet iedereen kan zich inschrijven. U moet minstens twaalf jaar zijn. U moet ook ingeschreven staan bij een Nederlandse gemeente.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op dit moment staan ruim vijf miljoen keuzes in het Donorregister vastgelegd.",
+                "rewritten_sentences": "Op dit moment zijn er ruim vijf miljoen keuzes geregistreerd in het Donorregister.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "Korte herformulering om de zin directer te maken en de afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Op dit moment staan ruim vijf miljoen keuzes in het Donorregister vastgelegd.",
+                        "new_text": "Op dit moment zijn er ruim vijf miljoen keuzes geregistreerd in het Donorregister.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen.",
+                "rewritten_sentences": "De meeste mensen geven toestemming voor donatie. Soms voegen zij uitsluitingen toe aan hun keuze.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "Opgesplitst in twee korte zinnen om afhankelijkheidslengte te verlagen en het aantal inhoudswoorden per bijzin te verminderen. Eenvoudigere termen ('mensen') gebruikt.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "De meeste geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen.",
+                        "new_text": "De meeste mensen geven toestemming voor donatie. Soms voegen zij uitsluitingen toe aan hun keuze.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als u uw keuze heeft laten vastleggen, kunt u deze altijd wijzigen.",
+                "rewritten_sentences": "U kunt uw keuze altijd wijzigen als u dat wilt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "Herordening naar een korte, directe zin om afhankelijkheidslengte te verlagen en de leesstroom te vereenvoudigen.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Als u uw keuze heeft laten vastleggen, kunt u deze altijd wijzigen.",
+                        "new_text": "U kunt uw keuze altijd wijzigen als u dat wilt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarvoor moet u een nieuw donorformulier invullen.",
+                "rewritten_sentences": "Vul daarvoor een nieuw donorformulier in.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "Korte, actieve formulering om afhankelijkheidslengte te verlagen en woordfrequentie te verhogen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Daarvoor moet u een nieuw donorformulier invullen.",
+                        "new_text": "Vul daarvoor een nieuw donorformulier in.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Minderjarigen kunnen vanaf hun twaalfde hun wens in het Donorregister laten opnemen.",
+                "rewritten_sentences": "Minderjarigen vanaf twaalf jaar kunnen hun wens laten registreren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Herformulering tot een kortere zin om afhankelijkheidslengte te verlagen en de zin eenvoudiger te maken.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Minderjarigen kunnen vanaf hun twaalfde hun wens in het Donorregister laten opnemen.",
+                        "new_text": "Minderjarigen vanaf twaalf jaar kunnen hun wens laten registreren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders of voogden hoeven hiervoor g\u00e9\u00e9n toestemming te verlenen.",
+                "rewritten_sentences": "Ouders of voogden hoeven hiervoor geen toestemming te geven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Kleine aanpassing van formulering om de zin directer te maken en afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Ouders of voogden hoeven hiervoor g\u00e9\u00e9n toestemming te verlenen.",
+                        "new_text": "Ouders of voogden hoeven hiervoor geen toestemming te geven.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren.",
+                "rewritten_sentences": "Als een minderjarige ja zegt en overlijdt voor zijn zestiende, kunnen ouders of voogden toch weigeren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Zin ingekort en herformuleerd in \u00e9\u00e9n kortere constructie om afhankelijkheidslengte te verlagen en de informatie duidelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren.",
+                        "new_text": "Als een minderjarige ja zegt en overlijdt voor zijn zestiende, kunnen ouders of voogden toch weigeren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen.",
+                "rewritten_sentences": "Ouders hebben een vetorecht. Zonder hun goedkeuring worden geen organen of weefsels uitgenomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "Opgesplitst in twee korte zinnen om afhankelijkheidslengte te verlagen en de logica stap-voor-stap te presenteren. Concrete zelfstandige naamwoorden (organen, weefsels) blijven duidelijk benoemd.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen.",
+                        "new_text": "Ouders hebben een vetorecht. Zonder hun goedkeuring worden geen organen of weefsels uitgenomen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd.",
+                "rewritten_sentences": "Als ouders of voogden niet bereikbaar zijn, geldt de geregistreerde wens van de minderjarige.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "Zin verkort en eenvoudiger gemaakt om afhankelijkheidslengte te verlagen en directheid te verhogen.",
+                        "start_word": 1,
+                        "end_word": 19,
+                        "original_text": "Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd.",
+                        "new_text": "Als ouders of voogden niet bereikbaar zijn, geldt de geregistreerde wens van de minderjarige.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar het vetorecht geldt andersom niet.",
+                "rewritten_sentences": "Het vetorecht werkt niet andersom.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "Korte herformulering voor een directere en eenvoudigere zin, waardoor afhankelijkheidslengte daalt.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Maar het vetorecht geldt andersom niet.",
+                        "new_text": "Het vetorecht werkt niet andersom.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn.",
+                "rewritten_sentences": "Ouders kunnen geen toestemming geven als de minderjarige heeft vastgelegd geen donor te willen zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20c1",
+                        "reason_for_change": "Zin ingekort en vereenvoudigd om afhankelijkheidslengte te verlagen en de boodschap helder te houden. Eenvoudige woorden gebruikt om woordfrequentie te verhogen.",
+                        "start_word": 1,
+                        "end_word": 23,
+                        "original_text": "Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn.",
+                        "new_text": "Ouders kunnen geen toestemming geven als de minderjarige heeft vastgelegd geen donor te willen zijn.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vanaf zestien jaar heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring.",
+                "rewritten_sentences": "Vanaf zestien jaar beslist iemand zelf. Dan geldt de eigen wilsverklaring.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21c1",
+                        "reason_for_change": "Opgesplitst in twee korte zinnen om afhankelijkheidslengte te verlagen en de informatie stapsgewijs aan te bieden.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Vanaf zestien jaar heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring.",
+                        "new_text": "Vanaf zestien jaar beslist iemand zelf. Dan geldt de eigen wilsverklaring.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Donorregistratie U kunt in het Donorregister vastleggen of uw organen na uw overlijden beschikbaar zijn voor transplantatie. Denk aan hart, nieren of lever. U kunt ook kiezen dat uw naasten beslissen. U kunt een specifieke persoon aanwijzen. Registreer uw beslissing met het donorformulier. Vul het formulier in en verstuur het. U kunt dat online of per post doen. Registratie in het Donorregister geeft duidelijkheid en zekerheid. Dit geldt voor donoren, familie, artsen en verpleegkundigen. Registratie is niet verplicht. Als uw keuze niet is geregistreerd, moeten uw nabestaanden na uw overlijden beslissen. Zij bepalen dan of u donor bent. Niet iedereen kan zich inschrijven. U moet minstens twaalf jaar zijn. U moet ook ingeschreven staan bij een Nederlandse gemeente. Op dit moment zijn er ruim vijf miljoen keuzes geregistreerd in het Donorregister. De meeste mensen geven toestemming voor donatie. Soms voegen zij uitsluitingen toe aan hun keuze. U kunt uw keuze altijd wijzigen als u dat wilt. Vul daarvoor een nieuw donorformulier in. Minderjarigen vanaf twaalf jaar kunnen hun wens laten registreren. Ouders of voogden hoeven hiervoor geen toestemming te geven. Als een minderjarige ja zegt en overlijdt voor zijn zestiende, kunnen ouders of voogden toch weigeren. Ouders hebben een vetorecht. Zonder hun goedkeuring worden geen organen of weefsels uitgenomen. Als ouders of voogden niet bereikbaar zijn, geldt de geregistreerde wens van de minderjarige. Het vetorecht werkt niet andersom. Ouders kunnen geen toestemming geven als de minderjarige heeft vastgelegd geen donor te willen zijn. Vanaf zestien jaar beslist iemand zelf. Dan geldt de eigen wilsverklaring.",
+        "prompt_id": "T34_mak",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "",
+    "Gemini/gemini-3-flash-preview - lint": NaN,
+    "Gemini/gemini-3-flash-preview - sent": NaN,
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [],
+        "text_genre": "NA",
+        "full_text": "",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "U kunt in het Donorregister aangeven of uw organen na uw overlijden gebruikt mogen worden voor een transplantatie. Daarnaast kunt u kiezen dat uw nabestaanden of \u00e9\u00e9n persoon na uw overlijden beslissen. U kunt uw keuze vastleggen door het formulier in te vullen en op te sturen. Dit gaat via internet of per post. Als uw keuze in het Donorregister staat, weten alle betrokkenen wat u wilt. Dit geldt voor familie, artsen en verpleegkundigen. Het is niet nodig om zich te registreren. Als uw keuze niet staat geregistreerd, beslissen uw naasten na uw overlijden of uw organen gebruikt mogen worden. Niet iedereen mag meedoen. U moet minimaal twaalf jaar oud zijn en in Nederland wonen. Er staan nu meer dan vijf miljoen keuzes in het register. De meeste mensen geven toestemming voor donatie. Soms zijn er uitzonderingen. U kunt uw keuze altijd veranderen. Vul dan een nieuw formulier in. Kinderen vanaf twaalf jaar mogen hun wens in het register zetten. Ouders of voogden hoeven niet toe te stemmen. Als een kind ja zegt en overlijdt voor zijn/zij zestien wordt, kunnen ouders toch nee zeggen. Ouders kunnen weigeren. Zonder hun toestemming gaan er geen organen of weefsels uit. Als ouders of voogden niet bereikbaar zijn, wordt de wens van het kind gevolgd. Maar andersom geldt dit niet. Als een kind nee zegt, kunnen ouders niet ja zeggen. Bij zestien jaar mag iemand zelf beslissen. Dan telt alleen de eigen wens.",
+    "Mistral/ministral-14b-latest - lint": "30",
+    "Mistral/ministral-14b-latest - sent": "54, 35, 51, 8, 34, 32, 43, 23, 43, 24, 20, 29, 24, 37, 29, 21, 13, 46, 33, 2, 8, 31",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "In het Donorregister kunt u laten vastleggen of u uw organen na uw overlijden wel of niet beschikbaar stelt voor transplantatie.",
+                "rewritten_sentences": "U kunt in het Donorregister aangeven of uw organen na uw overlijden gebruikt mogen worden voor een transplantatie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden per deelzin en verbeterd begrip door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "In het Donorregister kunt u laten vastleggen of u uw organen na uw overlijden wel of niet beschikbaar stelt voor transplantatie.",
+                        "new_text": "U kunt in het Donorregister aangeven of uw organen na uw overlijden gebruikt mogen worden voor een transplantatie.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "U kunt er ook voor kiezen uw nabestaanden of \u00e9\u00e9n specifieke persoon te laten beslissen na uw overlijden.",
+                "rewritten_sentences": "Daarnaast kunt u kiezen dat uw nabestaanden of \u00e9\u00e9n persoon na uw overlijden beslissen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden per deelzin en verbeterd begrip door kortere formulering.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "U kunt er ook voor kiezen uw nabestaanden of \u00e9\u00e9n specifieke persoon te laten beslissen na uw overlijden.",
+                        "new_text": "Daarnaast kunt u kiezen dat uw nabestaanden of \u00e9\u00e9n persoon na uw overlijden beslissen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "U kunt uw beslissing alleen vastleggen door het invullen en versturen van het donorformulier. Dit kan online of per post.",
+                "rewritten_sentences": "U kunt uw keuze vastleggen door het formulier in te vullen en op te sturen. Dit gaat via internet of per post.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden per deelzin en verbeterd begrip door eenvoudiger woorden.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "U kunt uw beslissing alleen vastleggen door het invullen en versturen van het donorformulier.",
+                        "new_text": "U kunt uw keuze vastleggen door het formulier in te vullen en op te sturen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door kortere formulering.",
+                        "start_word": 17,
+                        "end_word": 26,
+                        "original_text": "Dit kan online of per post.",
+                        "new_text": "Dit gaat via internet of per post.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen.",
+                "rewritten_sentences": "Als uw keuze in het Donorregister staat, weten alle betrokkenen wat u wilt. Dit geldt voor familie, artsen en verpleegkundigen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden per deelzin en verbeterd begrip door eenvoudiger formulering en het verminderen van afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 32,
+                        "original_text": "Het laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals",
+                        "new_text": "Als uw keuze in het Donorregister staat, weten alle betrokkenen wat u wilt. Dit geldt voor",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door kortere formulering.",
+                        "start_word": 33,
+                        "end_word": 50,
+                        "original_text": "potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen.",
+                        "new_text": "familie, artsen en verpleegkundigen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Registratie in het Donorregister is niet verplicht.",
+                "rewritten_sentences": "Het is niet nodig om zich te registreren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Registratie in het Donorregister is niet verplicht.",
+                        "new_text": "Het is niet nodig om zich te registreren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet.",
+                "rewritten_sentences": "Als uw keuze niet staat geregistreerd, beslissen uw naasten na uw overlijden of uw organen gebruikt mogen worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "Maar als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet.",
+                        "new_text": "Als uw keuze niet staat geregistreerd, beslissen uw naasten na uw overlijden of uw organen gebruikt mogen worden.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente.",
+                "rewritten_sentences": "Niet iedereen mag meedoen. U moet minimaal twaalf jaar oud zijn en in Nederland wonen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering en het splitsen van complexe zinnen.",
+                        "start_word": 0,
+                        "end_word": 27,
+                        "original_text": "Niet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente.",
+                        "new_text": "Niet iedereen mag meedoen. U moet minimaal twaalf jaar oud zijn en in Nederland wonen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op dit moment staan ruim vijf miljoen keuzes in het Donorregister vastgelegd.",
+                "rewritten_sentences": "Er staan nu meer dan vijf miljoen keuzes in het register.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door kortere formulering.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Op dit moment staan ruim vijf miljoen keuzes in het Donorregister vastgelegd.",
+                        "new_text": "Er staan nu meer dan vijf miljoen keuzes in het register.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen.",
+                "rewritten_sentences": "De meeste mensen geven toestemming voor donatie. Soms zijn er uitzonderingen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering en het splitsen van complexe zinnen.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "De meeste geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen.",
+                        "new_text": "De meeste mensen geven toestemming voor donatie. Soms zijn er uitzonderingen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als u uw keuze heeft laten vastleggen, kunt u deze altijd wijzigen. Daarvoor moet u een nieuw donorformulier invullen.",
+                "rewritten_sentences": "U kunt uw keuze altijd veranderen. Vul dan een nieuw formulier in.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "Als u uw keuze heeft laten vastleggen, kunt u deze altijd wijzigen.",
+                        "new_text": "U kunt uw keuze altijd veranderen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door kortere formulering.",
+                        "start_word": 22,
+                        "end_word": 35,
+                        "original_text": "Daarvoor moet u een nieuw donorformulier invullen.",
+                        "new_text": "Vul dan een nieuw formulier in.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Minderjarigen kunnen vanaf hun twaalfde hun wens in het Donorregister laten opnemen.",
+                "rewritten_sentences": "Kinderen vanaf twaalf jaar mogen hun wens in het register zetten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Minderjarigen kunnen vanaf hun twaalfde hun wens in het Donorregister laten opnemen.",
+                        "new_text": "Kinderen vanaf twaalf jaar mogen hun wens in het register zetten.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders of voogden hoeven hiervoor g\u00e9\u00e9n toestemming te verlenen.",
+                "rewritten_sentences": "Ouders of voogden hoeven niet toe te stemmen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door kortere formulering.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Ouders of voogden hoeven hiervoor g\u00e9\u00e9n toestemming te verlenen.",
+                        "new_text": "Ouders of voogden hoeven niet toe te stemmen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren.",
+                "rewritten_sentences": "Als een kind ja zegt en overlijdt voor zijn/zij zestien wordt, kunnen ouders toch nee zeggen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 27,
+                        "original_text": "Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren.",
+                        "new_text": "Als een kind ja zegt en overlijdt voor zijn/zij zestien wordt, kunnen ouders toch nee zeggen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen.",
+                "rewritten_sentences": "Ouders kunnen weigeren. Zonder hun toestemming gaan er geen organen of weefsels uit.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen.",
+                        "new_text": "Ouders kunnen weigeren. Zonder hun toestemming gaan er geen organen of weefsels uit.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd.",
+                "rewritten_sentences": "Als ouders of voogden niet bereikbaar zijn, wordt de wens van het kind gevolgd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 28,
+                        "original_text": "Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd.",
+                        "new_text": "Als ouders of voogden niet bereikbaar zijn, wordt de wens van het kind gevolgd.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar het vetorecht geldt andersom niet. Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn.",
+                "rewritten_sentences": "Maar andersom geldt dit niet. Als een kind nee zegt, kunnen ouders niet ja zeggen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Verlaagd aantal inhoudswoorden en verbeterd begrip door eenvoudiger formulering en het splitsen van complexe zinnen.",
+                        "start_word": 0,
+                        "end_word": 38,
+                        "original_text": "Maar het vetorecht geldt andersom niet. Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn.",
+                        "new_text": "Maar andersom geldt dit niet. Als een kind nee zegt, kunnen ouders niet ja zeggen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Afgezien zestien jaar heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring.",
+                "rewritten_sentences": "Bij zestien jaar mag iemand zelf beslissen. Dan telt alleen de eigen wens.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Gecorrigeerde spelling en verbeterd begrip door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 23,
+                        "original_text": "Afgezien zestien jaar heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring.",
+                        "new_text": "Bij zestien jaar mag iemand zelf beslissen. Dan telt alleen de eigen wens.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Instructie",
+        "full_text": "U kunt in het Donorregister aangeven of uw organen na uw overlijden gebruikt mogen worden voor een transplantatie. Daarnaast kunt u kiezen dat uw nabestaanden of \u00e9\u00e9n persoon na uw overlijden beslissen. U kunt uw keuze vastleggen door het formulier in te vullen en op te sturen. Dit gaat via internet of per post. Als uw keuze in het Donorregister staat, weten alle betrokkenen wat u wilt. Dit geldt voor familie, artsen en verpleegkundigen. Het is niet nodig om zich te registreren. Als uw keuze niet staat geregistreerd, beslissen uw naasten na uw overlijden of uw organen gebruikt mogen worden. Niet iedereen mag meedoen. U moet minimaal twaalf jaar oud zijn en in Nederland wonen. Er staan nu meer dan vijf miljoen keuzes in het register. De meeste mensen geven toestemming voor donatie. Soms zijn er uitzonderingen. U kunt uw keuze altijd veranderen. Vul dan een nieuw formulier in. Kinderen vanaf twaalf jaar mogen hun wens in het register zetten. Ouders of voogden hoeven niet toe te stemmen. Als een kind ja zegt en overlijdt voor zijn/zij zestien wordt, kunnen ouders toch nee zeggen. Ouders kunnen weigeren. Zonder hun toestemming gaan er geen organen of weefsels uit. Als ouders of voogden niet bereikbaar zijn, wordt de wens van het kind gevolgd. Maar andersom geldt dit niet. Als een kind nee zegt, kunnen ouders niet ja zeggen. Bij zestien jaar mag iemand zelf beslissen. Dan telt alleen de eigen wens.",
+        "prompt_id": "T34_mak",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-25 10:40:54.575210"
+}

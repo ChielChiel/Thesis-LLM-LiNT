@@ -1,0 +1,2188 @@
+{
+    "prompt_id": "T30_moei",
+    "Org - text": "Centrum en periferie\n\nMatheus Brocito heeft een grote koffieplantage in Brazili\u00eb. Matheus is heel vermogend. Arme Brazilianen die wat geld willen verdienen, plukken koffiebonen voor hem. Hij zet de koffie af in Nederland. Daar vangt Matheus veel geld mee. En hij beloont de plukkers met een schamele $1,25 per dag.\n\nIn veel landen zijn er grote ongelijkheden tussen groepen mensen. Een handje mensen heeft grond, geld en macht. Dat is de elite. Een grootgrondbezitter, zoals Matheus, behoort tot de elite. Maar de meerderheid is arm: de massa. Deze groep is aangewezen op de elite. De elite bepaalt vaak alles voor de massa. Vaak woont de elite in het rijke gedeelte van een stad. Het rijke deel van de stad heet het centrum. Het arme deel heet de periferie.\n\nNiet alleen in een stad zijn er ongelijkheden, maar ook tussen regio\u2019s in een land. Ook dan spreek je van centrum en periferie. Jorge woont in het noodlijdende noordoosten van Brazili\u00eb. Daar leven veel mensen van de landbouw. In het welvarende zuidoosten van Brazili\u00eb woont en werkt Beatriz. In het zuidoosten zijn veel mensen werkzaam in de industrie of in de dienstensector. De regio met de meeste welvaart en macht noem je het centrum. Het onvermogende deel van het land noem je de periferie. De periferie is aangewezen op het centrum. Het centrum bepaalt alles. De periferie zorgt voor voedsel, grondstoffen en arbeidskrachten. Voor het centrum is de periferie dus onmisbaar!\n\nOok op mondiale schaal is er een centrum en een periferie. West-Europa en Noord-Amerika zijn voorbeelden van gebieden die tot het centrum behoren. Het bruto binnenlands product per hoofd is hoog. De landen hebben veel macht. De meeste mensen werken in de dienstensector. Er is amper analfabetisme en de kindersterfte is laag. Afrika behoort tot de periferie. Het bbp per hoofd is laag. De Afrikaanse landen zijn vaak aangewezen op andere landen, maar ze zijn ook onmisbaar als leveranciers van grondstoffen en voedsel. Er is een groep landen die zich snel ontwikkelt. Daar behoort Brazili\u00eb toe, maar ook Rusland, India en China.",
+    "Org - lint": "38",
+    "Org - sent": "51, 24, 25, 10, 24, 39, 37, 25, 32, 44, 39, 34, 40, 37, 30, 39, 38, 52, 52, 14, 39, 45, 49, 56, 59, 36, 47, 62, 66, 53, 53, 6, 20, 47, 53, 51, 44, 25, 41",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Matheus Brocito bezit een grote koffieplantage in Brazili\u00eb. Matheus is rijk. Arme Brazilianen plukken koffiebonen voor hem om geld te verdienen. Hij verkoopt de koffie in Nederland. Daar verdient Matheus veel geld mee. Hij geeft de plukkers slechts $1,25 per dag. In veel landen bestaan grote verschillen tussen groepen mensen. Een kleine groep mensen bezit grond, geld en macht. Dit is de elite. Een grootgrondbezitter als Matheus hoort bij de elite. Maar de meeste mensen zijn arm. Dat is de massa. Deze groep heeft de elite nodig. De elite beslist vaak alles voor de massa. De elite woont vaak in het rijke deel van de stad. Het rijke deel van de stad heet het centrum. Het arme deel noem je de periferie. Er zijn niet alleen verschillen in een stad, maar ook tussen regio\u2019s in een land. Dan spreek je ook van centrum en periferie. Jorge woont in het arme noordoosten van Brazili\u00eb. Veel mensen leven daar van de landbouw. Beatriz woont en werkt in het rijke zuidoosten van Brazili\u00eb. Veel mensen werken in de industrie of dienstensector in het zuidoosten. De regio met de meeste rijkdom en macht noem je het centrum. Het arme deel van het land noem je de periferie. De periferie heeft het centrum nodig. Het centrum beslist alles. De periferie levert voedsel, grondstoffen en werkers. De periferie is dus onmisbaar voor het centrum! Op mondiale schaal is er ook een centrum en een periferie. West-Europa en Noord-Amerika horen bij het centrum. Het bbp per persoon is hoog. Die landen hebben veel macht. De meeste mensen werken in de dienstensector. Er is bijna geen analfabetisme en de kindersterfte is laag. Afrika hoort bij de periferie. Het bbp per persoon is laag. De Afrikaanse landen hebben vaak andere landen nodig, maar ze zijn onmisbaar als leveranciers van grondstoffen en voedsel. Er zijn landen die zich snel ontwikkelen. Brazili\u00eb hoort daarbij, net als Rusland, India en China.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "33",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "27, 10, 32, 14, 16, 27, 28, 36, 32, 37, 5, 41, 25, 34, 32, 30, 43, 27, 54, 26, 15, 25, 42, 46, 42, 45, 52, 58, 64, 44, 6, 20, 65, 43, 46, 42, 7, 19",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Matheus Brocito heeft een grote koffieplantage in Brazili\u00eb.",
+                "rewritten_sentences": "Matheus Brocito bezit een grote koffieplantage in Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Vervanging van 'heeft' door het meer concrete 'bezit' verhoogt de verhouding van concrete zelfstandignaamwoorden.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "heeft",
+                        "new_text": "bezit",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Matheus is heel vermogend.",
+                "rewritten_sentences": "Matheus is rijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Vervanging van 'heel vermogend' door het kortere en frequentere woord 'rijk' verlaagt afhankelijkheidslengte en verhoogt woordfrequentie.",
+                        "start_word": 2,
+                        "end_word": 3,
+                        "original_text": "heel vermogend",
+                        "new_text": "rijk",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Arme Brazilianen die wat geld willen verdienen, plukken koffiebonen voor hem.",
+                "rewritten_sentences": "Arme Brazilianen plukken koffiebonen voor hem om geld te verdienen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Herstructurering van zin vermindert aantal inhoudswoorden per deelzin en verlaagt afhankelijkheidslengte.",
+                        "start_word": 4,
+                        "end_word": 10,
+                        "original_text": "die wat geld willen verdienen, plukken koffiebonen voor hem",
+                        "new_text": "plukken koffiebonen voor hem om geld te verdienen",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij zet de koffie af in Nederland.",
+                "rewritten_sentences": "Hij verkoopt de koffie in Nederland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Vervanging van 'zet de koffie af' door eenvoudiger en concreter 'verkoopt de koffie' verhoogt concrete zelfstandignaamwoorden en woordfrequentie.",
+                        "start_word": 11,
+                        "end_word": 15,
+                        "original_text": "zet de koffie af in Nederland",
+                        "new_text": "verkoopt de koffie in Nederland",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar vangt Matheus veel geld mee.",
+                "rewritten_sentences": "Daar verdient Matheus veel geld mee.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Vervanging van 'vangt' door het frequentere 'verdient' verhoogt woordfrequentie en verduidelijkt betekenis.",
+                        "start_word": 16,
+                        "end_word": 19,
+                        "original_text": "vangt Matheus veel geld mee",
+                        "new_text": "verdient Matheus veel geld mee",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En hij beloont de plukkers met een schamele $1,25 per dag.",
+                "rewritten_sentences": "Hij geeft de plukkers slechts $1,25 per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Vermindering van inhoudswoorden per deelzin en gebruik van meer concrete termen verhoogt leesbaarheid.",
+                        "start_word": 20,
+                        "end_word": 27,
+                        "original_text": "En hij beloont de plukkers met een schamele $1,25 per dag",
+                        "new_text": "Hij geeft de plukkers slechts $1,25 per dag",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel landen zijn er grote ongelijkheden tussen groepen mensen.",
+                "rewritten_sentences": "In veel landen bestaan grote verschillen tussen groepen mensen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Vervanging van 'ongelijkheden' door het meer concrete en frequente 'verschillen' verhoogt woordfrequentie en concreetheid.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "In veel landen zijn er grote ongelijkheden tussen groepen mensen",
+                        "new_text": "In veel landen bestaan grote verschillen tussen groepen mensen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een handje mensen heeft grond, geld en macht.",
+                "rewritten_sentences": "Een kleine groep mensen bezit grond, geld en macht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Vervanging 'een handje' door 'een kleine groep' verhoogt concreetheid; 'heeft' door 'bezit' voor concrete zelfstandignaamwoorden.",
+                        "start_word": 8,
+                        "end_word": 13,
+                        "original_text": "Een handje mensen heeft grond, geld en macht",
+                        "new_text": "Een kleine groep mensen bezit grond, geld en macht",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is de elite.",
+                "rewritten_sentences": "Dit is de elite.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Woordkeuze verandering van 'Dat' naar 'Dit' verhoogt woordfrequentie en leesbaarheid.",
+                        "start_word": 14,
+                        "end_word": 15,
+                        "original_text": "Dat is de elite",
+                        "new_text": "Dit is de elite",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een grootgrondbezitter, zoals Matheus, behoort tot de elite.",
+                "rewritten_sentences": "Een grootgrondbezitter als Matheus hoort bij de elite.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Vervanging 'behoort tot' door eenvoudiger 'hoort bij' verlaagt afhankelijkheidslengte en verhoogt woordfrequentie.",
+                        "start_word": 16,
+                        "end_word": 23,
+                        "original_text": "Een grootgrondbezitter, zoals Matheus, behoort tot de elite",
+                        "new_text": "Een grootgrondbezitter als Matheus hoort bij de elite",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar de meerderheid is arm: de massa.",
+                "rewritten_sentences": "Maar de meeste mensen zijn arm. Dat is de massa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Opsplitsen van zin verlaagt afhankelijkheidslengte en inhoudswoorden per deelzin, verhoogt leesbaarheid.",
+                        "start_word": 24,
+                        "end_word": 29,
+                        "original_text": "Maar de meerderheid is arm: de massa",
+                        "new_text": "Maar de meeste mensen zijn arm. Dat is de massa",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Deze groep is aangewezen op de elite.",
+                "rewritten_sentences": "Deze groep heeft de elite nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Gebruik van eenvoudiger en concreter werkwoord 'heeft nodig' verlaagt afhankelijkheidslengte en verhoogt concreetheid.",
+                        "start_word": 30,
+                        "end_word": 35,
+                        "original_text": "Deze groep is aangewezen op de elite",
+                        "new_text": "Deze groep heeft de elite nodig",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De elite bepaalt vaak alles voor de massa.",
+                "rewritten_sentences": "De elite beslist vaak alles voor de massa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Vervanging van 'bepaalt' door frequenter woord 'beslist' verhoogt woordfrequentie.",
+                        "start_word": 36,
+                        "end_word": 41,
+                        "original_text": "De elite bepaalt vaak alles voor de massa",
+                        "new_text": "De elite beslist vaak alles voor de massa",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vaak woont de elite in het rijke gedeelte van een stad.",
+                "rewritten_sentences": "De elite woont vaak in het rijke deel van de stad.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Herordening van zin verlaagt afhankelijkheidslengte en verhoogt woordfrequentie.",
+                        "start_word": 42,
+                        "end_word": 50,
+                        "original_text": "Vaak woont de elite in het rijke gedeelte van een stad",
+                        "new_text": "De elite woont vaak in het rijke deel van de stad",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het rijke deel van de stad heet het centrum.",
+                "rewritten_sentences": "Het rijke deel van de stad heet het centrum.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het arme deel heet de periferie.",
+                "rewritten_sentences": "Het arme deel noem je de periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Toevoeging van 'noem je' om concreter te zijn en woordfrequentie te verhogen.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Het arme deel heet de periferie",
+                        "new_text": "Het arme deel noem je de periferie",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet alleen in een stad zijn er ongelijkheden, maar ook tussen regio\u2019s in een land.",
+                "rewritten_sentences": "Er zijn niet alleen verschillen in een stad, maar ook tussen regio\u2019s in een land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Vervanging 'ongelijkheden' door frequentere 'verschillen' en herstructurering van zin verhoogt woordfrequentie en concreetheid.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Niet alleen in een stad zijn er ongelijkheden, maar ook tussen regio\u2019s in een land",
+                        "new_text": "Er zijn niet alleen verschillen in een stad, maar ook tussen regio\u2019s in een land",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook dan spreek je van centrum en periferie.",
+                "rewritten_sentences": "Dan spreek je ook van centrum en periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Verplaatsing van 'ook' voor vloeiendere en frequentere woordvolgorde, verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Ook dan spreek je van centrum en periferie",
+                        "new_text": "Dan spreek je ook van centrum en periferie",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jorge woont in het noodlijdende noordoosten van Brazili\u00eb.",
+                "rewritten_sentences": "Jorge woont in het arme noordoosten van Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Vervanging 'noodlijdende' door het kortere en frequentere 'arme' verhoogt woordfrequentie en verlaagt afhankelijkheidslengte.",
+                        "start_word": 3,
+                        "end_word": 4,
+                        "original_text": "noodlijdende noordoosten",
+                        "new_text": "arme noordoosten",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar leven veel mensen van de landbouw.",
+                "rewritten_sentences": "Veel mensen leven daar van de landbouw.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Herordening van zin verhoogt woordfrequentie en verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Daar leven veel mensen van de landbouw",
+                        "new_text": "Veel mensen leven daar van de landbouw",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In het welvarende zuidoosten van Brazili\u00eb woont en werkt Beatriz.",
+                "rewritten_sentences": "Beatriz woont en werkt in het rijke zuidoosten van Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Vervanging 'welvarende' door het kortere 'rijke' verhoogt woordfrequentie en concreetheid.",
+                        "start_word": 1,
+                        "end_word": 4,
+                        "original_text": "het welvarende zuidoosten van",
+                        "new_text": "het rijke zuidoosten van",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In het zuidoosten zijn veel mensen werkzaam in de industrie of in de dienstensector.",
+                "rewritten_sentences": "Veel mensen werken in de industrie of dienstensector in het zuidoosten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Herstructurering van zin verlaagt afhankelijkheidslengte en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "In het zuidoosten zijn veel mensen werkzaam in de industrie of in de dienstensector",
+                        "new_text": "Veel mensen werken in de industrie of dienstensector in het zuidoosten",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De regio met de meeste welvaart en macht noem je het centrum.",
+                "rewritten_sentences": "De regio met de meeste rijkdom en macht noem je het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Vervanging 'welvaart' door het concretere 'rijkdom' verhoogt concreetheid en woordfrequentie.",
+                        "start_word": 4,
+                        "end_word": 5,
+                        "original_text": "welvaart en macht",
+                        "new_text": "rijkdom en macht",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het onvermogende deel van het land noem je de periferie.",
+                "rewritten_sentences": "Het arme deel van het land noem je de periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Vervanging 'onvermogende' door het frequentere en concretere 'arme' verhoogt leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Het onvermogende deel van het land",
+                        "new_text": "Het arme deel van het land",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De periferie is aangewezen op het centrum.",
+                "rewritten_sentences": "De periferie heeft het centrum nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Eenvoudiger formulering verlaagt afhankelijkheidslengte en verhoogt concreetheid.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "De periferie is aangewezen op het centrum",
+                        "new_text": "De periferie heeft het centrum nodig",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het centrum bepaalt alles.",
+                "rewritten_sentences": "Het centrum beslist alles.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Vervanging 'bepaalt' door 'beslist' verhoogt woordfrequentie.",
+                        "start_word": 2,
+                        "end_word": 3,
+                        "original_text": "bepaalt alles",
+                        "new_text": "beslist alles",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De periferie zorgt voor voedsel, grondstoffen en arbeidskrachten.",
+                "rewritten_sentences": "De periferie levert voedsel, grondstoffen en werkers.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "Vervanging 'zorgt voor' door concreter 'levert' en 'arbeidskrachten' door 'werkers' verhoogt concreetheid en woordfrequentie.",
+                        "start_word": 2,
+                        "end_word": 8,
+                        "original_text": "zorgt voor voedsel, grondstoffen en arbeidskrachten",
+                        "new_text": "levert voedsel, grondstoffen en werkers",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor het centrum is de periferie dus onmisbaar!",
+                "rewritten_sentences": "De periferie is dus onmisbaar voor het centrum!",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c27",
+                        "reason_for_change": "Herordening zin voor betere leesbaarheid en woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Voor het centrum is de periferie dus onmisbaar!",
+                        "new_text": "De periferie is dus onmisbaar voor het centrum!",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook op mondiale schaal is er een centrum en een periferie.",
+                "rewritten_sentences": "Op mondiale schaal is er ook een centrum en een periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c28",
+                        "reason_for_change": "Verplaatsing van 'ook' voor frequentere woordvolgorde en betere leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Ook op mondiale schaal is er een centrum en een periferie",
+                        "new_text": "Op mondiale schaal is er ook een centrum en een periferie",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "West-Europa en Noord-Amerika zijn voorbeelden van gebieden die tot het centrum behoren.",
+                "rewritten_sentences": "West-Europa en Noord-Amerika horen bij het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c29",
+                        "reason_for_change": "Kortere zin met eenvoudigere structuur verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "West-Europa en Noord-Amerika zijn voorbeelden van gebieden die tot het centrum behoren",
+                        "new_text": "West-Europa en Noord-Amerika horen bij het centrum",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bruto binnenlands product per hoofd is hoog.",
+                "rewritten_sentences": "Het bbp per persoon is hoog.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c30",
+                        "reason_for_change": "Gebruik van afkorting 'bbp' en 'per persoon' vereenvoudigt en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Het bruto binnenlands product per hoofd is hoog",
+                        "new_text": "Het bbp per persoon is hoog",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De landen hebben veel macht.",
+                "rewritten_sentences": "Die landen hebben veel macht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c31",
+                        "reason_for_change": "Toevoeging 'Die' maakt zin concreter en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "De landen hebben veel macht",
+                        "new_text": "Die landen hebben veel macht",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste mensen werken in de dienstensector.",
+                "rewritten_sentences": "De meeste mensen werken in de dienstensector.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Er is amper analfabetisme en de kindersterfte is laag.",
+                "rewritten_sentences": "Er is bijna geen analfabetisme en de kindersterfte is laag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c32",
+                        "reason_for_change": "Vervanging 'amper' door frequenter 'bijna geen' verhoogt woordfrequentie en duidelijkheid.",
+                        "start_word": 2,
+                        "end_word": 4,
+                        "original_text": "amper analfabetisme en",
+                        "new_text": "bijna geen analfabetisme en",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Afrika behoort tot de periferie.",
+                "rewritten_sentences": "Afrika hoort bij de periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c33",
+                        "reason_for_change": "Vervanging 'behoort tot' door eenvoudiger 'hoort bij' verlaagt afhankelijkheidslengte en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Afrika behoort tot de periferie",
+                        "new_text": "Afrika hoort bij de periferie",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bbp per hoofd is laag.",
+                "rewritten_sentences": "Het bbp per persoon is laag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c34",
+                        "reason_for_change": "Vervanging 'per hoofd' door frequenter 'per persoon' verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Het bbp per hoofd is laag",
+                        "new_text": "Het bbp per persoon is laag",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Afrikaanse landen zijn vaak aangewezen op andere landen, maar ze zijn ook onmisbaar als leveranciers van grondstoffen en voedsel.",
+                "rewritten_sentences": "De Afrikaanse landen hebben vaak andere landen nodig, maar ze zijn onmisbaar als leveranciers van grondstoffen en voedsel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c35",
+                        "reason_for_change": "Vervanging 'aangewezen op' door eenvoudiger 'hebben nodig' verlaagt afhankelijkheidslengte; behoudt concreetheid door 'leveranciers'.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "De Afrikaanse landen zijn vaak aangewezen op andere landen, maar ze zijn ook onmisbaar als leveranciers van grondstoffen en voedsel",
+                        "new_text": "De Afrikaanse landen hebben vaak andere landen nodig, maar ze zijn onmisbaar als leveranciers van grondstoffen en voedsel",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is een groep landen die zich snel ontwikkelt.",
+                "rewritten_sentences": "Er zijn landen die zich snel ontwikkelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c36",
+                        "reason_for_change": "Vermeerdering van onderwerp beperkt afhankelijkheidslengte en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Er is een groep landen die zich snel ontwikkelt",
+                        "new_text": "Er zijn landen die zich snel ontwikkelen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar behoort Brazili\u00eb toe, maar ook Rusland, India en China.",
+                "rewritten_sentences": "Brazili\u00eb hoort daarbij, net als Rusland, India en China.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c37",
+                        "reason_for_change": "Eenvoudiger formulering verlaagt afhankelijkheidslengte en verhoogt woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Daar behoort Brazili\u00eb toe, maar ook Rusland, India en China",
+                        "new_text": "Brazili\u00eb hoort daarbij, net als Rusland, India en China",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "uitlegtekst",
+        "full_text": "Matheus Brocito bezit een grote koffieplantage in Brazili\u00eb. Matheus is rijk. Arme Brazilianen plukken koffiebonen voor hem om geld te verdienen. Hij verkoopt de koffie in Nederland. Daar verdient Matheus veel geld mee. Hij geeft de plukkers slechts $1,25 per dag. In veel landen bestaan grote verschillen tussen groepen mensen. Een kleine groep mensen bezit grond, geld en macht. Dit is de elite. Een grootgrondbezitter als Matheus hoort bij de elite. Maar de meeste mensen zijn arm. Dat is de massa. Deze groep heeft de elite nodig. De elite beslist vaak alles voor de massa. De elite woont vaak in het rijke deel van de stad. Het rijke deel van de stad heet het centrum. Het arme deel noem je de periferie. Er zijn niet alleen verschillen in een stad, maar ook tussen regio\u2019s in een land. Dan spreek je ook van centrum en periferie. Jorge woont in het arme noordoosten van Brazili\u00eb. Veel mensen leven daar van de landbouw. Beatriz woont en werkt in het rijke zuidoosten van Brazili\u00eb. Veel mensen werken in de industrie of dienstensector in het zuidoosten. De regio met de meeste rijkdom en macht noem je het centrum. Het arme deel van het land noem je de periferie. De periferie heeft het centrum nodig. Het centrum beslist alles. De periferie levert voedsel, grondstoffen en werkers. De periferie is dus onmisbaar voor het centrum! Op mondiale schaal is er ook een centrum en een periferie. West-Europa en Noord-Amerika horen bij het centrum. Het bbp per persoon is hoog. Die landen hebben veel macht. De meeste mensen werken in de dienstensector. Er is bijna geen analfabetisme en de kindersterfte is laag. Afrika hoort bij de periferie. Het bbp per persoon is laag. De Afrikaanse landen hebben vaak andere landen nodig, maar ze zijn onmisbaar als leveranciers van grondstoffen en voedsel. Er zijn landen die zich snel ontwikkelen. Brazili\u00eb hoort daarbij, net als Rusland, India en China.",
+        "prompt_id": "T30_moei",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Matheus Brocito heeft een koffieplantage in Brazili\u00eb. De plantage is groot. Matheus is rijk. Arme Brazilianen plukken koffiebonen voor hem. Ze doen dat om wat geld te verdienen. Hij verkoopt de koffie in Nederland. Daar verdient Matheus veel geld. Hij betaalt de plukkers maar $1,25 per dag. In veel landen leven mensen niet gelijk. Er zijn grote verschillen tussen groepen. Een kleine groep bezit land, geld en macht. Die groep heet de elite. Een grootgrondbezitter zoals Matheus hoort bij de elite. Maar de meeste mensen zijn arm. Dat is de massa. Deze groep is afhankelijk van de elite. De elite beslist vaak voor de massa. De elite woont vaak in het rijke deel van de stad. Dat rijke deel heet het centrum. Het arme deel heet de periferie. Er zijn niet alleen verschillen binnen een stad. Ook tussen regio\u2019s in een land bestaan grote verschillen. Dan spreek je ook van centrum en periferie. Jorge woont in het arme noordoosten van Brazili\u00eb. Veel mensen daar werken in de landbouw. Beatriz woont en werkt in het rijke zuidoosten van Brazili\u00eb. In het zuidoosten werken veel mensen in fabrieken of in diensten. De regio met de meeste rijkdom en macht noemen we het centrum. Het arme deel van het land noemen we de periferie. De periferie is afhankelijk van het centrum. Het centrum beslist veel. De periferie levert voedsel en grondstoffen. Ook levert ze veel arbeidskrachten. Voor het centrum is de periferie belangrijk. Op wereldschaal bestaan ook centrum en periferie. West-Europa en Noord-Amerika horen bij het centrum. Het inkomen per persoon is hoog. Die landen hebben veel macht. De meeste mensen werken in de dienstensector. Er zijn bijna geen analfabeten. De kindersterfte is laag. Afrika hoort bij de periferie. Het bbp per persoon is laag. Afrikaanse landen zijn vaak afhankelijk van andere landen. Ze leveren grondstoffen en voedsel. Er zijn landen die snel groeien. Brazili\u00eb hoort daarbij. Ook Rusland, India en China horen erbij.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "29",
+    "GPT 5.1 mini/gpt-5-mini - sent": "41, 19, 10, 31, 21, 14, 15, 27, 0, 27, 32, 24, 37, 5, 41, 35, 36, 32, 31, 39, 5, 35, 54, 26, 19, 25, 41, 46, 41, 55, 51, 16, 49, 61, 24, 6, 20, 14, 51, 43, 46, 25, 38, 0, 1, 7",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Matheus Brocito heeft een grote koffieplantage in Brazili\u00eb.",
+                "rewritten_sentences": "Matheus Brocito heeft een koffieplantage in Brazili\u00eb. De plantage is groot.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s1c1",
+                        "reason_for_change": "Zin opgesplitst in twee korte zinnen om de syntactische afhankelijkheidslengte te verlagen en de tekst stapgewijs te maken.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Matheus Brocito heeft een grote koffieplantage in Brazili\u00eb.",
+                        "new_text": "Matheus Brocito heeft een koffieplantage in Brazili\u00eb. De plantage is groot.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Matheus is heel vermogend.",
+                "rewritten_sentences": "Matheus is rijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "Vereenvoudiging van woordkeus naar een frequenter en concreter woord om woordfrequentie te verhogen en de zin korter te maken.",
+                        "start_word": 9,
+                        "end_word": 12,
+                        "original_text": "Matheus is heel vermogend.",
+                        "new_text": "Matheus is rijk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Arme Brazilianen die wat geld willen verdienen, plukken koffiebonen voor hem.",
+                "rewritten_sentences": "Arme Brazilianen plukken koffiebonen voor hem. Ze doen dat om wat geld te verdienen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3c1",
+                        "reason_for_change": "Zin opgesplitst en bijzin omgezet naar aparte korte zin; dit verlaagt afhankelijkheidslengte en vermindert complexiteit per bijzin.",
+                        "start_word": 13,
+                        "end_word": 23,
+                        "original_text": "Arme Brazilianen die wat geld willen verdienen, plukken koffiebonen voor hem.",
+                        "new_text": "Arme Brazilianen plukken koffiebonen voor hem. Ze doen dat om wat geld te verdienen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij zet de koffie af in Nederland.",
+                "rewritten_sentences": "Hij verkoopt de koffie in Nederland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "Woordkeuze aangepast naar een commoner woord ('verkoopt') en zin kort gehouden om afhankelijkheidslengte te verlagen.",
+                        "start_word": 24,
+                        "end_word": 30,
+                        "original_text": "Hij zet de koffie af in Nederland.",
+                        "new_text": "Hij verkoopt de koffie in Nederland.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar vangt Matheus veel geld mee.",
+                "rewritten_sentences": "Daar verdient Matheus veel geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Werkwoord vervangen door een frequenter woord ('verdient') en de zin kort gehouden om eenvoud en lagere afhankelijkheidslengte te bereiken.",
+                        "start_word": 31,
+                        "end_word": 36,
+                        "original_text": "Daar vangt Matheus veel geld mee.",
+                        "new_text": "Daar verdient Matheus veel geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En hij beloont de plukkers met een schamele $1,25 per dag.",
+                "rewritten_sentences": "Hij betaalt de plukkers maar $1,25 per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "Zin korter gemaakt en woordkeuze vereenvoudigd om afhankelijkheidslengte en inhoud per bijzin te verlagen.",
+                        "start_word": 37,
+                        "end_word": 47,
+                        "original_text": "En hij beloont de plukkers met een schamele $1,25 per dag.",
+                        "new_text": "Hij betaalt de plukkers maar $1,25 per dag.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel landen zijn er grote ongelijkheden tussen groepen mensen.",
+                "rewritten_sentences": "In veel landen leven mensen niet gelijk. Er zijn grote verschillen tussen groepen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "Oorspronkelijke zin opgesplitst in twee korte zinnen om syntactische complexiteit te verlagen en informatie stapgewijs aan te bieden.",
+                        "start_word": 48,
+                        "end_word": 57,
+                        "original_text": "In veel landen zijn er grote ongelijkheden tussen groepen mensen.",
+                        "new_text": "In veel landen leven mensen niet gelijk. Er zijn grote verschillen tussen groepen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een handje mensen heeft grond, geld en macht.",
+                "rewritten_sentences": "Een kleine groep bezit land, geld en macht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Woordkeuze en zinsbouw vereenvoudigd, concretere zelfstandige naamwoorden gebruikt om de verhouding concrete zelfstandignaamwoorden te verhogen en afhankelijkheidslengte te verlagen.",
+                        "start_word": 58,
+                        "end_word": 65,
+                        "original_text": "Een handje mensen heeft grond, geld en macht.",
+                        "new_text": "Een kleine groep bezit land, geld en macht.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is de elite.",
+                "rewritten_sentences": "Die groep heet de elite.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "Zin iets aangepast voor duidelijkheid en korte, directe formulering.",
+                        "start_word": 66,
+                        "end_word": 69,
+                        "original_text": "Dat is de elite.",
+                        "new_text": "Die groep heet de elite.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een grootgrondbezitter, zoals Matheus, behoort tot de elite.",
+                "rewritten_sentences": "Een grootgrondbezitter zoals Matheus hoort bij de elite.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "Bijstelling van zinsvolgorde en vereenvoudiging om afhankelijkheidslengte te verlagen en de zin soepeler te maken.",
+                        "start_word": 70,
+                        "end_word": 77,
+                        "original_text": "Een grootgrondbezitter, zoals Matheus, behoort tot de elite.",
+                        "new_text": "Een grootgrondbezitter zoals Matheus hoort bij de elite.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar de meerderheid is arm: de massa.",
+                "rewritten_sentences": "Maar de meeste mensen zijn arm. Dat is de massa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "Zin opgesplitst om de informatie in korte stappen te presenteren en afhankelijkheidslengte te verlagen.",
+                        "start_word": 78,
+                        "end_word": 84,
+                        "original_text": "Maar de meerderheid is arm: de massa.",
+                        "new_text": "Maar de meeste mensen zijn arm. Dat is de massa.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Deze groep is aangewezen op de elite.",
+                "rewritten_sentences": "Deze groep is afhankelijk van de elite.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "Woordkeuze vereenvoudigd ('aangewezen op' -> 'afhankelijk van') om de zin korter en directer te maken.",
+                        "start_word": 85,
+                        "end_word": 91,
+                        "original_text": "Deze groep is aangewezen op de elite.",
+                        "new_text": "Deze groep is afhankelijk van de elite.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De elite bepaalt vaak alles voor de massa.",
+                "rewritten_sentences": "De elite beslist vaak voor de massa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "Werkwoord naar een frequenter en korter synoniem aangepast om afhankelijkheidslengte en complexiteit te verminderen.",
+                        "start_word": 92,
+                        "end_word": 99,
+                        "original_text": "De elite bepaalt vaak alles voor de massa.",
+                        "new_text": "De elite beslist vaak voor de massa.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vaak woont de elite in het rijke gedeelte van een stad.",
+                "rewritten_sentences": "De elite woont vaak in het rijke deel van de stad.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Zin omgezet naar een eenvoudiger structuur met frequente woorden en kortere frasen.",
+                        "start_word": 100,
+                        "end_word": 110,
+                        "original_text": "Vaak woont de elite in het rijke gedeelte van een stad.",
+                        "new_text": "De elite woont vaak in het rijke deel van de stad.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het rijke deel van de stad heet het centrum.",
+                "rewritten_sentences": "Dat rijke deel heet het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Zin korter gemaakt en verwijzing duidelijker geformuleerd om afhankelijkheidslengte te verlagen.",
+                        "start_word": 111,
+                        "end_word": 119,
+                        "original_text": "Het rijke deel van de stad heet het centrum.",
+                        "new_text": "Dat rijke deel heet het centrum.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het arme deel heet de periferie.",
+                "rewritten_sentences": "Het arme deel heet de periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Zin gehandhaafd qua inhoud maar kort en eenvoudig gehouden om coherentie te bewaren.",
+                        "start_word": 120,
+                        "end_word": 125,
+                        "original_text": "Het arme deel heet de periferie.",
+                        "new_text": "Het arme deel heet de periferie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet alleen in een stad zijn er ongelijkheden, maar ook tussen regio\u2019s in een land.",
+                "rewritten_sentences": "Er zijn niet alleen verschillen binnen een stad. Ook tussen regio\u2019s in een land bestaan grote verschillen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "Lange samengestelde zin opgesplitst in twee korte zinnen om afhankelijkheidslengte te verlagen en de informatie stap voor stap te presenteren.",
+                        "start_word": 126,
+                        "end_word": 140,
+                        "original_text": "Niet alleen in een stad zijn er ongelijkheden, maar ook tussen regio\u2019s in een land.",
+                        "new_text": "Er zijn niet alleen verschillen binnen een stad. Ook tussen regio\u2019s in een land bestaan grote verschillen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook dan spreek je van centrum en periferie.",
+                "rewritten_sentences": "Dan spreek je ook van centrum en periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "Kleine aanpassing in woordvolgorde voor vloeiendere en kortere formulering.",
+                        "start_word": 141,
+                        "end_word": 148,
+                        "original_text": "Ook dan spreek je van centrum en periferie.",
+                        "new_text": "Dan spreek je ook van centrum en periferie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jorge woont in het noodlijdende noordoosten van Brazili\u00eb.",
+                "rewritten_sentences": "Jorge woont in het arme noordoosten van Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "Complex bijvoeglijk naamwoord vervangen door een eenvoudiger en frequenter woord ('arme') om woordfrequentie te verhogen en de zin eenvoudiger te maken.",
+                        "start_word": 149,
+                        "end_word": 156,
+                        "original_text": "Jorge woont in het noodlijdende noordoosten van Brazili\u00eb.",
+                        "new_text": "Jorge woont in het arme noordoosten van Brazili\u00eb.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar leven veel mensen van de landbouw.",
+                "rewritten_sentences": "Veel mensen daar werken in de landbouw.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20c1",
+                        "reason_for_change": "Zin actief en direct gemaakt; structuur vereenvoudigd om afhankelijkheidslengte te verlagen.",
+                        "start_word": 157,
+                        "end_word": 163,
+                        "original_text": "Daar leven veel mensen van de landbouw.",
+                        "new_text": "Veel mensen daar werken in de landbouw.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In het welvarende zuidoosten van Brazili\u00eb woont en werkt Beatriz.",
+                "rewritten_sentences": "Beatriz woont en werkt in het rijke zuidoosten van Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21c1",
+                        "reason_for_change": "Bijvoeglijk naamwoord vereenvoudigd en zinsvolgorde licht aangepast voor korte, duidelijke formulering.",
+                        "start_word": 164,
+                        "end_word": 173,
+                        "original_text": "In het welvarende zuidoosten van Brazili\u00eb woont en werkt Beatriz.",
+                        "new_text": "Beatriz woont en werkt in het rijke zuidoosten van Brazili\u00eb.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In het zuidoosten zijn veel mensen werkzaam in de industrie of in de dienstensector.",
+                "rewritten_sentences": "In het zuidoosten werken veel mensen in fabrieken of in diensten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s22c1",
+                        "reason_for_change": "Complexe termen vervangen door frequentere en concrete woorden ('industrie' -> 'fabrieken', 'dienstensector' -> 'diensten') en zin kort gehouden.",
+                        "start_word": 174,
+                        "end_word": 187,
+                        "original_text": "In het zuidoosten zijn veel mensen werkzaam in de industrie of in de dienstensector.",
+                        "new_text": "In het zuidoosten werken veel mensen in fabrieken of in diensten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De regio met de meeste welvaart en macht noem je het centrum.",
+                "rewritten_sentences": "De regio met de meeste rijkdom en macht noemen we het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23c1",
+                        "reason_for_change": "Kleine aanpassing van woordkeuze en zinsbouw voor eenvoud en kortere syntactische structuur.",
+                        "start_word": 188,
+                        "end_word": 199,
+                        "original_text": "De regio met de meeste welvaart en macht noem je het centrum.",
+                        "new_text": "De regio met de meeste rijkdom en macht noemen we het centrum.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het onvermogende deel van het land noem je de periferie.",
+                "rewritten_sentences": "Het arme deel van het land noemen we de periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s24c1",
+                        "reason_for_change": "Woordkeuze vereenvoudigd en zin kort gehouden om afhankelijkheidslengte te verlagen.",
+                        "start_word": 200,
+                        "end_word": 209,
+                        "original_text": "Het onvermogende deel van het land noem je de periferie.",
+                        "new_text": "Het arme deel van het land noemen we de periferie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De periferie is aangewezen op het centrum.",
+                "rewritten_sentences": "De periferie is afhankelijk van het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s25c1",
+                        "reason_for_change": "Woordkeuze aangepast naar korter en frequenter woord ('aangewezen op' -> 'afhankelijk van') en zin kort gehouden.",
+                        "start_word": 210,
+                        "end_word": 216,
+                        "original_text": "De periferie is aangewezen op het centrum.",
+                        "new_text": "De periferie is afhankelijk van het centrum.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het centrum bepaalt alles.",
+                "rewritten_sentences": "Het centrum beslist veel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s26c1",
+                        "reason_for_change": "Zin vereenvoudigd met frequenter werkwoord en kortere formulering.",
+                        "start_word": 217,
+                        "end_word": 220,
+                        "original_text": "Het centrum bepaalt alles.",
+                        "new_text": "Het centrum beslist veel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De periferie zorgt voor voedsel, grondstoffen en arbeidskrachten.",
+                "rewritten_sentences": "De periferie levert voedsel en grondstoffen. Ook levert ze veel arbeidskrachten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s27c1",
+                        "reason_for_change": "Lange opsomming opgesplitst in twee korte zinnen om per zin minder inhoudswoorden te hebben en afhankelijkheidslengte te verlagen.",
+                        "start_word": 221,
+                        "end_word": 228,
+                        "original_text": "De periferie zorgt voor voedsel, grondstoffen en arbeidskrachten.",
+                        "new_text": "De periferie levert voedsel en grondstoffen. Ook levert ze veel arbeidskrachten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor het centrum is de periferie dus onmisbaar!",
+                "rewritten_sentences": "Voor het centrum is de periferie belangrijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s28c1",
+                        "reason_for_change": "Exclamatie afgezwakt en zin kort gemaakt; doel is een heldere en korte mededeling zonder complexe zinsbouw.",
+                        "start_word": 229,
+                        "end_word": 236,
+                        "original_text": "Voor het centrum is de periferie dus onmisbaar!",
+                        "new_text": "Voor het centrum is de periferie belangrijk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook op mondiale schaal is er een centrum en een periferie.",
+                "rewritten_sentences": "Op wereldschaal bestaan ook centrum en periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s29c1",
+                        "reason_for_change": "Woordvolgorde en woordkeuze aangepast voor kortere en directere zin en lagere afhankelijkheidslengte.",
+                        "start_word": 237,
+                        "end_word": 247,
+                        "original_text": "Ook op mondiale schaal is er een centrum en een periferie.",
+                        "new_text": "Op wereldschaal bestaan ook centrum en periferie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "West-Europa en Noord-Amerika zijn voorbeelden van gebieden die tot het centrum behoren.",
+                "rewritten_sentences": "West-Europa en Noord-Amerika horen bij het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s30c1",
+                        "reason_for_change": "Zin kort gemaakt en zinsdelen vereenvoudigd om afhankelijkheidslengte te verlagen.",
+                        "start_word": 248,
+                        "end_word": 259,
+                        "original_text": "West-Europa en Noord-Amerika zijn voorbeelden van gebieden die tot het centrum behoren.",
+                        "new_text": "West-Europa en Noord-Amerika horen bij het centrum.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bruto binnenlands product per hoofd is hoog.",
+                "rewritten_sentences": "Het inkomen per persoon is hoog.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s31c1",
+                        "reason_for_change": "Technische term vervangen door een frequenter en concreter woord ('inkomen per persoon') om woordfrequentie te verhogen en zinslengte te beperken.",
+                        "start_word": 260,
+                        "end_word": 267,
+                        "original_text": "Het bruto binnenlands product per hoofd is hoog.",
+                        "new_text": "Het inkomen per persoon is hoog.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De landen hebben veel macht.",
+                "rewritten_sentences": "Die landen hebben veel macht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s32c1",
+                        "reason_for_change": "Zin licht aangepast voor vloeiendheid en korte, directe formulering.",
+                        "start_word": 268,
+                        "end_word": 272,
+                        "original_text": "De landen hebben veel macht.",
+                        "new_text": "Die landen hebben veel macht.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste mensen werken in de dienstensector.",
+                "rewritten_sentences": "De meeste mensen werken in de dienstensector.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s33c1",
+                        "reason_for_change": "Zin bewaard; korte en frequente woorden gebruikt zodat afhankelijkheidslengte laag blijft.",
+                        "start_word": 273,
+                        "end_word": 279,
+                        "original_text": "De meeste mensen werken in de dienstensector.",
+                        "new_text": "De meeste mensen werken in de dienstensector.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is amper analfabetisme en de kindersterfte is laag.",
+                "rewritten_sentences": "Er zijn bijna geen analfabeten. De kindersterfte is laag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s34c1",
+                        "reason_for_change": "Zin opgesplitst in twee korte zinnen om per zin minder inhoudswoorden te hebben en de zinnen eenvoudiger te maken.",
+                        "start_word": 280,
+                        "end_word": 288,
+                        "original_text": "Er is amper analfabetisme en de kindersterfte is laag.",
+                        "new_text": "Er zijn bijna geen analfabeten. De kindersterfte is laag.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Afrika behoort tot de periferie.",
+                "rewritten_sentences": "Afrika hoort bij de periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s35c1",
+                        "reason_for_change": "Zin vereenvoudigd en kort gehouden om afhankelijkheidslengte laag te houden.",
+                        "start_word": 289,
+                        "end_word": 293,
+                        "original_text": "Afrika behoort tot de periferie.",
+                        "new_text": "Afrika hoort bij de periferie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bbp per hoofd is laag.",
+                "rewritten_sentences": "Het bbp per persoon is laag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s36c1",
+                        "reason_for_change": "Term iets aangepast naar frequentere formulering; zin kort en direct gehouden.",
+                        "start_word": 294,
+                        "end_word": 299,
+                        "original_text": "Het bbp per hoofd is laag.",
+                        "new_text": "Het bbp per persoon is laag.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Afrikaanse landen zijn vaak aangewezen op andere landen, maar ze zijn ook onmisbaar als leveranciers van grondstoffen en voedsel.",
+                "rewritten_sentences": "Afrikaanse landen zijn vaak afhankelijk van andere landen. Ze leveren grondstoffen en voedsel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s37c1",
+                        "reason_for_change": "Lange samengestelde zin opgesplitst in twee korte zinnen en jargon vervangen door concretere termen om afhankelijkheidslengte en inhoud per bijzin te verminderen.",
+                        "start_word": 300,
+                        "end_word": 319,
+                        "original_text": "De Afrikaanse landen zijn vaak aangewezen op andere landen, maar ze zijn ook onmisbaar als leveranciers van grondstoffen en voedsel.",
+                        "new_text": "Afrikaanse landen zijn vaak afhankelijk van andere landen. Ze leveren grondstoffen en voedsel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is een groep landen die zich snel ontwikkelt.",
+                "rewritten_sentences": "Er zijn landen die snel groeien.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s38c1",
+                        "reason_for_change": "Zin korter en directer gemaakt met frequente woorden om afhankelijkheidslengte te verlagen.",
+                        "start_word": 320,
+                        "end_word": 328,
+                        "original_text": "Er is een groep landen die zich snel ontwikkelt.",
+                        "new_text": "Er zijn landen die snel groeien.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar behoort Brazili\u00eb toe, maar ook Rusland, India en China.",
+                "rewritten_sentences": "Brazili\u00eb hoort daarbij. Ook Rusland, India en China horen erbij.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s39c1",
+                        "reason_for_change": "Opsplitsing in twee korte zinnen om informatie stapgewijs te geven en syntactische afhankelijkheid te verlagen.",
+                        "start_word": 329,
+                        "end_word": 338,
+                        "original_text": "Daar behoort Brazili\u00eb toe, maar ook Rusland, India en China.",
+                        "new_text": "Brazili\u00eb hoort daarbij. Ook Rusland, India en China horen erbij.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatieve tekst",
+        "full_text": "Matheus Brocito heeft een koffieplantage in Brazili\u00eb. De plantage is groot. Matheus is rijk. Arme Brazilianen plukken koffiebonen voor hem. Ze doen dat om wat geld te verdienen. Hij verkoopt de koffie in Nederland. Daar verdient Matheus veel geld. Hij betaalt de plukkers maar $1,25 per dag. In veel landen leven mensen niet gelijk. Er zijn grote verschillen tussen groepen. Een kleine groep bezit land, geld en macht. Die groep heet de elite. Een grootgrondbezitter zoals Matheus hoort bij de elite. Maar de meeste mensen zijn arm. Dat is de massa. Deze groep is afhankelijk van de elite. De elite beslist vaak voor de massa. De elite woont vaak in het rijke deel van de stad. Dat rijke deel heet het centrum. Het arme deel heet de periferie. Er zijn niet alleen verschillen binnen een stad. Ook tussen regio\u2019s in een land bestaan grote verschillen. Dan spreek je ook van centrum en periferie. Jorge woont in het arme noordoosten van Brazili\u00eb. Veel mensen daar werken in de landbouw. Beatriz woont en werkt in het rijke zuidoosten van Brazili\u00eb. In het zuidoosten werken veel mensen in fabrieken of in diensten. De regio met de meeste rijkdom en macht noemen we het centrum. Het arme deel van het land noemen we de periferie. De periferie is afhankelijk van het centrum. Het centrum beslist veel. De periferie levert voedsel en grondstoffen. Ook levert ze veel arbeidskrachten. Voor het centrum is de periferie belangrijk. Op wereldschaal bestaan ook centrum en periferie. West-Europa en Noord-Amerika horen bij het centrum. Het inkomen per persoon is hoog. Die landen hebben veel macht. De meeste mensen werken in de dienstensector. Er zijn bijna geen analfabeten. De kindersterfte is laag. Afrika hoort bij de periferie. Het bbp per persoon is laag. Afrikaanse landen zijn vaak afhankelijk van andere landen. Ze leveren grondstoffen en voedsel. Er zijn landen die snel groeien. Brazili\u00eb hoort daarbij. Ook Rusland, India en China horen erbij.",
+        "prompt_id": "T30_moei",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "Het centrum en de rand Matheus Brocito heeft een groot veld met koffie in het land Brazili\u00eb. De man Matheus is erg rijk. Arme mensen plukken de bruine bonen voor de man. Hij verkoopt de koffie in het land Nederland. De man krijgt daar veel geld voor. Hij geeft de plukkers weinig geld voor het werk. In veel landen zijn de verschillen tussen mensen groot. Een kleine groep mensen heeft land, geld en macht. Dat is de rijke groep. De man met veel land hoort bij de rijke groep. Maar de meeste mensen zijn erg arm. Deze arme groep heeft de rijken nodig. De rijke mensen bepalen alles voor de arme mensen. De rijke mensen wonen in het mooie deel van de stad. Het rijke deel is het centrum. Het arme deel is de rand. Er zijn ook grote verschillen tussen delen van een land. Ook dan is er een centrum en een rand. De man Jorge woont in het arme noorden van het land. Daar werken veel mensen op het land. In het rijke zuiden woont en werkt de vrouw Beatriz. In het zuiden werken veel mensen in fabrieken of winkels. Het deel met het meeste geld noem je het centrum. Het arme deel van het land noem je de rand. De rand heeft het centrum nodig. De mensen in het centrum bepalen alles. De rand zorgt voor eten en spullen. Het centrum kan niet zonder de rand. Ook in de wereld is er een centrum en een rand. Europa en Amerika horen bij het centrum. De mensen verdienen daar veel geld. Die landen hebben veel macht. De meeste mensen werken in winkels. Iedereen kan lezen en weinig baby's gaan dood. Afrika hoort bij de rand. De mensen zijn daar arm. Zij hebben hulp nodig maar geven ook eten aan de wereld. Sommige landen worden heel snel rijk. Dat zijn landen als Brazili\u00eb, Rusland en China.",
+    "Gemini/gemini-3-flash-preview - lint": "20",
+    "Gemini/gemini-3-flash-preview - sent": "44, 5, 24, 19, 7, 34, 23, 22, 33, 21, 7, 24, 16, 21, 34, 32, 22, 28, 18, 0, 15, 32, 32, 32, 32, 26, 39, 29, 21, 10, 6, 11, 5, 24, 0, 21, 7",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Centrum en periferie",
+                "rewritten_sentences": "Het centrum en de rand",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Vervang het laagfrequente woord periferie door een alledaags en concreter woord om de woordfrequentie te verhogen.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "periferie",
+                        "new_text": "de rand",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Matheus Brocito heeft een grote koffieplantage in Brazili\u00eb.",
+                "rewritten_sentences": "Matheus Brocito heeft een groot veld met koffie in het land Brazili\u00eb.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Vervang koffieplantage door concretere termen zoals veld en koffie.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "koffieplantage",
+                        "new_text": "veld met koffie",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Matheus is heel vermogend.",
+                "rewritten_sentences": "De man Matheus is erg rijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Vervang vermogend door het veel frequentere woord rijk.",
+                        "start_word": 3,
+                        "end_word": 3,
+                        "original_text": "vermogend",
+                        "new_text": "rijk",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Arme Brazilianen die wat geld willen verdienen, plukken koffiebonen voor hem.",
+                "rewritten_sentences": "Arme mensen plukken de bruine bonen voor de man.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Verlaag het aantal inhoudswoorden door de bijzin te versimpelen.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Brazilianen die wat geld willen verdienen",
+                        "new_text": "mensen",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij zet de koffie af in Nederland.",
+                "rewritten_sentences": "Hij verkoopt de koffie in het land Nederland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Vervang 'zet af' door het frequentere 'verkoopt'.",
+                        "start_word": 2,
+                        "end_word": 3,
+                        "original_text": "zet de koffie af",
+                        "new_text": "verkoopt de koffie",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar vangt Matheus veel geld mee.",
+                "rewritten_sentences": "De man krijgt daar veel geld voor.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Verkort de afhankelijkheidslengte door de zinsbouw directer te maken.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Daar vangt Matheus veel geld mee",
+                        "new_text": "De man krijgt daar veel geld voor",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En hij beloont de plukkers met een schamele $1,25 per dag.",
+                "rewritten_sentences": "Hij geeft de plukkers weinig geld voor het werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Vervang abstracte en laagfrequente woorden zoals schamele door concrete en gangbare begrippen.",
+                        "start_word": 2,
+                        "end_word": 10,
+                        "original_text": "beloont de plukkers met een schamele $1,25 per dag",
+                        "new_text": "geeft de plukkers weinig geld voor het werk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel landen zijn er grote ongelijkheden tussen groepen mensen.",
+                "rewritten_sentences": "In veel landen zijn de verschillen tussen mensen groot.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Vervang ongelijkheden door het frequentere woord verschillen.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "ongelijkheden",
+                        "new_text": "verschillen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een handje mensen heeft grond, geld en macht.",
+                "rewritten_sentences": "Een kleine groep mensen heeft land, geld en macht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Vervang figuurlijk taalgebruik door directere, concrete woorden.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "handje",
+                        "new_text": "kleine groep",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is de elite.",
+                "rewritten_sentences": "Dat is de rijke groep.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Vervang elite door een concretere omschrijving.",
+                        "start_word": 3,
+                        "end_word": 3,
+                        "original_text": "elite",
+                        "new_text": "rijke groep",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een grootgrondbezitter, zoals Matheus, behoort tot de elite.",
+                "rewritten_sentences": "De man met veel land hoort bij de rijke groep.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Vervang het complexe woord grootgrondbezitter door concrete begrippen.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "grootgrondbezitter",
+                        "new_text": "man met veel land",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar de meerderheid is arm: de massa.",
+                "rewritten_sentences": "Maar de meeste mensen zijn erg arm.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Vervang abstracte termen zoals meerderheid en massa door concrete termen.",
+                        "start_word": 2,
+                        "end_word": 6,
+                        "original_text": "meerderheid is arm: de massa",
+                        "new_text": "meeste mensen zijn erg arm",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Deze groep is aangewezen op de elite.",
+                "rewritten_sentences": "Deze arme groep heeft de rijken nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Vervang de passieve constructie 'aangewezen op' door een actieve vorm met hogere woordfrequentie.",
+                        "start_word": 3,
+                        "end_word": 6,
+                        "original_text": "aangewezen op de elite",
+                        "new_text": "heeft de rijken nodig",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De elite bepaalt vaak alles voor de massa.",
+                "rewritten_sentences": "De rijke mensen bepalen alles voor de arme mensen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Vervang elite en massa door concretere zelfstandige naamwoorden.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "elite bepaalt vaak alles voor de massa",
+                        "new_text": "rijke mensen bepalen alles voor de arme mensen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vaak woont de elite in het rijke gedeelte van een stad.",
+                "rewritten_sentences": "De rijke mensen wonen in het mooie deel van de stad.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Vervang elite door concrete termen.",
+                        "start_word": 3,
+                        "end_word": 3,
+                        "original_text": "elite",
+                        "new_text": "rijke mensen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het rijke deel van de stad heet het centrum.",
+                "rewritten_sentences": "Het rijke deel is het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Verlaag het aantal inhoudswoorden in de zin.",
+                        "start_word": 4,
+                        "end_word": 6,
+                        "original_text": "van de stad heet",
+                        "new_text": "is",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het arme deel heet de periferie.",
+                "rewritten_sentences": "Het arme deel is de rand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Vervang periferie door het concrete woord rand.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "periferie",
+                        "new_text": "rand",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet alleen in een stad zijn er ongelijkheden, maar ook tussen regio\u2019s in een land.",
+                "rewritten_sentences": "Er zijn ook grote verschillen tussen delen van een land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Versimpel de zinsbouw om de afhankelijkheidslengte te verlagen en vervang ongelijkheden.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Niet alleen in een stad zijn er ongelijkheden, maar ook tussen regio\u2019s in een land",
+                        "new_text": "Er zijn ook grote verschillen tussen delen van een land",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook dan spreek je van centrum en periferie.",
+                "rewritten_sentences": "Ook dan is er een centrum en een rand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Vervang periferie door rand.",
+                        "start_word": 8,
+                        "end_word": 8,
+                        "original_text": "periferie",
+                        "new_text": "rand",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jorge woont in het noodlijdende noordoosten van Brazili\u00eb.",
+                "rewritten_sentences": "De man Jorge woont in het arme noorden van het land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Vervang het laagfrequente noodlijdende door het hoogfrequente arme.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "noodlijdende",
+                        "new_text": "arme",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar leven veel mensen van de landbouw.",
+                "rewritten_sentences": "Daar werken veel mensen op het land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Vervang abstracte landbouw door het concrete woord land.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "landbouw",
+                        "new_text": "land",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In het welvarende zuidoosten van Brazili\u00eb woont en werkt Beatriz.",
+                "rewritten_sentences": "In het rijke zuiden woont en werkt de vrouw Beatriz.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Vervang welvarende door rijke.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "welvarende",
+                        "new_text": "rijke",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In het zuidoosten zijn veel mensen werkzaam in de industrie of in de dienstensector.",
+                "rewritten_sentences": "In het zuiden werken veel mensen in fabrieken of winkels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Vervang abstracte sectoren door concrete zelfstandige naamwoorden.",
+                        "start_word": 9,
+                        "end_word": 13,
+                        "original_text": "industrie of in de dienstensector",
+                        "new_text": "fabrieken of winkels",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De regio met de meeste welvaart en macht noem je het centrum.",
+                "rewritten_sentences": "Het deel met het meeste geld noem je het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Vervang abstracte welvaart door concreet geld.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "welvaart",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het onvermogende deel van het land noem je de periferie.",
+                "rewritten_sentences": "Het arme deel van het land noem je de rand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Vervang periferie door rand.",
+                        "start_word": 10,
+                        "end_word": 10,
+                        "original_text": "periferie",
+                        "new_text": "rand",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De periferie is aangewezen op het centrum.",
+                "rewritten_sentences": "De rand heeft het centrum nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "Gebruik een actieve constructie met hogere woordfrequentie.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "periferie is aangewezen op",
+                        "new_text": "rand heeft ... nodig",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het centrum bepaalt alles.",
+                "rewritten_sentences": "De mensen in het centrum bepalen alles.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c27",
+                        "reason_for_change": "Voeg een concreet zelfstandig naamwoord toe.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "centrum",
+                        "new_text": "mensen in het centrum",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De periferie zorgt voor voedsel, grondstoffen en arbeidskrachten.",
+                "rewritten_sentences": "De rand zorgt voor eten en spullen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c28",
+                        "reason_for_change": "Vervang abstracte opsomming door concrete, veelgebruikte woorden.",
+                        "start_word": 4,
+                        "end_word": 7,
+                        "original_text": "voedsel, grondstoffen en arbeidskrachten",
+                        "new_text": "eten en spullen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor het centrum is de periferie dus onmisbaar!",
+                "rewritten_sentences": "Het centrum kan niet zonder de rand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c29",
+                        "reason_for_change": "Vervang periferie en onmisbaar door simpelere constructies.",
+                        "start_word": 5,
+                        "end_word": 7,
+                        "original_text": "periferie dus onmisbaar",
+                        "new_text": "rand",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook op mondiale schaal is er een centrum en een periferie.",
+                "rewritten_sentences": "Ook in de wereld is er een centrum en een rand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c30",
+                        "reason_for_change": "Vervang abstracte mondiale schaal door concrete wereld.",
+                        "start_word": 2,
+                        "end_word": 3,
+                        "original_text": "mondiale schaal",
+                        "new_text": "wereld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "West-Europa en Noord-Amerika zijn voorbeelden van gebieden die tot het centrum behoren.",
+                "rewritten_sentences": "Europa en Amerika horen bij het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c31",
+                        "reason_for_change": "Verkort de zin aanzienlijk om de afhankelijkheidslengte en contentwoorden te verlagen.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "West-Europa en Noord-Amerika zijn voorbeelden van gebieden die tot het centrum behoren",
+                        "new_text": "Europa en Amerika horen bij het centrum",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bruto binnenlands product per hoofd is hoog.",
+                "rewritten_sentences": "De mensen verdienen daar veel geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c32",
+                        "reason_for_change": "Vervang het abstracte en laagfrequente BBP door concreet geld.",
+                        "start_word": 1,
+                        "end_word": 4,
+                        "original_text": "bruto binnenlands product per hoofd",
+                        "new_text": "mensen verdienen daar veel geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De landen hebben veel macht.",
+                "rewritten_sentences": "Die landen hebben veel macht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c33",
+                        "reason_for_change": "Kleine wijziging om de syntactische eenvoud te behouden.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "De",
+                        "new_text": "Die",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste mensen werken in de dienstensector.",
+                "rewritten_sentences": "De meeste mensen werken in winkels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c34",
+                        "reason_for_change": "Vervang dienstensector door een concreet woord.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "dienstensector",
+                        "new_text": "winkels",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is amper analfabetisme en de kindersterfte is laag.",
+                "rewritten_sentences": "Iedereen kan lezen en weinig baby's gaan dood.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c35",
+                        "reason_for_change": "Vervang abstracte termen door concrete handelingen en personen.",
+                        "start_word": 3,
+                        "end_word": 8,
+                        "original_text": "analfabetisme en de kindersterfte",
+                        "new_text": "lezen en weinig baby's",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Afrika behoort tot de periferie.",
+                "rewritten_sentences": "Afrika hoort bij de rand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c36",
+                        "reason_for_change": "Vervang periferie door rand.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "periferie",
+                        "new_text": "rand",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bbp per hoofd is laag.",
+                "rewritten_sentences": "De mensen zijn daar arm.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c37",
+                        "reason_for_change": "Vervang bbp door concrete toestand.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "bbp per hoofd",
+                        "new_text": "mensen zijn daar arm",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Afrikaanse landen zijn vaak aangewezen op andere landen, maar ze zijn ook onmisbaar als leveranciers van grondstoffen en voedsel.",
+                "rewritten_sentences": "Zij hebben hulp nodig maar geven ook eten aan de wereld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c38",
+                        "reason_for_change": "Versimpel de zin en vervang abstracte woorden zoals leveranciers en grondstoffen door concrete termen.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "De Afrikaanse landen zijn vaak aangewezen op andere landen, maar ze zijn ook onmisbaar als leveranciers van grondstoffen en voedsel",
+                        "new_text": "Zij hebben hulp nodig maar geven ook eten aan de wereld",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is een groep landen die zich snel ontwikkelt.",
+                "rewritten_sentences": "Sommige landen worden heel snel rijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c39",
+                        "reason_for_change": "Vervang de abstracte bijzin door een directe hoofdzin met hoge woordfrequentie.",
+                        "start_word": 2,
+                        "end_word": 8,
+                        "original_text": "een groep landen die zich snel ontwikkelt",
+                        "new_text": "Sommige landen worden heel snel rijk",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar behoort Brazili\u00eb toe, maar ook Rusland, India en China.",
+                "rewritten_sentences": "Dat zijn landen als Brazili\u00eb, Rusland en China.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c40",
+                        "reason_for_change": "Verlaag de afhankelijkheidslengte door een simpelere opsomming.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Daar behoort Brazili\u00eb toe, maar ook Rusland, India en China",
+                        "new_text": "Dat zijn landen als Brazili\u00eb, Rusland en China",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Educatieve tekst voor aardrijkskunde",
+        "full_text": "Het centrum en de rand Matheus Brocito heeft een groot veld met koffie in het land Brazili\u00eb. De man Matheus is erg rijk. Arme mensen plukken de bruine bonen voor de man. Hij verkoopt de koffie in het land Nederland. De man krijgt daar veel geld voor. Hij geeft de plukkers weinig geld voor het werk. In veel landen zijn de verschillen tussen mensen groot. Een kleine groep mensen heeft land, geld en macht. Dat is de rijke groep. De man met veel land hoort bij de rijke groep. Maar de meeste mensen zijn erg arm. Deze arme groep heeft de rijken nodig. De rijke mensen bepalen alles voor de arme mensen. De rijke mensen wonen in het mooie deel van de stad. Het rijke deel is het centrum. Het arme deel is de rand. Er zijn ook grote verschillen tussen delen van een land. Ook dan is er een centrum en een rand. De man Jorge woont in het arme noorden van het land. Daar werken veel mensen op het land. In het rijke zuiden woont en werkt de vrouw Beatriz. In het zuiden werken veel mensen in fabrieken of winkels. Het deel met het meeste geld noem je het centrum. Het arme deel van het land noem je de rand. De rand heeft het centrum nodig. De mensen in het centrum bepalen alles. De rand zorgt voor eten en spullen. Het centrum kan niet zonder de rand. Ook in de wereld is er een centrum en een rand. Europa en Amerika horen bij het centrum. De mensen verdienen daar veel geld. Die landen hebben veel macht. De meeste mensen werken in winkels. Iedereen kan lezen en weinig baby's gaan dood. Afrika hoort bij de rand. De mensen zijn daar arm. Zij hebben hulp nodig maar geven ook eten aan de wereld. Sommige landen worden heel snel rijk. Dat zijn landen als Brazili\u00eb, Rusland en China.",
+        "prompt_id": "T30_moei",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Matheus Brocito bezit een grote koffieplantage in Brazili\u00eb. Hij is rijk. Brazilianen in armoede verdienen geld door koffiebonen te plukken voor hem. Hij verkoopt de koffie in Nederland. Matheus verdient daar veel geld mee. De plukkers krijgen slechts $1,25 per dag. Overal ter wereld bestaan grote verschillen tussen verschillende bevolkingsgroepen. Een kleine groep bezit grond, geld en macht. Dit zijn degenen die tot de elite behoren. Grootgrondbezitters, zoals Matheus, maken deel uit van de elite. De overgrote meerderheid leeft echter in armoede en vormt de massa. De massa is afhankelijk van de elite. De elite neemt veel beslissingen voor de massa. De elite verblijft meestal in de welvarende wijken van een stad. Deze welvarende wijken worden het centrum genoemd. De minder welvarende gebieden zijn de periferie. Ongelijkheden bestaan niet alleen binnen steden, maar ook tussen verschillende regio\u2019s binnen een land. In dit geval noem je het welvarende gebied het centrum en het achtergebleven gebied de periferie. Jorge verblijft in de achtergestelde regio van het noordoosten van Brazili\u00eb. De meeste inwoners zijn afhankelijk van de landbouw. Bezitters van welvaart, zoals Beatriz, wonen en werken in het zuidoosten van Brazili\u00eb. In deze regio zijn veel mensen actief in de industrie of dienstverlening. De regio die het meest welvarend en machtig is, wordt het centrum genoemd. De minder welvarende gebieden van het land worden de periferie genoemd. De periferie is afhankelijk van het centrum. Het centrum heeft de beslissingsmacht. De periferie levert voedsel, grondstoffen en arbeidskrachten aan het centrum. Het centrum is dus volledig afhankelijk van de bijdragen van de periferie! Op wereldwijde schaal bestaan er eveneens welvarende en achtergebleven gebieden. Regio\u2019s zoals West-Europa en Noord-Amerika worden tot de welvarende gebieden gerekend. Het bruto binnenlands product per inwoner is hoog in deze gebieden. Deze landen bezitten grote politieke en economische invloed. De bevolking is voornamelijk werkzaam in de dienstensector. Analfabetisme is er nauwelijks en de kindersterfte is laag. Afrika wordt tot de achtergebleven gebieden gerekend. Het bruto binnenlands product per inwoner is laag. Afrikaanse landen zijn vaak afhankelijk van andere landen, maar leveren wel essenti\u00eble grondstoffen en voedsel. Sommige landen ontwikkelen zich snel. Brazili\u00eb, Rusland, India en China zijn voorbeelden hiervan.",
+    "Mistral/ministral-14b-latest - lint": "45",
+    "Mistral/ministral-14b-latest - sent": "27, 48, 14, 16, 23, 37, 38, 33, 38, 54, 40, 39, 41, 45, 65, 52, 71, 48, 37, 54, 48, 51, 64, 55, 42, 55, 57, 63, 62, 57, 42, 52, 48, 50, 53, 43, 13, 54",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Matheus Brocito heeft een grote koffieplantage in Brazili\u00eb. Matheus is heel vermogend.",
+                "rewritten_sentences": "Matheus Brocito bezit een grote koffieplantage in Brazili\u00eb. Hij is rijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_1_change_1",
+                        "reason_for_change": "Verhoog woordfrequentie door 'heeft' te vervangen door 'bezit' en 'heel vermogend' te vervangen door 'rijk'. Dit verlaagt de leesbaarheidsscore door de complexiteit van de zinnen te verhogen.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "Matheus Brocito heeft",
+                        "new_text": "Matheus Brocito bezit",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_1_change_2",
+                        "reason_for_change": "Verlaag de leesbaarheid door 'heel vermogend' te vervangen door 'rijk', wat een kortere en abstractere formulering is.",
+                        "start_word": 8,
+                        "end_word": 10,
+                        "original_text": "is heel vermogend",
+                        "new_text": "is rijk",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Arme Brazilianen die wat geld willen verdienen, plukken koffiebonen voor hem.",
+                "rewritten_sentences": "Brazilianen in armoede verdienen geld door koffiebonen te plukken voor hem.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_2_change_1",
+                        "reason_for_change": "Verhoog de afhankelijkheidslengte door de bijzin te herformuleren en de zinsstructuur te veranderen, waardoor de leesbaarheidsscore daalt.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Arme Brazilianen die wat geld willen verdienen",
+                        "new_text": "Brazilianen in armoede",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij zet de koffie af in Nederland. Daar vangt Matheus veel geld mee. En hij beloont de plukkers met een schamele $1,25 per dag.",
+                "rewritten_sentences": "Hij verkoopt de koffie in Nederland. Matheus verdient daar veel geld mee. De plukkers krijgen slechts $1,25 per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_3_change_1",
+                        "reason_for_change": "Verlaag de leesbaarheid door 'zet de koffie af' te vervangen door 'verkoopt de koffie', wat een meer abstracte formulering is.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "Hij zet de koffie af",
+                        "new_text": "Hij verkoopt de koffie",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_3_change_2",
+                        "reason_for_change": "Verlaag de leesbaarheid door 'schamele $1,25' te vervangen door 'slechts $1,25', wat de nadruk op de lage beloning versterkt.",
+                        "start_word": 15,
+                        "end_word": 18,
+                        "original_text": "een schamele $1,25",
+                        "new_text": "slechts $1,25",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In veel landen zijn er grote ongelijkheden tussen groepen mensen.",
+                "rewritten_sentences": "Overal ter wereld bestaan grote verschillen tussen verschillende bevolkingsgroepen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_4_change_1",
+                        "reason_for_change": "Verhoog de woordfrequentie en complexiteit door 'grote ongelijkheden' te vervangen door 'grote verschillen' en 'groepen mensen' door 'bevolkingsgroepen'.",
+                        "start_word": 3,
+                        "end_word": 7,
+                        "original_text": "grote ongelijkheden tussen groepen mensen",
+                        "new_text": "grote verschillen tussen verschillende bevolkingsgroepen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een handje mensen heeft grond, geld en macht. Dat is de elite.",
+                "rewritten_sentences": "Een kleine groep bezit grond, geld en macht. Dit zijn degenen die tot de elite behoren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_5_change_1",
+                        "reason_for_change": "Verhoog de afhankelijkheidslengte door de zinsstructuur te veranderen en meer details toe te voegen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Een handje mensen heeft grond, geld en macht",
+                        "new_text": "Een kleine groep bezit grond, geld en macht",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_5_change_2",
+                        "reason_for_change": "Verhoog de complexiteit door 'Dat is de elite' te vervangen door 'Dit zijn degenen die tot de elite behoren'.",
+                        "start_word": 8,
+                        "end_word": 10,
+                        "original_text": "Dat is de elite",
+                        "new_text": "Dit zijn degenen die tot de elite behoren",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een grootgrondbezitter, zoals Matheus, behoort tot de elite.",
+                "rewritten_sentences": "Grootgrondbezitters, zoals Matheus, maken deel uit van de elite.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_6_change_1",
+                        "reason_for_change": "Verhoog de woordfrequentie door 'behoort tot' te vervangen door 'maken deel uit van'.",
+                        "start_word": 5,
+                        "end_word": 8,
+                        "original_text": "behoort tot de elite",
+                        "new_text": "maken deel uit van de elite",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar de meerderheid is arm: de massa.",
+                "rewritten_sentences": "De overgrote meerderheid leeft echter in armoede en vormt de massa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_7_change_1",
+                        "reason_for_change": "Verhoog de complexiteit en afhankelijkheidslengte door 'is arm' te vervangen door 'leeft in armoede' en 'de massa' te omschrijven.",
+                        "start_word": 2,
+                        "end_word": 6,
+                        "original_text": "de meerderheid is arm: de massa",
+                        "new_text": "De overgrote meerderheid leeft in armoede en vormt de massa",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Deze groep is aangewezen op de elite. De elite bepaalt vaak alles voor de massa.",
+                "rewritten_sentences": "De massa is afhankelijk van de elite. De elite neemt veel beslissingen voor de massa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_8_change_1",
+                        "reason_for_change": "Verhoog de abstractie en complexiteit door 'aangewezen op' te vervangen door 'afhankelijk van' en 'bepaalt vaak alles' door 'neemt veel beslissingen'.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Deze groep is aangewezen op de elite. De elite bepaalt vaak alles voor de massa",
+                        "new_text": "De massa is afhankelijk van de elite. De elite neemt veel beslissingen voor de massa",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vaak woont de elite in het rijke gedeelte van een stad. Het rijke deel van de stad heet het centrum. Het arme deel heet de periferie.",
+                "rewritten_sentences": "De elite verblijft meestal in de welvarende wijken van een stad. Deze welvarende wijken worden het centrum genoemd. De minder welvarende gebieden zijn de periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_9_change_1",
+                        "reason_for_change": "Verhoog de woordfrequentie en complexiteit door 'het rijke gedeelte' te vervangen door 'de welvarende wijken' en 'het rijke deel' door 'deze welvarende wijken'.",
+                        "start_word": 2,
+                        "end_word": 10,
+                        "original_text": "woont de elite in het rijke gedeelte van een stad. Het rijke deel van de stad",
+                        "new_text": "verblijft de elite meestal in de welvarende wijken van een stad. Deze welvarende wijken",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_9_change_2",
+                        "reason_for_change": "Verhoog de complexiteit door 'het arme deel' te vervangen door 'de minder welvarende gebieden'.",
+                        "start_word": 19,
+                        "end_word": 21,
+                        "original_text": "Het arme deel",
+                        "new_text": "De minder welvarende gebieden",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet alleen in een stad zijn er ongelijkheden, maar ook tussen regio\u2019s in een land.",
+                "rewritten_sentences": "Ongelijkheden bestaan niet alleen binnen steden, maar ook tussen verschillende regio\u2019s binnen een land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_10_change_1",
+                        "reason_for_change": "Verhoog de complexiteit door de zinsstructuur te veranderen en meer details toe te voegen.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Niet alleen in een stad zijn er ongelijkheden, maar ook tussen regio\u2019s in een land",
+                        "new_text": "Ongelijkheden bestaan niet alleen binnen steden, maar ook tussen verschillende regio\u2019s binnen een land",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook dan spreek je van centrum en periferie.",
+                "rewritten_sentences": "In dit geval noem je het welvarende gebied het centrum en het achtergebleven gebied de periferie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_11_change_1",
+                        "reason_for_change": "Verhoog de complexiteit en concrete zelfstandignaamwoorden door 'spreek je van' te vervangen door een concrete omschrijving.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Ook dan spreek je van centrum en periferie",
+                        "new_text": "In dit geval noem je het welvarende gebied het centrum en het achtergebleven gebied de periferie",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jorge woont in het noodlijdende noordoosten van Brazili\u00eb. Daar leven veel mensen van de landbouw.",
+                "rewritten_sentences": "Jorge verblijft in de achtergestelde regio van het noordoosten van Brazili\u00eb. De meeste inwoners zijn afhankelijk van de landbouw.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_12_change_1",
+                        "reason_for_change": "Verhoog de woordfrequentie en complexiteit door 'woont in het noodlijdende' te vervangen door 'verblijft in de achtergestelde regio van het' en 'leven van' door 'zijn afhankelijk van'.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Jorge woont in het noodlijdende noordoosten van Brazili\u00eb. Daar leven veel mensen van de landbouw",
+                        "new_text": "Jorge verblijft in de achtergestelde regio van het noordoosten van Brazili\u00eb. De meeste inwoners zijn afhankelijk van de landbouw",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In het welvarende zuidoosten van Brazili\u00eb woont en werkt Beatriz. In het zuidoosten zijn veel mensen werkzaam in de industrie of in de dienstensector.",
+                "rewritten_sentences": "Bezitters van welvaart, zoals Beatriz, wonen en werken in het zuidoosten van Brazili\u00eb. In deze regio zijn veel mensen actief in de industrie of dienstverlening.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_13_change_1",
+                        "reason_for_change": "Verhoog de complexiteit door de zinsstructuur te veranderen en meer details toe te voegen.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "In het welvarende zuidoosten van Brazili\u00eb woont en werkt Beatriz. In het zuidoosten zijn veel mensen werkzaam in de industrie of in de dienstensector",
+                        "new_text": "Bezitters van welvaart, zoals Beatriz, wonen en werken in het zuidoosten van Brazili\u00eb. In deze regio zijn veel mensen actief in de industrie of dienstverlening",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De regio met de meeste welvaart en macht noem je het centrum. Het onvermogende deel van het land noem je de periferie.",
+                "rewritten_sentences": "De regio die het meest welvarend en machtig is, wordt het centrum genoemd. De minder welvarende gebieden van het land worden de periferie genoemd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_14_change_1",
+                        "reason_for_change": "Verhoog de complexiteit door 'met de meeste welvaart en macht' te vervangen door 'die het meest welvarend en machtig is'.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "De regio met de meeste welvaart en macht noem je het centrum",
+                        "new_text": "De regio die het meest welvarend en machtig is, wordt het centrum genoemd",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_14_change_2",
+                        "reason_for_change": "Verhoog de complexiteit door 'onvermogende deel' te vervangen door 'minder welvarende gebieden'.",
+                        "start_word": 16,
+                        "end_word": 19,
+                        "original_text": "Het onvermogende deel van het land",
+                        "new_text": "De minder welvarende gebieden van het land",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De periferie is aangewezen op het centrum. Het centrum bepaalt alles. De periferie zorgt voor voedsel, grondstoffen en arbeidskrachten.",
+                "rewritten_sentences": "De periferie is afhankelijk van het centrum. Het centrum heeft de beslissingsmacht. De periferie levert voedsel, grondstoffen en arbeidskrachten aan het centrum.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_15_change_1",
+                        "reason_for_change": "Verhoog de complexiteit door 'aangewezen op' te vervangen door 'afhankelijk van' en 'bepaalt alles' door 'heeft de beslissingsmacht'.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "De periferie is aangewezen op het centrum. Het centrum bepaalt alles",
+                        "new_text": "De periferie is afhankelijk van het centrum. Het centrum heeft de beslissingsmacht",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_15_change_2",
+                        "reason_for_change": "Verhoog de complexiteit door 'zorgt voor' te vervangen door 'levert aan'.",
+                        "start_word": 15,
+                        "end_word": 22,
+                        "original_text": "De periferie zorgt voor voedsel, grondstoffen en arbeidskrachten",
+                        "new_text": "De periferie levert voedsel, grondstoffen en arbeidskrachten aan het centrum",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor het centrum is de periferie dus onmisbaar!",
+                "rewritten_sentences": "Het centrum is dus volledig afhankelijk van de bijdragen van de periferie!",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_16_change_1",
+                        "reason_for_change": "Verhoog de complexiteit en verander de zinsstructuur om de leesbaarheid te verlagen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Voor het centrum is de periferie dus onmisbaar!",
+                        "new_text": "Het centrum is dus volledig afhankelijk van de bijdragen van de periferie!",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook op mondiale schaal is er een centrum en een periferie.",
+                "rewritten_sentences": "Op wereldwijde schaal bestaan er eveneens welvarende en achtergebleven gebieden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_17_change_1",
+                        "reason_for_change": "Verhoog de woordfrequentie en complexiteit door 'een centrum en een periferie' te vervangen door 'welvarende en achtergebleven gebieden'.",
+                        "start_word": 4,
+                        "end_word": 10,
+                        "original_text": "een centrum en een periferie",
+                        "new_text": "welvarende en achtergebleven gebieden",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "West-Europa en Noord-Amerika zijn voorbeelden van gebieden die tot het centrum behoren.",
+                "rewritten_sentences": "Regio\u2019s zoals West-Europa en Noord-Amerika worden tot de welvarende gebieden gerekend.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_18_change_1",
+                        "reason_for_change": "Verhoog de complexiteit door 'voorbeelden van gebieden die tot het centrum behoren' te vervangen door 'worden tot de welvarende gebieden gerekend'.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "West-Europa en Noord-Amerika zijn voorbeelden van gebieden die tot het centrum behoren",
+                        "new_text": "Regio\u2019s zoals West-Europa en Noord-Amerika worden tot de welvarende gebieden gerekend",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bruto binnenlands product per hoofd is hoog. De landen hebben veel macht. De meeste mensen werken in de dienstensector. Er is amper analfabetisme en de kindersterfte is laag.",
+                "rewritten_sentences": "Het bruto binnenlands product per inwoner is hoog in deze gebieden. Deze landen bezitten grote politieke en economische invloed. De bevolking is voornamelijk werkzaam in de dienstensector. Analfabetisme is er nauwelijks en de kindersterfte is laag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_19_change_1",
+                        "reason_for_change": "Verhoog de complexiteit door 'per hoofd' te vervangen door 'per inwoner' en 'veel macht' door 'grote politieke en economische invloed'.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "Het bruto binnenlands product per hoofd is hoog. De landen hebben veel macht",
+                        "new_text": "Het bruto binnenlands product per inwoner is hoog in deze gebieden. Deze landen bezitten grote politieke en economische invloed",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_19_change_2",
+                        "reason_for_change": "Verhoog de complexiteit door 'amper analfabetisme' te vervangen door 'nauwelijks analfabetisme'.",
+                        "start_word": 27,
+                        "end_word": 29,
+                        "original_text": "Er is amper analfabetisme",
+                        "new_text": "Analfabetisme is er nauwelijks",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Afrika behoort tot de periferie. Het bbp per hoofd is laag. De Afrikaanse landen zijn vaak aangewezen op andere landen, maar ze zijn ook onmisbaar als leveranciers van grondstoffen en voedsel.",
+                "rewritten_sentences": "Afrika wordt tot de achtergebleven gebieden gerekend. Het bruto binnenlands product per inwoner is laag. Afrikaanse landen zijn vaak afhankelijk van andere landen, maar leveren wel essenti\u00eble grondstoffen en voedsel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_20_change_1",
+                        "reason_for_change": "Verhoog de complexiteit door 'behoort tot de periferie' te vervangen door 'wordt tot de achtergebleven gebieden gerekend' en 'bbp per hoofd' door 'bruto binnenlands product per inwoner'.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Afrika behoort tot de periferie. Het bbp per hoofd is laag",
+                        "new_text": "Afrika wordt tot de achtergebleven gebieden gerekend. Het bruto binnenlands product per inwoner is laag",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_20_change_2",
+                        "reason_for_change": "Verhoog de complexiteit door 'aangewezen op' te vervangen door 'afhankelijk van' en 'onmisbaar als leveranciers' door 'leveren wel essenti\u00eble'.",
+                        "start_word": 16,
+                        "end_word": 29,
+                        "original_text": "De Afrikaanse landen zijn vaak aangewezen op andere landen, maar ze zijn ook onmisbaar als leveranciers van grondstoffen en voedsel",
+                        "new_text": "Afrikaanse landen zijn vaak afhankelijk van andere landen, maar leveren wel essenti\u00eble grondstoffen en voedsel",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is een groep landen die zich snel ontwikkelt. Daar behoort Brazili\u00eb toe, maar ook Rusland, India en China.",
+                "rewritten_sentences": "Sommige landen ontwikkelen zich snel. Brazili\u00eb, Rusland, India en China zijn voorbeelden hiervan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_21_change_1",
+                        "reason_for_change": "Verlaag de leesbaarheid door de zinsstructuur te veranderen en meer abstracte formuleringen te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "Er is een groep landen die zich snel ontwikkelt. Daar behoort Brazili\u00eb toe, maar ook Rusland, India en China",
+                        "new_text": "Sommige landen ontwikkelen zich snel. Brazili\u00eb, Rusland, India en China zijn voorbeelden hiervan",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Maatschappijleer",
+        "full_text": "Matheus Brocito bezit een grote koffieplantage in Brazili\u00eb. Hij is rijk. Brazilianen in armoede verdienen geld door koffiebonen te plukken voor hem. Hij verkoopt de koffie in Nederland. Matheus verdient daar veel geld mee. De plukkers krijgen slechts $1,25 per dag. Overal ter wereld bestaan grote verschillen tussen verschillende bevolkingsgroepen. Een kleine groep bezit grond, geld en macht. Dit zijn degenen die tot de elite behoren. Grootgrondbezitters, zoals Matheus, maken deel uit van de elite. De overgrote meerderheid leeft echter in armoede en vormt de massa. De massa is afhankelijk van de elite. De elite neemt veel beslissingen voor de massa. De elite verblijft meestal in de welvarende wijken van een stad. Deze welvarende wijken worden het centrum genoemd. De minder welvarende gebieden zijn de periferie. Ongelijkheden bestaan niet alleen binnen steden, maar ook tussen verschillende regio\u2019s binnen een land. In dit geval noem je het welvarende gebied het centrum en het achtergebleven gebied de periferie. Jorge verblijft in de achtergestelde regio van het noordoosten van Brazili\u00eb. De meeste inwoners zijn afhankelijk van de landbouw. Bezitters van welvaart, zoals Beatriz, wonen en werken in het zuidoosten van Brazili\u00eb. In deze regio zijn veel mensen actief in de industrie of dienstverlening. De regio die het meest welvarend en machtig is, wordt het centrum genoemd. De minder welvarende gebieden van het land worden de periferie genoemd. De periferie is afhankelijk van het centrum. Het centrum heeft de beslissingsmacht. De periferie levert voedsel, grondstoffen en arbeidskrachten aan het centrum. Het centrum is dus volledig afhankelijk van de bijdragen van de periferie! Op wereldwijde schaal bestaan er eveneens welvarende en achtergebleven gebieden. Regio\u2019s zoals West-Europa en Noord-Amerika worden tot de welvarende gebieden gerekend. Het bruto binnenlands product per inwoner is hoog in deze gebieden. Deze landen bezitten grote politieke en economische invloed. De bevolking is voornamelijk werkzaam in de dienstensector. Analfabetisme is er nauwelijks en de kindersterfte is laag. Afrika wordt tot de achtergebleven gebieden gerekend. Het bruto binnenlands product per inwoner is laag. Afrikaanse landen zijn vaak afhankelijk van andere landen, maar leveren wel essenti\u00eble grondstoffen en voedsel. Sommige landen ontwikkelen zich snel. Brazili\u00eb, Rusland, India en China zijn voorbeelden hiervan.",
+        "prompt_id": "T30_moei",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-25 10:43:25.868489"
+}

@@ -1,0 +1,1365 @@
+{
+    "prompt_id": "T02_mak",
+    "Org - text": "Produceren\n\nHenk Jansen is de trotse eigenaar van de enige supermarkt in het dorp. Regelmatig komt er een grote vrachtauto voor zijn zaak om de voorraad aan te vullen. Samen met drie personeelsleden zorgt Henk er dan voor dat de schappen weer tijdig gevuld zijn. Met z'n vieren produceren ze, want ze verlenen diensten met behulp van productiemiddelen. Produceren omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen.\n\nEen paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst, maar na de automatisering van zijn administratie kan hij het met drie mensen af. Daarvoor moesten de taken wel opnieuw worden verdeeld. Na een verandering van de winkelsluitingswet is de winkel 's avonds langer open. Daarom overweegt Henk om toch maar weer een vierde persoon in dienst te nemen voor een paar uur per dag. Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren.\n\nDe supermarkt loopt z\u00f3 goed dat Henk een paar maanden geleden heeft besloten om de zaak uit te breiden en te moderniseren. De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen inmiddels goedgekeurd, nadat er een paar wijzigingen in zijn aangebracht. Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.\n\nNet als toen hij zijn zaak begon, heeft Henk voor de uitbreiding en modernisering geld bij de bank moeten lenen. Maar gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen. Hij hoeft daardoor iets minder schulden te maken. De aankopen die bedrijven doen, noemen we in de economie investeringen.\n\nOok Wilma Jansen doet mee aan het productieproces. Ze werkt namelijk twee dagen per week op het gemeentehuis. Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling. Daar zou ze werk moeten doen waarvoor ze niet is opgeleid. Maar met de hulp van de vakbond heeft ze de overplaatsing kunnen verhinderen.",
+    "Org - lint": "44",
+    "Org - sent": "45, 36, 40, 46, 62, 46, 53, 46, 42, 33, 42, 72, 80, 54, 37, 30, 43, 17, 13, 28, 12, 55",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Henk Jansen bezit de enige supermarkt in het dorp. Regelmatig stopt een grote vrachtauto voor zijn winkel. Die vult de voorraad aan. Henk werkt samen met drie medewerkers. Zij zorgen dat de schappen op tijd gevuld zijn. Met zijn vieren produceren ze. Ze leveren diensten met productiemiddelen. Produceren betekent niet alleen goederen maken. Het betekent ook diensten leveren met productiemiddelen. Een paar jaar geleden had Henk Jansen vier medewerkers. Na automatisering van de administratie kan hij het met drie doen. De taken moesten toen opnieuw verdeeld worden. De winkelsluitingswet veranderde. Daarom is de winkel 's avonds langer open. Henk denkt er daarom aan om weer een vierde persoon in dienst te nemen. Die werkt een paar uur per dag. Deze persoon is er ook als Henk over een paar weken een cursus volgt. Die cursus gaat over milieuvriendelijk produceren. De supermarkt gaat zo goed dat Henk een paar maanden geleden besloot de winkel uit te breiden en te moderniseren. De dienst ruimtelijke ordening van de gemeente keurde zijn nieuwbouwplannen goed. Ze brachten daarvoor een paar wijzigingen aan. Er wordt nu hard gewerkt aan nieuwe kassa's en vriesvakken. Ook worden enkele schappen ingericht met biologische producten. Net als bij het begin van zijn winkel moest Henk geld lenen bij de bank voor uitbreiding en modernisering. Hij krijgt subsidie van de gemeente voor de nieuwbouwplannen. Hij hoeft daarom minder schulden te maken. De aankopen van bedrijven noemen we investeringen in de economie. Ook Wilma Jansen werkt mee aan het productieproces. Ze werkt twee dagen per week op het gemeentehuis. Een tijd geleden moest ze bijna naar een andere afdeling verhuizen. Daar zou ze werk doen waarvoor ze niet is opgeleid. Met de hulp van de vakbond kon ze de overplaatsing stoppen.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "33",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "29, 18, 45, 22, 26, 41, 37, 35, 20, 54, 48, 29, 28, 32, 11, 28, 36, 37, 59, 43, 35, 50, 59, 38, 28, 52, 29, 11, 28, 8, 41",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Henk Jansen is de trotse eigenaar van de enige supermarkt in het dorp.",
+                "rewritten_sentences": "Henk Jansen bezit de enige supermarkt in het dorp.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vervanging van 'is de trotse eigenaar van' door eenvoudiger en korter 'bezit' om woordfrequentie te verhogen en afhankelijkheidslengte te verlagen.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Henk Jansen is de trotse eigenaar van de enige supermarkt in het dorp.",
+                        "new_text": "Henk Jansen bezit de enige supermarkt in het dorp.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Regelmatig komt er een grote vrachtauto voor zijn zaak om de voorraad aan te vullen.",
+                "rewritten_sentences": "Regelmatig stopt een grote vrachtauto voor zijn winkel. Die vult de voorraad aan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "De lange zin is gesplitst om afhankelijkheidslengte te verlagen. 'Komt er' vervangen door 'stopt' voor eenvoudiger taal.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Regelmatig komt er een grote vrachtauto voor zijn zaak om de voorraad aan te vullen.",
+                        "new_text": "Regelmatig stopt een grote vrachtauto voor zijn winkel. Die vult de voorraad aan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Samen met drie personeelsleden zorgt Henk er dan voor dat de schappen weer tijdig gevuld zijn.",
+                "rewritten_sentences": "Henk werkt samen met drie medewerkers. Zij zorgen dat de schappen op tijd gevuld zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Complexe bijzin gesplitst en 'personeelsleden' vervangen door eenvoudiger 'medewerkers' om leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Samen met drie personeelsleden zorgt Henk er dan voor dat de schappen weer tijdig gevuld zijn.",
+                        "new_text": "Henk werkt samen met drie medewerkers. Zij zorgen dat de schappen op tijd gevuld zijn.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Met z'n vieren produceren ze, want ze verlenen diensten met behulp van productiemiddelen.",
+                "rewritten_sentences": "Met zijn vieren produceren ze. Ze leveren diensten met productiemiddelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "De zin is opgedeeld om afhankelijkheidslengte te verkorten en de zinnen eenvoudiger te maken.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Met z'n vieren produceren ze, want ze verlenen diensten met behulp van productiemiddelen.",
+                        "new_text": "Met zijn vieren produceren ze. Ze leveren diensten met productiemiddelen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Produceren omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen.",
+                "rewritten_sentences": "Produceren betekent niet alleen goederen maken. Het betekent ook diensten leveren met productiemiddelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "De lange zin is gesplitst en vereenvoudigd voor duidelijkheid en lagere afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Produceren omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen.",
+                        "new_text": "Produceren betekent niet alleen goederen maken. Het betekent ook diensten leveren met productiemiddelen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst, maar na de automatisering van zijn administratie kan hij het met drie mensen af.",
+                "rewritten_sentences": "Een paar jaar geleden had Henk Jansen vier medewerkers. Na automatisering van de administratie kan hij het met drie doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Zin opgesplitst, 'personeelsleden' vervangen door eenvoudiger 'medewerkers' om afhankelijkheidslengte en moeilijkheid te verlagen.",
+                        "start_word": 0,
+                        "end_word": 28,
+                        "original_text": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst, maar na de automatisering van zijn administratie kan hij het met drie mensen af.",
+                        "new_text": "Een paar jaar geleden had Henk Jansen vier medewerkers. Na automatisering van de administratie kan hij het met drie doen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarvoor moesten de taken wel opnieuw worden verdeeld.",
+                "rewritten_sentences": "De taken moesten toen opnieuw verdeeld worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Verkorting zin en eenvoudiger formulering behouden betekenis en verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Daarvoor moesten de taken wel opnieuw worden verdeeld.",
+                        "new_text": "De taken moesten toen opnieuw verdeeld worden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Na een verandering van de winkelsluitingswet is de winkel 's avonds langer open.",
+                "rewritten_sentences": "De winkelsluitingswet veranderde. Daarom is de winkel 's avonds langer open.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "De zin is gesplitst om de afhankelijkheidslengte te verlagen en duidelijkheid te vergroten.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Na een verandering van de winkelsluitingswet is de winkel 's avonds langer open.",
+                        "new_text": "De winkelsluitingswet veranderde. Daarom is de winkel 's avonds langer open.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom overweegt Henk om toch maar weer een vierde persoon in dienst te nemen voor een paar uur per dag.",
+                "rewritten_sentences": "Henk denkt er daarom aan om weer een vierde persoon in dienst te nemen. Die werkt een paar uur per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Zin gesplitst om afhankelijkheidslengte te verminderen en eenvoudiger taalgebruik toe te passen.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Daarom overweegt Henk om toch maar weer een vierde persoon in dienst te nemen voor een paar uur per dag.",
+                        "new_text": "Henk denkt er daarom aan om weer een vierde persoon in dienst te nemen. Die werkt een paar uur per dag.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren.",
+                "rewritten_sentences": "Deze persoon is er ook als Henk over een paar weken een cursus volgt. Die cursus gaat over milieuvriendelijk produceren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Twee deelzinnen gesplitst in aparte zinnen om afhankelijkheidslengte te verlagen. 'Mooi' verwijderd als overbodig bijvoeglijk naamwoord.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren.",
+                        "new_text": "Deze persoon is er ook als Henk over een paar weken een cursus volgt. Die cursus gaat over milieuvriendelijk produceren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De supermarkt loopt z\u00f3 goed dat Henk een paar maanden geleden heeft besloten om de zaak uit te breiden en te moderniseren.",
+                "rewritten_sentences": "De supermarkt gaat zo goed dat Henk een paar maanden geleden besloot de winkel uit te breiden en te moderniseren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "'Loopt z\u00f3 goed' vervangen door eenvoudiger 'gaat zo goed'. Zin iets verkort zonder informatieverlies.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "De supermarkt loopt z\u00f3 goed dat Henk een paar maanden geleden heeft besloten om de zaak uit te breiden en te moderniseren.",
+                        "new_text": "De supermarkt gaat zo goed dat Henk een paar maanden geleden besloot de winkel uit te breiden en te moderniseren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen inmiddels goedgekeurd, nadat er een paar wijzigingen in zijn aangebracht.",
+                "rewritten_sentences": "De dienst ruimtelijke ordening van de gemeente keurde zijn nieuwbouwplannen goed. Ze brachten daarvoor een paar wijzigingen aan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Lange zin in twee zinnen gesplitst om afhankelijkheidslengte te verlagen. Passieve constructie vermeden.",
+                        "start_word": 0,
+                        "end_word": 25,
+                        "original_text": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen inmiddels goedgekeurd, nadat er een paar wijzigingen in zijn aangebracht.",
+                        "new_text": "De dienst ruimtelijke ordening van de gemeente keurde zijn nieuwbouwplannen goed. Ze brachten daarvoor een paar wijzigingen aan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.",
+                "rewritten_sentences": "Er wordt nu hard gewerkt aan nieuwe kassa's en vriesvakken. Ook worden enkele schappen ingericht met biologische producten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Lange zin opgesplitst om afhankelijkheidslengte te verminderen. 'Biologisch geteelde producten' vereenvoudigd naar 'biologische producten'.",
+                        "start_word": 0,
+                        "end_word": 28,
+                        "original_text": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.",
+                        "new_text": "Er wordt nu hard gewerkt aan nieuwe kassa's en vriesvakken. Ook worden enkele schappen ingericht met biologische producten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Net als toen hij zijn zaak begon, heeft Henk voor de uitbreiding en modernisering geld bij de bank moeten lenen.",
+                "rewritten_sentences": "Net als bij het begin van zijn winkel moest Henk geld lenen bij de bank voor uitbreiding en modernisering.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Zin is korter en eenvoudiger gemaakt om woordfrequentie te verhogen zonder betekenisverlies.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Net als toen hij zijn zaak begon, heeft Henk voor de uitbreiding en modernisering geld bij de bank moeten lenen.",
+                        "new_text": "Net als bij het begin van zijn winkel moest Henk geld lenen bij de bank voor uitbreiding en modernisering.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen.",
+                "rewritten_sentences": "Hij krijgt subsidie van de gemeente voor de nieuwbouwplannen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "'Maar gelukkig' weggelaten als overbodig bijvoeglijk naamwoord en verliest leesgemak.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Maar gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen.",
+                        "new_text": "Hij krijgt subsidie van de gemeente voor de nieuwbouwplannen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij hoeft daardoor iets minder schulden te maken.",
+                "rewritten_sentences": "Hij hoeft daarom minder schulden te maken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Vervangen 'daardoor' door 'daarom' voor eenvoudiger taalgebruik.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Hij hoeft daardoor iets minder schulden te maken.",
+                        "new_text": "Hij hoeft daarom minder schulden te maken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De aankopen die bedrijven doen, noemen we in de economie investeringen.",
+                "rewritten_sentences": "De aankopen van bedrijven noemen we investeringen in de economie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Herstructurering van zin voor eenvoudiger leesbare volgorde en duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "De aankopen die bedrijven doen, noemen we in de economie investeringen.",
+                        "new_text": "De aankopen van bedrijven noemen we investeringen in de economie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook Wilma Jansen doet mee aan het productieproces.",
+                "rewritten_sentences": "Ook Wilma Jansen werkt mee aan het productieproces.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "'Doet mee' vervangen door eenvoudiger 'werkt mee' om woordfrequentie te verhogen.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Ook Wilma Jansen doet mee aan het productieproces.",
+                        "new_text": "Ook Wilma Jansen werkt mee aan het productieproces.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ze werkt namelijk twee dagen per week op het gemeentehuis.",
+                "rewritten_sentences": "Ze werkt twee dagen per week op het gemeentehuis.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "'Namelijk' verwijderd als overbodig bijwoord voor eenvoudiger tekst.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Ze werkt namelijk twee dagen per week op het gemeentehuis.",
+                        "new_text": "Ze werkt twee dagen per week op het gemeentehuis.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling.",
+                "rewritten_sentences": "Een tijd geleden moest ze bijna naar een andere afdeling verhuizen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "'Overgeplaatst' vervangen door eenvoudiger 'verhuizen'.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling.",
+                        "new_text": "Een tijd geleden moest ze bijna naar een andere afdeling verhuizen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar zou ze werk moeten doen waarvoor ze niet is opgeleid.",
+                "rewritten_sentences": "Daar zou ze werk doen waarvoor ze niet is opgeleid.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "'Moeten doen' vereenvoudigd naar 'doen' zonder betekenisverlies voor lagere afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Daar zou ze werk moeten doen waarvoor ze niet is opgeleid.",
+                        "new_text": "Daar zou ze werk doen waarvoor ze niet is opgeleid.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar met de hulp van de vakbond heeft ze de overplaatsing kunnen verhinderen.",
+                "rewritten_sentences": "Met de hulp van de vakbond kon ze de overplaatsing stoppen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "'Kunnen verhinderen' vervangen door eenvoudiger 'kon stoppen' om woordfrequentie te verhogen en afhankelijkheidslengte te verlagen.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Maar met de hulp van de vakbond heeft ze de overplaatsing kunnen verhinderen.",
+                        "new_text": "Met de hulp van de vakbond kon ze de overplaatsing stoppen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informerend",
+        "full_text": "Henk Jansen bezit de enige supermarkt in het dorp. Regelmatig stopt een grote vrachtauto voor zijn winkel. Die vult de voorraad aan. Henk werkt samen met drie medewerkers. Zij zorgen dat de schappen op tijd gevuld zijn. Met zijn vieren produceren ze. Ze leveren diensten met productiemiddelen. Produceren betekent niet alleen goederen maken. Het betekent ook diensten leveren met productiemiddelen. Een paar jaar geleden had Henk Jansen vier medewerkers. Na automatisering van de administratie kan hij het met drie doen. De taken moesten toen opnieuw verdeeld worden. De winkelsluitingswet veranderde. Daarom is de winkel 's avonds langer open. Henk denkt er daarom aan om weer een vierde persoon in dienst te nemen. Die werkt een paar uur per dag. Deze persoon is er ook als Henk over een paar weken een cursus volgt. Die cursus gaat over milieuvriendelijk produceren. De supermarkt gaat zo goed dat Henk een paar maanden geleden besloot de winkel uit te breiden en te moderniseren. De dienst ruimtelijke ordening van de gemeente keurde zijn nieuwbouwplannen goed. Ze brachten daarvoor een paar wijzigingen aan. Er wordt nu hard gewerkt aan nieuwe kassa's en vriesvakken. Ook worden enkele schappen ingericht met biologische producten. Net als bij het begin van zijn winkel moest Henk geld lenen bij de bank voor uitbreiding en modernisering. Hij krijgt subsidie van de gemeente voor de nieuwbouwplannen. Hij hoeft daarom minder schulden te maken. De aankopen van bedrijven noemen we investeringen in de economie. Ook Wilma Jansen werkt mee aan het productieproces. Ze werkt twee dagen per week op het gemeentehuis. Een tijd geleden moest ze bijna naar een andere afdeling verhuizen. Daar zou ze werk doen waarvoor ze niet is opgeleid. Met de hulp van de vakbond kon ze de overplaatsing stoppen.",
+        "prompt_id": "T02_mak",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Henk Jansen heeft de enige supermarkt in het dorp. Vaak komt er een vrachtauto voor zijn zaak om de voorraad aan te vullen. Samen met drie personeelsleden zorgt Henk dat de schappen op tijd gevuld zijn. Met z'n vieren produceren ze. Ze verlenen diensten met productiemiddelen. Produceren is meer dan goederen maken. Het is ook het leveren van diensten met productiemiddelen. Een paar jaar geleden had Henk Jansen nog vier personeelsleden. Na de automatisering van zijn administratie kan hij het met drie mensen doen. Daarom moesten zij de taken opnieuw verdelen. Door een wetswijziging is de winkel 's avonds langer open. Daarom overweegt Henk weer een vierde persoon in te huren voor een paar uur per dag. Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren. De supermarkt gaat zo goed dat Henk een paar maanden geleden besloot de zaak uit te breiden en te moderniseren. De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen goedgekeurd. Er zijn een paar wijzigingen aangebracht. Er wordt nu gewerkt aan nieuwe kassa's en vriesvakken. Ook richten ze een aantal schappen in met biologische producten. Net als bij de start moest Henk geld lenen bij de bank voor de uitbreiding en modernisering. Gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen. Hij hoeft daardoor iets minder schulden te maken. In de economie noemen we aankopen van bedrijven investeringen. Ook Wilma Jansen doet mee aan het productieproces. Ze werkt namelijk twee dagen per week op het gemeentehuis. Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling. Daar zou ze werk moeten doen waarvoor ze niet is opgeleid. Met hulp van de vakbond kon ze de overplaatsing voorkomen.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "35",
+    "GPT 5.1 mini/gpt-5-mini - sent": "27, 28, 35, 45, 29, 44, 18, 44, 51, 41, 35, 33, 39, 67, 29, 33, 49, 57, 37, 30, 52, 17, 13, 28, 12, 44",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Henk Jansen is de trotse eigenaar van de enige supermarkt in het dorp.",
+                "rewritten_sentences": "Henk Jansen heeft de enige supermarkt in het dorp.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s1c1",
+                        "reason_for_change": "Vervangen van een omslachtige frase door een korter werkwoord vermindert de afstand tussen onderwerp en gezegde en maakt de zin eenvoudiger.",
+                        "start_word": 3,
+                        "end_word": 6,
+                        "original_text": "is de trotse eigenaar",
+                        "new_text": "heeft",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Regelmatig komt er een grote vrachtauto voor zijn zaak om de voorraad aan te vullen.",
+                "rewritten_sentences": "Vaak komt er een vrachtauto voor zijn zaak om de voorraad aan te vullen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "Vervangen van het relatief formele 'Regelmatig' door het meer gebruikte 'Vaak' verhoogt woordfrequentie.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "Regelmatig",
+                        "new_text": "Vaak",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "s2c2",
+                        "reason_for_change": "Het verwijderen van het niet-noodzakelijke bijvoeglijk naamwoord 'grote' vermindert inhoudswoorden en vereenvoudigt de zin zonder veranderde betekenis.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "grote",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Samen met drie personeelsleden zorgt Henk er dan voor dat de schappen weer tijdig gevuld zijn.",
+                "rewritten_sentences": "Samen met drie personeelsleden zorgt Henk dat de schappen op tijd gevuld zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3c1",
+                        "reason_for_change": "Weglaten van vulwoorden ('er dan voor') verkort de afhankelijkheidslengte en maakt de zin directer.",
+                        "start_word": 7,
+                        "end_word": 9,
+                        "original_text": "er dan voor",
+                        "new_text": "",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "s3c2",
+                        "reason_for_change": "Vervangen van 'weer tijdig' door het gebruikelijkere 'op tijd' verhoogt woordfrequentie en vereenvoudigt de zinsbouw.",
+                        "start_word": 13,
+                        "end_word": 14,
+                        "original_text": "weer tijdig",
+                        "new_text": "op tijd",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Met z'n vieren produceren ze, want ze verlenen diensten met behulp van productiemiddelen.",
+                "rewritten_sentences": "Met z'n vieren produceren ze. Ze verlenen diensten met productiemiddelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "De bijzin gesplitst in twee korte zinnen en 'met behulp van' vereenvoudigd tot 'met' om afhankelijkheidslengte te verkleinen en de lezer te ontlasten.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Met z'n vieren produceren ze, want ze verlenen diensten met behulp van productiemiddelen.",
+                        "new_text": "Met z'n vieren produceren ze. Ze verlenen diensten met productiemiddelen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Produceren omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen.",
+                "rewritten_sentences": "Produceren is meer dan goederen maken. Het is ook het leveren van diensten met productiemiddelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "De lange samengestelde zin opgesplitst en 'met behulp van' vervangen door 'met' om de zin korter en directer te maken terwijl de betekenis behouden blijft.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "Produceren omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen.",
+                        "new_text": "Produceren is meer dan goederen maken. Het is ook het leveren van diensten met productiemiddelen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst, maar na de automatisering van zijn administratie kan hij het met drie mensen af.",
+                "rewritten_sentences": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden. Na de automatisering van zijn administratie kan hij het met drie mensen doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "De lange zin gesplitst in twee zinnen om afhankelijkheidslengte te verminderen en 'af' vervangen door het duidelijkere 'doen'.",
+                        "start_word": 1,
+                        "end_word": 26,
+                        "original_text": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst, maar na de automatisering van zijn administratie kan hij het met drie mensen af.",
+                        "new_text": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden. Na de automatisering van zijn administratie kan hij het met drie mensen doen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarvoor moesten de taken wel opnieuw worden verdeeld.",
+                "rewritten_sentences": "Daarom moesten zij de taken opnieuw verdelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "Passieve constructie vervangen door een actieve en directere formulering, zodat de zin eenvoudiger leest.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Daarvoor moesten de taken wel opnieuw worden verdeeld.",
+                        "new_text": "Daarom moesten zij de taken opnieuw verdelen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Na een verandering van de winkelsluitingswet is de winkel 's avonds langer open.",
+                "rewritten_sentences": "Door een wetswijziging is de winkel 's avonds langer open.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "De lange juridische formulering vervangen door het kortere 'wetswijziging' verhoogt de woordfrequentie en verkort de zinsopening.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Na een verandering van de winkelsluitingswet",
+                        "new_text": "Door een wetswijziging",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom overweegt Henk om toch maar weer een vierde persoon in dienst te nemen voor een paar uur per dag.",
+                "rewritten_sentences": "Daarom overweegt Henk weer een vierde persoon in te huren voor een paar uur per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "De omslachtige constructie 'om toch maar weer ... in dienst te nemen' vervangen door het kortere 'weer ... in te huren' om afhankelijkheidslengte en woordkeuze te verbeteren.",
+                        "start_word": 4,
+                        "end_word": 14,
+                        "original_text": "om toch maar weer een vierde persoon in dienst te nemen",
+                        "new_text": "weer een vierde persoon in te huren",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren.",
+                "rewritten_sentences": "Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "De supermarkt loopt z\u00f3 goed dat Henk een paar maanden geleden heeft besloten om de zaak uit te breiden en te moderniseren.",
+                "rewritten_sentences": "De supermarkt gaat zo goed dat Henk een paar maanden geleden besloot de zaak uit te breiden en te moderniseren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "Vervangen van de omslachtige perfectumconstructie 'heeft besloten om' door het eenvoudige 'besloot' verhoogt de directheid en woordfrequentie.",
+                        "start_word": 11,
+                        "end_word": 13,
+                        "original_text": "heeft besloten om",
+                        "new_text": "besloot",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen inmiddels goedgekeurd, nadat er een paar wijzigingen in zijn aangebracht.",
+                "rewritten_sentences": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen goedgekeurd. Er zijn een paar wijzigingen aangebracht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "De lange bijzin opgesplitst in twee korte zinnen en 'inmiddels' weggelaten om afhankelijkheidslengte te verminderen en helderheid te vergroten.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen inmiddels goedgekeurd, nadat er een paar wijzigingen in zijn aangebracht.",
+                        "new_text": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen goedgekeurd. Er zijn een paar wijzigingen aangebracht.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.",
+                "rewritten_sentences": "Er wordt nu gewerkt aan nieuwe kassa's en vriesvakken. Ook richten ze een aantal schappen in met biologische producten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "De lange opsomming opgesplitst in twee korte zinnen en 'biologisch geteelde producten' vereenvoudigd tot 'biologische producten' om afhankelijkheidslengte en woordcomplexiteit te verminderen.",
+                        "start_word": 1,
+                        "end_word": 25,
+                        "original_text": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.",
+                        "new_text": "Er wordt nu gewerkt aan nieuwe kassa's en vriesvakken. Ook richten ze een aantal schappen in met biologische producten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Net als toen hij zijn zaak begon, heeft Henk voor de uitbreiding en modernisering geld bij de bank moeten lenen.",
+                "rewritten_sentences": "Net als bij de start moest Henk geld lenen bij de bank voor de uitbreiding en modernisering.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "De constructie vereenvoudigd en naar voren gehaald ('moest Henk') om de zin korter en actiever te maken en de afhankelijkheidslengte te verminderen.",
+                        "start_word": 7,
+                        "end_word": 19,
+                        "original_text": "heeft Henk voor de uitbreiding en modernisering geld bij de bank moeten lenen",
+                        "new_text": "moest Henk geld lenen bij de bank voor de uitbreiding en modernisering",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen.",
+                "rewritten_sentences": "Gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Weglaten van het niet-noodzakelijke voegwoord 'Maar' maakt de zin directer zonder inhoudsverlies.",
+                        "start_word": 1,
+                        "end_word": 2,
+                        "original_text": "Maar gelukkig",
+                        "new_text": "Gelukkig",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij hoeft daardoor iets minder schulden te maken.",
+                "rewritten_sentences": "Hij hoeft daardoor iets minder schulden te maken.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "De aankopen die bedrijven doen, noemen we in de economie investeringen.",
+                "rewritten_sentences": "In de economie noemen we aankopen van bedrijven investeringen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "Zinsvolgorde aangepast voor directere formulering en kortere afhankelijke structuren.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "De aankopen die bedrijven doen, noemen we in de economie investeringen.",
+                        "new_text": "In de economie noemen we aankopen van bedrijven investeringen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook Wilma Jansen doet mee aan het productieproces.",
+                "rewritten_sentences": "Ook Wilma Jansen doet mee aan het productieproces.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Ze werkt namelijk twee dagen per week op het gemeentehuis.",
+                "rewritten_sentences": "Ze werkt namelijk twee dagen per week op het gemeentehuis.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling.",
+                "rewritten_sentences": "Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Daar zou ze werk moeten doen waarvoor ze niet is opgeleid.",
+                "rewritten_sentences": "Daar zou ze werk moeten doen waarvoor ze niet is opgeleid.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Maar met de hulp van de vakbond heeft ze de overplaatsing kunnen verhinderen.",
+                "rewritten_sentences": "Met hulp van de vakbond kon ze de overplaatsing voorkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s22c1",
+                        "reason_for_change": "De zin actiever en korter gemaakt ('kon' i.p.v. 'heeft ... kunnen') en 'Maar' weggelaten om de frase directer te maken.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Maar met de hulp van de vakbond heeft ze de overplaatsing kunnen verhinderen.",
+                        "new_text": "Met hulp van de vakbond kon ze de overplaatsing voorkomen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Thema: productie en kleine onderneming. Redenering en aanpak: Ik houd het thema 'produceren' en de bedrijfssituatie van Henk (supermarkt, personeel, investeringen, nieuwbouw, subsidie, automatisering) centraal. Belangrijke vaktermen zoals 'productiemiddelen', 'automatisering', en 'ruimtelijke ordening' zijn relevant voor de betekenis en zijn daarom behouden of slechts licht vereenvoudigd (bijv. 'biologisch geteelde producten' -> 'biologische producten').\n\nIk herschrijf alleen de zinnen met een leesbaarheidsscore van 34 of hoger. De zinnen met score <34 bleven ongewijzigd: zin 10, 16, 18, 19, 20 en 21. Mijn strategie:\n- Verkort lange en omslachtige frases en vervang zelden gebruikte formuleringen door gangbare woorden (verhoog woordfrequentie).\n- Splits lange zinnen en bijzinnen in korte zinnen om afhankelijkheidslengte te verlagen.\n- Haal overbodige bijvoeglijke naamwoorden of vulwoorden weg om het aantal inhoudswoorden per deelzin te verlagen.\n- Bewaar eigennamen en kernbegrippen; voeg niets toe en verander de betekenis niet.\n\nDeze wijzigingen zijn gericht op het verlagen van afhankelijkheidslengte en complexiteit terwijl de inhoud en boodschap volledig behouden blijven.",
+        "full_text": "Henk Jansen heeft de enige supermarkt in het dorp. Vaak komt er een vrachtauto voor zijn zaak om de voorraad aan te vullen. Samen met drie personeelsleden zorgt Henk dat de schappen op tijd gevuld zijn. Met z'n vieren produceren ze. Ze verlenen diensten met productiemiddelen. Produceren is meer dan goederen maken. Het is ook het leveren van diensten met productiemiddelen. Een paar jaar geleden had Henk Jansen nog vier personeelsleden. Na de automatisering van zijn administratie kan hij het met drie mensen doen. Daarom moesten zij de taken opnieuw verdelen. Door een wetswijziging is de winkel 's avonds langer open. Daarom overweegt Henk weer een vierde persoon in te huren voor een paar uur per dag. Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren. De supermarkt gaat zo goed dat Henk een paar maanden geleden besloot de zaak uit te breiden en te moderniseren. De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen goedgekeurd. Er zijn een paar wijzigingen aangebracht. Er wordt nu gewerkt aan nieuwe kassa's en vriesvakken. Ook richten ze een aantal schappen in met biologische producten. Net als bij de start moest Henk geld lenen bij de bank voor de uitbreiding en modernisering. Gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen. Hij hoeft daardoor iets minder schulden te maken. In de economie noemen we aankopen van bedrijven investeringen. Ook Wilma Jansen doet mee aan het productieproces. Ze werkt namelijk twee dagen per week op het gemeentehuis. Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling. Daar zou ze werk moeten doen waarvoor ze niet is opgeleid. Met hulp van de vakbond kon ze de overplaatsing voorkomen.",
+        "prompt_id": "T02_mak",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "Henk Jansen is de baas van de enige winkel in het dorp. Vaak komt er een vrachtauto voor de winkel om nieuwe spullen te brengen. Henk en drie mensen maken de planken in de winkel op tijd vol. Ze werken met zijn vieren. Ze gebruiken spullen om mensen te helpen. Produceren is meer dan spullen maken. Het is ook hulp bieden met spullen. Henk had eerst vier mensen in dienst. Nu werkt hij met drie mensen door de computer. De taken moesten anders verdeeld worden. De wet is anders. Daarom is de winkel 's avonds langer open. Henk wil daarom weer een extra hulp aannemen voor een paar uur per dag. Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren. De winkel loopt goed. Henk gaat de zaak groter en nieuwer maken. De gemeente vindt zijn plannen goed. Er zijn eerst een paar dingen aangepast. Er wordt nu hard gewerkt aan nieuwe kassa's en vriesvakken. Ook komen er planken voor bio-producten. Henk leent geld bij de bank voor de verbouwing. Dat deed hij vroeger ook al. De gemeente geeft hem ook geld voor de plannen. Hij hoeft daardoor iets minder schulden te maken. Als een bedrijf iets koopt, heet dat een investering. Ook Wilma Jansen doet mee aan het productieproces. Ze werkt namelijk twee dagen per week op het gemeentehuis. Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling. Daar zou ze werk moeten doen waarvoor ze niet is opgeleid. De vakbond hielp haar. Daarom bleef ze op haar eigen plek.",
+    "Gemini/gemini-3-flash-preview - lint": "22",
+    "Gemini/gemini-3-flash-preview - sent": "20, 25, 34, 7, 17, 22, 7, 1, 47, 23, 28, 25, 33, 0, 33, 20, 25, 35, 26, 42, 29, 30, 34, 17, 13, 28, 12, 34, 28",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Henk Jansen is de trotse eigenaar van de enige supermarkt in het dorp.",
+                "rewritten_sentences": "Henk Jansen is de baas van de enige winkel in het dorp.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vervangen van een relatief zeldzaam woord door een frequenter woord.",
+                        "start_word": 4,
+                        "end_word": 5,
+                        "original_text": "trotse eigenaar",
+                        "new_text": "baas",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Vervangen van een langer woord door een korter, meer alledaags woord.",
+                        "start_word": 9,
+                        "end_word": 9,
+                        "original_text": "supermarkt",
+                        "new_text": "winkel",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Regelmatig komt er een grote vrachtauto voor zijn zaak om de voorraad aan te vullen.",
+                "rewritten_sentences": "Vaak komt er een vrachtauto voor de winkel om nieuwe spullen te brengen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vervangen van een formeel bijwoord door een veelgebruikt alternatief.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Regelmatig",
+                        "new_text": "Vaak",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Vereenvoudiging van de zinsstructuur en woordkeuze.",
+                        "start_word": 8,
+                        "end_word": 14,
+                        "original_text": "zaak om de voorraad aan te vullen",
+                        "new_text": "winkel om nieuwe spullen te brengen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Samen met drie personeelsleden zorgt Henk er dan voor dat de schappen weer tijdig gevuld zijn.",
+                "rewritten_sentences": "Henk en drie mensen maken de planken in de winkel op tijd vol.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vervangen van een complex zelfstandig naamwoord door een eenvoudiger woord.",
+                        "start_word": 3,
+                        "end_word": 3,
+                        "original_text": "personeelsleden",
+                        "new_text": "mensen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Inperken van de afhankelijkheidslengte door de woordvolgorde aan te passen.",
+                        "start_word": 13,
+                        "end_word": 14,
+                        "original_text": "tijdig gevuld",
+                        "new_text": "op tijd vol",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Met z'n vieren produceren ze, want ze verlenen diensten met behulp van productiemiddelen.",
+                "rewritten_sentences": "Ze werken met zijn vieren. Ze gebruiken spullen om mensen te helpen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Opsplitsen van de zin om het aantal inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 3,
+                        "end_word": 12,
+                        "original_text": "produceren ze, want ze verlenen diensten met behulp van productiemiddelen",
+                        "new_text": "werken ze. Ze gebruiken spullen om mensen te helpen",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Produceren omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen.",
+                "rewritten_sentences": "Produceren is meer dan spullen maken. Het is ook hulp bieden met spullen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Vervangen van abstracte termen door concretere woorden.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen",
+                        "new_text": "is meer dan spullen maken. Het is ook hulp bieden met spullen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst, maar na de automatisering van zijn administratie kan hij het met drie mensen af.",
+                "rewritten_sentences": "Henk had eerst vier mensen in dienst. Nu werkt hij met drie mensen door de computer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Verwijderen van abstracte begrippen zoals automatisering ten gunste van een concreet woord.",
+                        "start_word": 13,
+                        "end_word": 18,
+                        "original_text": "na de automatisering van zijn administratie",
+                        "new_text": "door de computer",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Opsplitsen van een lange samengestelde zin.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst",
+                        "new_text": "Henk had eerst vier mensen in dienst",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarvoor moesten de taken wel opnieuw worden verdeeld.",
+                "rewritten_sentences": "De taken moesten anders verdeeld worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Directere woordvolgorde om de leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Daarvoor moesten de taken wel",
+                        "new_text": "De taken moesten",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Na een verandering van de winkelsluitingswet is de winkel 's avonds langer open.",
+                "rewritten_sentences": "De wet is anders. Daarom is de winkel 's avonds langer open.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Verlagen van het aantal inhoudswoorden per zin door splitsing.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Na een verandering van de winkelsluitingswet",
+                        "new_text": "De wet is anders. Daarom",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom overweegt Henk om toch maar weer een vierde persoon in dienst te nemen voor een paar uur per dag.",
+                "rewritten_sentences": "Henk wil daarom weer een extra hulp aannemen voor een paar uur per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vervangen van een werkwoord met een lage frequentie door een eenvoudiger alternatief.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "overweegt",
+                        "new_text": "wil",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren.",
+                "rewritten_sentences": "Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "De supermarkt loopt z\u00f3 goed dat Henk een paar maanden geleden heeft besloten om de zaak uit te breiden en te moderniseren.",
+                "rewritten_sentences": "De winkel loopt goed. Henk gaat de zaak groter en nieuwer maken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Splitsen van een lange zin en versimpelen van werkwoorden.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "De supermarkt loopt z\u00f3 goed dat Henk een paar maanden geleden heeft besloten om de zaak uit te breiden en te moderniseren",
+                        "new_text": "De winkel loopt goed. Henk gaat de zaak groter en nieuwer maken",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen inmiddels goedgekeurd, nadat er een paar wijzigingen in zijn aangebracht.",
+                "rewritten_sentences": "De gemeente vindt zijn plannen goed. Er zijn eerst een paar dingen aangepast.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vervangen van ambtelijke taal door concrete en korte woorden.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "De dienst ruimtelijke ordening van de gemeente",
+                        "new_text": "De gemeente",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Opsplitsen in twee korte zinnen.",
+                        "start_word": 16,
+                        "end_word": 19,
+                        "original_text": "wijzigingen in zijn aangebracht",
+                        "new_text": "dingen aangepast",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.",
+                "rewritten_sentences": "Er wordt nu hard gewerkt aan nieuwe kassa's en vriesvakken. Ook komen er planken voor bio-producten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Opsplitsen van een opsomming in twee zinnen.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten",
+                        "new_text": "Er wordt nu hard gewerkt aan nieuwe kassa's en vriesvakken. Ook komen er planken voor bio-producten",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Net als toen hij zijn zaak begon, heeft Henk voor de uitbreiding en modernisering geld bij de bank moeten lenen.",
+                "rewritten_sentences": "Henk leent geld bij de bank voor de verbouwing. Dat deed hij vroeger ook al.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Zinsstructuur omdraaien om de afhankelijkheidslengte te verkleinen.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Net als toen hij zijn zaak begon, heeft Henk voor de uitbreiding en modernisering geld bij de bank moeten lenen",
+                        "new_text": "Henk leent geld bij de bank voor de verbouwing. Dat deed hij vroeger ook al",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen.",
+                "rewritten_sentences": "De gemeente geeft hem ook geld voor de plannen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Vervangen van een minder frequent woord door een veelgebruikt woord.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "subsidie",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij hoeft daardoor iets minder schulden te maken.",
+                "rewritten_sentences": "Hij hoeft daardoor iets minder schulden te maken.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "De aankopen die bedrijven doen, noemen we in de economie investeringen.",
+                "rewritten_sentences": "Als een bedrijf iets koopt, heet dat een investering.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Zinsstructuur vereenvoudigen en vaktaal uitleggen.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "De aankopen die bedrijven doen, noemen we in de economie",
+                        "new_text": "Als een bedrijf iets koopt, heet dat een",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook Wilma Jansen doet mee aan het productieproces.",
+                "rewritten_sentences": "Ook Wilma Jansen doet mee aan het productieproces.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Ze werkt namelijk twee dagen per week op het gemeentehuis.",
+                "rewritten_sentences": "Ze werkt namelijk twee dagen per week op het gemeentehuis.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling.",
+                "rewritten_sentences": "Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Daar zou ze werk moeten doen waarvoor ze niet is opgeleid.",
+                "rewritten_sentences": "Daar zou ze werk moeten doen waarvoor ze niet is opgeleid.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Maar met de hulp van de vakbond heeft ze de overplaatsing kunnen verhinderen.",
+                "rewritten_sentences": "De vakbond hielp haar. Daarom bleef ze op haar eigen plek.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Vervangen van een moeilijk woord door een alledaagse omschrijving.",
+                        "start_word": 10,
+                        "end_word": 12,
+                        "original_text": "overplaatsing kunnen verhinderen",
+                        "new_text": "op haar eigen plek blijven",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Splitsen van een zin om inhoudswoorden te spreiden.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Maar met de hulp van de vakbond",
+                        "new_text": "De vakbond hielp haar. Daarom",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Educatieve tekst over economie en ondernemen",
+        "full_text": "Henk Jansen is de baas van de enige winkel in het dorp. Vaak komt er een vrachtauto voor de winkel om nieuwe spullen te brengen. Henk en drie mensen maken de planken in de winkel op tijd vol. Ze werken met zijn vieren. Ze gebruiken spullen om mensen te helpen. Produceren is meer dan spullen maken. Het is ook hulp bieden met spullen. Henk had eerst vier mensen in dienst. Nu werkt hij met drie mensen door de computer. De taken moesten anders verdeeld worden. De wet is anders. Daarom is de winkel 's avonds langer open. Henk wil daarom weer een extra hulp aannemen voor een paar uur per dag. Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren. De winkel loopt goed. Henk gaat de zaak groter en nieuwer maken. De gemeente vindt zijn plannen goed. Er zijn eerst een paar dingen aangepast. Er wordt nu hard gewerkt aan nieuwe kassa's en vriesvakken. Ook komen er planken voor bio-producten. Henk leent geld bij de bank voor de verbouwing. Dat deed hij vroeger ook al. De gemeente geeft hem ook geld voor de plannen. Hij hoeft daardoor iets minder schulden te maken. Als een bedrijf iets koopt, heet dat een investering. Ook Wilma Jansen doet mee aan het productieproces. Ze werkt namelijk twee dagen per week op het gemeentehuis. Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling. Daar zou ze werk moeten doen waarvoor ze niet is opgeleid. De vakbond hielp haar. Daarom bleef ze op haar eigen plek.",
+        "prompt_id": "T02_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Henk Jansen is trots eigenaar van de enige winkel in het dorp. Vaak komt een vrachtwagen bij zijn winkel om de voorraad bij te vullen. Met drie medewerkers zorgt Henk dat de schappen op tijd vol raken. Zij produceren. Ze bieden diensten aan met hulpmiddelen. Produceren is niet alleen het maken van spullen. Het is ook het geven van diensten met hulpmiddelen. Eerder had Henk vier medewerkers. Nu heeft hij er drie, omdat de administratie nu automatisch gaat. Daarom zijn de taken anders verdeeld. De winkel is nu 's avonds langer open, omdat de regels zijn veranderd. Henk wil daarom weer een vierde medewerker nemen. Die werkt een paar uur per dag. Die is dan ook aanwezig als Henk een cursus over duurzaam produceren volgt. De winkel gaat zo goed dat Henk heeft besloten om hem uit te breiden en te moderniseren. De gemeente heeft zijn plannen goedgekeurd. Er zijn eerst wat veranderingen in aangebracht. Nu wordt hard gewerkt. Er komen nieuwe kassa's en vriesvakken. Ook worden schappen ingericht met biologische producten. Zoals toen hij zijn winkel begon, moest Henk geld lenen voor de uitbreiding en modernisering. Hij krijgt gelukkig geld van de gemeente voor zijn plannen. Daardoor maakt hij minder schulden. Als bedrijven iets kopen, noemen we dat in de economie investeringen. Wilma Jansen werkt ook mee in het productieproces. Ze werkt twee dagen per week op het gemeentehuis. Eerder zou ze bijna naar een andere afdeling gaan. Daar zou ze werk moeten doen waarvoor ze niet is opgeleid. Met hulp van de vakbond heeft ze de overplaatsing tegengehouden.",
+    "Mistral/ministral-14b-latest - lint": "30",
+    "Mistral/ministral-14b-latest - sent": "25, 35, 38, 43, 17, 36, 20, 33, 50, 27, 15, 11, 43, 26, 41, 23, 23, 49, 39, 35, 26, 49, 31, 11, 30, 12, 50",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Henk Jansen is de trotse eigenaar van de enige supermarkt in het dorp.",
+                "rewritten_sentences": "Henk Jansen is trots eigenaar van de enige winkel in het dorp.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vereenvoudiging van de zin door verwijdering van niet-essenti\u00eble bijvoeglijke naamwoorden ('trotse') en het gebruik van een eenvoudiger woord ('winkel' in plaats van 'supermarkt'). Dit verlaagt de woordfrequentie en verbetert de leesbaarheid.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Henk Jansen is de trotse eigenaar van de enige supermarkt in het dorp.",
+                        "new_text": "Henk Jansen is eigenaar van de enige winkel in het dorp.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Regelmatig komt er een grote vrachtauto voor zijn zaak om de voorraad aan te vullen.",
+                "rewritten_sentences": "Vaak komt een vrachtwagen bij zijn winkel om de voorraad bij te vullen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('grote', 'voor zijn zaak') en het gebruik van een eenvoudiger woord ('vrachtwagen' in plaats van 'vrachtauto'). Dit verlaagt de woordfrequentie en de afhankelijkheidslengte.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Regelmatig komt er een grote vrachtauto voor zijn zaak om de voorraad aan te vullen.",
+                        "new_text": "Vaak komt een vrachtwagen bij de winkel om de voorraad bij te vullen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Samen met drie personeelsleden zorgt Henk er dan voor dat de schappen weer tijdig gevuld zijn.",
+                "rewritten_sentences": "Met drie medewerkers zorgt Henk dat de schappen op tijd vol raken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('Samen met', 'er dan voor', 'weer') en het gebruik van eenvoudiger woorden ('medewerkers' in plaats van 'personeelsleden', 'vol raken' in plaats van 'gevuld zijn'). Dit verlaagt de afhankelijkheidslengte en de woordfrequentie.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Samen met drie personeelsleden zorgt Henk er dan voor dat de schappen weer tijdig gevuld zijn.",
+                        "new_text": "Met drie medewerkers zorgt Henk dat de schappen op tijd vol raken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Met z'n vieren produceren ze, want ze verlenen diensten met behulp van productiemiddelen.",
+                "rewritten_sentences": "Zij produceren. Ze bieden diensten aan met hulpmiddelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "De zin is opgesplitst in twee eenvoudigere zinnen om de afhankelijkheidslengte te verkorten en de inhoudswoorden per deelzin te verminderen. Ook zijn complexe woorden vervangen door eenvoudigere alternatieven ('hulpmiddelen' in plaats van 'productiemiddelen').",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Met z'n vieren produceren ze, want ze verlenen diensten met behulp van productiemiddelen.",
+                        "new_text": "Zij produceren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Zie bovenstaande reden.",
+                        "start_word": 14,
+                        "end_word": 22,
+                        "original_text": "Met z'n vieren produceren ze, want ze verlenen diensten met behulp van productiemiddelen.",
+                        "new_text": "Ze bieden diensten aan met hulpmiddelen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Produceren omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen.",
+                "rewritten_sentences": "Produceren is niet alleen het maken van spullen. Het is ook het geven van diensten met hulpmiddelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "De zin is opgesplitst in twee eenvoudigere zinnen om de afhankelijkheidslengte te verkorten en complexe woorden zijn vervangen door eenvoudigere alternatieven ('spullen' in plaats van 'goederen', 'geven' in plaats van 'leveren').",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Produceren omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen.",
+                        "new_text": "Produceren is niet alleen het maken van spullen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Zie bovenstaande reden.",
+                        "start_word": 14,
+                        "end_word": 26,
+                        "original_text": "Produceren omvat dus niet alleen het maken van goederen, maar het omvat ook het leveren van diensten met behulp van productiemiddelen.",
+                        "new_text": "Het is ook het geven van diensten met hulpmiddelen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst, maar na de automatisering van zijn administratie kan hij het met drie mensen af.",
+                "rewritten_sentences": "Eerder had Henk vier medewerkers. Nu heeft hij er drie, omdat de administratie nu automatisch gaat.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "De zin is opgesplitst in twee eenvoudigere zinnen om de afhankelijkheidslengte te verkorten. Ook zijn complexe woorden vervangen door eenvoudigere alternatieven ('medewerkers' in plaats van 'personeelsleden', 'automatisch' in plaats van 'automatisering').",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst, maar na de automatisering van zijn administratie kan hij het met drie mensen af.",
+                        "new_text": "Eerder had Henk vier medewerkers.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Zie bovenstaande reden.",
+                        "start_word": 12,
+                        "end_word": 22,
+                        "original_text": "Een paar jaar geleden had Henk Jansen nog vier personeelsleden in dienst, maar na de automatisering van zijn administratie kan hij het met drie mensen af.",
+                        "new_text": "Nu heeft hij er drie, omdat de administratie automatisch gaat.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarvoor moesten de taken wel opnieuw worden verdeeld.",
+                "rewritten_sentences": "Daarom zijn de taken anders verdeeld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('wel opnieuw') en het gebruik van een eenvoudiger constructie ('anders verdeeld' in plaats van 'nieuw verdeeld').",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Daarvoor moesten de taken wel opnieuw worden verdeeld.",
+                        "new_text": "Daarom zijn de taken anders verdeeld.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Na een verandering van de winkelsluitingswet is de winkel 's avonds langer open.",
+                "rewritten_sentences": "De winkel is nu 's avonds langer open, omdat de regels zijn veranderd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "De zin is aangepast om de afhankelijkheidslengte te verkorten en de reden expliciet te noemen. Dit maakt de zin duidelijker en eenvoudiger.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Na een verandering van de winkelsluitingswet is de winkel 's avonds langer open.",
+                        "new_text": "De winkel is nu 's avonds langer open, omdat de regels zijn veranderd.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom overweegt Henk om toch maar weer een vierde persoon in dienst te nemen voor een paar uur per dag.",
+                "rewritten_sentences": "Henk wil daarom weer een vierde medewerker nemen. Die werkt een paar uur per dag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "De zin is opgesplitst in twee eenvoudigere zinnen om de afhankelijkheidslengte te verkorten en het gebruik van eenvoudiger woorden ('medewerker' in plaats van 'persoon').",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Daarom overweegt Henk om toch maar weer een vierde persoon in dienst te nemen voor een paar uur per dag.",
+                        "new_text": "Henk wil daarom weer een vierde medewerker nemen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Zie bovenstaande reden.",
+                        "start_word": 12,
+                        "end_word": 19,
+                        "original_text": "Daarom overweegt Henk om toch maar weer een vierde persoon in dienst te nemen voor een paar uur per dag.",
+                        "new_text": "Die werkt een paar uur per dag.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren.",
+                "rewritten_sentences": "Die is dan ook aanwezig als Henk een cursus over duurzaam produceren volgt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('mooi', 'over een paar weken') en het gebruik van eenvoudiger woorden ('duurzaam' in plaats van 'milieuvriendelijk').",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "Die kan dan ook mooi aanwezig zijn als Henk over een paar weken een cursus gaat volgen over milieuvriendelijk produceren.",
+                        "new_text": "Die is dan aanwezig als Henk een cursus over duurzaam produceren volgt.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De supermarkt loopt z\u00f3 goed dat Henk een paar maanden geleden heeft besloten om de zaak uit te breiden en te moderniseren.",
+                "rewritten_sentences": "De winkel gaat zo goed dat Henk heeft besloten om hem uit te breiden en te moderniseren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('z\u00f3', 'een paar maanden geleden') en het gebruik van een eenvoudiger woord ('winkel' in plaats van 'supermarkt').",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "De supermarkt loopt z\u00f3 goed dat Henk een paar maanden geleden heeft besloten om de zaak uit te breiden en te moderniseren.",
+                        "new_text": "De winkel gaat goed. Henk heeft besloten om hem uit te breiden en te moderniseren.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen inmiddels goedgekeurd, nadat er een paar wijzigingen in zijn aangebracht.",
+                "rewritten_sentences": "De gemeente heeft zijn plannen goedgekeurd. Er zijn eerst wat veranderingen in aangebracht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "De zin is opgesplitst in twee eenvoudigere zinnen om de afhankelijkheidslengte te verkorten en complexe woorden zijn vervangen door eenvoudigere alternatieven ('veranderingen' in plaats van 'wijzigingen').",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen inmiddels goedgekeurd, nadat er een paar wijzigingen in zijn aangebracht.",
+                        "new_text": "De gemeente heeft zijn plannen goedgekeurd.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Zie bovenstaande reden.",
+                        "start_word": 14,
+                        "end_word": 23,
+                        "original_text": "De dienst ruimtelijke ordening van de gemeente heeft zijn nieuwbouwplannen inmiddels goedgekeurd, nadat er een paar wijzigingen in zijn aangebracht.",
+                        "new_text": "Er zijn eerst wat veranderingen in aangebracht.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.",
+                "rewritten_sentences": "Nu wordt hard gewerkt. Er komen nieuwe kassa's en vriesvakken. Ook worden schappen ingericht met biologische producten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "De zin is opgesplitst in drie eenvoudigere zinnen om de afhankelijkheidslengte te verkorten en complexe woorden zijn vervangen door eenvoudigere alternatieven ('biologische' in plaats van 'biologisch geteelde').",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.",
+                        "new_text": "Nu wordt hard gewerkt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Zie bovenstaande reden.",
+                        "start_word": 11,
+                        "end_word": 18,
+                        "original_text": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.",
+                        "new_text": "Er komen nieuwe kassa's en vriesvakken.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Zie bovenstaande reden.",
+                        "start_word": 19,
+                        "end_word": 29,
+                        "original_text": "Op dit moment wordt er hard gewerkt aan de plaatsing van nieuwe kassa's, vriesvakken en de inrichting van een aantal schappen met biologisch geteelde producten.",
+                        "new_text": "Ook worden schappen ingericht met biologische producten.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Net als toen hij zijn zaak begon, heeft Henk voor de uitbreiding en modernisering geld bij de bank moeten lenen.",
+                "rewritten_sentences": "Zoals toen hij zijn winkel begon, moest Henk geld lenen voor de uitbreiding en modernisering.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('Net als') en het gebruik van een eenvoudiger woord ('winkel' in plaats van 'zaak').",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Net als toen hij zijn zaak begon, heeft Henk voor de uitbreiding en modernisering geld bij de bank moeten lenen.",
+                        "new_text": "Zoals toen hij zijn winkel begon, moest Henk geld lenen voor de uitbreiding en modernisering.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen. Hij hoeft daardoor iets minder schulden te maken.",
+                "rewritten_sentences": "Hij krijgt gelukkig geld van de gemeente voor zijn plannen. Daardoor maakt hij minder schulden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('Maar', 'voor zijn nieuwbouwplannen') en het gebruik van een eenvoudiger woord ('geld' in plaats van 'subsidie').",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Maar gelukkig krijgt hij subsidie van de gemeente voor zijn nieuwbouwplannen.",
+                        "new_text": "Hij krijgt gelukkig geld van de gemeente voor zijn plannen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('daardoor iets minder').",
+                        "start_word": 12,
+                        "end_word": 21,
+                        "original_text": "Hij hoeft daardoor iets minder schulden te maken.",
+                        "new_text": "Daardoor maakt hij minder schulden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De aankopen die bedrijven doen, noemen we in de economie investeringen.",
+                "rewritten_sentences": "Als bedrijven iets kopen, noemen we dat in de economie investeringen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Vereenvoudiging van de zin door het vervangen van een complexe constructie ('De aankopen die bedrijven doen') met een eenvoudiger constructie ('Als bedrijven iets kopen').",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "De aankopen die bedrijven doen, noemen we in de economie investeringen.",
+                        "new_text": "Als bedrijven iets kopen, noemen we dat in de economie investeringen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook Wilma Jansen doet mee aan het productieproces.",
+                "rewritten_sentences": "Wilma Jansen werkt ook mee in het productieproces.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('Ook') en het gebruik van een actievere constructie ('werkt mee' in plaats van 'doet mee').",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Ook Wilma Jansen doet mee aan het productieproces.",
+                        "new_text": "Wilma Jansen werkt mee in het productieproces.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ze werkt namelijk twee dagen per week op het gemeentehuis.",
+                "rewritten_sentences": "Ze werkt twee dagen per week op het gemeentehuis.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "De zin is vereenvoudigd door het verwijderen van niet-essenti\u00eble woorden ('namelijk').",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Ze werkt namelijk twee dagen per week op het gemeentehuis.",
+                        "new_text": "Ze werkt twee dagen per week op het gemeentehuis.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling. Daar zou ze werk moeten doen waarvoor ze niet is opgeleid.",
+                "rewritten_sentences": "Eerder zou ze bijna naar een andere afdeling gaan. Daar zou ze werk moeten doen waarvoor ze niet is opgeleid.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "27",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('Een tijdje geleden', 'werd') en het gebruik van een eenvoudiger constructie ('zou bijna gaan' in plaats van 'werd bijna overgeplaatst').",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Een tijdje geleden werd ze bijna overgeplaatst naar een andere afdeling.",
+                        "new_text": "Eerder zou ze bijna naar een andere afdeling gaan.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar met de hulp van de vakbond heeft ze de overplaatsing kunnen verhinderen.",
+                "rewritten_sentences": "Met hulp van de vakbond heeft ze de overplaatsing tegengehouden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "28",
+                        "reason_for_change": "Vereenvoudiging van de zin door het verwijderen van niet-essenti\u00eble woorden ('Maar') en het gebruik van een eenvoudiger woord ('tegengehouden' in plaats van 'kunnen verhinderen').",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Maar met de hulp van de vakbond heeft ze de overplaatsing kunnen verhinderen.",
+                        "new_text": "Met hulp van de vakbond heeft ze de overplaatsing tegengehouden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Uitleg over productieproces en economie in een praktijkvoorbeeld",
+        "full_text": "Henk Jansen is trots eigenaar van de enige winkel in het dorp. Vaak komt een vrachtwagen bij zijn winkel om de voorraad bij te vullen. Met drie medewerkers zorgt Henk dat de schappen op tijd vol raken. Zij produceren. Ze bieden diensten aan met hulpmiddelen. Produceren is niet alleen het maken van spullen. Het is ook het geven van diensten met hulpmiddelen. Eerder had Henk vier medewerkers. Nu heeft hij er drie, omdat de administratie nu automatisch gaat. Daarom zijn de taken anders verdeeld. De winkel is nu 's avonds langer open, omdat de regels zijn veranderd. Henk wil daarom weer een vierde medewerker nemen. Die werkt een paar uur per dag. Die is dan ook aanwezig als Henk een cursus over duurzaam produceren volgt. De winkel gaat zo goed dat Henk heeft besloten om hem uit te breiden en te moderniseren. De gemeente heeft zijn plannen goedgekeurd. Er zijn eerst wat veranderingen in aangebracht. Nu wordt hard gewerkt. Er komen nieuwe kassa's en vriesvakken. Ook worden schappen ingericht met biologische producten. Zoals toen hij zijn winkel begon, moest Henk geld lenen voor de uitbreiding en modernisering. Hij krijgt gelukkig geld van de gemeente voor zijn plannen. Daardoor maakt hij minder schulden. Als bedrijven iets kopen, noemen we dat in de economie investeringen. Wilma Jansen werkt ook mee in het productieproces. Ze werkt twee dagen per week op het gemeentehuis. Eerder zou ze bijna naar een andere afdeling gaan. Daar zou ze werk moeten doen waarvoor ze niet is opgeleid. Met hulp van de vakbond heeft ze de overplaatsing tegengehouden.",
+        "prompt_id": "T02_mak",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-25 12:32:16.170442"
+}

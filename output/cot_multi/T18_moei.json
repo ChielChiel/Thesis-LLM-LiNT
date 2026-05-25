@@ -1,0 +1,888 @@
+{
+    "prompt_id": "T18_moei",
+    "Org - text": "Export in ontwikkelingslanden\n\nDe exportopbrengsten van de meeste ontwikkelingslanden zijn laag. E\u00e9n van de belangrijkste oorzaken hiervan is dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten. We spreken dan van een monocultuur. Landbouwprijzen gedragen zich vaak grillig. Als de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica van bananen en Brazili\u00eb van koffie, vallen bij een groot aanbod en/of een kleine vraag de exportinkomsten tegen.\n\nOntwikkelingslanden kunnen proberen een minder eenzijdig exportpakket te produceren. Deze oplossing wordt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen, bemoeilijkt.\n\nEen andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt voor ontwikkelingslanden slecht toegankelijk is. Door hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid van de ontwikkelde landen, wordt de toegang belemmerd. Ook het gebrek aan kennis en de slechte infrastructuur verhinderen dat ontwikkelingslanden een groter aandeel in de wereldhandel krijgen. Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen. In de eerste plaats hebben ze geen binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen, zoals machines en vrachtauto's, te importeren. In de tweede plaats is er in veel ontwikkelingslanden regelmatig hongersnood. Voedselimport is dan noodzakelijk. In ontwikkelingslanden wordt ook nogal eens burgeroorlog gevoerd. De wapens die daarbij worden gebruikt, zijn allemaal in het buitenland gefabriceerd. Ook daar is dus import aan te pas gekomen.\n\nHet gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt. Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil.",
+    "Org - lint": "53",
+    "Org - sent": "42, 68, 31, 64, 52, 82, 50, 80, 52, 40, 50, 34, 50, 36, 37, 45, 83, 87",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "De exportinkomsten van veel arme landen zijn laag. Een belangrijke reden is dat veel arme landen hun exportinkomsten voor een groot deel halen uit \u00e9\u00e9n soort landbouwproduct. Dat noemen we monocultuur. Landbouwprijzen veranderen vaak onvoorspelbaar. Als een land veel export verdient met \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica met bananen en Brazili\u00eb met koffie, dan zijn de exportinkomsten laag als er veel wordt aangeboden of weinig vraag is. Arme landen kunnen proberen om een meer gevarieerd exportpakket te maken. Deze oplossing is moeilijk door het gebrek aan kennis, de huidige handelsstromen en het beschermende beleid van de westerse landen die de producten kopen. Een andere reden voor de lage exportinkomsten van arme landen is dat de wereldmarkt voor hen slecht bereikbaar is. De toegang is moeilijk door hoge invoerrechten, prijsverlaging door dumping en het subsidiebeleid van rijke landen. Ook het gebrek aan kennis en slechte wegen zorgen dat arme landen minder kunnen meedoen aan de wereldhandel. Het wordt nog moeilijker als je weet dat arme landen hun import niet veel kunnen verminderen. Ze hebben geen eigen industrie, daarom moeten ze belangrijke spullen zoals machines en vrachtwagens importeren. Ook is er in veel arme landen vaak hongersnood. Dan is voedsel importeren nodig. Er zijn ook vaak burgeroorlogen in arme landen. Alle wapens die dan gebruikt worden, komen uit het buitenland. Daarom werd ook daar veel ge\u00efmporteerd. De lage exportprijzen (grondstoffen waren lang goedkoop) en de hoge importprijzen (voor belangrijke spullen) zorgen ervoor dat de ruilvoet daalt. Als de ruilvoet daalt, zijn de gemiddelde exportprijzen lager dan de gemiddelde importprijzen.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "45",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "50, 66, 31, 34, 62, 79, 56, 67, 38, 35, 42, 24, 37, 29, 19, 52, 53",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "De exportopbrengsten van de meeste ontwikkelingslanden zijn laag.",
+                "rewritten_sentences": "De exportinkomsten van veel arme landen zijn laag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Het woord 'ontwikkelingslanden' is vervangen door 'arme landen' om het woord eenvoudiger te maken.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "ontwikkelingslanden",
+                        "new_text": "arme landen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "E\u00e9n van de belangrijkste oorzaken hiervan is dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten.",
+                "rewritten_sentences": "Een belangrijke reden is dat veel arme landen hun exportinkomsten voor een groot deel halen uit \u00e9\u00e9n soort landbouwproduct.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "'E\u00e9n van de belangrijkste oorzaken' is vereenvoudigd naar 'Een belangrijke reden' om de zin korter en duidelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "E\u00e9n van de belangrijkste oorzaken hiervan is",
+                        "new_text": "Een belangrijke reden is",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "'ontwikkelingslanden' is vereenvoudigd naar 'arme landen'. De zin is gesplitst door 'voor hun exportinkomsten grotendeels afhankelijk zijn van de export' te vervangen door eenvoudiger formulering.",
+                        "start_word": 6,
+                        "end_word": 16,
+                        "original_text": "dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten",
+                        "new_text": "dat veel arme landen hun exportinkomsten voor een groot deel halen uit \u00e9\u00e9n soort landbouwproduct",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We spreken dan van een monocultuur.",
+                "rewritten_sentences": "Dat noemen we monocultuur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Zinsconstructie vereenvoudigd, moeilijk woord 'spreken' vervangen door 'noemen'.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "We spreken dan van een monocultuur",
+                        "new_text": "Dat noemen we monocultuur",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Landbouwprijzen gedragen zich vaak grillig.",
+                "rewritten_sentences": "Landbouwprijzen veranderen vaak onvoorspelbaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "'gedragen zich vaak grillig' is vervangen door eenvoudiger 'veranderen vaak onvoorspelbaar'.",
+                        "start_word": 1,
+                        "end_word": 4,
+                        "original_text": "gedragen zich vaak grillig",
+                        "new_text": "veranderen vaak onvoorspelbaar",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica van bananen en Brazili\u00eb van koffie, vallen bij een groot aanbod en/of een kleine vraag de exportinkomsten tegen.",
+                "rewritten_sentences": "Als een land veel export verdient met \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica met bananen en Brazili\u00eb met koffie, dan zijn de exportinkomsten laag als er veel wordt aangeboden of weinig vraag is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Complexe zin gesplitst en verhelderd. 'erg afhankelijk' vervangen door 'veel export verdient met'. Voorbeeldzinnen behouden, maar afhankelijkheidslengte verminderd.",
+                        "start_word": 1,
+                        "end_word": 28,
+                        "original_text": "de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica van bananen en Brazili\u00eb van koffie, vallen bij een groot aanbod en/of een kleine vraag de exportinkomsten tegen",
+                        "new_text": "een land veel export verdient met \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica met bananen en Brazili\u00eb met koffie, dan zijn de exportinkomsten laag als er veel wordt aangeboden of weinig vraag is",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ontwikkelingslanden kunnen proberen een minder eenzijdig exportpakket te produceren.",
+                "rewritten_sentences": "Arme landen kunnen proberen om een meer gevarieerd exportpakket te maken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "'ontwikkelingslanden' is vereenvoudigd naar 'arme landen'. 'minder eenzijdig' vervangen door 'meer gevarieerd' om concreter te zijn.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Ontwikkelingslanden kunnen proberen een minder eenzijdig exportpakket te produceren",
+                        "new_text": "Arme landen kunnen proberen om een meer gevarieerd exportpakket te maken",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Deze oplossing wordt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen, bemoeilijkt.",
+                "rewritten_sentences": "Deze oplossing is moeilijk door het gebrek aan kennis, de huidige handelsstromen en het beschermende beleid van de westerse landen die de producten kopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Complexe zin opgedeeld en vereenvoudigd. 'protectionistisch beleid' vervangen door 'beschermend beleid'. 'afnemen' vervangen door 'kopen' voor eenvoud.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "Deze oplossing wordt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen, bemoeilijkt",
+                        "new_text": "Deze oplossing is moeilijk door het gebrek aan kennis, de huidige handelsstromen en het beschermende beleid van de westerse landen die de producten kopen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt voor ontwikkelingslanden slecht toegankelijk is.",
+                "rewritten_sentences": "Een andere reden voor de lage exportinkomsten van arme landen is dat de wereldmarkt voor hen slecht bereikbaar is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "'exportopbrengsten' is vervangen door eenvoudiger 'exportinkomsten'. 'ontwikkelingslanden' vervangen door 'arme landen'. 'toegankelijk' vervangen door 'bereikbaar'.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Een andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt voor ontwikkelingslanden slecht toegankelijk is",
+                        "new_text": "Een andere reden voor de lage exportinkomsten van arme landen is dat de wereldmarkt voor hen slecht bereikbaar is",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Door hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid van de ontwikkelde landen, wordt de toegang belemmerd.",
+                "rewritten_sentences": "De toegang is moeilijk door hoge invoerrechten, prijsverlaging door dumping en het subsidiebeleid van rijke landen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Zin vereenvoudigd en ingekort, 'ontwikkelde landen' vervangen door 'rijke landen'. 'Prijsbederf' vervangen door eenvoudiger 'prijsverlaging'.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Door hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid van de ontwikkelde landen, wordt de toegang belemmerd",
+                        "new_text": "De toegang is moeilijk door hoge invoerrechten, prijsverlaging door dumping en het subsidiebeleid van rijke landen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook het gebrek aan kennis en de slechte infrastructuur verhinderen dat ontwikkelingslanden een groter aandeel in de wereldhandel krijgen.",
+                "rewritten_sentences": "Ook het gebrek aan kennis en slechte wegen zorgen dat arme landen minder kunnen meedoen aan de wereldhandel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "'infrastructuur' vertaald naar eenvoudiger 'wegen'. 'ontwikkelingslanden' vereenvoudigd naar 'arme landen'.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Ook het gebrek aan kennis en de slechte infrastructuur verhinderen dat ontwikkelingslanden een groter aandeel in de wereldhandel krijgen",
+                        "new_text": "Ook het gebrek aan kennis en slechte wegen zorgen dat arme landen minder kunnen meedoen aan de wereldhandel",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen.",
+                "rewritten_sentences": "Het wordt nog moeilijker als je weet dat arme landen hun import niet veel kunnen verminderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "'beeld wordt nog erger' is eenvoudiger herformuleerd naar 'wordt nog moeilijker'. 'ontwikkelingslanden' vervangen door 'arme landen'.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen",
+                        "new_text": "Het wordt nog moeilijker als je weet dat arme landen hun import niet veel kunnen verminderen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de eerste plaats hebben ze geen binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen, zoals machines en vrachtauto's, te importeren.",
+                "rewritten_sentences": "Ze hebben geen eigen industrie, daarom moeten ze belangrijke spullen zoals machines en vrachtwagens importeren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "'in de eerste plaats' weggelaten om de zin korter te maken. 'binnenlandse industrie' vervangen door 'eigen industrie'. 'kapitaalgoederen' vervangen door 'belangrijke spullen' en voorbeelden behouden.",
+                        "start_word": 3,
+                        "end_word": 23,
+                        "original_text": "hebben ze geen binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen, zoals machines en vrachtauto's, te importeren",
+                        "new_text": "hebben ze geen eigen industrie, daarom moeten ze belangrijke spullen zoals machines en vrachtwagens importeren",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de tweede plaats is er in veel ontwikkelingslanden regelmatig hongersnood.",
+                "rewritten_sentences": "Ook is er in veel arme landen vaak hongersnood.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "'in de tweede plaats' is weggelaten. 'regelmatig' vervangen door eenvoudiger 'vaak'. 'ontwikkelingslanden' vervangen door 'arme landen'.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "In de tweede plaats is er in veel ontwikkelingslanden regelmatig hongersnood",
+                        "new_text": "Ook is er in veel arme landen vaak hongersnood",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voedselimport is dan noodzakelijk.",
+                "rewritten_sentences": "Dan is voedsel importeren nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "'Voedselimport is dan noodzakelijk' is omgezet naar eenvoudiger 'Dan is voedsel importeren nodig'.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "Voedselimport is dan noodzakelijk",
+                        "new_text": "Dan is voedsel importeren nodig",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In ontwikkelingslanden wordt ook nogal eens burgeroorlog gevoerd.",
+                "rewritten_sentences": "Er zijn ook vaak burgeroorlogen in arme landen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "'wordt ook nogal eens gevoerd' vervangen door eenvoudiger 'zijn ook vaak'. 'ontwikkelingslanden' veranderd naar 'arme landen'.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "ontwikkelingslanden wordt ook nogal eens burgeroorlog gevoerd",
+                        "new_text": "arme landen zijn ook vaak burgeroorlogen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De wapens die daarbij worden gebruikt, zijn allemaal in het buitenland gefabriceerd.",
+                "rewritten_sentences": "Alle wapens die dan gebruikt worden, komen uit het buitenland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Zin vereenvoudigd en omgedraaid voor duidelijkheid. 'geproduceerd' vervangen door eenvoudiger 'komen uit'.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "De wapens die daarbij worden gebruikt, zijn allemaal in het buitenland gefabriceerd",
+                        "new_text": "Alle wapens die dan gebruikt worden, komen uit het buitenland",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook daar is dus import aan te pas gekomen.",
+                "rewritten_sentences": "Daarom werd ook daar veel ge\u00efmporteerd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Zin iets omgedraaid voor eenvoud en duidelijkheid. 'import aan te pas gekomen' veranderd naar 'veel ge\u00efmporteerd'.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Ook daar is dus import aan te pas gekomen",
+                        "new_text": "Daarom werd ook daar veel ge\u00efmporteerd",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt.",
+                "rewritten_sentences": "De lage exportprijzen (grondstoffen waren lang goedkoop) en de hoge importprijzen (voor belangrijke spullen) zorgen ervoor dat de ruilvoet daalt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Complexe zin vereenvoudigd en opgesplitst. Moeilijke woorden vervangen: 'exportprijzen' en 'importprijzen' simpel gehouden, voorbeelden bijgevoegd in haakjes voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 36,
+                        "original_text": "Het gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt",
+                        "new_text": "De lage exportprijzen (grondstoffen waren lang goedkoop) en de hoge importprijzen (voor belangrijke spullen) zorgen ervoor dat de ruilvoet daalt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil.",
+                "rewritten_sentences": "Als de ruilvoet daalt, zijn de gemiddelde exportprijzen lager dan de gemiddelde importprijzen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Complexe formulering vereenvoudigd en duidelijk gemaakt door actieve formulering te gebruiken. Moeilijke woorden zoveel mogelijk vermeden.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil",
+                        "new_text": "Als de ruilvoet daalt, zijn de gemiddelde exportprijzen lager dan de gemiddelde importprijzen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "educatief",
+        "full_text": "De exportinkomsten van veel arme landen zijn laag. Een belangrijke reden is dat veel arme landen hun exportinkomsten voor een groot deel halen uit \u00e9\u00e9n soort landbouwproduct. Dat noemen we monocultuur. Landbouwprijzen veranderen vaak onvoorspelbaar. Als een land veel export verdient met \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica met bananen en Brazili\u00eb met koffie, dan zijn de exportinkomsten laag als er veel wordt aangeboden of weinig vraag is. Arme landen kunnen proberen om een meer gevarieerd exportpakket te maken. Deze oplossing is moeilijk door het gebrek aan kennis, de huidige handelsstromen en het beschermende beleid van de westerse landen die de producten kopen. Een andere reden voor de lage exportinkomsten van arme landen is dat de wereldmarkt voor hen slecht bereikbaar is. De toegang is moeilijk door hoge invoerrechten, prijsverlaging door dumping en het subsidiebeleid van rijke landen. Ook het gebrek aan kennis en slechte wegen zorgen dat arme landen minder kunnen meedoen aan de wereldhandel. Het wordt nog moeilijker als je weet dat arme landen hun import niet veel kunnen verminderen. Ze hebben geen eigen industrie, daarom moeten ze belangrijke spullen zoals machines en vrachtwagens importeren. Ook is er in veel arme landen vaak hongersnood. Dan is voedsel importeren nodig. Er zijn ook vaak burgeroorlogen in arme landen. Alle wapens die dan gebruikt worden, komen uit het buitenland. Daarom werd ook daar veel ge\u00efmporteerd. De lage exportprijzen (grondstoffen waren lang goedkoop) en de hoge importprijzen (voor belangrijke spullen) zorgen ervoor dat de ruilvoet daalt. Als de ruilvoet daalt, zijn de gemiddelde exportprijzen lager dan de gemiddelde importprijzen.",
+        "prompt_id": "T18_moei",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "De meeste ontwikkelingslanden krijgen weinig geld uit export. Veel ontwikkelingslanden verdienen het meeste van hun export met \u00e9\u00e9n landbouwproduct. We spreken dan van een monocultuur. Landbouwprijzen schommelen vaak. Als een land sterk afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, komen de inkomsten snel onder druk. Bijvoorbeeld Costa Rica met bananen en Brazili\u00eb met koffie. Bij groot aanbod of lage vraag vallen de exportinkomsten tegen. Ontwikkelingslanden kunnen proberen meer verschillende exportproducten te maken. Deze oplossing is moeilijk. Er is gebrek aan kennis. Bestaande handelsstromen en het protectionistische beleid van westerse landen bemoeilijken het. Een andere reden is dat de wereldmarkt lastig bereikbaar is voor ontwikkelingslanden. Hoge invoerrechten, dumping en subsidies van rijke landen blokkeren de toegang. Ook gebrek aan kennis en slechte infrastructuur blokkeren groei in de wereldhandel. Het wordt nog erger, omdat ontwikkelingslanden weinig kans hebben hun import te verminderen. Ten eerste hebben ze vaak geen binnenlandse industrie. Ze moeten dan machines en vrachtwagens importeren. Ten tweede is er in veel landen geregeld hongersnood. Dan is voedselimport nodig. In sommige ontwikkelingslanden woeden burgeroorlogen. De gebruikte wapens zijn allemaal in het buitenland gemaakt. Ook daarvoor is import nodig geweest. De grondstoffenprijzen waren lange tijd laag. De prijzen voor noodzakelijke kapitaalgoederen zijn relatief hoog. Het gevolg is dat de ruilvoet daalt. Als de ruilvoet daalt, wordt het gemiddelde exportprijspeil lager ten opzichte van het gemiddelde importprijspeil.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "42",
+    "GPT 5.1 mini/gpt-5-mini - sent": "32, 43, 31, 23, 35, 48, 35, 25, 19, 31, 64, 58, 46, 50, 35, 20, 26, 33, 21, 57, 63, 70",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "De exportopbrengsten van de meeste ontwikkelingslanden zijn laag.",
+                "rewritten_sentences": "De meeste ontwikkelingslanden krijgen weinig geld uit export.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s1c1",
+                        "reason_for_change": "Vervangen van het lange, minder frequente woord 'exportopbrengsten' door eenvoudiger, vaker gebruikt woordgebruik en concretere formulering om de woordfrequentie te verhogen en de zin eenvoudiger te maken.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "De exportopbrengsten van de meeste ontwikkelingslanden zijn laag.",
+                        "new_text": "De meeste ontwikkelingslanden krijgen weinig geld uit export.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "E\u00e9n van de belangrijkste oorzaken hiervan is dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten.",
+                "rewritten_sentences": "Veel ontwikkelingslanden verdienen het meeste van hun export met \u00e9\u00e9n landbouwproduct.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "Vereenvoudiging van woordkeuze (bijv. 'exportinkomsten' \u2192 eenvoudiger structuur) en inkorten van de zin om vaker voorkomende woorden te gebruiken en zo de woordfrequentie te verhogen.",
+                        "start_word": 1,
+                        "end_word": 23,
+                        "original_text": "E\u00e9n van de belangrijkste oorzaken hiervan is dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten.",
+                        "new_text": "Veel ontwikkelingslanden verdienen het meeste van hun export met \u00e9\u00e9n landbouwproduct.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We spreken dan van een monocultuur.",
+                "rewritten_sentences": "We spreken dan van een monocultuur.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Landbouwprijzen gedragen zich vaak grillig.",
+                "rewritten_sentences": "Landbouwprijzen schommelen vaak.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "Vervangen van 'gedragen zich vaak grillig' door het eenvoudiger en frequenter gebruikte 'schommelen vaak' om woordfrequentie te verhogen en de zinsstructuur korter te maken.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Landbouwprijzen gedragen zich vaak grillig.",
+                        "new_text": "Landbouwprijzen schommelen vaak.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica van bananen en Brazili\u00eb van koffie, vallen bij een groot aanbod en/of een kleine vraag de exportinkomsten tegen.",
+                "rewritten_sentences": "Als een land sterk afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, komen de inkomsten snel onder druk. Bijvoorbeeld Costa Rica met bananen en Brazili\u00eb met koffie. Bij groot aanbod of lage vraag vallen de exportinkomsten tegen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Opdelen van een lange hoofdzin en verkorten van delen om de afhankelijkheidslengte te verlagen en zinnen korter en duidelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Als de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten,",
+                        "new_text": "Als een land sterk afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, komen de inkomsten snel onder druk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "s5c2",
+                        "reason_for_change": "Vereenvoudigen van het voorbeelddeel door het korter te formuleren en concrete voorbeelden duidelijk te houden.",
+                        "start_word": 15,
+                        "end_word": 23,
+                        "original_text": "zoals Costa Rica van bananen en Brazili\u00eb van koffie,",
+                        "new_text": "Bijvoorbeeld Costa Rica met bananen en Brazili\u00eb met koffie.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "s5c3",
+                        "reason_for_change": "Kortere formulering van het slotdeel ('bij een groot aanbod en/of een kleine vraag') om frequente woorden te gebruiken en de zin eenvoudiger te maken.",
+                        "start_word": 24,
+                        "end_word": 35,
+                        "original_text": "vallen bij een groot aanbod en/of een kleine vraag de exportinkomsten tegen.",
+                        "new_text": "Bij groot aanbod of lage vraag vallen de exportinkomsten tegen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ontwikkelingslanden kunnen proberen een minder eenzijdig exportpakket te produceren.",
+                "rewritten_sentences": "Ontwikkelingslanden kunnen proberen meer verschillende exportproducten te maken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "Vervanging van het langere woord 'exportpakket' en 'produceren' door meer gangbare en concretere termen om de woordfrequentie te verhogen en de zin directer te maken.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Ontwikkelingslanden kunnen proberen een minder eenzijdig exportpakket te produceren.",
+                        "new_text": "Ontwikkelingslanden kunnen proberen meer verschillende exportproducten te maken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Deze oplossing wordt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen, bemoeilijkt.",
+                "rewritten_sentences": "Deze oplossing is moeilijk. Er is gebrek aan kennis. Bestaande handelsstromen en het protectionistische beleid van westerse landen bemoeilijken het.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "Opdelen van \u00e9\u00e9n lange complexe zin in drie korte zinnen. Dit verlaagt het aantal inhoudswoorden per deelzin en reduceert afhankelijkheidslengte, terwijl betekenis behouden blijft.",
+                        "start_word": 1,
+                        "end_word": 24,
+                        "original_text": "Deze oplossing wordt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen, bemoeilijkt.",
+                        "new_text": "Deze oplossing is moeilijk. Er is gebrek aan kennis. Bestaande handelsstromen en het protectionistische beleid van westerse landen bemoeilijken het.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt voor ontwikkelingslanden slecht toegankelijk is.",
+                "rewritten_sentences": "Een andere reden is dat de wereldmarkt lastig bereikbaar is voor ontwikkelingslanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Vervanging van langere nominale constructies door kortere, frequentere woorden ('oorzaak' \u2192 'reden', 'slecht toegankelijk' \u2192 'lastig bereikbaar') om woordfrequentie te verhogen en de zin eenvoudiger te maken.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "Een andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt voor ontwikkelingslanden slecht toegankelijk is.",
+                        "new_text": "Een andere reden is dat de wereldmarkt lastig bereikbaar is voor ontwikkelingslanden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Door hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid van de ontwikkelde landen, wordt de toegang belemmerd.",
+                "rewritten_sentences": "Hoge invoerrechten, dumping en subsidies van rijke landen blokkeren de toegang.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "Kortere, directere formulering en vervanging van minder frequente termen ('prijsbederf' \u2192 'dumping', 'subsidiebeleid van de ontwikkelde landen' \u2192 'subsidies van rijke landen') om woordfrequentie te verhogen en zinslengte te verkorten.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "Door hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid van de ontwikkelde landen, wordt de toegang belemmerd.",
+                        "new_text": "Hoge invoerrechten, dumping en subsidies van rijke landen blokkeren de toegang.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook het gebrek aan kennis en de slechte infrastructuur verhinderen dat ontwikkelingslanden een groter aandeel in de wereldhandel krijgen.",
+                "rewritten_sentences": "Ook gebrek aan kennis en slechte infrastructuur blokkeren groei in de wereldhandel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "Inknippen en vereenvoudigen van de zinsstructuur om afhankelijkheidslengte te verlagen en de zin compacter te maken, terwijl de kernboodschap blijft.",
+                        "start_word": 1,
+                        "end_word": 19,
+                        "original_text": "Ook het gebrek aan kennis en de slechte infrastructuur verhinderen dat ontwikkelingslanden een groter aandeel in de wereldhandel krijgen.",
+                        "new_text": "Ook gebrek aan kennis en slechte infrastructuur blokkeren groei in de wereldhandel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen.",
+                "rewritten_sentences": "Het wordt nog erger, omdat ontwikkelingslanden weinig kans hebben hun import te verminderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "Zinspositie en woordkeuze vereenvoudigd ('Het beeld wordt nog erger' \u2192 'Het wordt nog erger') en inversie weggelaten om de zin directer en frequenter te maken.",
+                        "start_word": 1,
+                        "end_word": 19,
+                        "original_text": "Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen.",
+                        "new_text": "Het wordt nog erger, omdat ontwikkelingslanden weinig kans hebben hun import te verminderen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de eerste plaats hebben ze geen binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen, zoals machines en vrachtauto's, te importeren.",
+                "rewritten_sentences": "Ten eerste hebben ze vaak geen binnenlandse industrie. Ze moeten dan machines en vrachtwagens importeren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "Opdelen van de complexe zin en vervangen van het abstracte 'kapitaalgoederen' door concrete voorbeelden 'machines en vrachtwagens' om de verhouding van concrete zelfstandige naamwoorden te verhogen en de zinnen korter te maken.",
+                        "start_word": 1,
+                        "end_word": 22,
+                        "original_text": "In de eerste plaats hebben ze geen binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen, zoals machines en vrachtauto's, te importeren.",
+                        "new_text": "Ten eerste hebben ze vaak geen binnenlandse industrie. Ze moeten dan machines en vrachtwagens importeren.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de tweede plaats is er in veel ontwikkelingslanden regelmatig hongersnood.",
+                "rewritten_sentences": "Ten tweede is er in veel landen geregeld hongersnood.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "Vereenvoudiging van formulering en kortere woordkeuze ('regelmatig' \u2192 'geregeld', 'ontwikkelingslanden' \u2192 'landen') om woordfrequentie te verhogen en zinslengte te verlagen; kernbetekenis blijft behouden.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "In de tweede plaats is er in veel ontwikkelingslanden regelmatig hongersnood.",
+                        "new_text": "Ten tweede is er in veel landen geregeld hongersnood.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voedselimport is dan noodzakelijk.",
+                "rewritten_sentences": "Dan is voedselimport nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Korte omkering van woordvolgorde en vervanging van 'noodzakelijk' door het frequente 'nodig' om woordfrequentie en leesbaarheid te be\u00efnvloeden.",
+                        "start_word": 1,
+                        "end_word": 4,
+                        "original_text": "Voedselimport is dan noodzakelijk.",
+                        "new_text": "Dan is voedselimport nodig.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In ontwikkelingslanden wordt ook nogal eens burgeroorlog gevoerd.",
+                "rewritten_sentences": "In sommige ontwikkelingslanden woeden burgeroorlogen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Vervangen van passieve constructie door actieve en meervoudige vorm om concreetheid te verhogen en de zin compacter te maken ('wordt gevoerd' \u2192 'woeden').",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "In ontwikkelingslanden wordt ook nogal eens burgeroorlog gevoerd.",
+                        "new_text": "In sommige ontwikkelingslanden woeden burgeroorlogen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De wapens die daarbij worden gebruikt, zijn allemaal in het buitenland gefabriceerd.",
+                "rewritten_sentences": "De gebruikte wapens zijn allemaal in het buitenland gemaakt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Vereenvoudiging van de passieve zinsconstructie en vervanging van 'gefabriceerd' door het meer gangbare 'gemaakt' om woordfrequentie te verhogen en de zinslengte te verminderen.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "De wapens die daarbij worden gebruikt, zijn allemaal in het buitenland gefabriceerd.",
+                        "new_text": "De gebruikte wapens zijn allemaal in het buitenland gemaakt.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook daar is dus import aan te pas gekomen.",
+                "rewritten_sentences": "Ook daarvoor is import nodig geweest.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "Kortere, directere formulering om woordfrequentie te verhogen en de zinsstructuur eenvoudiger te maken zonder de betekenis te veranderen.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Ook daar is dus import aan te pas gekomen.",
+                        "new_text": "Ook daarvoor is import nodig geweest.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt.",
+                "rewritten_sentences": "De grondstoffenprijzen waren lange tijd laag. De prijzen voor noodzakelijke kapitaalgoederen zijn relatief hoog. Het gevolg is dat de ruilvoet daalt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "De lange oorspronkelijke zin met parenthetische toevoegingen is opgesplitst in drie korte zinnen. Dit verlaagt het aantal inhoudswoorden per deelzin en maakt de argumentatie stap-voor-stap duidelijker zonder nieuwe informatie toe te voegen.",
+                        "start_word": 1,
+                        "end_word": 31,
+                        "original_text": "Het gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt.",
+                        "new_text": "De grondstoffenprijzen waren lange tijd laag. De prijzen voor noodzakelijke kapitaalgoederen zijn relatief hoog. Het gevolg is dat de ruilvoet daalt.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil.",
+                "rewritten_sentences": "Als de ruilvoet daalt, wordt het gemiddelde exportprijspeil lager ten opzichte van het gemiddelde importprijspeil.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "Vervanging van de zinsaanhef ('Bij een daling van') door het meer gebruikelijke 'Als' en weghalen van tussen haakjes geplaatste woorden door ze voluit en in gewone volgorde te plaatsen om woordfrequentie en helderheid te verhogen.",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil.",
+                        "new_text": "Als de ruilvoet daalt, wordt het gemiddelde eksportprijspeil lager ten opzichte van het gemiddelde importprijspeil.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "De meeste ontwikkelingslanden krijgen weinig geld uit export. Veel ontwikkelingslanden verdienen het meeste van hun export met \u00e9\u00e9n landbouwproduct. We spreken dan van een monocultuur. Landbouwprijzen schommelen vaak. Als een land sterk afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, komen de inkomsten snel onder druk. Bijvoorbeeld Costa Rica met bananen en Brazili\u00eb met koffie. Bij groot aanbod of lage vraag vallen de exportinkomsten tegen. Ontwikkelingslanden kunnen proberen meer verschillende exportproducten te maken. Deze oplossing is moeilijk. Er is gebrek aan kennis. Bestaande handelsstromen en het protectionistische beleid van westerse landen bemoeilijken het. Een andere reden is dat de wereldmarkt lastig bereikbaar is voor ontwikkelingslanden. Hoge invoerrechten, dumping en subsidies van rijke landen blokkeren de toegang. Ook gebrek aan kennis en slechte infrastructuur blokkeren groei in de wereldhandel. Het wordt nog erger, omdat ontwikkelingslanden weinig kans hebben hun import te verminderen. Ten eerste hebben ze vaak geen binnenlandse industrie. Ze moeten dan machines en vrachtwagens importeren. Ten tweede is er in veel landen geregeld hongersnood. Dan is voedselimport nodig. In sommige ontwikkelingslanden woeden burgeroorlogen. De gebruikte wapens zijn allemaal in het buitenland gemaakt. Ook daarvoor is import nodig geweest. De grondstoffenprijzen waren lange tijd laag. De prijzen voor noodzakelijke kapitaalgoederen zijn relatief hoog. Het gevolg is dat de ruilvoet daalt. Als de ruilvoet daalt, wordt het gemiddelde exportprijspeil lager ten opzichte van het gemiddelde importprijspeil.",
+        "prompt_id": "T18_moei",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "",
+    "Gemini/gemini-3-flash-preview - lint": NaN,
+    "Gemini/gemini-3-flash-preview - sent": NaN,
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [],
+        "text_genre": "NA",
+        "full_text": "",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "De meeste ontwikkelingslanden verdienen weinig met hun export. Een belangrijke reden is dat veel ontwikkelingslanden afhankelijk zijn van \u00e9\u00e9n soort landbouwproduct. Dit noemen we een monocultuur. Landbouwprijzen zijn vaak onvoorspelbaar. Als een land veel export heeft van \u00e9\u00e9n product, zoals bananen uit Costa Rica of koffie uit Brazili\u00eb, gaan de inkomsten omlaag als er veel aanbod is of weinig vraag. Ontwikkelingslanden kunnen proberen meer verschillende producten te exporteren. Dit is moeilijk door gebrek aan kennis, oude handelsroutes en beschermende regels van rijke landen die de producten kopen. Een andere reden is dat de wereldmarkt moeilijk bereikbaar is voor ontwikkelingslanden. Hoge invoerbelastingen, lage prijzen door dumping en subsidies van rijke landen maken het moeilijker om te handelen. Ook gebrek aan kennis en slechte wegen en transport belemmeren betere handel. Het wordt erger als je bedenkt dat ontwikkelingslanden hun import niet kunnen verminderen. Ten eerste hebben ze geen fabrieken. Ze moeten daarom machines en vrachtwagens importeren. Ten tweede is er vaak hongersnood. Ze moeten dan voedsel importeren. Ook zijn er vaak burgeroorlogen. De wapens komen uit het buitenland. Ook dat moet ge\u00efmporteerd worden. Door lage prijzen voor grondstoffen en hoge prijzen voor machines en andere benodigdheden, daalt de ruilvoet. Als de ruilvoet daalt, worden exportgoederen minder waard ten opzichte van importgoederen.",
+    "Mistral/ministral-14b-latest - lint": "43",
+    "Mistral/ministral-14b-latest - sent": "40, 35, 32, 35, 44, 49, 64, 30, 74, 61, 43, 25, 35, 18, 49, 12, 75, 71",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "De exportopbrengsten van de meeste ontwikkelingslanden zijn laag.",
+                "rewritten_sentences": "De meeste ontwikkelingslanden verdienen weinig met hun export.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_1_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('exportopbrengsten' \u2192 'wat ze verdienen met hun export') om de leesbaarheid te verbeteren. Behoudt de betekenis.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "De exportopbrengsten van de meeste ontwikkelingslanden zijn laag.",
+                        "new_text": "De meeste ontwikkelingslanden verdienen weinig met hun export.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "E\u00e9n van de belangrijkste oorzaken hiervan is dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten. We spreken dan van een monocultuur.",
+                "rewritten_sentences": "Een belangrijke reden is dat veel ontwikkelingslanden afhankelijk zijn van \u00e9\u00e9n soort landbouwproduct. Dit noemen we een monocultuur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_2_change_1",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en verwijderde overbodige woorden ('grotendeels', 'exportinkomsten') om de afhankelijkheidslengte te verkorten en de leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "E\u00e9n van de belangrijkste oorzaken hiervan is dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten.",
+                        "new_text": "Een belangrijke reden is dat veel ontwikkelingslanden afhankelijk zijn van \u00e9\u00e9n soort landbouwproduct.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_2_change_2",
+                        "reason_for_change": "Vereenvoudigde uitleg van 'monocultuur' door verwijzing naar de term in plaats van een lange omschrijving.",
+                        "start_word": 16,
+                        "end_word": 19,
+                        "original_text": "We spreken dan van een monocultuur.",
+                        "new_text": "Dit noemen we een monocultuur.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Landbouwprijzen gedragen zich vaak grillig.",
+                "rewritten_sentences": "Landbouwprijzen zijn vaak onvoorspelbaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_3_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('gedragen zich grillig' \u2192 'onvoorspelbaar') om de leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Landbouwprijzen gedragen zich vaak grillig.",
+                        "new_text": "Landbouwprijzen zijn vaak onvoorspelbaar.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica van bananen en Brazili\u00eb van koffie, vallen bij een groot aanbod en/of een kleine vraag de exportinkomsten tegen.",
+                "rewritten_sentences": "Als een land veel export heeft van \u00e9\u00e9n product, zoals bananen uit Costa Rica of koffie uit Brazili\u00eb, gaan de inkomsten omlaag als er veel aanbod is of weinig vraag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_4_change_1",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en verwijderde complexe woorden ('erg afhankelijk', 'exportinkomsten tegenvallen') om de leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Als de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica van bananen en Brazili\u00eb van koffie,",
+                        "new_text": "Als een land veel export heeft van \u00e9\u00e9n product, zoals bananen uit Costa Rica of koffie uit Brazili\u00eb,",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_4_change_2",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('groot aanbod en/of kleine vraag' \u2192 'veel aanbod of weinig vraag') en 'exportinkomsten tegenvallen' \u2192 'inkomsten gaan omlaag'.",
+                        "start_word": 14,
+                        "end_word": 25,
+                        "original_text": "bij een groot aanbod en/of een kleine vraag de exportinkomsten tegen.",
+                        "new_text": "gaan de inkomsten omlaag als er veel aanbod is of weinig vraag.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ontwikkelingslanden kunnen proberen een minder eenzijdig exportpakket te produceren.",
+                "rewritten_sentences": "Ontwikkelingslanden kunnen proberen meer verschillende producten te exporteren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_5_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('minder eenzijdig exportpakket' \u2192 'meer verschillende producten') om de leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Ontwikkelingslanden kunnen proberen een minder eenzijdig exportpakket te produceren.",
+                        "new_text": "Ontwikkelingslanden kunnen proberen meer verschillende producten te exporteren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Deze oplossing wordt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen, bemoeilijkt.",
+                "rewritten_sentences": "Dit is moeilijk door gebrek aan kennis, oude handelsroutes en beschermende regels van rijke landen die de producten kopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_6_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus en zinsstructuur ('protectionistisch beleid' \u2192 'beschermende regels', 'bemoeilijkt' \u2192 'is moeilijk').",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Deze oplossing wordt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen, bemoeilijkt.",
+                        "new_text": "Dit is moeilijk door gebrek aan kennis, oude handelsroutes en beschermende regels van rijke landen die de producten kopen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt voor ontwikkelingslanden slecht toegankelijk is.",
+                "rewritten_sentences": "Een andere reden is dat de wereldmarkt moeilijk bereikbaar is voor ontwikkelingslanden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_7_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('lage exportopbrengsten' \u2192 'een andere reden', 'slecht toegankelijk' \u2192 'moeilijk bereikbaar').",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Een andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt voor ontwikkelingslanden slecht toegankelijk is.",
+                        "new_text": "Een andere reden is dat de wereldmarkt moeilijk bereikbaar is voor ontwikkelingslanden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Door hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid van de ontwikkelde landen, wordt de toegang belemmerd.",
+                "rewritten_sentences": "Hoge invoerbelastingen, lage prijzen door dumping en subsidies van rijke landen maken het moeilijker om te handelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_8_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('invoerrechten' \u2192 'invoerbelastingen', 'prijsbederf door dumping' \u2192 'lage prijzen door dumping', 'subsidiebeleid' \u2192 'subsidies').",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Door hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid van de ontwikkelde landen, wordt de toegang belemmerd.",
+                        "new_text": "Hoge invoerbelastingen, lage prijzen door dumping en subsidies van rijke landen maken het moeilijker om te handelen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook het gebrek aan kennis en de slechte infrastructuur verhinderen dat ontwikkelingslanden een groter aandeel in de wereldhandel krijgen.",
+                "rewritten_sentences": "Ook gebrek aan kennis en slechte wegen en transport belemmeren betere handel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_9_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('infrastructuur' \u2192 'wegen en transport', 'een groter aandeel in de wereldhandel krijgen' \u2192 'betere handel').",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Ook het gebrek aan kennis en de slechte infrastructuur verhinderen dat ontwikkelingslanden een groter aandeel in de wereldhandel krijgen.",
+                        "new_text": "Ook gebrek aan kennis en slechte wegen en transport belemmeren betere handel.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen.",
+                "rewritten_sentences": "Het wordt erger als je bedenkt dat ontwikkelingslanden hun import niet kunnen verminderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_10_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('het beeld wordt nog erger' \u2192 'Het wordt erger', 'niet veel kans hebben' \u2192 'niet kunnen').",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen.",
+                        "new_text": "Het wordt erger als je bedenkt dat ontwikkelingslanden hun import niet kunnen verminderen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de eerste plaats hebben ze geen binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen, zoals machines en vrachtauto's, te importeren.",
+                "rewritten_sentences": "Ten eerste hebben ze geen fabrieken. Ze moeten daarom machines en vrachtwagens importeren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_11_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('binnenlandse industrie' \u2192 'fabrieken', 'kapitaalgoederen' \u2192 'machines en vrachtwagens').",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "In de eerste plaats hebben ze geen binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen, zoals machines en vrachtauto's, te importeren.",
+                        "new_text": "Ten eerste hebben ze geen fabrieken. Ze moeten daarom machines en vrachtwagens importeren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de tweede plaats is er in veel ontwikkelingslanden regelmatig hongersnood. Voedselimport is dan noodzakelijk.",
+                "rewritten_sentences": "Ten tweede is er vaak hongersnood. Ze moeten dan voedsel importeren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_12_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('in de tweede plaats' \u2192 'Ten tweede', 'regelmatig hongersnood' \u2192 'vaak hongersnood').",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "In de tweede plaats is er in veel ontwikkelingslanden regelmatig hongersnood. Voedselimport is dan noodzakelijk.",
+                        "new_text": "Ten tweede is er vaak hongersnood. Ze moeten dan voedsel importeren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In ontwikkelingslanden wordt ook nogal eens burgeroorlog gevoerd. De wapens die daarbij worden gebruikt, zijn allemaal in het buitenland gefabriceerd. Ook daar is dus import aan te pas gekomen.",
+                "rewritten_sentences": "Ook zijn er vaak burgeroorlogen. De wapens komen uit het buitenland. Ook dat moet ge\u00efmporteerd worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_13_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('wordt ook nogal eens burgeroorlog gevoerd' \u2192 'zijn er vaak burgeroorlogen', 'gefabriceerd' \u2192 'komen').",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "In ontwikkelingslanden wordt ook nogal eens burgeroorlog gevoerd. De wapens die daarbij worden gebruikt, zijn allemaal in het buitenland gefabriceerd.",
+                        "new_text": "Ook zijn er vaak burgeroorlogen. De wapens komen uit het buitenland.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_13_change_2",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('is dus import aan te pas gekomen' \u2192 'moet ge\u00efmporteerd worden').",
+                        "start_word": 13,
+                        "end_word": 19,
+                        "original_text": "Ook daar is dus import aan te pas gekomen.",
+                        "new_text": "Ook dat moet ge\u00efmporteerd worden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt.",
+                "rewritten_sentences": "Door lage prijzen voor grondstoffen en hoge prijzen voor machines en andere benodigdheden, daalt de ruilvoet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_14_change_1",
+                        "reason_for_change": "Vereenvoudigde zinsstructuur en verwijderde overbodige woorden ('lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag)' \u2192 'lage prijzen voor grondstoffen').",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Het gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt.",
+                        "new_text": "Door lage prijzen voor grondstoffen en hoge prijzen voor machines en andere benodigdheden, daalt de ruilvoet.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil.",
+                "rewritten_sentences": "Als de ruilvoet daalt, worden exportgoederen minder waard ten opzichte van importgoederen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_15_change_1",
+                        "reason_for_change": "Vereenvoudigde woordkeus ('daling van de ruilvoet' \u2192 'Als de ruilvoet daalt', 'exportprijspeil' en 'importprijspeil' \u2192 'exportgoederen' en 'importgoederen').",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil.",
+                        "new_text": "Als de ruilvoet daalt, worden exportgoederen minder waard ten opzichte van importgoederen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Economisch en maatschappelijk verslag",
+        "full_text": "De meeste ontwikkelingslanden verdienen weinig met hun export. Een belangrijke reden is dat veel ontwikkelingslanden afhankelijk zijn van \u00e9\u00e9n soort landbouwproduct. Dit noemen we een monocultuur. Landbouwprijzen zijn vaak onvoorspelbaar. Als een land veel export heeft van \u00e9\u00e9n product, zoals bananen uit Costa Rica of koffie uit Brazili\u00eb, gaan de inkomsten omlaag als er veel aanbod is of weinig vraag. Ontwikkelingslanden kunnen proberen meer verschillende producten te exporteren. Dit is moeilijk door gebrek aan kennis, oude handelsroutes en beschermende regels van rijke landen die de producten kopen. Een andere reden is dat de wereldmarkt moeilijk bereikbaar is voor ontwikkelingslanden. Hoge invoerbelastingen, lage prijzen door dumping en subsidies van rijke landen maken het moeilijker om te handelen. Ook gebrek aan kennis en slechte wegen en transport belemmeren betere handel. Het wordt erger als je bedenkt dat ontwikkelingslanden hun import niet kunnen verminderen. Ten eerste hebben ze geen fabrieken. Ze moeten daarom machines en vrachtwagens importeren. Ten tweede is er vaak hongersnood. Ze moeten dan voedsel importeren. Ook zijn er vaak burgeroorlogen. De wapens komen uit het buitenland. Ook dat moet ge\u00efmporteerd worden. Door lage prijzen voor grondstoffen en hoge prijzen voor machines en andere benodigdheden, daalt de ruilvoet. Als de ruilvoet daalt, worden exportgoederen minder waard ten opzichte van importgoederen.",
+        "prompt_id": "T18_moei",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-25 14:08:45.461175"
+}

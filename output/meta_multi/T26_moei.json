@@ -1,0 +1,883 @@
+{
+    "prompt_id": "T26_moei",
+    "Org - text": "Geld\n\n Vrijwel alles in de wereld draait tegenwoordig om geld. Maar het komt ook nog wel eens voor dat mensen elkaar bijstaan met tegenprestaties, zonder dat daar geld aan te pas komt. Als jij bijvoorbeeld vaardig bent met een waterpas, kan je de buurman assisteren bij het plaatsen van de afscheiding in zijn tuin. En vice versa: als de buurman bekwaam is in het aanleggen van elektrische installaties, kan hij mooi bij jou de tuinverlichting aansluiten. In de economie noemen we dat directe ruil. Bij directe ruil wordt de aankoop van producten voldaan met andere producten.\n\nGeld heeft als voordeel dat je het kunt bewaren. Bovendien is het deelbaar, want een grote munt van 100 eurocent is equivalent aan vijf kleine muntjes van 20 eurocent. Het ruilen met geld noemen we indirecte ruil. Zo kan een visser zijn vangst verkopen voor geld. En met dat verworven geld kan hij bij de bouwmarkt hout aanschaffen voor zijn woning. Het is wel essentieel dat het geld alom geaccepteerd wordt. We zeggen daarom dat geld algemeen aanvaard moet zijn. Toch komt het ook in onze geavanceerde maatschappij nog wel voor dat iemand met goederen wordt betaald. Hij ontvangt dan zijn inkomen in natura.\n\nGeld kan ontvreemd worden of je kunt het kwijtraken. Het is dus slim om zo min mogelijk geld thuis te bewaren en het naar de bank te brengen. Het geld ligt daar tenminste veilig in een kluis. Je kunt je geld op een bankrekening storten of op een spaarrekening. Sparen betekent dat je een gedeelte van je inkomen reserveert voor de toekomst.\n\nEr zijn diverse redenen om te sparen. We noemen dit spaarmotieven. Als jij geld opzij legt voor een dvd-speler, spaar je voor een bepaald doel. Je kunt ook geld opzij leggen, voor het geval de wasmachine of de auto kapot gaat. Je spaart dan preventief. De laatste reden om geld te sparen is dat het inkomen genereert, namelijk de rente die de bank aan jou uitkeert.",
+    "Org - lint": "40",
+    "Org - sent": "29, 27, 39, 52, 45, 61, 27, 54, 43, 39, 51, 37, 29, 55, 62, 43, 53, 24, 46, 44, 34, 33, 27, 50",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Tegenwoordig draait bijna alles om geld in de wereld. Mensen helpen elkaar soms met tegenprestaties zonder geld te gebruiken. Ben je handig met een waterpas, dan help je de buurman met de afscheiding in zijn tuin plaatsen. De buurman kan op zijn beurt de tuinverlichting bij jou aansluiten, als hij bekwaam is in elektrische installaties. Economisch heet dit directe ruil. Bij directe ruil betaal je producten met andere producten. Geld heeft het voordeel dat je het kunt bewaren. Het is deelbaar. Een grote munt van 100 eurocent is gelijk aan vijf muntjes van 20 eurocent. Ruilen met geld is indirecte ruil. Een visser kan zijn vangst verkopen voor geld. Met dat geld koopt hij bij de bouwmarkt hout voor zijn woning. Geld moet overal geaccepteerd zijn. Daarom noemen we geld algemeen aanvaard. Toch gebeurt het soms nog dat mensen in de maatschappij met goederen worden betaald. Dan krijgt die persoon zijn inkomen in natura. Geld kan gestolen worden of kwijtraken. Het is slim om weinig geld thuis te bewaren en het naar de bank te brengen. Daar is het geld veilig in een kluis. Je kunt geld storten op een bank- of spaarrekening. Sparen is een deel van je inkomen bewaren voor later. Er zijn verschillende redenen om te sparen. Dit noemen we spaarmotieven. Leg je geld opzij voor een dvd-speler, dan spaar je voor een doel. Je spaart ook voor onverwachte kosten, zoals een kapotte wasmachine of auto. Dit heet preventief sparen. Een laatste reden om te sparen is dat je inkomen krijgt, door rente van de bank.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "35",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "34, 30, 31, 47, 45, 47, 24, 38, 46, 35, 40, 28, 36, 38, 39, 29, 47, 18, 33, 44, 31, 33, 48, 43",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Vrijwel alles in de wereld draait tegenwoordig om geld.",
+                "rewritten_sentences": "Tegenwoordig draait bijna alles om geld in de wereld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Verhoogde woordfrequentie door herformulering voor duidelijkere structuur.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Vrijwel alles in de wereld draait tegenwoordig om geld.",
+                        "new_text": "Tegenwoordig draait bijna alles om geld in de wereld.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar het komt ook nog wel eens voor dat mensen elkaar bijstaan met tegenprestaties, zonder dat daar geld aan te pas komt.",
+                "rewritten_sentences": "Mensen helpen elkaar soms met tegenprestaties zonder geld te gebruiken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door kortere, eenvoudigere zin maken.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Maar het komt ook nog wel eens voor dat mensen elkaar bijstaan met tegenprestaties, zonder dat daar geld aan te pas komt.",
+                        "new_text": "Mensen helpen elkaar soms met tegenprestaties zonder geld te gebruiken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als jij bijvoorbeeld vaardig bent met een waterpas, kan je de buurman assisteren bij het plaatsen van de afscheiding in zijn tuin.",
+                "rewritten_sentences": "Ben je handig met een waterpas, dan help je de buurman met de afscheiding in zijn tuin plaatsen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door vereenvoudigde constructie.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "Als jij bijvoorbeeld vaardig bent met een waterpas, kan je de buurman assisteren bij het plaatsen van de afscheiding in zijn tuin.",
+                        "new_text": "Ben je handig met een waterpas, dan help je de buurman met de afscheiding in zijn tuin plaatsen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En vice versa: als de buurman bekwaam is in het aanleggen van elektrische installaties, kan hij mooi bij jou de tuinverlichting aansluiten.",
+                "rewritten_sentences": "De buurman kan op zijn beurt de tuinverlichting bij jou aansluiten, als hij bekwaam is in elektrische installaties.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Verlaagd afhankelijkheidslengte door opsplitsing en herstructurering.",
+                        "start_word": 0,
+                        "end_word": 25,
+                        "original_text": "En vice versa: als de buurman bekwaam is in het aanleggen van elektrische installaties, kan hij mooi bij jou de tuinverlichting aansluiten.",
+                        "new_text": "De buurman kan op zijn beurt de tuinverlichting bij jou aansluiten, als hij bekwaam is in elektrische installaties.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de economie noemen we dat directe ruil.",
+                "rewritten_sentences": "Economisch heet dit directe ruil.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Verhoog woordfrequentie en concretere zelfstandige naamwoorden.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "In de economie noemen we dat directe ruil.",
+                        "new_text": "Economisch heet dit directe ruil.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij directe ruil wordt de aankoop van producten voldaan met andere producten.",
+                "rewritten_sentences": "Bij directe ruil betaal je producten met andere producten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Verlaagd afhankelijkheidslengte en vereenvoudigd voor betere leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Bij directe ruil wordt de aankoop van producten voldaan met andere producten.",
+                        "new_text": "Bij directe ruil betaal je producten met andere producten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Geld heeft als voordeel dat je het kunt bewaren.",
+                "rewritten_sentences": "Geld heeft het voordeel dat je het kunt bewaren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Verbetering woordfrequentie met kleine aanpassing voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Geld heeft als voordeel dat je het kunt bewaren.",
+                        "new_text": "Geld heeft het voordeel dat je het kunt bewaren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bovendien is het deelbaar, want een grote munt van 100 eurocent is equivalent aan vijf kleine muntjes van 20 eurocent.",
+                "rewritten_sentences": "Het is deelbaar. Een grote munt van 100 eurocent is gelijk aan vijf muntjes van 20 eurocent.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Verlaagd afhankelijkheidslengte door opsplitsing in twee zinnen.",
+                        "start_word": 0,
+                        "end_word": 23,
+                        "original_text": "Bovendien is het deelbaar, want een grote munt van 100 eurocent is equivalent aan vijf kleine muntjes van 20 eurocent.",
+                        "new_text": "Het is deelbaar. Een grote munt van 100 eurocent is gelijk aan vijf muntjes van 20 eurocent.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het ruilen met geld noemen we indirecte ruil.",
+                "rewritten_sentences": "Ruilen met geld is indirecte ruil.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Verhoog woordfrequentie en concretere formulering.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Het ruilen met geld noemen we indirecte ruil.",
+                        "new_text": "Ruilen met geld is indirecte ruil.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo kan een visser zijn vangst verkopen voor geld.",
+                "rewritten_sentences": "Een visser kan zijn vangst verkopen voor geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Verhoog woordfrequentie door directere formulering.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Zo kan een visser zijn vangst verkopen voor geld.",
+                        "new_text": "Een visser kan zijn vangst verkopen voor geld.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En met dat verworven geld kan hij bij de bouwmarkt hout aanschaffen voor zijn woning.",
+                "rewritten_sentences": "Met dat geld koopt hij bij de bouwmarkt hout voor zijn woning.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Verlaag afhankelijkheidslengte door kortere, directe zin.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "En met dat verworven geld kan hij bij de bouwmarkt hout aanschaffen voor zijn woning.",
+                        "new_text": "Met dat geld koopt hij bij de bouwmarkt hout voor zijn woning.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is wel essentieel dat het geld alom geaccepteerd wordt.",
+                "rewritten_sentences": "Geld moet overal geaccepteerd zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Kortere, concretere zin met hogere woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Het is wel essentieel dat het geld alom geaccepteerd wordt.",
+                        "new_text": "Geld moet overal geaccepteerd zijn.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We zeggen daarom dat geld algemeen aanvaard moet zijn.",
+                "rewritten_sentences": "Daarom noemen we geld algemeen aanvaard.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Kortere zin, concretere zelfstandige naamwoorden.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "We zeggen daarom dat geld algemeen aanvaard moet zijn.",
+                        "new_text": "Daarom noemen we geld algemeen aanvaard.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch komt het ook in onze geavanceerde maatschappij nog wel voor dat iemand met goederen wordt betaald.",
+                "rewritten_sentences": "Toch gebeurt het soms nog dat mensen in de maatschappij met goederen worden betaald.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Verlaagd afhankelijkheidslengte en concretere taal.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Toch komt het ook in onze geavanceerde maatschappij nog wel voor dat iemand met goederen wordt betaald.",
+                        "new_text": "Toch gebeurt het soms nog dat mensen in de maatschappij met goederen worden betaald.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij ontvangt dan zijn inkomen in natura.",
+                "rewritten_sentences": "Dan krijgt die persoon zijn inkomen in natura.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Verhoog woordfrequentie door directe formulering.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Hij ontvangt dan zijn inkomen in natura.",
+                        "new_text": "Dan krijgt die persoon zijn inkomen in natura.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Geld kan ontvreemd worden of je kunt het kwijtraken.",
+                "rewritten_sentences": "Geld kan gestolen worden of kwijtraken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Kortere, concretere zin met hogere woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Geld kan ontvreemd worden of je kunt het kwijtraken.",
+                        "new_text": "Geld kan gestolen worden of kwijtraken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is dus slim om zo min mogelijk geld thuis te bewaren en het naar de bank te brengen.",
+                "rewritten_sentences": "Het is slim om weinig geld thuis te bewaren en het naar de bank te brengen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Kortere zin door vereenvoudiging met behoud van betekenis.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Het is dus slim om zo min mogelijk geld thuis te bewaren en het naar de bank te brengen.",
+                        "new_text": "Het is slim om weinig geld thuis te bewaren en het naar de bank te brengen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het geld ligt daar tenminste veilig in een kluis.",
+                "rewritten_sentences": "Daar is het geld veilig in een kluis.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Kortere zin met concrete zelfstandige naamwoorden, betere leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Het geld ligt daar tenminste veilig in een kluis.",
+                        "new_text": "Daar is het geld veilig in een kluis.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je kunt je geld op een bankrekening storten of op een spaarrekening.",
+                "rewritten_sentences": "Je kunt geld storten op een bank- of spaarrekening.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Korter, concreter met behoud van betekenis.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Je kunt je geld op een bankrekening storten of op een spaarrekening.",
+                        "new_text": "Je kunt geld storten op een bank- of spaarrekening.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Sparen betekent dat je een gedeelte van je inkomen reserveert voor de toekomst.",
+                "rewritten_sentences": "Sparen is een deel van je inkomen bewaren voor later.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Kortere zin met verhoogde concreetheid van zelfstandige naamwoorden.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Sparen betekent dat je een gedeelte van je inkomen reserveert voor de toekomst.",
+                        "new_text": "Sparen is een deel van je inkomen bewaren voor later.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zijn diverse redenen om te sparen.",
+                "rewritten_sentences": "Er zijn verschillende redenen om te sparen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Kleinere aanpassing voor natuurlijker taalgebruik en woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Er zijn diverse redenen om te sparen.",
+                        "new_text": "Er zijn verschillende redenen om te sparen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We noemen dit spaarmotieven.",
+                "rewritten_sentences": "Dit noemen we spaarmotieven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Kortere, directe zin.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "We noemen dit spaarmotieven.",
+                        "new_text": "Dit noemen we spaarmotieven.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als jij geld opzij legt voor een dvd-speler, spaar je voor een bepaald doel.",
+                "rewritten_sentences": "Leg je geld opzij voor een dvd-speler, dan spaar je voor een doel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Kortere, actiever geformuleerde zin met beter begrip.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Als jij geld opzij legt voor een dvd-speler, spaar je voor een bepaald doel.",
+                        "new_text": "Leg je geld opzij voor een dvd-speler, dan spaar je voor een doel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je kunt ook geld opzij leggen, voor het geval de wasmachine of de auto kapot gaat.",
+                "rewritten_sentences": "Je spaart ook voor onverwachte kosten, zoals een kapotte wasmachine of auto.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Kortere zin met concretere zelfstandige naamwoorden en minder afhankelijkheid.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "Je kunt ook geld opzij leggen, voor het geval de wasmachine of de auto kapot gaat.",
+                        "new_text": "Je spaart ook voor onverwachte kosten, zoals een kapotte wasmachine of auto.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je spaart dan preventief.",
+                "rewritten_sentences": "Dit heet preventief sparen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Kortere en concretere formulering.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "Je spaart dan preventief.",
+                        "new_text": "Dit heet preventief sparen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De laatste reden om geld te sparen is dat het inkomen genereert, namelijk de rente die de bank aan jou uitkeert.",
+                "rewritten_sentences": "Een laatste reden om te sparen is dat je inkomen krijgt, door rente van de bank.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "Kortere zin met concreetere zelfstandige naamwoorden en eenvoudiger structuur.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "De laatste reden om geld te sparen is dat het inkomen genereert, namelijk de rente die de bank aan jou uitkeert.",
+                        "new_text": "Een laatste reden om te sparen is dat je inkomen krijgt, door rente van de bank.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Tegenwoordig draait bijna alles om geld in de wereld. Mensen helpen elkaar soms met tegenprestaties zonder geld te gebruiken. Ben je handig met een waterpas, dan help je de buurman met de afscheiding in zijn tuin plaatsen. De buurman kan op zijn beurt de tuinverlichting bij jou aansluiten, als hij bekwaam is in elektrische installaties. Economisch heet dit directe ruil. Bij directe ruil betaal je producten met andere producten. Geld heeft het voordeel dat je het kunt bewaren. Het is deelbaar. Een grote munt van 100 eurocent is gelijk aan vijf muntjes van 20 eurocent. Ruilen met geld is indirecte ruil. Een visser kan zijn vangst verkopen voor geld. Met dat geld koopt hij bij de bouwmarkt hout voor zijn woning. Geld moet overal geaccepteerd zijn. Daarom noemen we geld algemeen aanvaard. Toch gebeurt het soms nog dat mensen in de maatschappij met goederen worden betaald. Dan krijgt die persoon zijn inkomen in natura. Geld kan gestolen worden of kwijtraken. Het is slim om weinig geld thuis te bewaren en het naar de bank te brengen. Daar is het geld veilig in een kluis. Je kunt geld storten op een bank- of spaarrekening. Sparen is een deel van je inkomen bewaren voor later. Er zijn verschillende redenen om te sparen. Dit noemen we spaarmotieven. Leg je geld opzij voor een dvd-speler, dan spaar je voor een doel. Je spaart ook voor onverwachte kosten, zoals een kapotte wasmachine of auto. Dit heet preventief sparen. Een laatste reden om te sparen is dat je inkomen krijgt, door rente van de bank.",
+        "prompt_id": "T26_moei",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Geld\n\nVrijwel alles draait om geld. Soms ruilen mensen ook zonder geld. Jij kunt bijvoorbeeld met een waterpas helpen. Je helpt de buurman de afscheiding in de tuin plaatsen. De buurman kan terughelpen. Hij legt bij jou de tuinverlichting aan als hij weet hoe de bedrading moet.\n\nDit noemen we directe ruil in de economie. Bij directe ruil betaal je met goederen voor andere goederen.\n\nGeld kun je bewaren. Geld is deelbaar. Een munt van 100 eurocent is hetzelfde als vijf muntjes van 20 eurocent. Ruilen met geld heet indirecte ruil. Een visser verkoopt zijn vangst voor geld. Met dat geld koopt hij hout in de bouwmarkt voor zijn huis. Geld werkt alleen als mensen het accepteren. Dan zeggen we dat geld algemeen aanvaard is. Soms krijgt iemand nog steeds betaling in goederen. Dat heet inkomen in natura.\n\nGeld kan gestolen worden of zoekraken. Daarom is het slim weinig geld thuis te houden. Breng het naar de bank. Daar zit het veilig in een kluis. Zet je geld op een betaalrekening of op een spaarrekening. Sparen betekent een deel van je inkomen bewaren voor later.\n\nMensen sparen om verschillende redenen. Dat noemen we spaarmotieven. Je spaart soms voor een doel, bijvoorbeeld een dvd-speler. Je spaart ook voor onverwachte kosten, bijvoorbeeld een kapotte wasmachine of een kapotte auto. Dat is preventief sparen. Een andere reden is de rente. De bank geeft rente over spaargeld. Dat levert extra inkomen op.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "32",
+    "GPT 5.1 mini/gpt-5-mini - sent": "19, 15, 3, 37, 30, 25, 43, 47, 23, 38, 40, 41, 38, 29, 18, 29, 44, 45, 44, 28, 24, 11, 37, 43, 26, 41, 56, 29, 30, 36",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Geld\n\n Vrijwel alles in de wereld draait tegenwoordig om geld. Maar het komt ook nog wel eens voor dat mensen elkaar bijstaan met tegenprestaties, zonder dat daar geld aan te pas komt. Als jij bijvoorbeeld vaardig bent met een waterpas, kan je de buurman assisteren bij het plaatsen van de afscheiding in zijn tuin. En vice versa: als de buurman bekwaam is in het aanleggen van elektrische installaties, kan hij mooi bij jou de tuinverlichting aansluiten. In de economie noemen we dat directe ruil. Bij directe ruil wordt de aankoop van producten voldaan met andere producten.\n\nGeld heeft als voordeel dat je het kunt bewaren. Bovendien is het deelbaar, want een grote munt van 100 eurocent is equivalent aan vijf kleine muntjes van 20 eurocent. Het ruilen met geld noemen we indirecte ruil. Zo kan een visser zijn vangst verkopen voor geld. En met dat verworven geld kan hij bij de bouwmarkt hout aanschaffen voor zijn woning. Het is wel essentieel dat het geld alom geaccepteerd wordt. We zeggen daarom dat geld algemeen aanvaard moet zijn. Toch komt het ook in onze geavanceerde maatschappij nog wel voor dat iemand met goederen wordt betaald. Hij ontvangt dan zijn inkomen in natura.\n\nGeld kan ontvreemd worden of je kunt het kwijtraken. Het is dus slim om zo min mogelijk geld thuis te bewaren en het naar de bank te brengen. Het geld ligt daar tenminste veilig in een kluis. Je kunt je geld op een bankrekening storten of op een spaarrekening. Sparen betekent dat je een gedeelte van je inkomen reserveert voor de toekomst.\n\nEr zijn diverse redenen om te sparen. We noemen dit spaarmotieven. Als jij geld opzij legt voor een dvd-speler, spaar je voor een bepaald doel. Je kunt ook geld opzij leggen, voor het geval de wasmachine of de auto kapot gaat. Je spaart dan preventief. De laatste reden om geld te sparen is dat het inkomen genereert, namelijk de rente die de bank aan jou uitkeert.",
+                "rewritten_sentences": "Geld\n\nVrijwel alles draait om geld. Soms ruilen mensen ook zonder geld. Jij kunt bijvoorbeeld met een waterpas helpen. Je helpt de buurman de afscheiding in de tuin plaatsen. De buurman kan terughelpen. Hij legt bij jou de tuinverlichting aan als hij weet hoe de bedrading moet.\n\nDit noemen we directe ruil in de economie. Bij directe ruil betaal je met goederen voor andere goederen.\n\nGeld kun je bewaren. Geld is deelbaar. Een munt van 100 eurocent is hetzelfde als vijf muntjes van 20 eurocent. Ruilen met geld heet indirecte ruil. Een visser verkoopt zijn vangst voor geld. Met dat geld koopt hij hout in de bouwmarkt voor zijn huis. Geld werkt alleen als mensen het accepteren. Dan zeggen we dat geld algemeen aanvaard is. Soms krijgt iemand nog steeds betaling in goederen. Dat heet inkomen in natura.\n\nGeld kan gestolen worden of zoekraken. Daarom is het slim weinig geld thuis te houden. Breng het naar de bank. Daar zit het veilig in een kluis. Zet je geld op een betaalrekening of op een spaarrekening. Sparen betekent een deel van je inkomen bewaren voor later.\n\nMensen sparen om verschillende redenen. Dat noemen we spaarmotieven. Je spaart soms voor een doel, bijvoorbeeld een dvd-speler. Je spaart ook voor onverwachte kosten, bijvoorbeeld een kapotte wasmachine of een kapotte auto. Dat is preventief sparen. Een andere reden is de rente. De bank geeft rente over spaargeld. Dat levert extra inkomen op.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "De tekst is in kortere, eenvoudige zinnen opgesplitst om de syntactische afhankelijkheidslengte te verlagen. Daarnaast zijn woorden vervangen door gangbare, frequent gebruikte termen en meer concrete zelfstandige naamwoorden toegevoegd (munt, kluis, huis, hout, wasmachine). Hierdoor nemen korte zinnen en veelvoorkomende woorden toe en neemt de gemiddelde complexiteit per bijzin af, wat de leesbaarheidsscore verlaagt tot onder de gevraagde maximumscore.",
+                        "start_word": 1,
+                        "end_word": 328,
+                        "original_text": "Geld\n\n Vrijwel alles in de wereld draait tegenwoordig om geld. Maar het komt ook nog wel eens voor dat mensen elkaar bijstaan met tegenprestaties, zonder dat daar geld aan te pas komt. Als jij bijvoorbeeld vaardig bent met een waterpas, kan je de buurman assisteren bij het plaatsen van de afscheiding in zijn tuin. En vice versa: als de buurman bekwaam is in het aanleggen van elektrische installaties, kan hij mooi bij jou de tuinverlichting aansluiten. In de economie noemen we dat directe ruil. Bij directe ruil wordt de aankoop van producten voldaan met andere producten.\n\nGeld heeft als voordeel dat je het kunt bewaren. Bovendien is het deelbaar, want een grote munt van 100 eurocent is equivalent aan vijf kleine muntjes van 20 eurocent. Het ruilen met geld noemen we indirecte ruil. Zo kan een visser zijn vangst verkopen voor geld. En met dat verworven geld kan hij bij de bouwmarkt hout aanschaffen voor zijn woning. Het is wel essentieel dat het geld alom geaccepteerd wordt. We zeggen daarom dat geld algemeen aanvaard moet zijn. Toch komt het ook in onze geavanceerde maatschappij nog wel voor dat iemand met goederen wordt betaald. Hij ontvangt dan zijn inkomen in natura.\n\nGeld kan ontvreemd worden of je kunt het kwijtraken. Het is dus slim om zo min mogelijk geld thuis te bewaren en het naar de bank te brengen. Het geld ligt daar tenminste veilig in een kluis. Je kunt je geld op een bankrekening storten of op een spaarrekening. Sparen betekent dat je een gedeelte van je inkomen reserveert voor de toekomst.\n\nEr zijn diverse redenen om te sparen. We noemen dit spaarmotieven. Als jij geld opzij legt voor een dvd-speler, spaar je voor een bepaald doel. Je kunt ook geld opzij leggen, voor het geval de wasmachine of de auto kapot gaat. Je spaart dan preventief. De laatste reden om geld te sparen is dat het inkomen genereert, namelijk de rente die de bank aan jou uitkeert.",
+                        "new_text": "Geld\n\nVrijwel alles draait om geld. Soms ruilen mensen ook zonder geld. Jij kunt bijvoorbeeld met een waterpas helpen. Je helpt de buurman de afscheiding in de tuin plaatsen. The buurman kan terughelpen. Hij legt bij jou de tuinverlichting aan als hij weet hoe de bedrading moet.\n\nDit noemen we directe ruil in de economie. Bij directe ruil betaal je met goederen voor andere goederen.\n\nGeld kun je bewaren. Geld is deelbaar. Een munt van 100 eurocent is hetzelfde als vijf muntjes van 20 eurocent. Ruilen met geld heet indirecte ruil. Een visser verkoopt zijn vangst voor geld. Met dat geld koopt hij hout in de bouwmarkt voor zijn huis. Geld werkt alleen als mensen het accepteren. Dan zeggen we dat geld algemeen aanvaard is. Soms krijgt iemand nog steeds betaling in goederen. Dat heet inkomen in natura.\n\nGeld kan gestolen worden of zoekraken. Daarom is het slim weinig geld thuis te houden. Breng het naar de bank. Daar zit het veilig in een kluis. Zet je geld op een betaalrekening of op een spaarrekening. Sparen betekent een deel van je inkomen bewaren voor later.\n\nMensen sparen om verschillende redenen. Dat noemen we spaarmotieven. Je spaart soms voor een doel, bijvoorbeeld een dvd-speler. Je spaart ook voor onverwachte kosten, bijvoorbeeld een kapotte wasmachine of een kapotte auto. Dat is preventief sparen. Een andere reden is de rente. De bank geeft rente over spaargeld. Dat levert extra inkomen op.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Geld\n\nVrijwel alles draait om geld. Soms ruilen mensen ook zonder geld. Jij kunt bijvoorbeeld met een waterpas helpen. Je helpt de buurman de afscheiding in de tuin plaatsen. De buurman kan terughelpen. Hij legt bij jou de tuinverlichting aan als hij weet hoe de bedrading moet.\n\nDit noemen we directe ruil in de economie. Bij directe ruil betaal je met goederen voor andere goederen.\n\nGeld kun je bewaren. Geld is deelbaar. Een munt van 100 eurocent is hetzelfde als vijf muntjes van 20 eurocent. Ruilen met geld heet indirecte ruil. Een visser verkoopt zijn vangst voor geld. Met dat geld koopt hij hout in de bouwmarkt voor zijn huis. Geld werkt alleen als mensen het accepteren. Dan zeggen we dat geld algemeen aanvaard is. Soms krijgt iemand nog steeds betaling in goederen. Dat heet inkomen in natura.\n\nGeld kan gestolen worden of zoekraken. Daarom is het slim weinig geld thuis te houden. Breng het naar de bank. Daar zit het veilig in een kluis. Zet je geld op een betaalrekening of op een spaarrekening. Sparen betekent een deel van je inkomen bewaren voor later.\n\nMensen sparen om verschillende redenen. Dat noemen we spaarmotieven. Je spaart soms voor een doel, bijvoorbeeld een dvd-speler. Je spaart ook voor onverwachte kosten, bijvoorbeeld een kapotte wasmachine of een kapotte auto. Dat is preventief sparen. Een andere reden is de rente. De bank geeft rente over spaargeld. Dat levert extra inkomen op.",
+        "prompt_id": "T26_moei",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "",
+    "Gemini/gemini-3-flash-preview - lint": NaN,
+    "Gemini/gemini-3-flash-preview - sent": NaN,
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [],
+        "text_genre": "NA",
+        "full_text": "",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Vrijwel alles in de wereld draait tegenwoordig om geld. Geld is belangrijk in het dagelijks leven. Soms helpen mensen elkaar zonder geld. Bijvoorbeeld door iets te doen voor elkaar. Als je goed bent met een waterpas, kun je helpen om de scheiding in de tuin van de buurman te plaatsen. Als de buurman goed is met elektriciteit, kan hij de verlichting in jouw tuin aandoen. Dit noemen we ruilen. Bij ruilen krijg je iets anders terug. Je kunt geld opzijzetten. Geld kun je splitsen. Bijvoorbeeld: \u00e9\u00e9n grote munt is vijf kleine muntjes. Ruilen met geld noemen we geldruil. Een visser verkoopt zijn vis voor geld. Met dat geld koopt hij hout. Geld moet overal geaccepteerd worden. Geld moet overal gebruikt kunnen worden. Soms krijg je spullen in plaats van geld. Je krijgt dan spullen als loon. Geld kun je verliezen of stelen. Het is beter om niet veel geld thuis te houden. Breng het naar de bank. Bij de bank is geld veilig. Je kunt geld op een rekening zetten. Of op een spaarrekening. Sparen is geld opzijzetten voor later. Er zijn redenen om te sparen. We noemen dit redenen om te sparen. Als je geld opzijzet voor een dvd-speler, spaar je voor iets speciaals. Je kunt geld opzijzetten voor als de wasmachine of auto kapot is. Dit noemen we voorzorg sparen. Je kunt ook sparen om geld te verdienen. Bijvoorbeeld rente.",
+    "Mistral/ministral-14b-latest - lint": "27",
+    "Mistral/ministral-14b-latest - sent": "29, 27, 6, 24, 33, 41, 10, 44, 45, 27, 21, 28, 17, 22, 19, 24, 20, 24, 22, 28, 41, 26, 36, 47, 29, 31, 31",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Vrijwel alles in de wereld draait tegenwoordig om geld.",
+                "rewritten_sentences": "Vrijwel alles in de wereld draait tegenwoordig om geld. Geld is belangrijk in het dagelijks leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_1_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('geld' en 'dagelijks leven') om de verhouding van concrete zelfstandignaamwoorden te verhogen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Vrijwel alles in de wereld draait tegenwoordig om geld.",
+                        "new_text": "Vrijwel alles in de wereld draait tegenwoordig om geld. Geld is belangrijk in het dagelijks leven.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar het komt ook nog wel eens voor dat mensen elkaar bijstaan met tegenprestaties, zonder dat daar geld aan te pas komt.",
+                "rewritten_sentences": "Soms helpen mensen elkaar zonder geld. Bijvoorbeeld door iets te doen voor elkaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_2_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden per deelzin door eenvoudiger woorden en kortere zinnen te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Maar het komt ook nog wel eens voor dat mensen elkaar bijstaan met tegenprestaties, zonder dat daar geld aan te pas komt.",
+                        "new_text": "Soms helpen mensen elkaar zonder geld.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_2_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door een eenvoudiger uitleg te geven.",
+                        "start_word": 14,
+                        "end_word": 16,
+                        "original_text": "zonder dat daar geld aan te pas komt",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "sentence_2_3",
+                        "reason_for_change": "Voegde een eenvoudige uitleg toe om de betekenis duidelijker te maken.",
+                        "start_word": 17,
+                        "end_word": 17,
+                        "original_text": "",
+                        "new_text": "Bijvoorbeeld door iets te doen voor elkaar.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als jij vaardig bent met een waterpas, kan je de buurman assisteren bij het plaatsen van de afscheiding in zijn tuin.",
+                "rewritten_sentences": "Als je goed bent met een waterpas, kun je helpen om de scheiding in de tuin van de buurman te plaatsen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_3_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden per deelzin door eenvoudiger woorden te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Als jij vaardig bent met een waterpas, kan je de buurman assisteren bij het plaatsen van de afscheiding in zijn tuin.",
+                        "new_text": "Als je goed bent met een waterpas, kun je helpen om de scheiding in de tuin van de buurman te plaatsen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En vice versa: als de buurman bekwaam is in het aanleggen van elektrische installaties, kan hij mooi bij jou de tuinverlichting aansluiten.",
+                "rewritten_sentences": "Als de buurman goed is met elektriciteit, kan hij de verlichting in jouw tuin aandoen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_4_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden per deelzin door eenvoudiger woorden en kortere zinnen te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "En vice versa: als de buurman bekwaam is in het aanleggen van elektrische installaties, kan hij mooi bij jou de tuinverlichting aansluiten.",
+                        "new_text": "Als de buurman goed is met elektriciteit, kan hij de verlichting in jouw tuin aandoen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de economie noemen we dat directe ruil.",
+                "rewritten_sentences": "Dit noemen we ruilen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_5_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een eenvoudiger term te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "In de economie noemen we dat directe ruil.",
+                        "new_text": "Dit noemen we ruilen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij directe ruil wordt de aankoop van producten voldaan met andere producten.",
+                "rewritten_sentences": "Bij ruilen krijg je iets anders terug.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_6_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een eenvoudiger zin te vormen.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Bij directe ruil wordt de aankoop van producten voldaan met andere producten.",
+                        "new_text": "Bij ruilen krijg je iets anders terug.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Geld heeft als voordeel dat je het kunt bewaren.",
+                "rewritten_sentences": "Je kunt geld opzijzetten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_7_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een kortere zin te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Geld heeft als voordeel dat je het kunt bewaren.",
+                        "new_text": "Je kunt geld opzijzetten.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bovendien is het deelbaar, want een grote munt van 100 eurocent is equivalent aan vijf kleine muntjes van 20 eurocent.",
+                "rewritten_sentences": "Geld kun je splitsen. Bijvoorbeeld: \u00e9\u00e9n grote munt is vijf kleine muntjes.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_8_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden door een eenvoudiger voorbeeld te geven.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Bovendien is het deelbaar, want een grote munt van 100 eurocent is equivalent aan vijf kleine muntjes van 20 eurocent.",
+                        "new_text": "Geld kun je splitsen. Bijvoorbeeld: \u00e9\u00e9n grote munt is vijf kleine muntjes.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het ruilen met geld noemen we indirecte ruil.",
+                "rewritten_sentences": "Ruilen met geld noemen we geldruil.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_9_1",
+                        "reason_for_change": "Verlaagde woordfrequentie door een kortere en eenvoudigere term te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Het ruilen met geld noemen we indirecte ruil.",
+                        "new_text": "Ruilen met geld noemen we geldruil.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo kan een visser zijn vangst verkopen voor geld. En met dat verworven geld kan hij bij de bouwmarkt hout aanschaffen voor zijn woning.",
+                "rewritten_sentences": "Een visser verkoopt zijn vis voor geld. Met dat geld koopt hij hout.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_10_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden door de zin op te splitsen in twee kortere zinnen.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Zo kan een visser zijn vangst verkopen voor geld. En met dat verworven geld kan hij bij de bouwmarkt hout aanschaffen voor zijn woning.",
+                        "new_text": "Een visser verkoopt zijn vis voor geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_10_2",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden door de zin op te splitsen.",
+                        "start_word": 13,
+                        "end_word": 21,
+                        "original_text": "En met dat verworven geld kan hij bij de bouwmarkt hout aanschaffen voor zijn woning.",
+                        "new_text": "Met dat geld koopt hij hout.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is wel essentieel dat het geld alom geaccepteerd wordt.",
+                "rewritten_sentences": "Geld moet overal geaccepteerd worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_11_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een kortere zin te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Het is wel essentieel dat het geld alom geaccepteerd wordt.",
+                        "new_text": "Geld moet overal geaccepteerd worden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We zeggen daarom dat geld algemeen aanvaard moet zijn.",
+                "rewritten_sentences": "Geld moet overal gebruikt kunnen worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_12_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een eenvoudiger zin te vormen.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "We zeggen daarom dat geld algemeen aanvaard moet zijn.",
+                        "new_text": "Geld moet overal gebruikt kunnen worden.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch komt het ook in onze geavanceerde maatschappij nog wel voor dat iemand met goederen wordt betaald.",
+                "rewritten_sentences": "Soms krijg je spullen in plaats van geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_13_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een eenvoudige zin te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Toch komt het ook in onze geavanceerde maatschappij nog wel voor dat iemand met goederen wordt betaald.",
+                        "new_text": "Soms krijg je spullen in plaats van geld.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij ontvangt dan zijn inkomen in natura.",
+                "rewritten_sentences": "Je krijgt dan spullen als loon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_14_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een eenvoudiger zin te vormen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Hij ontvangt dan zijn inkomen in natura.",
+                        "new_text": "Je krijgt dan spullen als loon.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Geld kan ontvreemd worden of je kunt het kwijtraken.",
+                "rewritten_sentences": "Geld kun je verliezen of stelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_15_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door eenvoudiger woorden te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Geld kan ontvreemd worden of je kunt het kwijtraken.",
+                        "new_text": "Geld kun je verliezen of stelen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is dus slim om zo min mogelijk geld thuis te bewaren en het naar de bank te brengen.",
+                "rewritten_sentences": "Het is beter om niet veel geld thuis te houden. Breng het naar de bank.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_16_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden door de zin op te splitsen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Het is dus slim om zo min mogelijk geld thuis te bewaren en het naar de bank te brengen.",
+                        "new_text": "Het is beter om niet veel geld thuis te houden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_16_2",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door een eenvoudige instructie te geven.",
+                        "start_word": 12,
+                        "end_word": 14,
+                        "original_text": "en het naar de bank te brengen",
+                        "new_text": "Breng het naar de bank.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het geld ligt daar tenminste veilig in een kluis.",
+                "rewritten_sentences": "Bij de bank is geld veilig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_17_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een eenvoudige zin te vormen.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Het geld ligt daar tenminste veilig in een kluis.",
+                        "new_text": "Bij de bank is geld veilig.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je kunt je geld op een bankrekening storten of op een spaarrekening.",
+                "rewritten_sentences": "Je kunt geld op een rekening zetten. Of op een spaarrekening.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_18_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door eenvoudiger woorden te gebruiken en de zin op te splitsen.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Je kunt je geld op een bankrekening storten of op een spaarrekening.",
+                        "new_text": "Je kunt geld op een rekening zetten.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "sentence_18_2",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door een eenvoudige toevoeging.",
+                        "start_word": 13,
+                        "end_word": 16,
+                        "original_text": "",
+                        "new_text": "Of op een spaarrekening.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Sparen betekent dat je een gedeelte van je inkomen reserveert voor de toekomst.",
+                "rewritten_sentences": "Sparen is geld opzijzetten voor later.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_19_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een eenvoudige zin te vormen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Sparen betekent dat je een gedeelte van je inkomen reserveert voor de toekomst.",
+                        "new_text": "Sparen is geld opzijzetten voor later.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zijn diverse redenen om te sparen.",
+                "rewritten_sentences": "Er zijn redenen om te sparen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_20_1",
+                        "reason_for_change": "Verlaagde woordfrequentie door een kortere zin te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Er zijn diverse redenen om te sparen.",
+                        "new_text": "Er zijn redenen om te sparen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We noemen dit spaarmotieven.",
+                "rewritten_sentences": "We noemen dit redenen om te sparen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_21_1",
+                        "reason_for_change": "Verlaagde woordfrequentie door een eenvoudiger term te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "We noemen dit spaarmotieven.",
+                        "new_text": "We noemen dit redenen om te sparen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als jij geld opzij legt voor een dvd-speler, spaar je voor een bepaald doel.",
+                "rewritten_sentences": "Als je geld opzijzet voor een dvd-speler, spaar je voor iets speciaals.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_22_1",
+                        "reason_for_change": "Verlaagde woordfrequentie door eenvoudiger woorden te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Als jij geld opzij legt voor een dvd-speler, spaar je voor een bepaald doel.",
+                        "new_text": "Als je geld opzijzet voor een dvd-speler, spaar je voor iets speciaals.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je kunt ook geld opzij leggen, voor het geval de wasmachine of de auto kapot gaat.",
+                "rewritten_sentences": "Je kunt geld opzijzetten voor als de wasmachine of auto kapot is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_23_1",
+                        "reason_for_change": "Verlaagde woordfrequentie en inhoudswoorden door een eenvoudigere zin te vormen.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Je kunt ook geld opzij leggen, voor het geval de wasmachine of de auto kapot gaat.",
+                        "new_text": "Je kunt geld opzijzetten voor als de wasmachine of auto kapot is.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je spaart dan preventief.",
+                "rewritten_sentences": "Dit noemen we voorzorg sparen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_24_1",
+                        "reason_for_change": "Verlaagde woordfrequentie door een eenvoudiger uitleg te geven.",
+                        "start_word": 1,
+                        "end_word": 4,
+                        "original_text": "Je spaart dan preventief.",
+                        "new_text": "Dit noemen we voorzorg sparen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De laatste reden om geld te sparen is dat het inkomen genereert, namelijk de rente die de bank aan jou uitkeert.",
+                "rewritten_sentences": "Je kunt ook sparen om geld te verdienen. Bijvoorbeeld rente.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_25_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden door de zin op te splitsen in twee kortere zinnen.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "De laatste reden om geld te sparen is dat het inkomen genereert, namelijk de rente die de bank aan jou uitkeert.",
+                        "new_text": "Je kunt ook sparen om geld te verdienen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_25_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden door een eenvoudig voorbeeld te geven.",
+                        "start_word": 13,
+                        "end_word": 17,
+                        "original_text": "namelijk de rente die de bank aan jou uitkeert",
+                        "new_text": "Bijvoorbeeld rente.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Uitleg over geld en sparen",
+        "full_text": "Vrijwel alles in de wereld draait tegenwoordig om geld. Geld is belangrijk in het dagelijks leven. Soms helpen mensen elkaar zonder geld. Bijvoorbeeld door iets te doen voor elkaar. Als je goed bent met een waterpas, kun je helpen om de scheiding in de tuin van de buurman te plaatsen. Als de buurman goed is met elektriciteit, kan hij de verlichting in jouw tuin aandoen. Dit noemen we ruilen. Bij ruilen krijg je iets anders terug. Je kunt geld opzijzetten. Geld kun je splitsen. Bijvoorbeeld: \u00e9\u00e9n grote munt is vijf kleine muntjes. Ruilen met geld noemen we geldruil. Een visser verkoopt zijn vis voor geld. Met dat geld koopt hij hout. Geld moet overal geaccepteerd worden. Geld moet overal gebruikt kunnen worden. Soms krijg je spullen in plaats van geld. Je krijgt dan spullen als loon. Geld kun je verliezen of stelen. Het is beter om niet veel geld thuis te houden. Breng het naar de bank. Bij de bank is geld veilig. Je kunt geld op een rekening zetten. Of op een spaarrekening. Sparen is geld opzijzetten voor later. Er zijn redenen om te sparen. We noemen dit redenen om te sparen. Als je geld opzijzet voor een dvd-speler, spaar je voor iets speciaals. Je kunt geld opzijzetten voor als de wasmachine of auto kapot is. Dit noemen we voorzorg sparen. Je kunt ook sparen om geld te verdienen. Bijvoorbeeld rente.",
+        "prompt_id": "T26_moei",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-25 10:50:50.656082"
+}

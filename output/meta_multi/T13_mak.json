@@ -1,0 +1,1283 @@
+{
+    "prompt_id": "T13_mak",
+    "Org - text": "De eerste Kruistocht\n\nHet christendom is ontstaan in Palestina. Palestina hoorde lange tijd bij het Romeinse rijk. Daarna werd het veroverd door de Arabieren. En weer later door de Turken. Arabieren en Turken hadden een andere godsdienst, de islam. De aanhangers van de islam worden moslims genoemd.\n\nVoor de christenen was Palestina het Heilige Land. Maar Palestina, en vooral Jeruzalem, was niet alleen voor de christenen heilig. Ook voor joden en moslims. De moslims waren niet van plan het door hen veroverde Palestina af te staan. Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims. Met 'kruis' werd het christendom bedoeld.\n\nDe paus sprak het volk toe. Hij deed dat buiten de kerk. Want het grote aantal luisteraars paste niet in de kerk. 'Een goddeloos volk heeft het Heilige Land (Palestina) bezet. De christenen daar worden behandeld als slaven. Heilige plaatsen zijn in veestallen veranderd. Wat is dat een schande voor de stad waarin Christus leefde. Bewapent u lieve broeders. Verover de woonplaats van Christus terug. Wordt leenmannen van God. Dit is een gerechtvaardigde oorlog, een Kruistocht van God. Wie aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.'\n\nDe christelijke naastenliefde gold niet voor de moslimbevolking in Jeruzalem en Akko (Palestina). Een kruisridder vertelt over wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht: 'Vrijdagmorgen bestormden wij de stad. Wij achtervolgden de verdedigers tot aan de tempel van Salomon. Daar vond zo'n bloedbad plaats, dat wij tot onze enkels in het bloed liepen. Daarna stormden we af op een groot aantal mannen en vrouwen in de tempel. Ieder doodde of liet in leven wie hij wilde. Spoedig snelden de kruisridders door de stad en roofden goud, zilver, paarden en muilezels. Zij plunderden de huizen die vol rijkdommen waren. Daarna gingen de kruisridders, van vreugde huilend, naar het graf van Jezus Christus om hem te vereren en te danken'.",
+    "Org - lint": "35",
+    "Org - sent": "42, 25, 33, 35, 52, 38, 45, 49, 50, 47, 28, 23, 41, 38, 27, 30, 24, 0, 47, 46, 59, 46, 46, 36, 35, 24, 41, 37, 57",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Het christendom begon in Palestina. Palestina was lang onderdeel van het Romeinse rijk. Later veroverden de Arabieren het. En nog later door de Turken. Arabieren en Turken hadden een andere godsdienst: de islam. Aan hen noemen we moslims. Palestina was voor christenen het Heilige Land. Maar Palestina, vooral Jeruzalem, was ook heilig voor anderen. Voor joden en moslims gold dit ook. Moslims wilden Palestina niet teruggeven. Christenen in Europa wilden Palestina heroveren met een Kruistocht tegen moslims. Het 'kruis' stond voor het christendom. De paus sprak tot het volk. Hij sprak buiten de kerk. Veel luisteraars pasten niet in de kerk. 'Een goddeloos volk bezit het Heilige Land Palestina. Christenen daar zijn als slaven behandeld. Heilige plaatsen werden veestallen. Dat is een schande voor de stad van Christus. Bewapent u, broeders. Verover Christus\u2019 woonplaats terug. Word leenmannen van God. Dit is een rechtvaardige oorlog, een Kruistocht van God. Wie meevecht, krijgt vergeving en eeuwig leven.' Christelijke liefde gold niet voor moslims in Jeruzalem en Akko. Een kruisridder beschreef Jeruzalem op 15 juli 1099 tijdens de eerste Kruistocht: 'Vrijdagmorgen bestormden wij de stad. We achtervolgden de verdedigers tot de tempel van Salomon. Er was een bloedbad. We liepen tot onze enkels in bloed. Toen vielen we een groep mannen en vrouwen in de tempel aan. Iedereen doodde of spaarde wie hij wilde. Al snel renden kruisridders door de stad en roofden goud, zilver, paarden en muilezels. Ze plunderden huizen vol rijkdommen. Daarna gingen de kruisridders huilend van vreugde naar het graf van Jezus Christus om hem te eren en te danken.'",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "31",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "33, 29, 30, 22, 40, 25, 32, 26, 45, 41, 28, 29, 43, 37, 10, 27, 19, 0, 42, 47, 42, 52, 21, 45, 0, 27, 36, 33, 42, 68",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Het christendom is ontstaan in Palestina.",
+                "rewritten_sentences": "Het christendom begon in Palestina.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Het woord 'ontstaan' is vervangen door 'begon' om de woordfrequentie te verhogen, wat helpt de leesbaarheidsscore te verlagen.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "ontstaan",
+                        "new_text": "begon",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Palestina hoorde lange tijd bij het Romeinse rijk.",
+                "rewritten_sentences": "Palestina was lang onderdeel van het Romeinse rijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "De zin is herzien met meer frequente woorden en iets korter om afhankelijkheidslengte te verlagen.",
+                        "start_word": 2,
+                        "end_word": 4,
+                        "original_text": "hoorde lange tijd",
+                        "new_text": "was lang",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarna werd het veroverd door de Arabieren.",
+                "rewritten_sentences": "Later veroverden de Arabieren het.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Actieve vorm gebruikt en zinsstructuur vereenvoudigd om afhankelijkheidslengte te verlagen.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Daarna werd het veroverd door de Arabieren.",
+                        "new_text": "Later veroverden de Arabieren het.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En weer later door de Turken.",
+                "rewritten_sentences": "En nog later door de Turken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Kleine aanpassing om frequent gebruikte woorden zoals 'nog' toe te voegen en leesbaarheid te verhogen.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "weer",
+                        "new_text": "nog",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Arabieren en Turken hadden een andere godsdienst, de islam.",
+                "rewritten_sentences": "Arabieren en Turken hadden een andere godsdienst: de islam.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Inhoud behouden maar leestekens verbeterd om de zin duidelijker en korter te maken.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": ",",
+                        "new_text": ":",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De aanhangers van de islam worden moslims genoemd.",
+                "rewritten_sentences": "Aan hen noemen we moslims.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Zin korter gemaakt en concreter door minder functionele woorden te gebruiken en woordfrequentie te verhogen.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "De aanhangers van de islam worden moslims genoemd.",
+                        "new_text": "Aan hen noemen we moslims.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor de christenen was Palestina het Heilige Land.",
+                "rewritten_sentences": "Palestina was voor christenen het Heilige Land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Zinsvolgorde gewijzigd voor eenvoudiger leesbaarheid en betere woordfrequentie.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Voor de christenen was Palestina het Heilige Land.",
+                        "new_text": "Palestina was voor christenen het Heilige Land.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar Palestina, en vooral Jeruzalem, was niet alleen voor de christenen heilig.",
+                "rewritten_sentences": "Maar Palestina, vooral Jeruzalem, was ook heilig voor anderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Zin vereenvoudigd en minder inhoudswoorden per zin gebruikt.",
+                        "start_word": 5,
+                        "end_word": 10,
+                        "original_text": "was niet alleen voor de christenen heilig.",
+                        "new_text": "was ook heilig voor anderen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook voor joden en moslims.",
+                "rewritten_sentences": "Voor joden en moslims gold dit ook.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Zin herschreven naar een concretere structuur met meer frequent gebruikte woorden.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Ook voor joden en moslims.",
+                        "new_text": "Voor joden en moslims gold dit ook.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De moslims waren niet van plan het door hen veroverde Palestina af te staan.",
+                "rewritten_sentences": "Moslims wilden Palestina niet teruggeven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Zin korter gemaakt met concreetere zelfstandige naamwoorden en actievere formulering.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "De moslims waren niet van plan het door hen veroverde Palestina af te staan.",
+                        "new_text": "Moslims wilden Palestina niet teruggeven.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims.",
+                "rewritten_sentences": "Christenen in Europa wilden Palestina heroveren met een Kruistocht tegen moslims.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Kortere zin met concretere zelfstandige naamwoorden en minder complexiteit.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims.",
+                        "new_text": "Christenen in Europa wilden Palestina heroveren met een Kruistocht tegen moslims.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Met 'kruis' werd het christendom bedoeld.",
+                "rewritten_sentences": "Het 'kruis' stond voor het christendom.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Kortere en concretere formulering, wat de leesbaarheid bevordert.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Met 'kruis' werd het christendom bedoeld.",
+                        "new_text": "Het 'kruis' stond voor het christendom.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De paus sprak het volk toe.",
+                "rewritten_sentences": "De paus sprak tot het volk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Actievere en kortere zin met meer frequente woorden.",
+                        "start_word": 2,
+                        "end_word": 4,
+                        "original_text": "het volk toe.",
+                        "new_text": "tot het volk.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij deed dat buiten de kerk.",
+                "rewritten_sentences": "Hij sprak buiten de kerk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Kortere en concretere zin met hoogfrequente woorden voor betere leesbaarheid.",
+                        "start_word": 3,
+                        "end_word": 6,
+                        "original_text": "dat buiten de kerk.",
+                        "new_text": "buiten de kerk.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want het grote aantal luisteraars paste niet in de kerk.",
+                "rewritten_sentences": "Veel luisteraars pasten niet in de kerk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Zin korter en eenvoudiger gemaakt met hogere woordfrequentie en minder afhankelijkheidslengte.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "het grote aantal luisteraars paste niet in de kerk.",
+                        "new_text": "veel luisteraars pasten niet in de kerk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "'Een goddeloos volk heeft het Heilige Land (Palestina) bezet.",
+                "rewritten_sentences": "'Een goddeloos volk bezit het Heilige Land Palestina.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Parentheses verwijderd en zin vereenvoudigd, waardoor minder functionele woorden gebruikt worden.",
+                        "start_word": 6,
+                        "end_word": 9,
+                        "original_text": "(Palestina) bezet.",
+                        "new_text": "Palestina.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De christenen daar worden behandeld als slaven.",
+                "rewritten_sentences": "Christenen daar zijn als slaven behandeld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Zinsstructuur aangepast om leesbaarheid te verbeteren en woordfrequentie te verhogen.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "De christenen daar worden behandeld als slaven.",
+                        "new_text": "Christenen daar zijn als slaven behandeld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Heilige plaatsen zijn in veestallen veranderd.",
+                "rewritten_sentences": "Heilige plaatsen werden veestallen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Zin korter en concreter gemaakt, wat de leesbaarheid verhoogt.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Heilige plaatsen zijn in veestallen veranderd.",
+                        "new_text": "Heilige plaatsen werden veestallen.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wat is dat een schande voor de stad waarin Christus leefde.",
+                "rewritten_sentences": "Dat is een schande voor de stad van Christus.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Zin vereenvoudigd met minder inhoudswoorden, waardoor de leesbaarheid beter wordt.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Wat is dat een schande voor de stad waarin Christus leefde.",
+                        "new_text": "Dat is een schande voor de stad van Christus.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bewapent u lieve broeders.",
+                "rewritten_sentences": "Bewapent u, broeders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Verwijdering van 'lieve' om concreter en korter te zijn.",
+                        "start_word": 1,
+                        "end_word": 2,
+                        "original_text": "lieve broeders.",
+                        "new_text": "broeders.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Verover de woonplaats van Christus terug.",
+                "rewritten_sentences": "Verover Christus\u2019 woonplaats terug.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Kortere zin met meer concrete zelfstandige naamwoorden.",
+                        "start_word": 3,
+                        "end_word": 6,
+                        "original_text": "de woonplaats van Christus terug.",
+                        "new_text": "Christus\u2019 woonplaats terug.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wordt leenmannen van God.",
+                "rewritten_sentences": "Word leenmannen van God.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Verbetering van grammatica en korte stijl verhoogt leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 2,
+                        "original_text": "Wordt leenmannen van God.",
+                        "new_text": "Word leenmannen van God.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit is een gerechtvaardigde oorlog, een Kruistocht van God.",
+                "rewritten_sentences": "Dit is een rechtvaardige oorlog, een Kruistocht van God.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Woordfrequentie verhoogd door 'gerechtvaardigde' te vervangen door 'rechtvaardige'.",
+                        "start_word": 3,
+                        "end_word": 3,
+                        "original_text": "gerechtvaardigde",
+                        "new_text": "rechtvaardige",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.'",
+                "rewritten_sentences": "Wie meevecht, krijgt vergeving en eeuwig leven.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Zin veel korter gemaakt met eenvoudiger woorden om leesbaarheid te verbeteren en afhankelijkheidslengte te verlagen.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Wie aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.'",
+                        "new_text": "Wie meevecht, krijgt vergeving en eeuwig leven.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De christelijke naastenliefde gold niet voor de moslimbevolking in Jeruzalem en Akko (Palestina).",
+                "rewritten_sentences": "Christelijke liefde gold niet voor moslims in Jeruzalem en Akko.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Parentheses verwijderd en zin korter gemaakt met concreetere zelfstandige naamwoorden en minder inhoudswoorden.",
+                        "start_word": 7,
+                        "end_word": 9,
+                        "original_text": "(Palestina).",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een kruisridder vertelt over wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht:",
+                "rewritten_sentences": "Een kruisridder beschreef Jeruzalem op 15 juli 1099 tijdens de eerste Kruistocht:",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "Zin korter gemaakt om afhankelijkheidslengte te verlagen en woordfrequentie te verhogen.",
+                        "start_word": 5,
+                        "end_word": 15,
+                        "original_text": "wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht:",
+                        "new_text": "Jeruzalem op 15 juli 1099 tijdens de eerste Kruistocht:",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "'Vrijdagmorgen bestormden wij de stad.",
+                "rewritten_sentences": "'Vrijdagmorgen bestormden wij de stad.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Wij achtervolgden de verdedigers tot aan de tempel van Salomon.",
+                "rewritten_sentences": "We achtervolgden de verdedigers tot de tempel van Salomon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "27",
+                        "reason_for_change": "'Wij' vervangen door 'We' om woordfrequentie te verhogen en zin korter te maken.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Wij achtervolgden de verdedigers tot aan de tempel van Salomon.",
+                        "new_text": "We achtervolgden de verdedigers tot de tempel van Salomon.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar vond zo'n bloedbad plaats, dat wij tot onze enkels in het bloed liepen.",
+                "rewritten_sentences": "Er was een bloedbad. We liepen tot onze enkels in bloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "28",
+                        "reason_for_change": "De zin opgesplitst en vereenvoudigd voor kortere afhankelijkheidslengte en lagere contentwoorden per deelzin.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Daar vond zo'n bloedbad plaats, dat wij tot onze enkels in het bloed liepen.",
+                        "new_text": "Er was een bloedbad. We liepen tot onze enkels in bloed.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarna stormden we af op een groot aantal mannen en vrouwen in de tempel.",
+                "rewritten_sentences": "Toen vielen we een groep mannen en vrouwen in de tempel aan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "29",
+                        "reason_for_change": "Zin vereenvoudigd om minder afhankelijkheidslengte en hogere woordfrequentie te krijgen.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Daarna stormden we af op een groot aantal mannen en vrouwen in de tempel.",
+                        "new_text": "Toen vielen we een groep mannen en vrouwen in de tempel aan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ieder doodde of liet in leven wie hij wilde.",
+                "rewritten_sentences": "Iedereen doodde of spaarde wie hij wilde.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "30",
+                        "reason_for_change": "Woorden vervangen door meer frequent gebruikte om leesbaarheid te verhogen.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Ieder doodde of liet in leven wie hij wilde.",
+                        "new_text": "Iedereen doodde of spaarde wie hij wilde.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Spoedig snelden de kruisridders door de stad en roofden goud, zilver, paarden en muilezels.",
+                "rewritten_sentences": "Al snel renden kruisridders door de stad en roofden goud, zilver, paarden en muilezels.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "31",
+                        "reason_for_change": "Actievere en frequentere woorden gebruikt, afhankelijkheidslengte verlaagd.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Spoedig snelden de kruisridders door de stad en roofden goud, zilver, paarden en muilezels.",
+                        "new_text": "Al snel renden kruisridders door de stad en roofden goud, zilver, paarden en muilezels.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zij plunderden de huizen die vol rijkdommen waren.",
+                "rewritten_sentences": "Ze plunderden huizen vol rijkdommen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "32",
+                        "reason_for_change": "Zin korter en concreter gemaakt, leesbaarheid verbeterd.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Zij plunderden de huizen die vol rijkdommen waren.",
+                        "new_text": "Ze plunderden huizen vol rijkdommen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarna gingen de kruisridders, van vreugde huilend, naar het graf van Jezus Christus om hem te vereren en te danken'.",
+                "rewritten_sentences": "Daarna gingen de kruisridders huilend van vreugde naar het graf van Jezus Christus om hem te eren en te danken.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "33",
+                        "reason_for_change": "Zinsvolgorde aangepast voor duidelijkheid en hogere frequentie van woorden.",
+                        "start_word": 3,
+                        "end_word": 13,
+                        "original_text": ", van vreugde huilend, naar het graf van Jezus Christus om hem te vereren en te danken'.",
+                        "new_text": "huilend van vreugde naar het graf van Jezus Christus om hem te eren en te danken.'",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "historische tekst",
+        "full_text": "Het christendom begon in Palestina. Palestina was lang onderdeel van het Romeinse rijk. Later veroverden de Arabieren het. En nog later door de Turken. Arabieren en Turken hadden een andere godsdienst: de islam. Aan hen noemen we moslims. Palestina was voor christenen het Heilige Land. Maar Palestina, vooral Jeruzalem, was ook heilig voor anderen. Voor joden en moslims gold dit ook. Moslims wilden Palestina niet teruggeven. Christenen in Europa wilden Palestina heroveren met een Kruistocht tegen moslims. Het 'kruis' stond voor het christendom. De paus sprak tot het volk. Hij sprak buiten de kerk. Veel luisteraars pasten niet in de kerk. 'Een goddeloos volk bezit het Heilige Land Palestina. Christenen daar zijn als slaven behandeld. Heilige plaatsen werden veestallen. Dat is een schande voor de stad van Christus. Bewapent u, broeders. Verover Christus\u2019 woonplaats terug. Word leenmannen van God. Dit is een rechtvaardige oorlog, een Kruistocht van God. Wie meevecht, krijgt vergeving en eeuwig leven.' Christelijke liefde gold niet voor moslims in Jeruzalem en Akko. Een kruisridder beschreef Jeruzalem op 15 juli 1099 tijdens de eerste Kruistocht: 'Vrijdagmorgen bestormden wij de stad. We achtervolgden de verdedigers tot de tempel van Salomon. Er was een bloedbad. We liepen tot onze enkels in bloed. Toen vielen we een groep mannen en vrouwen in de tempel aan. Iedereen doodde of spaarde wie hij wilde. Al snel renden kruisridders door de stad en roofden goud, zilver, paarden en muilezels. Ze plunderden huizen vol rijkdommen. Daarna gingen de kruisridders huilend van vreugde naar het graf van Jezus Christus om hem te eren en te danken.'",
+        "prompt_id": "T13_mak",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "De eerste kruistocht. Het christendom begon in Palestina. Palestina hoorde lang bij het Romeinse rijk. Later veroverden de Arabieren het. Later veroverden de Turken het. Arabieren en Turken hadden een andere godsdienst. Die godsdienst heet islam. De aanhangers van de islam noemen we moslims. Voor christenen was Palestina het Heilige Land. Palestina was niet alleen voor christenen heilig. Jeruzalem was vooral belangrijk. Ook voor joden en voor moslims. De moslims wilden Palestina niet teruggeven. In Europa dachten sommige christenen: we moeten Palestina terugnemen. Zij wilden een kruistocht tegen de moslims. Met 'kruis' bedoelden zij het christendom. De paus sprak tot het volk. Hij sprak buiten de kerk. Er waren te veel mensen voor de kerk. 'Een goddeloos volk heeft het Heilige Land bezet.' 'De christenen daar worden als slaven behandeld.' 'Heilige plaatsen zijn in veestallen veranderd.' 'Dat is een schande voor de stad waar Christus leefde.' 'Bewapent u, broeders.' 'Verover de woonplaats van Christus terug.' 'Wordt leenmannen van God.' 'Dit is een gerechtvaardigde oorlog. Het is een kruistocht van God.' 'Wie meedoet aan de kruistocht, krijgt vergeving van zonden. Die krijgt het eeuwige leven.' De christelijke naastenliefde gold niet voor de moslims in Jeruzalem en Akko. Een kruisridder vertelt wat hij zag in Jeruzalem op 15 juli 1099. 'Vrijdagmorgen bestormden wij de stad.' 'Wij achtervolgden de verdedigers tot de tempel van Salomo.' 'Daar was een groot bloedbad. Wij liepen tot onze enkels in bloed.' 'Daarna vielen we een groot aantal mannen en vrouwen in de tempel aan.' 'Iedereen doodde of liet leven wie hij wilde.' 'De kruisridders snelden door de stad. Zij roofden goud, zilver, paarden en muilezels.' 'Zij plunderden huizen vol rijkdom.' 'Daarna gingen de kruisridders huilend naar het graf van Jezus. Zij eerden hem en ze dankten hem.'",
+    "GPT 5.1 mini/gpt-5-mini - lint": "29",
+    "GPT 5.1 mini/gpt-5-mini - sent": "33, 21, 30, 30, 22, 40, 52, 38, 36, 6, 26, 24, 33, 54, 28, 29, 10, 34, 30, 30, 19, 31, 0, 49, 35, 39, 24, 49, 14, 21, 45, 11, 27, 39, 33, 38, 39, 29",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "De eerste Kruistocht",
+                "rewritten_sentences": "De eerste kruistocht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s1c1",
+                        "reason_for_change": "Kleine wijziging in schrijfwijze; woordkeuze gelijk en kort gehouden om leesbaarheid te verlagen door eenvoud en korte vorm.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "De eerste Kruistocht",
+                        "new_text": "De eerste kruistocht.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het christendom is ontstaan in Palestina.",
+                "rewritten_sentences": "Het christendom begon in Palestina.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "Vervangen door een eenvoudiger, gangbaarder werkwoord ('begon') om woordfrequentie te verhogen en de zin korter te maken.",
+                        "start_word": 4,
+                        "end_word": 9,
+                        "original_text": "Het christendom is ontstaan in Palestina.",
+                        "new_text": "Het christendom begon in Palestina.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Palestina hoorde lange tijd bij het Romeinse rijk.",
+                "rewritten_sentences": "Palestina hoorde lang bij het Romeinse rijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3c1",
+                        "reason_for_change": "Verkorting van 'lange tijd' naar 'lang' om afhankelijkheidslengte te verkleinen en de zin toegankelijker te maken.",
+                        "start_word": 10,
+                        "end_word": 17,
+                        "original_text": "Palestina hoorde lange tijd bij het Romeinse rijk.",
+                        "new_text": "Palestina hoorde lang bij het Romeinse rijk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarna werd het veroverd door de Arabieren.",
+                "rewritten_sentences": "Later veroverden de Arabieren het.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "Omgezet naar actieve en kortere zinsbouw, zodat afhankelijkheden korter zijn en de woordfrequentie toeneemt.",
+                        "start_word": 18,
+                        "end_word": 24,
+                        "original_text": "Daarna werd het veroverd door de Arabieren.",
+                        "new_text": "Later veroverden de Arabieren het.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En weer later door de Turken.",
+                "rewritten_sentences": "Later veroverden de Turken het.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Actieve formulering en kortere zin om afhankelijkheidslengte te verlagen en woordfrequentie te verhogen.",
+                        "start_word": 25,
+                        "end_word": 30,
+                        "original_text": "En weer later door de Turken.",
+                        "new_text": "Later veroverden de Turken het.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Arabieren en Turken hadden een andere godsdienst, de islam.",
+                "rewritten_sentences": "Arabieren en Turken hadden een andere godsdienst. Die godsdienst heet islam.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "Gesplitst in twee korte zinnen om afhankelijkheidslengte te verlagen en de informatie in eenvoudige woorden te presenteren.",
+                        "start_word": 31,
+                        "end_word": 39,
+                        "original_text": "Arabieren en Turken hadden een andere godsdienst, de islam.",
+                        "new_text": "Arabieren en Turken hadden een andere godsdienst. Die godsdienst heet islam.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De aanhangers van de islam worden moslims genoemd.",
+                "rewritten_sentences": "De aanhangers van de islam noemen we moslims.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "Gebruik van een vaste, veelgebruikte formulering om woordfrequentie te verhogen en de zin vlotter te maken.",
+                        "start_word": 40,
+                        "end_word": 47,
+                        "original_text": "De aanhangers van de islam worden moslims genoemd.",
+                        "new_text": "De aanhangers van de islam noemen we moslims.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor de christenen was Palestina het Heilige Land.",
+                "rewritten_sentences": "Voor christenen was Palestina het Heilige Land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Kleinere aanpassing voor eenvoudigere en directere zinsbouw; woordfrequentie en duidelijkheid bleven hoog.",
+                        "start_word": 48,
+                        "end_word": 55,
+                        "original_text": "Voor de christenen was Palestina het Heilige Land.",
+                        "new_text": "Voor christenen was Palestina het Heilige Land.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar Palestina, en vooral Jeruzalem, was niet alleen voor de christenen heilig.",
+                "rewritten_sentences": "Palestina was niet alleen voor christenen heilig. Jeruzalem was vooral belangrijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "Gesplitst in twee korte zinnen om afhankelijkheidslengte te verlagen en de informatie eenvoudiger te structureren.",
+                        "start_word": 56,
+                        "end_word": 67,
+                        "original_text": "Maar Palestina, en vooral Jeruzalem, was niet alleen voor de christenen heilig.",
+                        "new_text": "Palestina was niet alleen voor christenen heilig. Jeruzalem was vooral belangrijk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook voor joden en moslims.",
+                "rewritten_sentences": "Ook voor joden en voor moslims.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "Zin iets uitgebreid en herhaald om duidelijke, veelvoorkomende woorden te gebruiken en het ritme simpel te houden.",
+                        "start_word": 68,
+                        "end_word": 72,
+                        "original_text": "Ook voor joden en moslims.",
+                        "new_text": "Ook voor joden en voor moslims.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De moslims waren niet van plan het door hen veroverde Palestina af te staan.",
+                "rewritten_sentences": "De moslims wilden Palestina niet teruggeven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "Kortere, actieve formulering om afhankelijkheidslengte te verminderen en de zin directer te maken.",
+                        "start_word": 73,
+                        "end_word": 86,
+                        "original_text": "De moslims waren niet van plan het door hen veroverde Palestina af te staan.",
+                        "new_text": "De moslims wilden Palestina niet teruggeven.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims.",
+                "rewritten_sentences": "In Europa dachten sommige christenen: we moeten Palestina terugnemen. Zij wilden een kruistocht tegen de moslims.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "Gesplitst en vereenvoudigd. Korte zinnen en veelgebruikte woorden verhogen woordfrequentie en verlagen afhankelijkheidslengte.",
+                        "start_word": 87,
+                        "end_word": 104,
+                        "original_text": "Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims.",
+                        "new_text": "In Europa dachten sommige christenen: we moeten Palestina terugnemen. Zij wilden een kruistocht tegen de moslims.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Met 'kruis' werd het christendom bedoeld.",
+                "rewritten_sentences": "Met 'kruis' bedoelden zij het christendom.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "Actieve formulering met gangbare woorden om woordfrequentie te verhogen en de zin kort te houden.",
+                        "start_word": 105,
+                        "end_word": 110,
+                        "original_text": "Met 'kruis' werd het christendom bedoeld.",
+                        "new_text": "Met 'kruis' bedoelden zij het christendom.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De paus sprak het volk toe.",
+                "rewritten_sentences": "De paus sprak tot het volk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Kleinere, directere formulering met veelgebruikte woorden om de leesbaarheid te verlagen.",
+                        "start_word": 111,
+                        "end_word": 116,
+                        "original_text": "De paus sprak het volk toe.",
+                        "new_text": "De paus sprak tot het volk.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij deed dat buiten de kerk.",
+                "rewritten_sentences": "Hij sprak buiten de kerk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Kort en direct geformuleerd om afhankelijkheidslengte te verlagen en het woordgebruik eenvoudig te houden.",
+                        "start_word": 117,
+                        "end_word": 122,
+                        "original_text": "Hij deed dat buiten de kerk.",
+                        "new_text": "Hij sprak buiten de kerk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want het grote aantal luisteraars paste niet in de kerk.",
+                "rewritten_sentences": "Er waren te veel mensen voor de kerk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Kortere zinsbouw en veelgebruikte woorden verlagen afhankelijkheidslengte en verhogen woordfrequentie.",
+                        "start_word": 123,
+                        "end_word": 132,
+                        "original_text": "Want het grote aantal luisteraars paste niet in de kerk.",
+                        "new_text": "Er waren te veel mensen voor de kerk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "'Een goddeloos volk heeft het Heilige Land (Palestina) bezet.",
+                "rewritten_sentences": "'Een goddeloos volk heeft het Heilige Land bezet.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "Korte, directe citaatzin zonder extra haakjes om afhankelijkheidslengte te verlagen en de zin eenvoudiger te maken.",
+                        "start_word": 133,
+                        "end_word": 141,
+                        "original_text": "'Een goddeloos volk heeft het Heilige Land (Palestina) bezet.",
+                        "new_text": "'Een goddeloos volk heeft het Heilige Land bezet.'",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De christenen daar worden behandeld als slaven.",
+                "rewritten_sentences": "'De christenen daar worden als slaven behandeld.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "Herordening naar meer gebruikelijke woordvolgorde en korte opbouw om afhankelijkheidslengte te verlagen.",
+                        "start_word": 142,
+                        "end_word": 148,
+                        "original_text": "De christenen daar worden behandeld als slaven.",
+                        "new_text": "'De christenen daar worden als slaven behandeld.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Heilige plaatsen zijn in veestallen veranderd.",
+                "rewritten_sentences": "'Heilige plaatsen zijn in veestallen veranderd.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "Korte, concrete bewoordingen gebruikt om de verhouding concrete zelfstandige naamwoorden te vergroten en de zin simpel te houden.",
+                        "start_word": 149,
+                        "end_word": 154,
+                        "original_text": "Heilige plaatsen zijn in veestallen veranderd.",
+                        "new_text": "'Heilige plaatsen zijn in veestallen veranderd.'",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wat is dat een schande voor de stad waarin Christus leefde.",
+                "rewritten_sentences": "'Dat is een schande voor de stad waar Christus leefde.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20c1",
+                        "reason_for_change": "Zin vereenvoudigd en korter gemaakt; betrekkelijke bijzin eenvoudiger geformuleerd om afhankelijkheidslengte te verkorten.",
+                        "start_word": 155,
+                        "end_word": 165,
+                        "original_text": "Wat is dat een schande voor de stad waarin Christus leefde.",
+                        "new_text": "'Dat is een schande voor de stad waar Christus leefde.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bewapent u lieve broeders.",
+                "rewritten_sentences": "'Bewapent u, broeders.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21c1",
+                        "reason_for_change": "Verkort en minder bloemrijk geformuleerd; eenvoud en directe aanspreking verkleinen afhankelijkheidslengte.",
+                        "start_word": 166,
+                        "end_word": 169,
+                        "original_text": "Bewapent u lieve broeders.",
+                        "new_text": "'Bewapent u, broeders.'",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Verover de woonplaats van Christus terug.",
+                "rewritten_sentences": "'Verover de woonplaats van Christus terug.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s22c1",
+                        "reason_for_change": "Behouden van concrete termen en korte bevelszin om de verhouding concrete zelfstandige naamwoorden hoog te houden.",
+                        "start_word": 170,
+                        "end_word": 175,
+                        "original_text": "Verover de woonplaats van Christus terug.",
+                        "new_text": "'Verover de woonplaats van Christus terug.'",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wordt leenmannen van God.",
+                "rewritten_sentences": "'Wordt leenmannen van God.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23c1",
+                        "reason_for_change": "Korte imperatiefzin behouden; eenvoud in formulering verlaagt afhankelijkheidslengte.",
+                        "start_word": 176,
+                        "end_word": 179,
+                        "original_text": "Wordt leenmannen van God.",
+                        "new_text": "'Wordt leenmannen van God.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit is een gerechtvaardigde oorlog, een Kruistocht van God.",
+                "rewritten_sentences": "'Dit is een gerechtvaardigde oorlog. Het is een kruistocht van God.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s24c1",
+                        "reason_for_change": "Gesplitst in twee korte zinnen om afhankelijkheidslengte te verlagen en de boodschap eenvoudiger te maken.",
+                        "start_word": 180,
+                        "end_word": 188,
+                        "original_text": "Dit is een gerechtvaardigde oorlog, een Kruistocht van God.",
+                        "new_text": "'Dit is een gerechtvaardigde oorlog. Het is een kruistocht van God.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.'",
+                "rewritten_sentences": "'Wie meedoet aan de kruistocht, krijgt vergeving van zonden. Die krijgt het eeuwige leven.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s25c1",
+                        "reason_for_change": "Lang samengestelde bijzin gesplitst in twee eenvoudige zinnen; dit verlaagt afhankelijkheidslengte en verlaagt het aantal inhoudswoorden per deelzin.",
+                        "start_word": 189,
+                        "end_word": 205,
+                        "original_text": "Wie aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.'",
+                        "new_text": "'Wie meedoet aan de kruistocht, krijgt vergeving van zonden. Die krijgt het eeuwige leven.'",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De christelijke naastenliefde gold niet voor de moslimbevolking in Jeruzalem en Akko (Palestina).",
+                "rewritten_sentences": "De christelijke naastenliefde gold niet voor de moslims in Jeruzalem en Akko.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s26c1",
+                        "reason_for_change": "Zin vereenvoudigd en haakjes verwijderd; kortere en gangbare woorden verhogen woordfrequentie en leesbaarheid verlaagt.",
+                        "start_word": 206,
+                        "end_word": 218,
+                        "original_text": "De christelijke naastenliefde gold niet voor de moslimbevolking in Jeruzalem en Akko (Palestina).",
+                        "new_text": "De christelijke naastenliefde gold niet voor de moslims in Jeruzalem en Akko.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een kruisridder vertelt over wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht: 'Vrijdagmorgen bestormden wij de stad.",
+                "rewritten_sentences": "Een kruisridder vertelt wat hij zag in Jeruzalem op 15 juli 1099. 'Vrijdagmorgen bestormden wij de stad.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s27c1",
+                        "reason_for_change": "Gesplitst en eenvoudiger geformuleerd; datum en locatie kort genoemd en de quote apart gezet om afhankelijkheidslengte te verlagen.",
+                        "start_word": 219,
+                        "end_word": 240,
+                        "original_text": "Een kruisridder vertelt over wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht: 'Vrijdagmorgen bestormden wij de stad.",
+                        "new_text": "Een kruisridder vertelt wat hij zag in Jeruzalem op 15 juli 1099. 'Vrijdagmorgen bestormden wij de stad.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wij achtervolgden de verdedigers tot aan de tempel van Salomon.",
+                "rewritten_sentences": "'Wij achtervolgden de verdedigers tot de tempel van Salomo.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s28c1",
+                        "reason_for_change": "Korte citaatzin met eenvoudige woordkeuze en directe structuur om afhankelijkheidslengte te verlagen.",
+                        "start_word": 241,
+                        "end_word": 250,
+                        "original_text": "Wij achtervolgden de verdedigers tot aan de tempel van Salomon.",
+                        "new_text": "'Wij achtervolgden de verdedigers tot de tempel van Salomo.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar vond zo'n bloedbad plaats, dat wij tot onze enkels in het bloed liepen.",
+                "rewritten_sentences": "'Daar was een groot bloedbad. Wij liepen tot onze enkels in bloed.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s29c1",
+                        "reason_for_change": "Gesplitst in twee korte zinnen; concretisering en korte opbouw verlagen afhankelijkheidslengte en verhogen concrete zelfstandige naamwoorden.",
+                        "start_word": 251,
+                        "end_word": 264,
+                        "original_text": "Daar vond zo'n bloedbad plaats, dat wij tot onze enkels in het bloed liepen.",
+                        "new_text": "'Daar was een groot bloedbad. Wij liepen tot onze enkels in bloed.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarna stormden we af op een groot aantal mannen en vrouwen in de tempel.",
+                "rewritten_sentences": "'Daarna vielen we een groot aantal mannen en vrouwen in de tempel aan.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s30c1",
+                        "reason_for_change": "Actievere en kortere formulering om afhankelijkheidslengte te verlagen en de zin directer te maken.",
+                        "start_word": 265,
+                        "end_word": 278,
+                        "original_text": "Daarna stormden we af op een groot aantal mannen en vrouwen in de tempel.",
+                        "new_text": "'Daarna vielen we een groot aantal mannen en vrouwen in de tempel aan.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ieder doodde of liet in leven wie hij wilde.",
+                "rewritten_sentences": "'Iedereen doodde of liet leven wie hij wilde.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s31c1",
+                        "reason_for_change": "Korte en veelgebruikte woorden; zinsstructuur eenvoudig gehouden om afhankelijkheidslengte te verlagen.",
+                        "start_word": 279,
+                        "end_word": 287,
+                        "original_text": "Ieder doodde of liet in leven wie hij wilde.",
+                        "new_text": "'Iedereen doodde of liet leven wie hij wilde.'",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Spoedig snelden de kruisridders door de stad en roofden goud, zilver, paarden en muilezels.",
+                "rewritten_sentences": "'De kruisridders snelden door de stad. Zij roofden goud, zilver, paarden en muilezels.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s32c1",
+                        "reason_for_change": "Gesplitst in twee korte zinnen en concrete zelfstandige naamwoorden benadrukt om zowel afhankelijkheidslengte te verlagen als de verhouding concrete zelfstandige naamwoorden te verhogen.",
+                        "start_word": 288,
+                        "end_word": 301,
+                        "original_text": "Spoedig snelden de kruisridders door de stad en roofden goud, zilver, paarden en muilezels.",
+                        "new_text": "'De kruisridders snelden door de stad. Zij roofden goud, zilver, paarden en muilezels.'",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zij plunderden de huizen die vol rijkdommen waren.",
+                "rewritten_sentences": "'Zij plunderden huizen vol rijkdom.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s33c1",
+                        "reason_for_change": "Ingekort en concreet gemaakt: minder inhoudswoorden per deelzin en duidelijkere beeldspraak.",
+                        "start_word": 302,
+                        "end_word": 309,
+                        "original_text": "Zij plunderden de huizen die vol rijkdommen waren.",
+                        "new_text": "'Zij plunderden huizen vol rijkdom.'",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarna gingen de kruisridders, van vreugde huilend, naar het graf van Jezus Christus om hem te vereren en te danken'.",
+                "rewritten_sentences": "'Daarna gingen de kruisridders huilend naar het graf van Jezus. Zij eerden hem en ze dankten hem.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s34c1",
+                        "reason_for_change": "Gesplitst en concreter gemaakt (Jezus als concreet zelfstandig naamwoord genoemd). Kortere zinnen verlagen afhankelijkheidslengte en verhogen concrete naamwoordverhouding.",
+                        "start_word": 310,
+                        "end_word": 329,
+                        "original_text": "Daarna gingen de kruisridders, van vreugde huilend, naar het graf van Jezus Christus om hem te vereren en te danken'.",
+                        "new_text": "'Daarna gingen de kruisridders huilend naar het graf van Jezus. Zij eerden hem en ze dankten hem.'",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "historische-educatieve tekst",
+        "full_text": "De eerste kruistocht. Het christendom begon in Palestina. Palestina hoorde lang bij het Romeinse rijk. Later veroverden de Arabieren het. Later veroverden de Turken het. Arabieren en Turken hadden een andere godsdienst. Die godsdienst heet islam. De aanhangers van de islam noemen we moslims. Voor christenen was Palestina het Heilige Land. Palestina was niet alleen voor christenen heilig. Jeruzalem was vooral belangrijk. Ook voor joden en voor moslims. De moslims wilden Palestina niet teruggeven. In Europa dachten sommige christenen: we moeten Palestina terugnemen. Zij wilden een kruistocht tegen de moslims. Met 'kruis' bedoelden zij het christendom. De paus sprak tot het volk. Hij sprak buiten de kerk. Er waren te veel mensen voor de kerk. 'Een goddeloos volk heeft het Heilige Land bezet.' 'De christenen daar worden als slaven behandeld.' 'Heilige plaatsen zijn in veestallen veranderd.' 'Dat is een schande voor de stad waar Christus leefde.' 'Bewapent u, broeders.' 'Verover de woonplaats van Christus terug.' 'Wordt leenmannen van God.' 'Dit is een gerechtvaardigde oorlog. Het is een kruistocht van God.' 'Wie meedoet aan de kruistocht, krijgt vergeving van zonden. Die krijgt het eeuwige leven.' De christelijke naastenliefde gold niet voor de moslims in Jeruzalem en Akko. Een kruisridder vertelt wat hij zag in Jeruzalem op 15 juli 1099. 'Vrijdagmorgen bestormden wij de stad.' 'Wij achtervolgden de verdedigers tot de tempel van Salomo.' 'Daar was een groot bloedbad. Wij liepen tot onze enkels in bloed.' 'Daarna vielen we een groot aantal mannen en vrouwen in de tempel aan.' 'Iedereen doodde of liet leven wie hij wilde.' 'De kruisridders snelden door de stad. Zij roofden goud, zilver, paarden en muilezels.' 'Zij plunderden huizen vol rijkdom.' 'Daarna gingen de kruisridders huilend naar het graf van Jezus. Zij eerden hem en ze dankten hem.'",
+        "prompt_id": "T13_mak",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "",
+    "Gemini/gemini-3-flash-preview - lint": NaN,
+    "Gemini/gemini-3-flash-preview - sent": NaN,
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [],
+        "text_genre": "NA",
+        "full_text": "",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "De eerste Kruistocht De eerste Kruistocht begon in een gebied waar veel geschiedenis speelde. Palestina was eerst deel van het Romeinse Rijk. Later veroverden Arabieren dit gebied. Daarna kwamen de Turken. Zij volgden een andere godsdienst: de islam. Mensen die de islam volgden, heetten moslims. Voor christenen was Palestina heel belangrijk. Dit gebied, vooral Jeruzalem, was heilig voor hen. Ook voor joden en moslims was het heilig. De moslims wilden Palestina niet afstaan. In Europa ontstond een plan. Christenen wilden Palestina terugnemen. Dit noemden ze een Kruistocht. Het woord 'kruis' stond voor het christendom. De paus sprak buiten de kerk tot het volk. De kerk was te klein. Hij zei: 'Een vijandig volk heeft Palestina bezet. Christenen daar leven als slaven. Heilige plekken zijn veranderd in stallen. Dit is een schande voor de stad waar Christus woonde. Pak uw wapens, broeders. Bevrijd de stad van Christus. Wordt soldaten van God. Dit is een oorlog die God goedkeurt. Wie meedoet, krijgt vergeving en gaat naar de hemel.' De christenen toonden geen mededogen aan moslims in Jeruzalem en Akko. Een ridder vertelde over de eerste Kruistocht in 1099. Hij zei: 'Op een vrijdagmorgen veroverden we de stad. We volgden de verdedigers tot de tempel. Daar was er veel bloed. We liepen erin tot aan onze enkels. Daarna vielen we aan op mensen in de tempel. Iedereen mocht kiezen: doden of sparen. We namen goud, zilver, paarden en ezels mee. We plunderden huizen die vol geld zaten. Daarna gingen we naar het graf van Jezus. We waren blij en bedankten God.'",
+    "Mistral/ministral-14b-latest - lint": "27",
+    "Mistral/ministral-14b-latest - sent": "32, 16, 36, 8, 39, 37, 16, 32, 31, 26, 30, 24, 42, 40, 36, 27, 35, 16, 35, 17, 21, 14, 13, 30, 22, 51, 29, 20, 38, 0, 33, 18, 37, 29, 18",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "De eerste Kruistocht",
+                "rewritten_sentences": "De eerste Kruistocht",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het christendom is ontstaan in Palestina. Palestina hoorde lange tijd bij het Romeinse rijk. Daarna werd het veroverd door de Arabieren. En weer later door de Turken. Arabieren en Turken hadden een andere godsdienst, de islam. De aanhangers van de islam worden moslims genoemd.",
+                "rewritten_sentences": "De eerste Kruistocht begon in een gebied waar veel geschiedenis speelde. Palestina was eerst deel van het Romeinse Rijk. Later veroverden Arabieren dit gebied. Daarna kwamen de Turken. Zij volgden een andere godsdienst: de islam. Mensen die de islam volgden, heetten moslims.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_split_1",
+                        "reason_for_change": "Verlaagde de complexiteit van de zinnen en verhoogde de concrete zelfstandignaamwoorden door specifieke acties en locaties te benoemen.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Het christendom is ontstaan in Palestina. Palestina hoorde lange tijd bij het Romeinse rijk. Daarna werd het veroverd door de Arabieren. En weer later door de Turken. Arabieren en Turken hadden een andere godsdienst, de islam. De aanhangers van de islam worden moslims genoemd.",
+                        "new_text": "De eerste Kruistocht begon in een gebied waar veel geschiedenis speelde. Palestina was eerst deel van het Romeinse Rijk.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "sentence_split_2",
+                        "reason_for_change": "Verlaagde de afhankelijkheidslengte door de zinnen korter en eenvoudiger te maken.",
+                        "start_word": 15,
+                        "end_word": 23,
+                        "original_text": "Daarna werd het veroverd door de Arabieren. En weer later door de Turken.",
+                        "new_text": "Later veroverden Arabieren dit gebied. Daarna kwamen de Turken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_split_3",
+                        "reason_for_change": "Verduidelijkde de betekenis en verlaagde de inhoudswoorden per deelzin door eenvoudiger taalgebruik.",
+                        "start_word": 24,
+                        "end_word": 39,
+                        "original_text": "Arabieren en Turken hadden een andere godsdienst, de islam. De aanhangers van de islam worden moslims genoemd.",
+                        "new_text": "Zij volgden een andere godsdienst: de islam. Mensen die de islam volgden, heetten moslims.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor de christenen was Palestina het Heilige Land. Maar Palestina, en vooral Jeruzalem, was niet alleen voor de christenen heilig. Ook voor joden en moslims.",
+                "rewritten_sentences": "Voor christenen was Palestina heel belangrijk. Dit gebied, vooral Jeruzalem, was heilig voor hen. Ook voor joden en moslims was het heilig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_1",
+                        "reason_for_change": "Verlaagde de inhoudswoorden per deelzin en verhoogde de concrete zelfstandignaamwoorden door specifieker te zijn over de groepen.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Voor de christenen was Palestina het Heilige Land.",
+                        "new_text": "Voor christenen was Palestina heel belangrijk.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_2",
+                        "reason_for_change": "Verlaagde de afhankelijkheidslengte door de zinnen korter en eenvoudiger te maken.",
+                        "start_word": 14,
+                        "end_word": 29,
+                        "original_text": "Maar Palestina, en vooral Jeruzalem, was niet alleen voor de christenen heilig.",
+                        "new_text": "Dit gebied, vooral Jeruzalem, was heilig voor hen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "add_clarity_3",
+                        "reason_for_change": "Verhoogde de woordfrequentie door eenvoudiger en herhaalbare taal te gebruiken.",
+                        "start_word": 30,
+                        "end_word": 38,
+                        "original_text": "Ook voor joden en moslims.",
+                        "new_text": "Ook voor joden en moslims was het heilig.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De moslims waren niet van plan het door hen veroverde Palestina af te staan. Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims. Met 'kruis' werd het christendom bedoeld.",
+                "rewritten_sentences": "De moslims wilden Palestina niet afstaan. In Europa ontstond een plan. Christenen wilden Palestina terugnemen. Dit noemden ze een Kruistocht. Het woord 'kruis' stond voor het christendom.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_4",
+                        "reason_for_change": "Verlaagde de afhankelijkheidslengte en inhoudswoorden per deelzin door de zinnen korter en eenvoudiger te maken.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "De moslims waren niet van plan het door hen veroverde Palestina af te staan.",
+                        "new_text": "De moslims wilden Palestina niet afstaan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "split_complex_5",
+                        "reason_for_change": "Verlaagde de complexiteit door de zinnen op te splitsen in eenvoudigere delen.",
+                        "start_word": 11,
+                        "end_word": 24,
+                        "original_text": "Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims.",
+                        "new_text": "In Europa ontstond een plan. Christenen wilden Palestina terugnemen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "clarify_6",
+                        "reason_for_change": "Verhoogde de concrete zelfstandignaamwoorden en verduidelijkde de betekenis.",
+                        "start_word": 25,
+                        "end_word": 35,
+                        "original_text": "Met 'kruis' werd het christendom bedoeld.",
+                        "new_text": "Dit noemden ze een Kruistocht. Het woord 'kruis' stond voor het christendom.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De paus sprak het volk toe. Hij deed dat buiten de kerk. Want het grote aantal luisteraars paste niet in de kerk. 'Een goddeloos volk heeft het Heilige Land (Palestina) bezet. De christenen daar worden behandeld als slaven. Heilige plaatsen zijn in veestallen veranderd. Wat is dat een schande voor de stad waarin Christus leefde. Bewapent u lieve broeders. Verover de woonplaats van Christus terug. Wordt leenmannen van God. Dit is een gerechtvaardigde oorlog, een Kruistocht van God. Wie aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.'",
+                "rewritten_sentences": "De paus sprak buiten de kerk tot het volk. De kerk was te klein. Hij zei: 'Een vijandig volk heeft Palestina bezet. Christenen daar leven als slaven. Heilige plekken zijn veranderd in stallen. Dit is een schande voor de stad waar Christus woonde. Pak uw wapens, broeders. Bevrijd de stad van Christus. Wordt soldaten van God. Dit is een oorlog die God goedkeurt. Wie meedoet, krijgt vergeving en gaat naar de hemel.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_7",
+                        "reason_for_change": "Verlaagde de afhankelijkheidslengte en inhoudswoorden per deelzin door de zinnen korter en eenvoudiger te maken.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "De paus sprak het volk toe. Hij deed dat buiten de kerk.",
+                        "new_text": "De paus sprak buiten de kerk tot het volk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "reason_8",
+                        "reason_for_change": "Verhoogde de woordfrequentie door eenvoudiger taal te gebruiken.",
+                        "start_word": 11,
+                        "end_word": 17,
+                        "original_text": "Want het grote aantal luisteraars paste niet in de kerk.",
+                        "new_text": "De kerk was te klein.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_9",
+                        "reason_for_change": "Verlaagde de inhoudswoorden per deelzin en verhoogde de concrete zelfstandignaamwoorden door specifieker te zijn.",
+                        "start_word": 18,
+                        "end_word": 50,
+                        "original_text": "'Een goddeloos volk heeft het Heilige Land (Palestina) bezet. De christenen daar worden behandeld als slaven. Heilige plaatsen zijn in veestallen veranderd. Wat is dat een schande voor de stad waarin Christus leefde.'",
+                        "new_text": "'Een vijandig volk heeft Palestina bezet. Christenen daar leven als slaven. Heilige plekken zijn veranderd in stallen. Dit is een schande voor de stad waar Christus woonde.'",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_10",
+                        "reason_for_change": "Verlaagde de afhankelijkheidslengte en inhoudswoorden per deelzin door de zinnen korter en eenvoudiger te maken.",
+                        "start_word": 51,
+                        "end_word": 75,
+                        "original_text": "Bewapent u lieve broeders. Verover de woonplaats van Christus terug. Wordt leenmannen van God. Dit is een gerechtvaardigde oorlog, een Kruistocht van God.",
+                        "new_text": "Pak uw wapens, broeders. Bevrijd de stad van Christus. Wordt soldaten van God. Dit is een oorlog die God goedkeurt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "simplify_11",
+                        "reason_for_change": "Verhoogde de woordfrequentie door eenvoudiger en duidelijker taal te gebruiken.",
+                        "start_word": 76,
+                        "end_word": 90,
+                        "original_text": "Wie aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.",
+                        "new_text": "Wie meedoet, krijgt vergeving en gaat naar de hemel.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De christelijke naastenliefde gold niet voor de moslimbevolking in Jeruzalem en Akko (Palestina). Een kruisridder vertelt over wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht: 'Vrijdagmorgen bestormden wij de stad. Wij achtervolgden de verdedigers tot aan de tempel van Salomon. Daar vond zo'n bloedbad plaats, dat wij tot onze enkels in het bloed liepen. Daarna stormden we af op een groot aantal mannen en vrouwen in de tempel. Ieder doodde of liet in leven wie hij wilde. Spoedig snelden de kruisridders door de stad en roofden goud, zilver, paarden en muilezels. Zij plunderden de huizen die vol rijkdommen waren. Daarna gingen de kruisridders, van vreugde huilend, naar het graf van Jezus Christus om hem te vereren en te danken.'",
+                "rewritten_sentences": "De christenen toonden geen mededogen aan moslims in Jeruzalem en Akko. Een ridder vertelde over de eerste Kruistocht in 1099. Hij zei: 'Op een vrijdagmorgen veroverden we de stad. We volgden de verdedigers tot de tempel. Daar was er veel bloed. We liepen erin tot aan onze enkels. Daarna vielen we aan op mensen in de tempel. Iedereen mocht kiezen: doden of sparen. We namen goud, zilver, paarden en ezels mee. We plunderden huizen die vol geld zaten. Daarna gingen we naar het graf van Jezus. We waren blij en bedankten God.'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_12",
+                        "reason_for_change": "Verlaagde de inhoudswoorden per deelzin en verhoogde de concrete zelfstandignaamwoorden door specifieker en eenvoudiger te zijn.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "De christelijke naastenliefde gold niet voor de moslimbevolking in Jeruzalem en Akko (Palestina).",
+                        "new_text": "De christenen toonden geen mededogen aan moslims in Jeruzalem en Akko.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_13",
+                        "reason_for_change": "Verlaagde de afhankelijkheidslengte en inhoudswoorden per deelzin door de zinnen korter en eenvoudiger te maken.",
+                        "start_word": 20,
+                        "end_word": 45,
+                        "original_text": "Een kruisridder vertelt over wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht:",
+                        "new_text": "Een ridder vertelde over de eerste Kruistocht in 1099. Hij zei:",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "simplify_14",
+                        "reason_for_change": "Verhoogde de woordfrequentie en verlaagde de inhoudswoorden per deelzin door eenvoudiger taal te gebruiken.",
+                        "start_word": 46,
+                        "end_word": 60,
+                        "original_text": "'Vrijdagmorgen bestormden wij de stad. Wij achtervolgden de verdedigers tot aan de tempel van Salomon.",
+                        "new_text": "'Op een vrijdagmorgen veroverden we de stad. We volgden de verdedigers tot de tempel.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_15",
+                        "reason_for_change": "Verlaagde de inhoudswoorden per deelzin door eenvoudiger te zijn.",
+                        "start_word": 61,
+                        "end_word": 75,
+                        "original_text": "Daar vond zo'n bloedbad plaats, dat wij tot onze enkels in het bloed liepen.",
+                        "new_text": "Daar was er veel bloed. We liepen erin tot aan onze enkels.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_16",
+                        "reason_for_change": "Verlaagde de afhankelijkheidslengte door de zin korter te maken.",
+                        "start_word": 76,
+                        "end_word": 90,
+                        "original_text": "Daarna stormden we af op een groot aantal mannen en vrouwen in de tempel. Ieder doodde of liet in leven wie hij wilde.",
+                        "new_text": "Daarna vielen we aan op mensen in de tempel. Iedereen mocht kiezen: doden of sparen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "simplify_17",
+                        "reason_for_change": "Verhoogde de woordfrequentie door eenvoudiger taal te gebruiken.",
+                        "start_word": 91,
+                        "end_word": 110,
+                        "original_text": "Spoedig snelden de kruisridders door de stad en roofden goud, zilver, paarden en muilezels. Zij plunderden de huizen die vol rijkdommen waren.",
+                        "new_text": "We namen goud, zilver, paarden en ezels mee. We plunderden huizen die vol geld zaten.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_18",
+                        "reason_for_change": "Verlaagde de inhoudswoorden per deelzin door eenvoudiger te zijn.",
+                        "start_word": 111,
+                        "end_word": 130,
+                        "original_text": "Daarna gingen de kruisridders, van vreugde huilend, naar het graf van Jezus Christus om hem te vereren en te danken.",
+                        "new_text": "Daarna gingen we naar het graf van Jezus. We waren blij en bedankten God.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "historisch",
+        "full_text": "De eerste Kruistocht De eerste Kruistocht begon in een gebied waar veel geschiedenis speelde. Palestina was eerst deel van het Romeinse Rijk. Later veroverden Arabieren dit gebied. Daarna kwamen de Turken. Zij volgden een andere godsdienst: de islam. Mensen die de islam volgden, heetten moslims. Voor christenen was Palestina heel belangrijk. Dit gebied, vooral Jeruzalem, was heilig voor hen. Ook voor joden en moslims was het heilig. De moslims wilden Palestina niet afstaan. In Europa ontstond een plan. Christenen wilden Palestina terugnemen. Dit noemden ze een Kruistocht. Het woord 'kruis' stond voor het christendom. De paus sprak buiten de kerk tot het volk. De kerk was te klein. Hij zei: 'Een vijandig volk heeft Palestina bezet. Christenen daar leven als slaven. Heilige plekken zijn veranderd in stallen. Dit is een schande voor de stad waar Christus woonde. Pak uw wapens, broeders. Bevrijd de stad van Christus. Wordt soldaten van God. Dit is een oorlog die God goedkeurt. Wie meedoet, krijgt vergeving en gaat naar de hemel.' De christenen toonden geen mededogen aan moslims in Jeruzalem en Akko. Een ridder vertelde over de eerste Kruistocht in 1099. Hij zei: 'Op een vrijdagmorgen veroverden we de stad. We volgden de verdedigers tot de tempel. Daar was er veel bloed. We liepen erin tot aan onze enkels. Daarna vielen we aan op mensen in de tempel. Iedereen mocht kiezen: doden of sparen. We namen goud, zilver, paarden en ezels mee. We plunderden huizen die vol geld zaten. Daarna gingen we naar het graf van Jezus. We waren blij en bedankten God.'",
+        "prompt_id": "T13_mak",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-25 10:55:16.911844"
+}

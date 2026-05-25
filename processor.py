@@ -9,9 +9,9 @@ from pathlib import Path
 import json
 from datetime import datetime
 
-n_pools = 1
-output_dir = Path("./output/roleplay_multi")
-n_texts = 1
+n_pools = 7
+output_dir = Path("./output/cot_multi")
+n_texts = 40
 
 base_prompt = """
 De leesbaarheidsscore wordt als volgt berekend: 100 - (
@@ -43,7 +43,7 @@ Je voegt dus geen dingen toe en de structuur van de tekst blijft behouden.
 meta_prompt = f"""
 {base_prompt}
 Het probleem met de volgende tekst is dat deze een leesbaarheidsscore van <doc_score> heeft. De leesbaarheidsscore van de zinnen zijn <sent_scores>.
-Herschrijf de tekst zodat het een lagere leesbaarheidsscore heeft. Los het probleem op door het op te splitsen in kleinere stapjes.
+Herschrijf de tekst zodat het een lagere leesbaarheidsscore heeft. Los het probleem op door het op te splitsen in kleinere stapjes. Geef de nieuwe tekst in het gegeven format
 """
 
 cot_prompt = f"""
@@ -114,7 +114,7 @@ evaluation = None
 def run(row):
     # print(index, row['id'], row['text'])
     text_id = row['id']
-    PROMPT = roleplay_prompt
+    PROMPT = cot_prompt
     all_pipe = rw.LintPipe(instruction_en=PROMPT, instruction_nl=PROMPT, user_prompt=row['text'], prompt_id=text_id)
     all_pipe.add_engine(chatgpt_41)
     all_pipe.add_engine(chatgpt_51)
