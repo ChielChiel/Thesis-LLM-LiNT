@@ -1,0 +1,303 @@
+{
+    "prompt_id": "T45_mak",
+    "Org - text": "Drinkwater\n\nDrinkwater of leidingwater komt uit de kraan. Het water is niet alleen om te drinken, maar ook om bijvoorbeeld mee te koken, te douchen en het toilet door te spoelen. In Nederland wordt drinkwater gemaakt uit grondwater of oppervlaktewater. In Nederland komt twee derde van het drinkwater uit grondwater en een derde uit oppervlaktewater. Grondwater is regenwater dat diep de grond is ingezakt (tussen de 40 en 200 meter). Het is daardoor van nature gefilterd. Drinkwaterbedrijven moeten het nog behandelen voordat het geschikt is als drinkwater. Zij desinfecteren bijvoorbeeld het water om ziekteverwekkende micro-organismen (zoals legionella of e-colibacteri\u00ebn) te doden. Het grondwater in het westelijk deel van Nederland is niet geschikt als drinkwater doordat er zout zeewater in zit. Daarom wordt hier vooral oppervlaktewater gebruikt. Oppervlaktewater is water uit meren en rivieren. Het zuiveringsproces is uitgebreider en duurder doordat oppervlaktewater vuiler is dan grondwater.\n\nDrinkwater bevat mineralen zoals calcium, magnesium, natrium, kalium, carbonaten en sulfaten, maar ook kleine hoeveelheden andere stoffen en micro-organismen, zoals legionella of e-colibacteri\u00ebn. Meestal zijn deze niet schadelijk voor de gezondheid. Soms voegen bedrijven chloor toe aan drinkwater om bacteriegroei in de drinkwaterleidingen tegen te gaan. Maar dit komt niet veel voor. Chloor doodt de ziektekiemen. Een kleine concentratie chloor is niet schadelijk voor de gezondheid. Het drinkwater wordt op allerlei stoffen gecontroleerd. Dat geldt ook voor de bronnen van het drinkwater: oppervlaktewater en grondwater. De overheid en de drinkwaterbedrijven beoordelen deze metingen. Het drinkwater in Nederland voldoet aan de wettelijke normen die daarvoor zijn opgesteld. Als er risico's zijn voor de langere termijn, nemen waterbedrijven maatregelen.\n\nHet is verstandig om het gebruik van drinkwater zoveel mogelijk te beperken. De productie van drinkwater belast het milieu. Bovendien kost de productie van drinkwater geld en kan het zorgen voor een daling van de grondwaterspiegel. Om water te besparen kunt u bijvoorbeeld een waterbesparende douchekop of een waterzuinige wasmachine kopen.",
+    "Org - lint": "44",
+    "Org - sent": "15, 57, 16, 23, 19, 63, 24, 88, 31, 25, 36, 42, 100, 48, 62, 50, 59, 27, 31, 49, 36, 45, 40, 40, 58",
+    "Gemini/gemini-3-flash-preview - text": "Drinkwater of leidingwater komt uit de kraan. Je drinkt het water. Je kookt en doucht er ook mee. Ook spoel je de wc door. In Nederland wordt drinkwater gemaakt uit grondwater of oppervlaktewater. In Nederland komt twee derde van het drinkwater uit grondwater en een derde uit oppervlaktewater. Grondwater is regenwater dat diep de grond is ingezakt (tussen de 40 en 200 meter). De grond maakt het water schoon. Drinkwaterbedrijven moeten het nog behandelen voordat het geschikt is als drinkwater. De bedrijven maken het water schoon. Ze doden bacteri\u00ebn zoals legionella of e-coli. Het grondwater in het westelijk deel van Nederland is niet geschikt als drinkwater doordat er zout zeewater in zit. Daarom wordt hier vooral oppervlaktewater gebruikt. Dit water komt uit meren en rivieren. Het schoonmaken is duur. Dat komt omdat het water vuil is. In drinkwater zitten mineralen zoals calcium en magnesium. Ook zitten er bacteri\u00ebn in zoals legionella. Meestal word je hier niet ziek van. Soms doen bedrijven chloor in het water. Dat stopt de groei van bacteri\u00ebn. Dit gebeurt bijna nooit. Chloor maakt de beestjes dood. Een kleine concentratie chloor is niet schadelijk voor de gezondheid. Het drinkwater wordt op allerlei stoffen gecontroleerd. De bronnen van het water worden ook bekeken. De staat en de bedrijven bekijken de cijfers. Het water is goed volgens de wet. Is er een risico? Dan doen de bedrijven iets. Gebruik niet te veel water. Water maken is slecht voor de natuur.",
+    "Gemini/gemini-3-flash-preview - lint": "28",
+    "Gemini/gemini-3-flash-preview - sent": "12, 33, 16, 23, 19, 20, 24, 23, 68, 31, 25, 27, 6, 47, 56, 36, 44, 31, 59, 27, 39, 36, 8, 29, 20, 11, 18",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Drinkwater of leidingwater komt uit de kraan.",
+                "rewritten_sentences": "Drinkwater of leidingwater komt uit de kraan.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het water is niet alleen om te drinken, maar ook om bijvoorbeeld mee te koken, te douchen en het toilet door te spoelen.",
+                "rewritten_sentences": "Je drinkt het water. Je kookt en doucht er ook mee. Ook spoel je de wc door.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "De zin is opgesplitst om de afhankelijkheidslengte en het aantal contentwoorden per deelzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Het water is niet alleen om te drinken, maar ook om bijvoorbeeld mee te koken, te douchen en het toilet door te spoelen.",
+                        "new_text": "Je drinkt het water. Je kookt en doucht er ook mee. Ook spoel je de wc door.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Nederland wordt drinkwater gemaakt uit grondwater of oppervlaktewater.",
+                "rewritten_sentences": "In Nederland wordt drinkwater gemaakt uit grondwater of oppervlaktewater.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "In Nederland komt twee derde van het drinkwater uit grondwater en een derde uit oppervlaktewater.",
+                "rewritten_sentences": "In Nederland komt twee derde van het drinkwater uit grondwater en een derde uit oppervlaktewater.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Grondwater is regenwater dat diep de grond is ingezakt (tussen de 40 en 200 meter).",
+                "rewritten_sentences": "Grondwater is regenwater dat diep de grond is ingezakt (tussen de 40 en 200 meter).",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het is daardoor van nature gefilterd.",
+                "rewritten_sentences": "De grond maakt het water schoon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Vervanging van abstracte termen door concrete zelfstandige naamwoorden en frequentere woorden.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Het is daardoor van nature gefilterd.",
+                        "new_text": "De grond maakt het water schoon.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Drinkwaterbedrijven moeten het nog behandelen voordat het geschikt is als drinkwater.",
+                "rewritten_sentences": "Drinkwaterbedrijven moeten het nog behandelen voordat het geschikt is als drinkwater.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Zij desinfecteren bijvoorbeeld het water om ziekteverwekkende micro-organismen (zoals legionella of e-colibacteri\u00ebn) te doden.",
+                "rewritten_sentences": "De bedrijven maken het water schoon. Ze doden bacteri\u00ebn zoals legionella of e-coli.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vervanging van laagfrequente woorden zoals 'desinfecteren' en 'micro-organismen' door eenvoudiger alternatieven en het splitsen van de zin.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Zij desinfecteren bijvoorbeeld het water om ziekteverwekkende micro-organismen (zoals legionella of e-colibacteri\u00ebn) te doden.",
+                        "new_text": "De bedrijven maken het water schoon. Ze doden bacteri\u00ebn zoals legionella of e-coli.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het grondwater in het westelijk deel van Nederland is niet geschikt als drinkwater doordat er zout zeewater in zit.",
+                "rewritten_sentences": "Het grondwater in het westelijk deel van Nederland is niet geschikt als drinkwater doordat er zout zeewater in zit.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Daarom wordt hier vooral oppervlaktewater gebruikt.",
+                "rewritten_sentences": "Daarom wordt hier vooral oppervlaktewater gebruikt.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Oppervlaktewater is water uit meren en rivieren.",
+                "rewritten_sentences": "Dit water komt uit meren en rivieren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Verhogen van woordfrequentie door een kortere constructie te gebruiken.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Oppervlaktewater is water uit meren en rivieren.",
+                        "new_text": "Dit water komt uit meren en rivieren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het zuiveringsproces is uitgebreider en duurder doordat oppervlaktewater vuiler is dan grondwater.",
+                "rewritten_sentences": "Het schoonmaken is duur. Dat komt omdat het water vuil is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vervanging van 'zuiveringsproces' en 'uitgebreider' door frequentere woorden en het inkorten van de zin.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Het zuiveringsproces is uitgebreider en duurder doordat oppervlaktewater vuiler is dan grondwater.",
+                        "new_text": "Het schoonmaken is duur. Dat komt omdat het water vuil is.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Drinkwater bevat mineralen zoals calcium, magnesium, natrium, kalium, carbonaten en sulfaten, maar ook kleine hoeveelheden andere stoffen en micro-organismen, zoals legionella of e-colibacteri\u00ebn.",
+                "rewritten_sentences": "In drinkwater zitten mineralen zoals calcium en magnesium. Ook zitten er bacteri\u00ebn in zoals legionella.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "De zeer lange zin is opgesplitst en de lijst met stoffen is ingekort om de afhankelijkheidslengte drastisch te verlagen.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Drinkwater bevat mineralen zoals calcium, magnesium, natrium, kalium, carbonaten en sulfaten, maar ook kleine hoeveelheden andere stoffen en micro-organismen, zoals legionella of e-colibacteri\u00ebn.",
+                        "new_text": "In drinkwater zitten mineralen zoals calcium en magnesium. Ook zitten er bacteri\u00ebn in zoals legionella.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meestal zijn deze niet schadelijk voor de gezondheid.",
+                "rewritten_sentences": "Meestal word je hier niet ziek van.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vervanging van 'schadelijk voor de gezondheid' door een frequenter en korter alternatief.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Meestal zijn deze niet schadelijk voor de gezondheid.",
+                        "new_text": "Meestal word je hier niet ziek van.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Soms voegen bedrijven chloor toe aan drinkwater om bacteriegroei in de drinkwaterleidingen tegen te gaan.",
+                "rewritten_sentences": "Soms doen bedrijven chloor in het water. Dat stopt de groei van bacteri\u00ebn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Vervanging van 'bacteriegroei' en 'drinkwaterleidingen' door simpelere woorden en het splitsen van de zin.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Soms voegen bedrijven chloor toe aan drinkwater om bacteriegroei in de drinkwaterleidingen tegen te gaan.",
+                        "new_text": "Soms doen bedrijven chloor in het water. Dat stopt de groei van bacteri\u00ebn.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar dit komt niet veel voor.",
+                "rewritten_sentences": "Dit gebeurt bijna nooit.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Verhogen van woordfrequentie door een directere omschrijving.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Maar dit komt niet veel voor.",
+                        "new_text": "Dit gebeurt bijna nooit.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Chloor doodt de ziektekiemen.",
+                "rewritten_sentences": "Chloor maakt de beestjes dood.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Vervanging van 'ziektekiemen' door een concreter en frequenter woord.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "Chloor doodt de ziektekiemen.",
+                        "new_text": "Chloor maakt de beestjes dood.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een kleine concentratie chloor is niet schadelijk voor de gezondheid.",
+                "rewritten_sentences": "Een kleine concentratie chloor is niet schadelijk voor de gezondheid.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het drinkwater wordt op allerlei stoffen gecontroleerd.",
+                "rewritten_sentences": "Het drinkwater wordt op allerlei stoffen gecontroleerd.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Dat geldt ook voor de bronnen van het drinkwater: oppervlaktewater en grondwater.",
+                "rewritten_sentences": "De bronnen van het water worden ook bekeken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Inkorten van de zin en verwijderen van herhaling om contentwoorden te verminderen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Dat geldt ook voor de bronnen van het drinkwater: oppervlaktewater en grondwater.",
+                        "new_text": "De bronnen van het water worden ook bekeken.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De overheid en de drinkwaterbedrijven beoordelen deze metingen.",
+                "rewritten_sentences": "De staat en de bedrijven bekijken de cijfers.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vervanging van 'overheid', 'beoordelen' en 'metingen' door frequentere woorden.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "De overheid en de drinkwaterbedrijven beoordelen deze metingen.",
+                        "new_text": "De staat en de bedrijven bekijken de cijfers.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het drinkwater in Nederland voldoet aan de wettelijke normen die daarvoor zijn opgesteld.",
+                "rewritten_sentences": "Het water is goed volgens de wet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vervanging van complexe termen als 'wettelijke normen' door een eenvoudigere structuur.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Het drinkwater in Nederland voldoet aan de wettelijke normen die daarvoor zijn opgesteld.",
+                        "new_text": "Het water is goed volgens de wet.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als er risico's zijn voor de langere termijn, nemen waterbedrijven maatregelen.",
+                "rewritten_sentences": "Is er een risico? Dan doen de bedrijven iets.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Omzetten van een bijzin naar korte, directe zinnen om afhankelijkheid te verlagen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Als er risico's zijn voor de langere termijn, nemen waterbedrijven maatregelen.",
+                        "new_text": "Is er een risico? Dan doen de bedrijven iets.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is verstandig om het gebruik van drinkwater zoveel mogelijk te beperken.",
+                "rewritten_sentences": "Gebruik niet te veel water.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vervanging van de passieve/abstracte constructie door een actieve, korte zin.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Het is verstandig om het gebruik van drinkwater zoveel mogelijk te beperken.",
+                        "new_text": "Gebruik niet te veel water.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De productie van drinkwater belast het milieu.",
+                "rewritten_sentences": "Water maken is slecht voor de natuur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Vervanging van 'productie', 'belast' en 'milieu' door frequentere woorden.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "De productie van drinkwater belast het milieu.",
+                        "new_text": "Water maken is slecht voor de natuur.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatief",
+        "full_text": "Drinkwater of leidingwater komt uit de kraan. Je drinkt het water. Je kookt en doucht er ook mee. Ook spoel je de wc door. In Nederland wordt drinkwater gemaakt uit grondwater of oppervlaktewater. In Nederland komt twee derde van het drinkwater uit grondwater en een derde uit oppervlaktewater. Grondwater is regenwater dat diep de grond is ingezakt (tussen de 40 en 200 meter). De grond maakt het water schoon. Drinkwaterbedrijven moeten het nog behandelen voordat het geschikt is als drinkwater. De bedrijven maken het water schoon. Ze doden bacteri\u00ebn zoals legionella of e-coli. Het grondwater in het westelijk deel van Nederland is niet geschikt als drinkwater doordat er zout zeewater in zit. Daarom wordt hier vooral oppervlaktewater gebruikt. Dit water komt uit meren en rivieren. Het schoonmaken is duur. Dat komt omdat het water vuil is. In drinkwater zitten mineralen zoals calcium en magnesium. Ook zitten er bacteri\u00ebn in zoals legionella. Meestal word je hier niet ziek van. Soms doen bedrijven chloor in het water. Dat stopt de groei van bacteri\u00ebn. Dit gebeurt bijna nooit. Chloor maakt de beestjes dood. Een kleine concentratie chloor is niet schadelijk voor de gezondheid. Het drinkwater wordt op allerlei stoffen gecontroleerd. De bronnen van het water worden ook bekeken. De staat en de bedrijven bekijken de cijfers. Het water is goed volgens de wet. Is er een risico? Dan doen de bedrijven iets. Gebruik niet te veel water. Water maken is slecht voor de natuur.",
+        "prompt_id": "T45_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:49:04.314242"
+}

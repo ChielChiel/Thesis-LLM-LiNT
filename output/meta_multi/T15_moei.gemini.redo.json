@@ -1,0 +1,360 @@
+{
+    "prompt_id": "T15_moei",
+    "Org - text": "Magna Carta\n\nIn een weiland bij Runnymede, nabij Londen, kwamen op 15 juni 1215 de Engelse koning Jan zonder Land en 25 baronnen bijeen. Tijdens de bijeenkomst moest de koning van zijn leenmannen een oorkonde ondertekenen. In het Latijn heet een 'grote oorkonde' een magna carta; zo werd de overeenkomst tussen de koning en zijn baronnen vanaf die dag genoemd.\n\nDe gebeurtenis op 15 juni betekende een vernedering voor de koning. Omdat de Engelse edelen vonden dat hij zijn macht misbruikte, waren ze ontevreden over hem. Ze waren vooral boos over de belastingen die zij steeds moesten betalen. Ook vonden ze dat Jan zonder Land zijn wil te veel aan de steden oplegde en dat hij zich, als ieder ander, aan de wet moest houden. Daarom hadden de baronnen, voorafgaand aan de 15e juni, de stad Londen veroverd en Jan zonder Land in zijn kasteel in Windsor overvallen. Vervolgens dwongen ze hem bepalingen die zijn macht zouden beperken te accepteren. In de Magna Carta werd onder meer vastgelegd dat de koning niet meer zonder overleg belastingen mocht heffen en dat hij de stedelijke rechten moest respecteren. Nadat Jan zonder Land het document had ondertekend, beloofden de rebellerende baronnen opnieuw trouw aan hun leenheer.\n\nMaar een jaar na de ondertekening van het document stierf Jan zonder Land al aan dysenterie. De leenmannen probeerden de koningen na Jan zonder Land opnieuw aan de Magna Carta te onderwerpen. De nieuwe koningen lieten hun macht echter niet zomaar inperken. In 1215 was de strijd tussen adel en vorst dus allesbehalve beslist. De Magna Carta heeft in de loop van de tijd vooral symbolische waarde gekregen. De Engelsen zien de Magna Carta nog altijd als de basis voor hun vrijheden.\n\nUit het voorbeeld van de Magna Carta blijkt dat edelen en koningen met elkaar in conflict konden raken. Dit had te maken met de pogingen van veel koningen in de late middeleeuwen om hun macht te verstevigen en te regeren vanuit \u00e9\u00e9n plaats. Dit wordt centralisatie genoemd. Leenmannen kwamen hiertegen in verzet, omdat zij zo veel mogelijk zeggenschap over hun gebieden wilden houden.",
+    "Org - lint": "49",
+    "Org - sent": "67, 47, 62, 40, 43, 33, 34, 65, 52, 69, 50, 60, 55, 43, 57, 56, 47, 51, 59, 61, 46",
+    "Gemini/gemini-3-flash-preview - text": "De koning en de ridders waren op 15 juni 1215 in een wei bij de stad Londen. De koning moest een brief van de ridders tekenen. Die brief heet de Magna Carta. Dat is Latijn voor een grote brief. De koning voelde zich die dag erg slecht. De ridders waren boos op de koning. Hij gebruikte zijn macht niet goed. De ridders gaven te veel geld aan de koning. De koning was te streng voor de stad. Hij moest luisteren naar de wet. De ridders namen de stad Londen in. Ze vielen de koning aan in zijn kasteel. De koning moest nieuwe regels volgen. De koning mocht niet zomaar geld vragen. Hij moest de regels van de stad volgen. De koning tekende de brief. Toen waren de ridders weer trouw. De koning ging een jaar later dood aan een ziekte. De ridders wilden dat de nieuwe koningen ook naar de brief luisterden. De nieuwe koningen wilden dat niet doen. De ruzie tussen de ridders en de koning was nog niet klaar. De brief is nu een teken van vrijheid. Engelse mensen vinden de brief nog steeds heel belangrijk. Het verhaal laat zien dat ridders en koningen ruzie kregen. De koningen wilden alle macht hebben over het land. Dat is het plan voor het land. De ridders vochten terug. Zij wilden de baas blijven.",
+    "Gemini/gemini-3-flash-preview - lint": "20",
+    "Gemini/gemini-3-flash-preview - sent": "34, 27, 18, 17, 12, 17, 24, 27, 14, 26, 20, 24, 21, 14, 21, 18, 24, 24, 31, 10, 33, 22, 18, 28, 22, 15, 25, 7",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "In een weiland bij Runnymede, nabij Londen, kwamen op 15 juni 1215 de Engelse koning Jan zonder Land en 25 baronnen bijeen.",
+                "rewritten_sentences": "De koning en de ridders waren op 15 juni 1215 in een wei bij de stad Londen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vervangen van 'weiland' door het meer frequente 'wei'.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "weiland",
+                        "new_text": "wei",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Vervangen van 'baronnen' door het concretere 'ridders'.",
+                        "start_word": 20,
+                        "end_word": 20,
+                        "original_text": "baronnen",
+                        "new_text": "ridders",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Kortere zinsbouw verlaagt de syntactische afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "In een weiland bij Runnymede, nabij Londen, kwamen op 15 juni 1215 de Engelse koning Jan zonder Land en 25 baronnen bijeen.",
+                        "new_text": "De koning en de ridders waren op 15 juni 1215 in een wei bij de stad Londen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Tijdens de bijeenkomst moest de koning van zijn leenmannen een oorkonde ondertekenen.",
+                "rewritten_sentences": "De koning moest een brief van de ridders tekenen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Vervangen van 'oorkonde' door 'brief' voor hogere woordfrequentie.",
+                        "start_word": 10,
+                        "end_word": 10,
+                        "original_text": "oorkonde",
+                        "new_text": "brief",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vervangen van 'leenmannen' door het concretere 'ridders'.",
+                        "start_word": 8,
+                        "end_word": 8,
+                        "original_text": "leenmannen",
+                        "new_text": "ridders",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In het Latijn heet een 'grote oorkonde' een magna carta; zo werd de overeenkomst tussen de koning en zijn baronnen vanaf die dag genoemd.",
+                "rewritten_sentences": "Die brief heet de Magna Carta. Dat is Latijn voor een grote brief.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Opsplitsen van de zin verlaagt het aantal contentwoorden per deelzin.",
+                        "start_word": 0,
+                        "end_word": 23,
+                        "original_text": "In het Latijn heet een 'grote oorkonde' een magna carta; zo werd de overeenkomst tussen de koning en zijn baronnen vanaf die dag genoemd.",
+                        "new_text": "Die brief heet de Magna Carta. Dat is Latijn voor een grote brief.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De gebeurtenis op 15 juni betekende een vernedering voor de koning.",
+                "rewritten_sentences": "De koning voelde zich die dag erg slecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vervangen van het abstracte 'vernedering' door concretere bewoording.",
+                        "start_word": 7,
+                        "end_word": 7,
+                        "original_text": "vernedering",
+                        "new_text": "erg slecht",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Omdat de Engelse edelen vonden dat hij zijn macht misbruikte, waren ze ontevreden over hem.",
+                "rewritten_sentences": "De ridders waren boos op de koning. Hij gebruikte zijn macht niet goed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Gebruik van het frequentere woord 'boos' in plaats van 'ontevreden'.",
+                        "start_word": 12,
+                        "end_word": 12,
+                        "original_text": "ontevreden",
+                        "new_text": "boos",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ze waren vooral boos over de belastingen die zij steeds moesten betalen.",
+                "rewritten_sentences": "De ridders gaven te veel geld aan de koning.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vervangen van 'belastingen' door het concretere 'geld'.",
+                        "start_word": 7,
+                        "end_word": 7,
+                        "original_text": "belastingen",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook vonden ze dat Jan zonder Land zijn wil te veel aan de steden oplegde en dat hij zich, als ieder ander, aan de wet moest houden.",
+                "rewritten_sentences": "De koning was te streng voor de stad. Hij moest luisteren naar de wet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Verlagen van het aantal contentwoorden door de zin te versimpelen.",
+                        "start_word": 0,
+                        "end_word": 27,
+                        "original_text": "Ook vonden ze dat Jan zonder Land zijn wil te veel aan de steden oplegde en dat hij zich, als ieder ander, aan de wet moest houden.",
+                        "new_text": "De koning was te streng voor de stad. Hij moest luisteren naar de wet.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom hadden de baronnen, voorafgaand aan de 15e juni, de stad Londen veroverd en Jan zonder Land in zijn kasteel in Windsor overvallen.",
+                "rewritten_sentences": "De ridders namen de stad Londen in. Ze vielen de koning aan in zijn kasteel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Splitsen van de zin verkort de afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Daarom hadden de baronnen, voorafgaand aan de 15e juni, de stad Londen veroverd en Jan zonder Land in zijn kasteel in Windsor overvallen.",
+                        "new_text": "De ridders namen de stad Londen in. Ze vielen de koning aan in zijn kasteel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vervolgens dwongen ze hem bepalingen die zijn macht zouden beperken te accepteren.",
+                "rewritten_sentences": "De koning moest nieuwe regels volgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vervangen van 'bepalingen' door het frequentere 'regels'.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "bepalingen",
+                        "new_text": "regels",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de Magna Carta werd onder meer vastgelegd dat de koning niet meer zonder overleg belastingen mocht heffen en dat hij de stedelijke rechten moest respecteren.",
+                "rewritten_sentences": "De koning mocht niet zomaar geld vragen. Hij moest de regels van de stad volgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vervangen van abstracte termen door concretere woorden zoals 'geld' en 'stad'.",
+                        "start_word": 15,
+                        "end_word": 25,
+                        "original_text": "belastingen mocht heffen en dat hij de stedelijke rechten moest respecteren",
+                        "new_text": "geld vragen. Hij moest de regels van de stad volgen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Nadat Jan zonder Land het document had ondertekend, beloofden de rebellerende baronnen opnieuw trouw aan hun leenheer.",
+                "rewritten_sentences": "De koning tekende de brief. Toen waren de ridders weer trouw.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Vervangen van 'document' door 'brief' voor frequentie.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "document",
+                        "new_text": "brief",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar een jaar na de ondertekening van het document stierf Jan zonder Land al aan dysenterie.",
+                "rewritten_sentences": "De koning ging een jaar later dood aan een ziekte.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vervangen van 'dysenterie' door het frequentere 'ziekte'.",
+                        "start_word": 15,
+                        "end_word": 15,
+                        "original_text": "dysenterie",
+                        "new_text": "ziekte",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De leenmannen probeerden de koningen na Jan zonder Land opnieuw aan de Magna Carta te onderwerpen.",
+                "rewritten_sentences": "De ridders wilden dat de nieuwe koningen ook naar de brief luisterden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Versimpeling van de zinsstructuur verlaagt de afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "De leenmannen probeerden de koningen na Jan zonder Land opnieuw aan de Magna Carta te onderwerpen.",
+                        "new_text": "De ridders wilden dat de nieuwe koningen ook naar de brief luisterden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De nieuwe koningen lieten hun macht echter niet zomaar inperken.",
+                "rewritten_sentences": "De nieuwe koningen wilden dat niet doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Verlagen van contentwoorden door abstracte begrippen als 'macht inperken' te vermijden.",
+                        "start_word": 5,
+                        "end_word": 9,
+                        "original_text": "macht echter niet zomaar inperken",
+                        "new_text": "dat niet doen",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In 1215 was de strijd tussen adel en vorst dus allesbehalve beslist.",
+                "rewritten_sentences": "De ruzie tussen de ridders en de koning was nog niet klaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Vervangen van 'adel' en 'vorst' door concretere woorden 'ridders' en 'koning'.",
+                        "start_word": 7,
+                        "end_word": 9,
+                        "original_text": "adel en vorst",
+                        "new_text": "ridders en de koning",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Magna Carta heeft in de loop van de tijd vooral symbolische waarde gekregen.",
+                "rewritten_sentences": "De brief is nu een teken van vrijheid.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Vervangen van abstracte 'symbolische waarde' door concreter 'teken van vrijheid'.",
+                        "start_word": 10,
+                        "end_word": 12,
+                        "original_text": "symbolische waarde gekregen",
+                        "new_text": "teken van vrijheid",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Engelsen zien de Magna Carta nog altijd als de basis voor hun vrijheden.",
+                "rewritten_sentences": "Engelse mensen vinden de brief nog steeds heel belangrijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Gebruik van frequentere woorden zoals 'mensen' en 'belangrijk'.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "De Engelsen zien de Magna Carta nog altijd als de basis voor hun vrijheden.",
+                        "new_text": "Engelse mensen vinden de brief nog steeds heel belangrijk.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Uit het voorbeeld van de Magna Carta blijkt dat edelen en koningen met elkaar in conflict konden raken.",
+                "rewritten_sentences": "Het verhaal laat zien dat ridders en koningen ruzie kregen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Vervangen van 'conflict' door het frequentere 'ruzie'.",
+                        "start_word": 14,
+                        "end_word": 14,
+                        "original_text": "conflict",
+                        "new_text": "ruzie",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit had te maken met de pogingen van veel koningen in de late middeleeuwen om hun macht te verstevigen en te regeren vanuit \u00e9\u00e9n plaats.",
+                "rewritten_sentences": "De koningen wilden alle macht hebben over het land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Verlagen van het aantal contentwoorden per deelzin door de zin in te korten.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Dit had te maken met de pogingen van veel koningen in de late middeleeuwen om hun macht te verstevigen en te regeren vanuit \u00e9\u00e9n plaats.",
+                        "new_text": "De koningen wilden alle macht hebben over het land.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit wordt centralisatie genoemd.",
+                "rewritten_sentences": "Dat is het plan voor het land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Vervangen van abstract 'centralisatie' door concretere woorden.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "centralisatie",
+                        "new_text": "het plan voor het land",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Leenmannen kwamen hiertegen in verzet, omdat zij zo veel mogelijk zeggenschap over hun gebieden wilden houden.",
+                "rewritten_sentences": "De ridders vochten terug. Zij wilden de baas blijven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Opsplitsen van de zin verlaagt de syntactische afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Leenmannen kwamen hiertegen in verzet, omdat zij zo veel mogelijk zeggenschap over hun gebieden wilden houden.",
+                        "new_text": "De ridders vochten terug. Zij wilden de baas blijven.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Geschiedenis",
+        "full_text": "De koning en de ridders waren op 15 juni 1215 in een wei bij de stad Londen. De koning moest een brief van de ridders tekenen. Die brief heet de Magna Carta. Dat is Latijn voor een grote brief. De koning voelde zich die dag erg slecht. De ridders waren boos op de koning. Hij gebruikte zijn macht niet goed. De ridders gaven te veel geld aan de koning. De koning was te streng voor de stad. Hij moest luisteren naar de wet. De ridders namen de stad Londen in. Ze vielen de koning aan in zijn kasteel. De koning moest nieuwe regels volgen. De koning mocht niet zomaar geld vragen. Hij moest de regels van de stad volgen. De koning tekende de brief. Toen waren de ridders weer trouw. De koning ging een jaar later dood aan een ziekte. De ridders wilden dat de nieuwe koningen ook naar de brief luisterden. De nieuwe koningen wilden dat niet doen. De ruzie tussen de ridders en de koning was nog niet klaar. De brief is nu een teken van vrijheid. Engelse mensen vinden de brief nog steeds heel belangrijk. Het verhaal laat zien dat ridders en koningen ruzie kregen. De koningen wilden alle macht hebben over het land. Dat is het plan voor het land. De ridders vochten terug. Zij wilden de baas blijven.",
+        "prompt_id": "T15_moei",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:16:42.541768"
+}

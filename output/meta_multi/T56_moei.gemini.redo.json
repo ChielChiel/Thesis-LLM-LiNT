@@ -1,0 +1,390 @@
+{
+    "prompt_id": "T56_moei",
+    "Org - text": "Vandalisme\n\nEen gesloopte bushalte, een kapotte prullenbak, lek gestoken banden, graffiti: vandalisme is het moedwillig vernielen van andermans eigendommen (publiek of particulier), zonder dat de schuldige daaraan zelf materieel voordeel behaalt. Vandalisme kost de overheid jaarlijks veel geld. \n\nDe juridische definitie van vandalisme luidt: het opzettelijk en wederrechtelijk vernielen, beschadigen, onbruikbaar maken of wegmaken van een goed dat geheel of ten dele aan een ander toebehoort. De schuldige moet dus de opzet hebben om de vernieling te plegen en daarbij moet hij of zij dat wederrechtelijk doen, dus zonder toestemming van de eigenaar. Voorbeelden van vandalisme zijn onder andere de spiegels van auto's afschoppen, bushokjes afbreken, verkeersborden vernielen, bloembakken omkieperen, en graffiti spuiten. Wanneer vandalisme plaatsvindt in groepsverband, dan spreekt de wet van openlijke geweldpleging.\n\nVandalistische daden zijn geen halsmisdrijven. Maar de financi\u00eble schade voor de maatschappij is elk jaar enorm. Zo kost het vervangen van een ruit van een bushokje \u20ac310, kost een nieuw bushokje \u20ac4.080 en komt het vervangen van een brievenbus uit op zo'n \u20ac950. Soms is de schade ook immaterieel. Zoals bij de vernieling van een kunstwerk of als een clubhuis wordt vernield waarvoor een vereniging lang heeft gespaard. Ook is het onaangenaam wonen in een wijk met verwoeste bushokjes of gesloopte speeltoestellen. De grootste groep vandalen bestaat uit jongeren tussen de 10 en 20 jaar. Het is niet zo dat de vandalen uit een bepaald milieu komen. Jongeren uit alle bevolkingslagen maken zich schuldig aan vandalisme. Bij de jongste vandalen (10-12 jaar) wordt gesproken van 'spelvandalisme'. De vernielingen gebeuren niet per se moedwillig, maar komen voort uit een uit de hand gelopen spel. Bij vandalen tussen de 12 en 16 jaar is er sprake van prestigevandalisme. Jongeren willen zich ten opzichte van elkaar bewijzen. Of het gebeurt uit loutere verveling. Jongeren boven de 16 jaar slaan doorgaans aan het vernielen uit frustratie. Groepsgedrag is een centrale factor: veelal wordt onder invloed van de groep vandalisme gepleegd.",
+    "Org - lint": "50",
+    "Org - sent": "73, 48, 55, 67, 56, 70, 56, 59, 46, 66, 57, 34, 61, 36, 42, 43, 24, 36, 40, 47, 52, 41, 56",
+    "Gemini/gemini-3-flash-preview - text": "Vandalisme. Een kapotte bushalte of een prullenbak die stuk is. Banden met gaten of verf op de muur. Dat is vandalisme. Je maakt expres spullen van een ander kapot. Je krijgt er zelf geen geld voor. De overheid betaalt elk jaar veel geld voor vandalisme. De wet zegt wat vandalisme is. Het is het expres stukmaken van een ding. Dat ding is niet van jou. Je doet het expres. En je doet het zonder dat de baas het goed vindt. Je kunt spiegels van auto's schoppen. Of een bushokje kapot maken. Ook verkeersborden slopen is vandalisme. Doe je het met een groep? Dan noemt de wet dat geweld. Vandalisme is geen erg zware misdaad. Maar het kost de mensen elk jaar heel veel geld. Een nieuwe ruit kost 310 euro. Een nieuw bushokje kost 4.080 euro. Een brievenbus kost 950 euro. Soms doet de schade ook pijn. Denk aan een kapot kunstwerk. Of een clubhuis dat stuk is. Mensen hebben daar lang voor gespaard. Het is niet fijn in een wijk met kapotte spullen. Denk aan een kapot hokje of een stuk klimrek. Vooral jongeren slopen spullen. Ze zijn vaak tussen de 10 en 20 jaar oud. Deze jongeren komen overal vandaan. Rijke en arme kinderen doen aan vandalisme. Kinderen van 10 jaar doen het vaak tijdens een spel. Ze willen niets stuk maken. Maar het spel gaat te hard. Bij kinderen van 14 jaar gaat het om stoer doen. Ze willen aan elkaar laten zien dat ze durven. Of ze doen het omdat ze zich vervelen. Grote jongeren maken dingen kapot omdat ze boos zijn. De groep is heel belangrijk. Vaak slopen jongeren spullen omdat de groep dat wil.",
+    "Gemini/gemini-3-flash-preview - lint": "23",
+    "Gemini/gemini-3-flash-preview - sent": "32, 51, 30, 17, 37, 29, 47, 17, 25, 4, 26, 35, 19, 34, 42, 16, 24, 25, 18, 17, 3, 9, 11, 23, 44, 22, 14, 26, 15, 16, 17, 7, 28, 22, 28",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Vandalisme",
+                "rewritten_sentences": "Vandalisme.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Kortere zinsstructuur toegepast door toevoeging van een punt.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Vandalisme",
+                        "new_text": "Vandalisme.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een gesloopte bushalte, een kapotte prullenbak, lek gestoken banden, graffiti: vandalisme is het moedwillig vernielen van andermans eigendommen (publiek of particulier), zonder dat de schuldige daaraan zelf materieel voordeel behaalt.",
+                "rewritten_sentences": "Een kapotte bushalte of een prullenbak die stuk is. Banden met gaten of verf op de muur. Dat is vandalisme. Je maakt expres spullen van een ander kapot. Je krijgt er zelf geen geld voor.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "De lange opsomming is gesplitst in korte, concrete zinnen.",
+                        "start_word": 0,
+                        "end_word": 34,
+                        "original_text": "Een gesloopte bushalte, een kapotte prullenbak, lek gestoken banden, graffiti: vandalisme is het moedwillig vernielen van andermans eigendommen (publiek of particulier), zonder dat de schuldige daaraan zelf materieel voordeel behaalt.",
+                        "new_text": "Een kapotte bushalte of een prullenbak die stuk is. Banden met gaten of verf op de muur. Dat is vandalisme. Je maakt expres spullen van een ander kapot. Je krijgt er zelf geen geld voor.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Het abstracte 'materieel voordeel' is vervangen door het frequentere woord 'geld'.",
+                        "start_word": 32,
+                        "end_word": 33,
+                        "original_text": "materieel voordeel",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Focus op concrete zaken zoals 'muur' en 'verf'.",
+                        "start_word": 12,
+                        "end_word": 12,
+                        "original_text": "graffiti",
+                        "new_text": "verf op de muur",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vandalisme kost de overheid jaarlijks veel geld.",
+                "rewritten_sentences": "De overheid betaalt elk jaar veel geld voor vandalisme.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Gebruik van frequentere woorden zoals 'elk jaar' in plaats van 'jaarlijks'.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "jaarlijks",
+                        "new_text": "elk jaar",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De juridische definitie van vandalisme luidt: het opzettelijk en wederrechtelijk vernielen, beschadigen, onbruikbaar maken of wegmaken van een goed dat geheel of ten dele aan een ander toebehoort.",
+                "rewritten_sentences": "De wet zegt wat vandalisme is. Het is het expres stukmaken van een ding. Dat ding is niet van jou.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Vervangen van juridische termen door zeer frequente woorden.",
+                        "start_word": 1,
+                        "end_word": 2,
+                        "original_text": "juridische definitie",
+                        "new_text": "wet zegt wat",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Splitsen van een complexe definitie in drie eenvoudige hoofdzinnen.",
+                        "start_word": 0,
+                        "end_word": 30,
+                        "original_text": "De juridische definitie van vandalisme luidt: het opzettelijk en wederrechtelijk vernielen, beschadigen, onbruikbaar maken of wegmaken van een goed dat geheel of ten dele aan een ander toebehoort.",
+                        "new_text": "De wet zegt wat vandalisme is. Het is het expres stukmaken van een ding. Dat ding is niet van jou.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De schuldige moet dus de opzet hebben om de vernieling te plegen en daarbij moet hij of zij dat wederrechtelijk doen, dus zonder toestemming van de eigenaar.",
+                "rewritten_sentences": "Je doet het expres. En je doet het zonder dat de baas het goed vindt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Het aantal inhoudswoorden per bijzin is verlaagd door nevenschikking.",
+                        "start_word": 0,
+                        "end_word": 25,
+                        "original_text": "De schuldige moet dus de opzet hebben om de vernieling te plegen en daarbij moet hij of zij dat wederrechtelijk doen, dus zonder toestemming van de eigenaar.",
+                        "new_text": "Je doet het expres. En je doet het zonder dat de baas het goed vindt.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voorbeelden van vandalisme zijn onder andere de spiegels van auto's afschoppen, bushokjes afbreken, verkeersborden vernielen, bloembakken omkieperen, en graffiti spuiten.",
+                "rewritten_sentences": "Je kunt spiegels van auto's schoppen. Of een bushokje kapot maken. Ook verkeersborden slopen is vandalisme.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Opsomming gesplitst in losse zinnen met concrete objecten.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "Voorbeelden van vandalisme zijn onder andere de spiegels van auto's afschoppen, bushokjes afbreken, verkeersborden vernielen, bloembakken omkieperen, en graffiti spuiten.",
+                        "new_text": "Je kunt spiegels van auto's schoppen. Of een bushokje kapot maken. Ook verkeersborden slopen is vandalisme.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wanneer vandalisme plaatsvindt in groepsverband, dan spreekt de wet van openlijke geweldpleging.",
+                "rewritten_sentences": "Doe je het met een groep? Dan noemt de wet dat geweld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Complexe term 'openlijke geweldpleging' vereenvoudigd.",
+                        "start_word": 13,
+                        "end_word": 14,
+                        "original_text": "openlijke geweldpleging",
+                        "new_text": "geweld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vandalistische daden zijn geen halsmisdrijven.",
+                "rewritten_sentences": "Vandalisme is geen erg zware misdaad.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Vervangen van de archa\u00efsche term 'halsmisdrijven' door frequentere woorden.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "halsmisdrijven",
+                        "new_text": "erg zware misdaad",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar de financi\u00eble schade voor de maatschappij is elk jaar enorm.",
+                "rewritten_sentences": "Maar het kost de mensen elk jaar heel veel geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Abstracte termen als 'financi\u00eble schade' en 'maatschappij' vervangen door 'geld' en 'mensen'.",
+                        "start_word": 2,
+                        "end_word": 6,
+                        "original_text": "financi\u00eble schade voor de maatschappij",
+                        "new_text": "kost de mensen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo kost het vervangen van een ruit van een bushokje \u20ac310, kost een nieuw bushokje \u20ac4.080 en komt het vervangen van een brievenbus uit op zo'n \u20ac950.",
+                "rewritten_sentences": "Een nieuwe ruit kost 310 euro. Een nieuw bushokje kost 4.080 euro. Een brievenbus kost 950 euro.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Lange zin met meerdere feiten gesplitst in drie korte zinnen met concrete objecten.",
+                        "start_word": 0,
+                        "end_word": 26,
+                        "original_text": "Zo kost het vervangen van een ruit van een bushokje \u20ac310, kost een nieuw bushokje \u20ac4.080 en komt het vervangen van een brievenbus uit op zo'n \u20ac950.",
+                        "new_text": "Een nieuwe ruit kost 310 euro. Een nieuw bushokje kost 4.080 euro. Een brievenbus kost 950 euro.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Soms is de schade ook immaterieel.",
+                "rewritten_sentences": "Soms doet de schade ook pijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Abstract begrip 'immaterieel' vervangen door een concreter en frequenter concept.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "immaterieel",
+                        "new_text": "pijn",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zoals bij de vernieling van een kunstwerk of als een clubhuis wordt vernield waarvoor een vereniging lang heeft gespaard.",
+                "rewritten_sentences": "Denk aan een kapot kunstwerk. Of een clubhuis dat stuk is. Mensen hebben daar lang voor gespaard.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Bijzinnen omgezet naar korte hoofdzinnen om inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Zoals bij de vernieling van een kunstwerk of als een clubhuis wordt vernield waarvoor een vereniging lang heeft gespaard.",
+                        "new_text": "Denk aan een kapot kunstwerk. Of een clubhuis dat stuk is. Mensen hebben daar lang voor gespaard.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook is het onaangenaam wonen in een wijk met verwoeste bushokjes of gesloopte speeltoestellen.",
+                "rewritten_sentences": "Het is niet fijn in een wijk met kapotte spullen. Denk aan een kapot hokje of een stuk klimrek.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Vervangen van 'speeltoestellen' door een concreter woord 'klimrek'.",
+                        "start_word": 14,
+                        "end_word": 14,
+                        "original_text": "speeltoestellen",
+                        "new_text": "klimrek",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De grootste groep vandalen bestaat uit jongeren tussen de 10 en 20 jaar.",
+                "rewritten_sentences": "Vooral jongeren slopen spullen. Ze zijn vaak tussen de 10 en 20 jaar oud.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Zin gesplitst om syntactische complexiteit te verlagen.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "De grootste groep vandalen bestaat uit jongeren tussen de 10 en 20 jaar.",
+                        "new_text": "Vooral jongeren slopen spullen. Ze zijn vaak tussen de 10 en 20 jaar oud.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is niet zo dat de vandalen uit een bepaald milieu komen.",
+                "rewritten_sentences": "Deze jongeren komen overal vandaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Het abstracte 'milieu' vervangen door een simpelere constructie.",
+                        "start_word": 9,
+                        "end_word": 10,
+                        "original_text": "bepaald milieu",
+                        "new_text": "overal",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jongeren uit alle bevolkingslagen maken zich schuldig aan vandalisme.",
+                "rewritten_sentences": "Rijke en arme kinderen doen aan vandalisme.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Concrete begrippen 'rijke en arme kinderen' in plaats van 'bevolkingslagen'.",
+                        "start_word": 2,
+                        "end_word": 3,
+                        "original_text": "alle bevolkingslagen",
+                        "new_text": "rijke en arme kinderen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij de jongste vandalen (10-12 jaar) wordt gesproken van 'spelvandalisme'.",
+                "rewritten_sentences": "Kinderen van 10 jaar doen het vaak tijdens een spel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Gebruik van het concrete 'spel' en het vaker voorkomende 'kinderen'.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Bij de jongste vandalen (10-12 jaar) wordt gesproken van 'spelvandalisme'.",
+                        "new_text": "Kinderen van 10 jaar doen het vaak tijdens een spel.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De vernielingen gebeuren niet per se moedwillig, maar komen voort uit een uit de hand gelopen spel.",
+                "rewritten_sentences": "Ze willen niets stuk maken. Maar het spel gaat te hard.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Complexe zin gesplitst en abstracties verwijderd.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "De vernielingen gebeuren niet per se moedwillig, maar komen voort uit een uit de hand gelopen spel.",
+                        "new_text": "Ze willen niets stuk maken. Maar het spel gaat te hard.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij vandalen tussen de 12 en 16 jaar is er sprake van prestigevandalisme.",
+                "rewritten_sentences": "Bij kinderen van 14 jaar gaat het om stoer doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Term 'prestigevandalisme' vervangen door de frequentere uitdrukking 'stoer doen'.",
+                        "start_word": 12,
+                        "end_word": 12,
+                        "original_text": "prestigevandalisme",
+                        "new_text": "stoer doen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jongeren willen zich ten opzichte van elkaar bewijzen.",
+                "rewritten_sentences": "Ze willen aan elkaar laten zien dat ze durven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Vervangen van 'ten opzichte van elkaar bewijzen' door simpelere taal.",
+                        "start_word": 2,
+                        "end_word": 7,
+                        "original_text": "zich ten opzichte van elkaar bewijzen",
+                        "new_text": "aan elkaar laten zien dat ze durven",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Of het gebeurt uit loutere verveling.",
+                "rewritten_sentences": "Of ze doen het omdat ze zich vervelen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Verwijderen van het weinig frequente woord 'loutere'.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "loutere",
+                        "new_text": "ze zich",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jongeren boven de 16 jaar slaan doorgaans aan het vernielen uit frustratie.",
+                "rewritten_sentences": "Grote jongeren maken dingen kapot omdat ze boos zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Het abstracte 'frustratie' is vervangen door het concrete en frequente 'boos'.",
+                        "start_word": 12,
+                        "end_word": 12,
+                        "original_text": "frustratie",
+                        "new_text": "boos zijn",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Groepsgedrag is een centrale factor: veelal wordt onder invloed van de groep vandalisme gepleegd.",
+                "rewritten_sentences": "De groep is heel belangrijk. Vaak slopen jongeren spullen omdat de groep dat wil.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "Splitsen van de zin en gebruik van het concrete woord 'spullen'.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Groepsgedrag is een centrale factor: veelal wordt onder invloed van de groep vandalisme gepleegd.",
+                        "new_text": "De groep is heel belangrijk. Vaak slopen jongeren spullen omdat de groep dat wil.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst",
+        "full_text": "Vandalisme. Een kapotte bushalte of een prullenbak die stuk is. Banden met gaten of verf op de muur. Dat is vandalisme. Je maakt expres spullen van een ander kapot. Je krijgt er zelf geen geld voor. De overheid betaalt elk jaar veel geld voor vandalisme. De wet zegt wat vandalisme is. Het is het expres stukmaken van een ding. Dat ding is niet van jou. Je doet het expres. En je doet het zonder dat de baas het goed vindt. Je kunt spiegels van auto's schoppen. Of een bushokje kapot maken. Ook verkeersborden slopen is vandalisme. Doe je het met een groep? Dan noemt de wet dat geweld. Vandalisme is geen erg zware misdaad. Maar het kost de mensen elk jaar heel veel geld. Een nieuwe ruit kost 310 euro. Een nieuw bushokje kost 4.080 euro. Een brievenbus kost 950 euro. Soms doet de schade ook pijn. Denk aan een kapot kunstwerk. Of een clubhuis dat stuk is. Mensen hebben daar lang voor gespaard. Het is niet fijn in een wijk met kapotte spullen. Denk aan een kapot hokje of een stuk klimrek. Vooral jongeren slopen spullen. Ze zijn vaak tussen de 10 en 20 jaar oud. Deze jongeren komen overal vandaan. Rijke en arme kinderen doen aan vandalisme. Kinderen van 10 jaar doen het vaak tijdens een spel. Ze willen niets stuk maken. Maar het spel gaat te hard. Bij kinderen van 14 jaar gaat het om stoer doen. Ze willen aan elkaar laten zien dat ze durven. Of ze doen het omdat ze zich vervelen. Grote jongeren maken dingen kapot omdat ze boos zijn. De groep is heel belangrijk. Vaak slopen jongeren spullen omdat de groep dat wil.",
+        "prompt_id": "T56_moei",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:17:15.109564"
+}

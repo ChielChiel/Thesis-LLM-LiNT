@@ -1,0 +1,492 @@
+{
+    "prompt_id": "T27_moei",
+    "Org - text": "Goede en slechte economische tijden\n\nDoor de economische conjunctuur lossen goede tijden en slechte tijden elkaar af. Dat is niet zonder gevolgen. Het be\u00efnvloedt alle segmenten van de economie. In slechte tijden is de vraag laag waardoor bedrijven minder gaan fabriceren. Daardoor zijn er minder arbeiders nodig en verliezen mensen hun baan. Als mensen ontslagen worden, is dat niet uit eigen beweging. Ze worden onvrijwillig werkloos. Als mensen eigenhandig ontslag aanvragen, kiezen ze voor werkloosheid. Ze worden vrijwillig werkloos. Misschien heeft iemand voldoende middelen om er een tijdje tussenuit te kunnen. Vrijwillig of onvrijwillig, in een periode van laagconjunctuur loopt het werkloosheidspercentage op.\n\nEen toenemende werkloosheid heeft twee consequenties voor de begroting van de overheid. Ten eerste moet de overheid meer uitkeringen verstrekken, waardoor de overheidsuitgaven toenemen. Ten tweede komt er minder loonbelasting binnen, omdat er minder mensen aan het werk zijn. Hierdoor slinken de overheidsontvangsten. Door beide effecten verslechteren de overheidsfinanci\u00ebn en groeit de kans op een financieringstekort.\n\nEen financieringstekort beperkt de keuzes die de overheid kan maken, net zoals een lager gezinsinkomen de keuzes van een gezin beperkt. Een belangrijke keuze die de overheid ieder jaar moet maken betreft de stijging van sociale uitkeringen. Door inflatie kun je met hetzelfde nominale bedrag namelijk steeds minder kopen. In 1980 was je rijk als je iedere maand \u20ac1.000 kreeg. Daar kon je destijds veel voor aanschaffen. Nu kun je met \u20ac1.000 per maand amper toekomen. De overheid onderzoekt daarom ieder jaar of de sociale uitkeringen kunnen stijgen. Als de uitkeringen met hetzelfde percentage als de inflatie stijgen, is er sprake van een waardevaste uitkering. Met de gestegen uitkering kun je dezelfde hoeveelheid goederen blijven aanschaffen. Wat je aanschaft is duurder geworden, maar je uitkering is met hetzelfde percentage gestegen. Ondanks de inflatie ga je er dus niet op achteruit. De koopkracht wordt gehandhaafd. In tijden van laagconjunctuur kan de overheid vermoedelijk geen waardevaste uitkeringen garanderen. Daar zijn eenvoudigweg geen middelen voor.",
+    "Org - lint": "45",
+    "Org - sent": "46, 38, 58, 40, 10, 20, 38, 36, 63, 59, 57, 24, 44, 51, 82, 43, 58, 31, 53, 43, 59, 51, 63, 33, 43, 66, 41",
+    "Gemini/gemini-3-flash-preview - text": "De economie gaat soms goed en soms slecht. De economie wisselt steeds tussen goede en slechte tijden. Dat heeft grote gevolgen voor iedereen. Dit raakt alle delen van ons geld en werk. Als het slecht gaat, kopen mensen minder spullen. De fabrieken maken dan minder producten. Er zijn dan minder mensen nodig voor het werk. Mensen raken hun baan kwijt. Soms wil iemand niet stoppen met werken, maar moet het toch. Zij hebben dan geen werk meer tegen hun zin in. Soms kiezen mensen er zelf voor om te stoppen met hun baan. Dan zijn ze uit eigen keuze zonder werk. Misschien heeft iemand genoeg geld op de bank om even te rusten. Als het slecht gaat met de economie, hebben steeds meer mensen geen baan. Meer mensen zonder werk zorgt voor twee problemen met het geld van de staat. Eerst moet de staat meer geld geven aan werklozen. De staat geeft dan meer geld uit. Ook krijgt de staat minder belasting. Dat komt doordat minder mensen een baan hebben. Zo komt er minder geld in de kas van de staat. Het geld van de staat raakt op. Er komt dan een groot tekort aan geld. Bij een tekort kan de staat minder doen. Dat is net als bij een gezin met weinig loon. Elk jaar kiest de staat of het geld voor uitkeringen omhoog gaat. Alles wordt duurder. Met hetzelfde geld koop je dan minder brood of melk. In 1980 was je rijk met duizend euro per maand. Je kon toen heel veel spullen kopen voor dat geld. Nu kun je van duizend euro bijna niet meer leven. De staat kijkt elk jaar of de uitkering omhoog kan. Soms stijgt de uitkering even hard als de prijzen. Dan blijft de waarde van het geld gelijk. Je kunt dan nog steeds evenveel eten en kleren kopen. Spullen zijn duurder, maar je krijgt ook meer geld. Je wordt dus niet armer door de hogere prijzen. Je kunt evenveel blijven kopen. Als het slecht gaat met het land, kan de staat de uitkering vaak niet verhogen. Er is dan simpelweg geen geld meer voor.",
+    "Gemini/gemini-3-flash-preview - lint": "23",
+    "Gemini/gemini-3-flash-preview - sent": "26, 33, 18, 28, 1, 38, 4, 17, 20, 24, 23, 33, 16, 22, 34, 17, 28, 6, 24, 21, 29, 24, 38, 23, 26, 19, 19, 19, 20, 54, 30, 16, 21, 52, 26, 12",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Goede en slechte economische tijden",
+                "rewritten_sentences": "De economie gaat soms goed en soms slecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Vervangen van abstracte termen door meer gangbare woorden.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Goede en slechte economische tijden",
+                        "new_text": "De economie gaat soms goed en soms slecht",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Door de economische conjunctuur lossen goede tijden en slechte tijden elkaar af.",
+                "rewritten_sentences": "De economie wisselt steeds tussen goede en slechte tijden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Het woord 'conjunctuur' is te moeilijk en heeft een lage frequentie.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "Door de economische conjunctuur",
+                        "new_text": "De economie",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Versimpeling van de zinsbouw om de afhankelijkheidslengte te verkorten.",
+                        "start_word": 4,
+                        "end_word": 10,
+                        "original_text": "lossen goede tijden en slechte tijden elkaar af",
+                        "new_text": "wisselt steeds tussen goede en slechte tijden",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is niet zonder gevolgen.",
+                "rewritten_sentences": "Dat heeft grote gevolgen voor iedereen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Toevoegen van concretere context en vaker voorkomende woorden.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Dat is niet zonder gevolgen",
+                        "new_text": "Dat heeft grote gevolgen voor iedereen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het be\u00efnvloedt alle segmenten van de economie.",
+                "rewritten_sentences": "Dit raakt alle delen van ons geld en werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Vervangen van abstracte termen zoals 'segmenten' door concrete begrippen zoals 'geld' en 'werk'.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Het be\u00efnvloedt alle segmenten van de economie",
+                        "new_text": "Dit raakt alle delen van ons geld en werk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In slechte tijden is de vraag laag waardoor bedrijven minder gaan fabriceren.",
+                "rewritten_sentences": "Als het slecht gaat, kopen mensen minder spullen. De fabrieken maken dan minder producten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Splitsen van een samengestelde zin om contentwoorden per deelzin te verminderen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "In slechte tijden is de vraag laag waardoor bedrijven minder gaan fabriceren",
+                        "new_text": "Als het slecht gaat, kopen mensen minder spullen. De fabrieken maken dan minder producten",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daardoor zijn er minder arbeiders nodig en verliezen mensen hun baan.",
+                "rewritten_sentences": "Er zijn dan minder mensen nodig voor het werk. Mensen raken hun baan kwijt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Kortere deelzinnen gebruiken om de afhankelijkheidslengte te verkleinen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Daardoor zijn er minder arbeiders nodig en verliezen mensen hun baan",
+                        "new_text": "Er zijn dan minder mensen nodig voor het werk. Mensen raken hun baan kwijt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als mensen ontslagen worden, is dat niet uit eigen beweging.",
+                "rewritten_sentences": "Soms wil iemand niet stoppen met werken, maar moet het toch.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Gebruik van alledaagse woorden in plaats van formele constructies.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Als mensen ontslagen worden, is dat niet uit eigen beweging",
+                        "new_text": "Soms wil iemand niet stoppen met werken, maar moet het toch",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ze worden onvrijwillig werkloos.",
+                "rewritten_sentences": "Zij hebben dan geen werk meer tegen hun zin in.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Vervangen van het abstracte 'onvrijwillig werkloos' door frequentere woorden.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "Ze worden onvrijwillig werkloos",
+                        "new_text": "Zij hebben dan geen werk meer tegen hun zin in",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als mensen eigenhandig ontslag aanvragen, kiezen ze voor werkloosheid.",
+                "rewritten_sentences": "Soms kiezen mensen er zelf voor om te stoppen met hun baan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Vervangen van complexe woorden door simpelere alternatieven.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Als mensen eigenhandig ontslag aanvragen, kiezen ze voor werkloosheid",
+                        "new_text": "Soms kiezen mensen er zelf voor om te stoppen met hun baan",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ze worden vrijwillig werkloos.",
+                "rewritten_sentences": "Dan zijn ze uit eigen keuze zonder werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Verhogen van woordfrequentie door gangbare termen te gebruiken.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "Ze worden vrijwillig werkloos",
+                        "new_text": "Dan zijn ze uit eigen keuze zonder werk",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Misschien heeft iemand voldoende middelen om er een tijdje tussenuit te kunnen.",
+                "rewritten_sentences": "Misschien heeft iemand genoeg geld op de bank om even te rusten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Gebruik van concrete woorden zoals 'geld' en 'bank' in plaats van 'middelen'.",
+                        "start_word": 3,
+                        "end_word": 4,
+                        "original_text": "voldoende middelen",
+                        "new_text": "genoeg geld op de bank",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vrijwillig of onvrijwillig, in een periode van laagconjunctuur loopt het werkloosheidspercentage op.",
+                "rewritten_sentences": "Als het slecht gaat met de economie, hebben steeds meer mensen geen baan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Vervangen van 'laagconjunctuur' en 'werkloosheidspercentage' door simpelere beschrijvingen.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Vrijwillig of onvrijwillig, in een periode van laagconjunctuur loopt het werkloosheidspercentage op",
+                        "new_text": "Als het slecht gaat met de economie, hebben steeds meer mensen geen baan",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een toenemende werkloosheid heeft twee consequenties voor de begroting van de overheid.",
+                "rewritten_sentences": "Meer mensen zonder werk zorgt voor twee problemen met het geld van de staat.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Vervangen van 'consequenties' en 'begroting' door 'problemen' en 'geld'.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Een toenemende werkloosheid heeft twee consequenties voor de begroting van de overheid",
+                        "new_text": "Meer mensen zonder werk zorgt voor twee problemen met het geld van de staat",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ten eerste moet de overheid meer uitkeringen verstrekken, waardoor de overheidsuitgaven toenemen.",
+                "rewritten_sentences": "Eerst moet de staat meer geld geven aan werklozen. De staat geeft dan meer geld uit.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Opsplitsen van de zin om de afhankelijkheidslengte te verlagen.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Ten eerste moet de overheid meer uitkeringen verstrekken, waardoor de overheidsuitgaven toenemen",
+                        "new_text": "Eerst moet de staat meer geld geven aan werklozen. De staat geeft dan meer geld uit",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ten tweede komt er minder loonbelasting binnen, omdat er minder mensen aan het werk zijn.",
+                "rewritten_sentences": "Ook krijgt de staat minder belasting. Dat komt doordat minder mensen een baan hebben.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Minder contentwoorden per deelzin door de reden in een nieuwe zin te zetten.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Ten tweede komt er minder loonbelasting binnen, omdat er minder mensen aan het werk zijn",
+                        "new_text": "Ook krijgt de staat minder belasting. Dat komt doordat minder mensen een baan hebben",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hierdoor slinken de overheidsontvangsten.",
+                "rewritten_sentences": "Zo komt er minder geld in de kas van de staat.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Vervangen van 'slinken' en 'overheidsontvangsten' door concretere termen zoals 'geld' en 'kas'.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Hierdoor slinken de overheidsontvangsten",
+                        "new_text": "Zo komt er minder geld in de kas van de staat",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Door beide effecten verslechteren de overheidsfinanci\u00ebn en groeit de kans op een financieringstekort.",
+                "rewritten_sentences": "Het geld van de staat raakt op. Er komt dan een groot tekort aan geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Vervangen van het abstracte 'overheidsfinanci\u00ebn' en 'financieringstekort' door simpelere woorden.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Door beide effecten verslechteren de overheidsfinanci\u00ebn en groeit de kans op een financieringstekort",
+                        "new_text": "Het geld van de staat raakt op. Er komt dan een groot tekort aan geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een financieringstekort beperkt de keuzes die de overheid kan maken, net zoals een lager gezinsinkomen de keuzes van een gezin beperkt.",
+                "rewritten_sentences": "Bij een tekort kan de staat minder doen. Dat is net als bij een gezin met weinig loon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Splitsen van een lange vergelijking om afhankelijkheidslengte te verminderen.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Een financieringstekort beperkt de keuzes die de overheid kan maken, net zoals een lager gezinsinkomen de keuzes van een gezin beperkt",
+                        "new_text": "Bij een tekort kan de staat minder doen. Dat is net als bij een gezin met weinig loon",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een belangrijke keuze die de overheid ieder jaar moet maken betreft de stijging van sociale uitkeringen.",
+                "rewritten_sentences": "Elk jaar kiest de staat of het geld voor uitkeringen omhoog gaat.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Vereenvoudigen van 'betreft de stijging van sociale uitkeringen' naar actiever taalgebruik.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Een belangrijke keuze die de overheid ieder jaar moet maken betreft de stijging van sociale uitkeringen",
+                        "new_text": "Elk jaar kiest de staat of het geld voor uitkeringen omhoog gaat",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Door inflatie kun je met hetzelfde nominale bedrag namelijk steeds minder kopen.",
+                "rewritten_sentences": "Alles wordt duurder. Met hetzelfde geld koop je dan minder brood of melk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Vervangen van 'nominale bedrag' en 'inflatie' door concrete voorbeelden zoals 'brood' en 'melk'.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Door inflatie kun je met hetzelfde nominale bedrag namelijk steeds minder kopen",
+                        "new_text": "Alles wordt duurder. Met hetzelfde geld koop je dan minder brood of melk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In 1980 was je rijk als je iedere maand \u20ac1.000 kreeg.",
+                "rewritten_sentences": "In 1980 was je rijk met duizend euro per maand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Woordfrequentie verhogen door de zin korter en directer te maken.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "In 1980 was je rijk als je iedere maand \u20ac1.000 kreeg",
+                        "new_text": "In 1980 was je rijk met duizend euro per maand",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar kon je destijds veel voor aanschaffen.",
+                "rewritten_sentences": "Je kon toen heel veel spullen kopen voor dat geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Vervangen van 'aanschaffen' door het frequentere 'kopen' en toevoegen van 'spullen'.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Daar kon je destijds veel voor aanschaffen",
+                        "new_text": "Je kon toen heel veel spullen kopen voor dat geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Nu kun je met \u20ac1.000 per maand amper toekomen.",
+                "rewritten_sentences": "Nu kun je van duizend euro bijna niet meer leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Vervangen van de uitdrukking 'amper toekomen' door vaker gebruikte woorden.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Nu kun je met \u20ac1.000 per maand amper toekomen",
+                        "new_text": "Nu kun je van duizend euro bijna niet meer leven",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De overheid onderzoekt daarom ieder jaar of de sociale uitkeringen kunnen stijgen.",
+                "rewritten_sentences": "De staat kijkt elk jaar of de uitkering omhoog kan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Inkorten van de zin en gebruik van simpelere woorden.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "De overheid onderzoekt daarom ieder jaar of de sociale uitkeringen kunnen stijgen",
+                        "new_text": "De staat kijkt elk jaar of de uitkering omhoog kan",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de uitkeringen met hetzelfde percentage als de inflatie stijgen, is er sprake van een waardevaste uitkering.",
+                "rewritten_sentences": "Soms stijgt de uitkering even hard als de prijzen. Dan blijft de waarde van het geld gelijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "Opsplitsen van de zin en vermijden van de term 'waardevaste uitkering'.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Als de uitkeringen met hetzelfde percentage als de inflatie stijgen, is er sprake van een waardevaste uitkering",
+                        "new_text": "Soms stijgt de uitkering even hard als de prijzen. Dan blijft de waarde van het geld gelijk",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Met de gestegen uitkering kun je dezelfde hoeveelheid goederen blijven aanschaffen.",
+                "rewritten_sentences": "Je kunt dan nog steeds evenveel eten en kleren kopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c27",
+                        "reason_for_change": "Vervangen van 'goederen aanschaffen' door concrete woorden zoals 'eten' en 'kleren'.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Met de gestegen uitkering kun je dezelfde hoeveelheid goederen blijven aanschaffen",
+                        "new_text": "Je kunt dan nog steeds evenveel eten en kleren kopen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wat je aanschaft is duurder geworden, maar je uitkering is met hetzelfde percentage gestegen.",
+                "rewritten_sentences": "Spullen zijn duurder, maar je krijgt ook meer geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c28",
+                        "reason_for_change": "Sterke vereenvoudiging van de zinsstructuur en woordkeus.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Wat je aanschaft is duurder geworden, maar je uitkering is met hetzelfde percentage gestegen",
+                        "new_text": "Spullen zijn duurder, maar je krijgt ook meer geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ondanks de inflatie ga je er dus niet op achteruit.",
+                "rewritten_sentences": "Je wordt dus niet armer door de hogere prijzen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c29",
+                        "reason_for_change": "Vervangen van 'inflatie' en 'achteruit gaan' door concretere termen.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Ondanks de inflatie ga je er dus niet op achteruit",
+                        "new_text": "Je wordt dus niet armer door de hogere prijzen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De koopkracht wordt gehandhaafd.",
+                "rewritten_sentences": "Je kunt evenveel blijven kopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c30",
+                        "reason_for_change": "Vervangen van het abstracte 'koopkracht' en 'gehandhaafd'.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "De koopkracht wordt gehandhaafd",
+                        "new_text": "Je kunt evenveel blijven kopen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In tijden van laagconjunctuur kan de overheid vermoedelijk geen waardevaste uitkeringen garanderen.",
+                "rewritten_sentences": "Als het slecht gaat met het land, kan de staat de uitkering vaak niet verhogen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c31",
+                        "reason_for_change": "Vervangen van jargon door simpele woorden en verkorten van de zin.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "In tijden van laagconjunctuur kan de overheid vermoedelijk geen waardevaste uitkeringen garanderen",
+                        "new_text": "Als het slecht gaat met het land, kan de staat de uitkering vaak niet verhogen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar zijn eenvoudigweg geen middelen voor.",
+                "rewritten_sentences": "Er is dan simpelweg geen geld meer voor.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c32",
+                        "reason_for_change": "Vervangen van 'middelen' door het concrete woord 'geld'.",
+                        "start_word": 4,
+                        "end_word": 5,
+                        "original_text": "middelen",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Educatieve tekst over economie",
+        "full_text": "De economie gaat soms goed en soms slecht. De economie wisselt steeds tussen goede en slechte tijden. Dat heeft grote gevolgen voor iedereen. Dit raakt alle delen van ons geld en werk. Als het slecht gaat, kopen mensen minder spullen. De fabrieken maken dan minder producten. Er zijn dan minder mensen nodig voor het werk. Mensen raken hun baan kwijt. Soms wil iemand niet stoppen met werken, maar moet het toch. Zij hebben dan geen werk meer tegen hun zin in. Soms kiezen mensen er zelf voor om te stoppen met hun baan. Dan zijn ze uit eigen keuze zonder werk. Misschien heeft iemand genoeg geld op de bank om even te rusten. Als het slecht gaat met de economie, hebben steeds meer mensen geen baan. Meer mensen zonder werk zorgt voor twee problemen met het geld van de staat. Eerst moet de staat meer geld geven aan werklozen. De staat geeft dan meer geld uit. Ook krijgt de staat minder belasting. Dat komt doordat minder mensen een baan hebben. Zo komt er minder geld in de kas van de staat. Het geld van de staat raakt op. Er komt dan een groot tekort aan geld. Bij een tekort kan de staat minder doen. Dat is net als bij een gezin met weinig loon. Elk jaar kiest de staat of het geld voor uitkeringen omhoog gaat. Alles wordt duurder. Met hetzelfde geld koop je dan minder brood of melk. In 1980 was je rijk met duizend euro per maand. Je kon toen heel veel spullen kopen voor dat geld. Nu kun je van duizend euro bijna niet meer leven. De staat kijkt elk jaar of de uitkering omhoog kan. Soms stijgt de uitkering even hard als de prijzen. Dan blijft de waarde van het geld gelijk. Je kunt dan nog steeds evenveel eten en kleren kopen. Spullen zijn duurder, maar je krijgt ook meer geld. Je wordt dus niet armer door de hogere prijzen. Je kunt evenveel blijven kopen. Als het slecht gaat met het land, kan de staat de uitkering vaak niet verhogen. Er is dan simpelweg geen geld meer voor.",
+        "prompt_id": "T27_moei",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:16:58.686779"
+}

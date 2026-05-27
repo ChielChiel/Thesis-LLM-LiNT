@@ -1,0 +1,358 @@
+{
+    "prompt_id": "T37_mak",
+    "Org - text": "De wereld achter je eten\n\n750 kopjes thee, 60 kilo brood en bijna 80 pond vlees; in totaal ongeveer 788 kilo voedsel. Dat is wat Nederlanders gemiddeld per jaar consumeren! En we verspillen per jaar ook nog eens vijftig kilo eten per persoon. Dat kan natuurlijk niet. Want eten is om op te eten! Maar waar komt ons voedsel eigenlijk vandaan? Weet jij wat er is gebeurd met de aardbei in je toetje? Of welke weg het stukje vlees op je bord heeft afgelegd?\n\nBij het kopen van eten kun je op een heleboel dingen letten. Je kunt natuurlijk altijd voor het goedkoopste vlees en de minst dure chocola gaan. Maar dat is niet altijd het beste voor het milieu en de omgeving om ons heen. Er zijn speciale verpakkingen van voedsel waarop staat dat de inhoud ervan 'duurzaam gevangen' of '100% fair trade' is. Maar wat betekent dat nu eigenlijk?\n\nAls vis duurzaam gevangen wordt, dan wil dat zeggen dat er bij het vangen is gelet op de visstand. Soms wordt er namelijk zoveel van \u00e9\u00e9n soort gevangen dat er in het wild bijna geen vissen meer over zijn. Tonijn is zo'n voorbeeld. Mensen wilden dat zo graag eten dat de vissers meer en meer gingen vangen om aan de vraag te voldoen. Daardoor zwom er bijna geen tonijn meer in zee. De Europese Unie heeft vervolgens regels voor de Europese zee\u00ebn opgesteld om te voorkomen dat de vis uitsterft: driekwart van de zee\u00ebn is namelijk overbevist.\n\nVind je dit belangrijk? En wil je hier iets aan doen? Kies dan in de winkel voor vlees en vis met een keurmerk dat aangeeft dat de dieren een beter leven hebben gehad of duurzaam gevangen zijn. Je herkent zo'n keurmerk meestal aan een speciale sticker of afbeelding op de verpakking. Daar hangt vaak wel een prijskaartje aan, maar je zorgt er zo voor dat dieren beter worden behandeld - ze krijgen bijvoorbeeld beter voer en meer ruimte - en dat soorten niet uitsterven.\n\n'Fair trade', dat 'eerlijke handel' betekent, zorgt ervoor dat boeren uit ontwikkelingslanden een eerlijk loon ontvangen. Ze krijgen namelijk vaak te weinig betaald om van te leven. Het Max Havelaar-Fair trade keurmerk kun je vinden op bananen, maar ook op koffie, thee en chocola.",
+    "Org - lint": "32",
+    "Org - sent": "37, 25, 23, 18, 36, 42, 41, 47, 28, 27, 40, 34, 28, 36, 48, 58, 33, 52, 65, 43, 51",
+    "Gemini/gemini-3-flash-preview - text": "De wereld achter het eten. 750 kopjes thee, 60 kilo brood en bijna 80 pond vlees; in totaal ongeveer 788 kilo voedsel. Dat is wat Nederlanders gemiddeld per jaar consumeren! En we verspillen per jaar ook nog eens vijftig kilo eten per persoon. Dat is niet goed. Want eten moet je opeten! Waar komt ons eten vandaan? Wat is er met de aardbei gebeurd? Of welke weg het stukje vlees op je bord heeft afgelegd? Bij het kopen van eten kun je op een heleboel dingen letten. Je kunt altijd kiezen voor het goedkoopste vlees. Maar dat is niet altijd het beste voor het milieu en de omgeving om ons heen. Er zijn speciale verpakkingen van voedsel waarop staat dat de inhoud ervan 'duurzaam gevangen' of '100% fair trade' is. Wat betekent dat nu? Duurzaam vissen betekent dat men let op de visstand. Soms vangen mensen te veel vissen. Dan zijn er bijna geen vissen meer over. Tonijn is zo'n voorbeeld. Mensen wilden die vis graag eten. Vissers vingen daarom steeds meer vis. Daarom was er bijna geen tonijn meer in de zee. De Europese Unie maakte regels voor de zee. Zo sterft de vis niet uit. Vind jij dit belangrijk? Wil jij hier iets aan doen? Kies in de winkel voor vlees met een keurmerk. Je ziet dit keurmerk aan de sticker op de doos. Het is duurder, maar beter voor de dieren. Ze krijgen meer ruimte en goed voer. Fair trade betekent eerlijke handel. Boeren krijgen dan een goed loon. Ze krijgen vaak te weinig geld om van te leven. Je vindt het keurmerk op bananen, koffie en chocola.",
+    "Gemini/gemini-3-flash-preview - lint": "23",
+    "Gemini/gemini-3-flash-preview - sent": "37, 25, 0, 25, 36, 42, 28, 47, 28, 29, 9, 0, 34, 10, 34, 19, 27, 16, 30, 33, 19, 23, 38, 21, 26, 33",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "De wereld achter je eten",
+                "rewritten_sentences": "De wereld achter het eten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_1",
+                        "reason_for_change": "Vervangen van een minder frequent bezittelijk voornaamwoord door een lidwoord verhoogt de woordfrequentie en de eenvoud.",
+                        "start_word": 3,
+                        "end_word": 3,
+                        "original_text": "je",
+                        "new_text": "het",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "750 kopjes thee, 60 kilo brood en bijna 80 pond vlees; in totaal ongeveer 788 kilo voedsel.",
+                "rewritten_sentences": "750 kopjes thee, 60 kilo brood en bijna 80 pond vlees; in totaal ongeveer 788 kilo voedsel.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Dat is wat Nederlanders gemiddeld per jaar consumeren!",
+                "rewritten_sentences": "Dat is wat Nederlanders gemiddeld per jaar consumeren!",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "En we verspillen per jaar ook nog eens vijftig kilo eten per persoon.",
+                "rewritten_sentences": "En we verspillen per jaar ook nog eens vijftig kilo eten per persoon.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Dat kan natuurlijk niet.",
+                "rewritten_sentences": "Dat is niet goed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_2",
+                        "reason_for_change": "Het verwijderen van hulpwerkwoorden en bijwoorden ten gunste van een simpel koppelwerkwoord en bijvoeglijk naamwoord verhoogt de woordfrequentie.",
+                        "start_word": 1,
+                        "end_word": 2,
+                        "original_text": "kan natuurlijk",
+                        "new_text": "is",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want eten is om op te eten!",
+                "rewritten_sentences": "Want eten moet je opeten!",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_3",
+                        "reason_for_change": "De constructie met 'om op te' is complex; vervangen door 'moet je' verlaagt de syntactische afhankelijkheidslengte.",
+                        "start_word": 2,
+                        "end_word": 5,
+                        "original_text": "is om op te",
+                        "new_text": "moet je",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar waar komt ons voedsel eigenlijk vandaan?",
+                "rewritten_sentences": "Waar komt ons eten vandaan?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_4",
+                        "reason_for_change": "'Eten' heeft een hogere woordfrequentie dan 'voedsel'. Het verwijderen van 'eigenlijk' verlaagt het aantal contentwoorden.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Maar waar komt ons voedsel eigenlijk",
+                        "new_text": "Waar komt ons eten",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Weet jij wat er is gebeurd met de aardbei in je toetje?",
+                "rewritten_sentences": "Wat is er met de aardbei gebeurd?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_5",
+                        "reason_for_change": "Door de inleidende bijzin te verwijderen, wordt het aantal contentwoorden per deelzin verlaagd.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Weet jij wat er is gebeurd met de aardbei in je toetje?",
+                        "new_text": "Wat is er met de aardbei gebeurd?",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Of welke weg het stukje vlees op je bord heeft afgelegd?",
+                "rewritten_sentences": "Of welke weg het stukje vlees op je bord heeft afgelegd?",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Bij het kopen van eten kun je op een heleboel dingen letten.",
+                "rewritten_sentences": "Bij het kopen van eten kun je op een heleboel dingen letten.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Je kunt natuurlijk altijd voor het goedkoopste vlees en de minst dure chocola gaan.",
+                "rewritten_sentences": "Je kunt altijd kiezen voor het goedkoopste vlees.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_6",
+                        "reason_for_change": "Het splitsen van de opsomming verlaagt de hoeveelheid contentwoorden in de zin.",
+                        "start_word": 2,
+                        "end_word": 13,
+                        "original_text": "natuurlijk altijd voor het goedkoopste vlees en de minst dure chocola gaan",
+                        "new_text": "altijd kiezen voor het goedkoopste vlees",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar dat is niet altijd het beste voor het milieu en de omgeving om ons heen.",
+                "rewritten_sentences": "Maar dat is niet altijd het beste voor het milieu en de omgeving om ons heen.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Er zijn speciale verpakkingen van voedsel waarop staat dat de inhoud ervan 'duurzaam gevangen' of '100% fair trade' is.",
+                "rewritten_sentences": "Er zijn speciale verpakkingen van voedsel waarop staat dat de inhoud ervan 'duurzaam gevangen' of '100% fair trade' is.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Maar wat betekent dat nu eigenlijk?",
+                "rewritten_sentences": "Wat betekent dat nu?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_7",
+                        "reason_for_change": "Verwijderen van 'eigenlijk' en 'maar' verhoogt de directe leesbaarheid door minder contentwoorden.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Maar wat betekent dat nu eigenlijk",
+                        "new_text": "Wat betekent dat nu",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als vis duurzaam gevangen wordt, dan wil dat zeggen dat er bij het vangen is gelet op de visstand.",
+                "rewritten_sentences": "Duurzaam vissen betekent dat men let op de visstand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_8",
+                        "reason_for_change": "De zin is ingekort door de voorwaardelijke bijzin te vervangen door een directe definitie, wat de afhankelijkheidslengte verlaagt.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Als vis duurzaam gevangen wordt, dan wil dat zeggen dat er bij het vangen is gelet op de visstand.",
+                        "new_text": "Duurzaam vissen betekent dat men let op de visstand.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Soms wordt er namelijk zoveel van \u00e9\u00e9n soort gevangen dat er in het wild bijna geen vissen meer over zijn.",
+                "rewritten_sentences": "Soms vangen mensen te veel vissen. Dan zijn er bijna geen vissen meer over.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_9",
+                        "reason_for_change": "De zin is gesplitst in twee kortere zinnen om de afhankelijkheidslengte en het aantal contentwoorden per deelzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Soms wordt er namelijk zoveel van \u00e9\u00e9n soort gevangen dat er in het wild bijna geen vissen meer over zijn.",
+                        "new_text": "Soms vangen mensen te veel vissen. Dan zijn er bijna geen vissen meer over.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Tonijn is zo'n voorbeeld.",
+                "rewritten_sentences": "Tonijn is zo'n voorbeeld.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Mensen wilden dat zo graag eten dat de vissers meer en meer gingen vangen om aan de vraag te voldoen.",
+                "rewritten_sentences": "Mensen wilden die vis graag eten. Vissers vingen daarom steeds meer vis.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_10",
+                        "reason_for_change": "Het splitsen van de zin en het vervangen van de constructie 'om aan de vraag te voldoen' verlaagt de syntactische complexiteit.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Mensen wilden dat zo graag eten dat de vissers meer en meer gingen vangen om aan de vraag te voldoen.",
+                        "new_text": "Mensen wilden die vis graag eten. Vissers vingen daarom steeds meer vis.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daardoor zwom er bijna geen tonijn meer in zee.",
+                "rewritten_sentences": "Daarom was er bijna geen tonijn meer in de zee.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_11",
+                        "reason_for_change": "'Daarom' en 'was' zijn frequenter dan 'Daardoor' en 'zwom'. Het toevoegen van 'de' maakt 'zee' concreter in context.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Daardoor zwom er bijna geen tonijn meer in zee",
+                        "new_text": "Daarom was er bijna geen tonijn meer in de zee",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Europese Unie heeft vervolgens regels voor de Europese zee\u00ebn opgesteld om te voorkomen dat de vis uitsterft: driekwart van de zee\u00ebn is namelijk overbevist.",
+                "rewritten_sentences": "De Europese Unie maakte regels voor de zee. Zo sterft de vis niet uit.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_12",
+                        "reason_for_change": "De zin is drastisch ingekort en gesplitst; moeilijke termen zoals 'overbevist' zijn verwijderd om de score te verlagen.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "De Europese Unie heeft vervolgens regels voor de Europese zee\u00ebn opgesteld om te voorkomen dat de vis uitsterft: driekwart van de zee\u00ebn is namelijk overbevist.",
+                        "new_text": "De Europese Unie maakte regels voor de zee. Zo sterft de vis niet uit.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vind je dit belangrijk?",
+                "rewritten_sentences": "Vind jij dit belangrijk?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_13",
+                        "reason_for_change": "Gebruik van het persoonlijk voornaamwoord 'jij' kan de score be\u00efnvloeden door hogere nadruk en concreetheid in de dialoog.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "je",
+                        "new_text": "jij",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En wil je hier iets aan doen?",
+                "rewritten_sentences": "Wil jij hier iets aan doen?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_14",
+                        "reason_for_change": "Verwijderen van het voegwoord 'En' aan het begin en gebruik van 'jij' voor directheid.",
+                        "start_word": 0,
+                        "end_word": 2,
+                        "original_text": "En wil je",
+                        "new_text": "Wil jij",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kies dan in de winkel voor vlees en vis met een keurmerk dat aangeeft dat de dieren een beter leven hebben gehad of duurzaam gevangen zijn.",
+                "rewritten_sentences": "Kies in de winkel voor vlees met een keurmerk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_15",
+                        "reason_for_change": "De zin is ingekort door de complexe bijzinnen te verwijderen, wat de contentwoorden per deelzin aanzienlijk verlaagt.",
+                        "start_word": 0,
+                        "end_word": 25,
+                        "original_text": "Kies dan in de winkel voor vlees en vis met een keurmerk dat aangeeft dat de dieren een beter leven hebben gehad of duurzaam gevangen zijn.",
+                        "new_text": "Kies in de winkel voor vlees met een keurmerk.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je herkent zo'n keurmerk meestal aan een speciale sticker of afbeelding op de verpakking.",
+                "rewritten_sentences": "Je ziet dit keurmerk aan de sticker op de doos.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_16",
+                        "reason_for_change": "'Ziet' en 'doos' hebben een hogere frequentie en zijn concreter dan 'herkent' en 'verpakking'.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "herkent zo'n keurmerk meestal aan een speciale sticker of afbeelding op de verpakking",
+                        "new_text": "ziet dit keurmerk aan de sticker op de doos",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar hangt vaak wel een prijskaartje aan, maar je zorgt er zo voor dat dieren beter worden behandeld - ze krijgen bijvoorbeeld beter voer en meer ruimte - en dat soorten niet uitsterven.",
+                "rewritten_sentences": "Het is duurder, maar beter voor de dieren. Ze krijgen meer ruimte en goed voer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_17",
+                        "reason_for_change": "Splitsen van een zeer lange zin in korte, krachtige zinnen verlaagt de afhankelijkheidslengte en het aantal contentwoorden.",
+                        "start_word": 0,
+                        "end_word": 33,
+                        "original_text": "Daar hangt vaak wel een prijskaartje aan, maar je zorgt er zo voor dat dieren beter worden behandeld - ze krijgen bijvoorbeeld beter voer en meer ruimte - en dat soorten niet uitsterven.",
+                        "new_text": "Het is duurder, maar beter voor de dieren. Ze krijgen meer ruimte en goed voer.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "'Fair trade', dat 'eerlijke handel' betekent, zorgt ervoor dat boeren uit ontwikkelingslanden een eerlijk loon ontvangen.",
+                "rewritten_sentences": "Fair trade betekent eerlijke handel. Boeren krijgen dan een goed loon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_18",
+                        "reason_for_change": "Het verwijderen van de tussenwerpsels en het woord 'ontwikkelingslanden' (laag frequent) vereenvoudigt de tekst.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "'Fair trade', dat 'eerlijke handel' betekent, zorgt ervoor dat boeren uit ontwikkelingslanden een eerlijk loon ontvangen.",
+                        "new_text": "Fair trade betekent eerlijke handel. Boeren krijgen dan een goed loon.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ze krijgen namelijk vaak te weinig betaald om van te leven.",
+                "rewritten_sentences": "Ze krijgen vaak te weinig geld om van te leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_19",
+                        "reason_for_change": "'Geld' is een concreet zelfstandig naamwoord dat 'betaald' (werkwoordvorm) vervangt.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "betaald",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het Max Havelaar-Fair trade keurmerk kun je vinden op bananen, maar ook op koffie, thee en chocola.",
+                "rewritten_sentences": "Je vindt het keurmerk op bananen, koffie en chocola.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "rev_20",
+                        "reason_for_change": "Inkorting van de naam en herstructurering van de zin om de afhankelijkheidslengte te verkleinen.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Het Max Havelaar-Fair trade keurmerk kun je vinden op bananen, maar ook op koffie, thee en chocola.",
+                        "new_text": "Je vindt het keurmerk op bananen, koffie en chocola.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatief",
+        "full_text": "De wereld achter het eten. 750 kopjes thee, 60 kilo brood en bijna 80 pond vlees; in totaal ongeveer 788 kilo voedsel. Dat is wat Nederlanders gemiddeld per jaar consumeren! En we verspillen per jaar ook nog eens vijftig kilo eten per persoon. Dat is niet goed. Want eten moet je opeten! Waar komt ons eten vandaan? Wat is er met de aardbei gebeurd? Of welke weg het stukje vlees op je bord heeft afgelegd? Bij het kopen van eten kun je op een heleboel dingen letten. Je kunt altijd kiezen voor het goedkoopste vlees. Maar dat is niet altijd het beste voor het milieu en de omgeving om ons heen. Er zijn speciale verpakkingen van voedsel waarop staat dat de inhoud ervan 'duurzaam gevangen' of '100% fair trade' is. Wat betekent dat nu? Duurzaam vissen betekent dat men let op de visstand. Soms vangen mensen te veel vissen. Dan zijn er bijna geen vissen meer over. Tonijn is zo'n voorbeeld. Mensen wilden die vis graag eten. Vissers vingen daarom steeds meer vis. Daarom was er bijna geen tonijn meer in de zee. De Europese Unie maakte regels voor de zee. Zo sterft de vis niet uit. Vind jij dit belangrijk? Wil jij hier iets aan doen? Kies in de winkel voor vlees met een keurmerk. Je ziet dit keurmerk aan de sticker op de doos. Het is duurder, maar beter voor de dieren. Ze krijgen meer ruimte en goed voer. Fair trade betekent eerlijke handel. Boeren krijgen dan een goed loon. Ze krijgen vaak te weinig geld om van te leven. Je vindt het keurmerk op bananen, koffie en chocola.",
+        "prompt_id": "T37_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:49:20.532251"
+}

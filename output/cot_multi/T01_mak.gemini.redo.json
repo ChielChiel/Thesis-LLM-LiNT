@@ -1,0 +1,354 @@
+{
+    "prompt_id": "T01_mak",
+    "Org - text": "Internationaal Monetair Fonds\n\nEen orgaan dat nauw is betrokken bij de verbetering van de wereldhandelsstructuur, is het in 1994 opgerichte Internationaal Monetair Fonds (IMF). Net als de WTO organiseert het IMF regelmatig internationaal overleg en publiceert het regelmatig gegevens en voorspellingen over de wereldeconomie. De belangrijkste taak van het IMF is leningen verstrekken aan landen met een langdurig tekort op de betalingsbalans. De middelen daarvoor komen uit een fonds. (Een fonds is in dit geval een 'potje' met geld voor een bepaald doel). Daarin storten de lidstaten van het IMF geld.\n\nEen langdurig tekort op de betalingsbalans ontstaat als een land gedurende lange tijd meer in- dan uitvoert. Het IMF biedt deze landen een lening aan. Aan de leningen zijn voorwaarden verbonden. Landen moeten het gebruiken om hun productiestructuur te verbeteren en zo toekomstige betalingsbalanstekorten zien te voorkomen. Daarnaast moeten ze een plan voorleggen aan het IMF waarin staat hoe ze dat doel denken te bereiken. Als de productiestructuur inderdaad verbetert, kan het land op de wereldmarkt beter concurreren met andere landen. Daardoor kan de export van het land stijgen en de import van het land afnemen. Zodoende kan het tekort op de betalingsbalans verminderen en uiteindelijk verdwijnen.\n\nNet als de WTO draagt het IMF bij tot de instandhouding van de wereldhandel. Landen met een langdurig tekort op de betalingsbalans hebben namelijk te weinig offici\u00eble reserves om noodzakelijke goederen te importeren. Dankzij de leningen van het IMF kunnen ze geld blijven besteden bij andere landen. Landen als Rusland en de Oekra\u00efne hebben de afgelopen jaren enorme bedragen bij het IMF geleend. Naast landen in Oost-Europa gebruiken vooral ontwikkelingslanden de kredieten van het IMF. Inmiddels is de schuld van een aantal van deze landen aan het IMF enorm hoog geworden. We kunnen dan ook spreken van een schuldencrisis. Regelmatig regelt het IMF daarom dat hun schulden worden kwijtgescholden en/of verminderd.",
+    "Org - lint": "51",
+    "Org - sent": "67, 65, 66, 46, 31, 47, 44, 46, 54, 32, 39, 61, 54, 68, 88, 35, 60, 43, 50, 25, 64",
+    "Gemini/gemini-3-flash-preview - text": "Het IMF is een groep. Het helpt de handel in de wereld. Het is opgericht in 1994. Het IMF praat vaak met landen. Het deelt ook nieuws over de economie. Het IMF geeft geld aan landen. Dit doen ze bij een tekort aan geld. Dit geld komt uit een pot. (Een fonds is in dit geval een 'potje' met geld voor een bepaald doel). De landen stoppen geld in de pot. Er is een tekort als een land te veel koopt. Het IMF geeft het land dan geld. Er zijn regels voor het geld. Landen moeten het gebruiken om hun productiestructuur te verbeteren en zo toekomstige betalingsbalanstekorten zien te voorkomen. Ze maken een plan voor het doel. Gaat het werk beter? Dan verkoopt het land meer spullen. De verkoop gaat omhoog. De inkoop gaat omlaag. Het tekort gaat zo weg. Het IMF helpt de handel. De WTO doet dit ook. Landen met weinig geld kopen geen spullen. Met geld van het IMF kopen ze weer spullen. Rusland en de Oekra\u00efne leenden veel geld bij het IMF. Arme landen lenen vaak geld van het IMF. Inmiddels is de schuld van een aantal van deze landen aan het IMF enorm hoog geworden. Er is nu een crisis door de schuld. Het IMF maakt de schuld soms lager.",
+    "Gemini/gemini-3-flash-preview - lint": "25",
+    "Gemini/gemini-3-flash-preview - sent": "28, 28, 17, 43, 13, 22, 11, 46, 18, 18, 15, 12, 54, 25, 11, 18, 14, 31, 20, 32, 21, 40, 28, 50, 23, 32",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Een orgaan dat nauw is betrokken bij de verbetering van de wereldhandelsstructuur, is het in 1994 opgerichte Internationaal Monetair Fonds (IMF).",
+                "rewritten_sentences": "Het IMF is een groep. Het helpt de handel in de wereld. Het is opgericht in 1994.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vervangen van abstracte termen door concretere en frequentere woorden en de zin opsplitsen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Een orgaan dat nauw is betrokken bij de verbetering van de wereldhandelsstructuur",
+                        "new_text": "Het IMF is een groep. Het helpt de handel in de wereld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Splitsen van de zin om de afhankelijkheidslengte te verlagen.",
+                        "start_word": 12,
+                        "end_word": 21,
+                        "original_text": ", is het in 1994 opgerichte Internationaal Monetair Fonds (IMF)",
+                        "new_text": ". Het is opgericht in 1994",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Net als de WTO organiseert het IMF regelmatig internationaal overleg en publiceert het regelmatig gegevens en voorspellingen over de wereldeconomie.",
+                "rewritten_sentences": "Het IMF praat vaak met landen. Het deelt ook nieuws over de economie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Complexe woorden zoals 'organiseert' en 'overleg' vervangen door frequentere woorden.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Net als de WTO organiseert het IMF regelmatig internationaal overleg",
+                        "new_text": "Het IMF praat vaak met landen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Lange opsomming verwijderen en de zin splitsen om contentwoorden per deelzin te verlagen.",
+                        "start_word": 10,
+                        "end_word": 19,
+                        "original_text": "en publiceert het regelmatig gegevens en voorspellingen over de wereldeconomie",
+                        "new_text": ". Het deelt ook nieuws over de economie",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De belangrijkste taak van het IMF is leningen verstrekken aan landen met een langdurig tekort op de betalingsbalans.",
+                "rewritten_sentences": "Het IMF geeft geld aan landen. Dit doen ze bij een tekort aan geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vervangen van 'leningen verstrekken' door het concretere 'geld'.",
+                        "start_word": 7,
+                        "end_word": 8,
+                        "original_text": "leningen verstrekken",
+                        "new_text": "geeft geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Vervangen van de abstracte term 'betalingsbalans' door 'geld'.",
+                        "start_word": 11,
+                        "end_word": 17,
+                        "original_text": "met een langdurig tekort op de betalingsbalans",
+                        "new_text": ". Dit doen ze bij een tekort aan geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De middelen daarvoor komen uit een fonds.",
+                "rewritten_sentences": "Dit geld komt uit een pot.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vervangen van 'middelen' en 'fonds' door frequentere en concretere woorden.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "middelen daarvoor komen uit een fonds",
+                        "new_text": "geld komt uit een pot",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "(Een fonds is in dit geval een 'potje' met geld voor een bepaald doel).",
+                "rewritten_sentences": "(Een fonds is in dit geval een 'potje' met geld voor een bepaald doel).",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Daarin storten de lidstaten van het IMF geld.",
+                "rewritten_sentences": "De landen stoppen geld in de pot.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Vervangen van 'lidstaten' door het frequentere 'landen'.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "lidstaten",
+                        "new_text": "landen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vervangen van 'storten' door het frequentere 'stoppen'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "storten",
+                        "new_text": "stoppen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een langdurig tekort op de betalingsbalans ontstaat als een land gedurende lange tijd meer in- dan uitvoert.",
+                "rewritten_sentences": "Er is een tekort als een land te veel koopt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Versimpelen van de uitleg over import en export door frequentere woorden te gebruiken.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Een langdurig tekort op de betalingsbalans ontstaat als een land gedurende lange tijd meer in- dan uitvoert",
+                        "new_text": "Er is een tekort als een land te veel koopt",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het IMF biedt deze landen een lening aan.",
+                "rewritten_sentences": "Het IMF geeft het land dan geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Vervangen van 'lening' door het concretere 'geld'.",
+                        "start_word": 2,
+                        "end_word": 7,
+                        "original_text": "biedt deze landen een lening aan",
+                        "new_text": "geeft het land dan geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Aan de leningen zijn voorwaarden verbonden.",
+                "rewritten_sentences": "Er zijn regels voor het geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vervangen van abstracte termen 'voorwaarden verbonden' door 'regels'.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Aan de leningen zijn voorwaarden verbonden",
+                        "new_text": "Er zijn regels voor het geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Landen moeten het gebruiken om hun productiestructuur te verbeteren en zo toekomstige betalingsbalanstekorten zien te voorkomen.",
+                "rewritten_sentences": "Landen moeten het gebruiken om hun productiestructuur te verbeteren en zo toekomstige betalingsbalanstekorten zien te voorkomen.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Daarnaast moeten ze een plan voorleggen aan het IMF waarin staat hoe ze dat doel denken te bereiken.",
+                "rewritten_sentences": "Ze maken een plan voor het doel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Zin inkorten en complexe werkwoorden verwijderen.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Daarnaast moeten ze een plan voorleggen aan het IMF waarin staat hoe ze dat doel denken te bereiken",
+                        "new_text": "Ze maken een plan voor het doel",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de productiestructuur inderdaad verbetert, kan het land op de wereldmarkt beter concurreren met andere landen.",
+                "rewritten_sentences": "Gaat het werk beter? Dan verkoopt het land meer spullen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Vervangen van 'productiestructuur' en 'concurreren' door eenvoudige concepten.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Als de productiestructuur inderdaad verbetert, kan het land op de wereldmarkt beter concurreren met andere landen",
+                        "new_text": "Gaat het werk beter? Dan verkoopt het land meer spullen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daardoor kan de export van het land stijgen en de import van het land afnemen.",
+                "rewritten_sentences": "De verkoop gaat omhoog. De inkoop gaat omlaag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vervangen van 'export' en 'import' door 'verkoop' en 'inkoop'.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Daardoor kan de export van het land stijgen en de import van het land afnemen",
+                        "new_text": "De verkoop gaat omhoog. De inkoop gaat omlaag",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zodoende kan het tekort op de betalingsbalans verminderen en uiteindelijk verdwijnen.",
+                "rewritten_sentences": "Het tekort gaat zo weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Zin drastisch inkorten en abstracte werkwoorden verwijderen.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Zodoende kan het tekort op de betalingsbalans verminderen en uiteindelijk verdwijnen",
+                        "new_text": "Het tekort gaat zo weg",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Net als de WTO draagt het IMF bij tot de instandhouding van de wereldhandel.",
+                "rewritten_sentences": "Het IMF helpt de handel. De WTO doet dit ook.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Vervangen van 'instandhouding' door 'helpt' en zin opsplitsen.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Net als de WTO draagt het IMF bij tot de instandhouding van de wereldhandel",
+                        "new_text": "Het IMF helpt de handel. De WTO doet dit ook",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Landen met een langdurig tekort op de betalingsbalans hebben namelijk te weinig offici\u00eble reserves om noodzakelijke goederen te importeren.",
+                "rewritten_sentences": "Landen met weinig geld kopen geen spullen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Vervangen van 'reserves' en 'goederen' door 'geld' en 'spullen'.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Landen met een langdurig tekort op de betalingsbalans hebben namelijk te weinig offici\u00eble reserves om noodzakelijke goederen te importeren",
+                        "new_text": "Landen met weinig geld kopen geen spullen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dankzij de leningen van het IMF kunnen ze geld blijven besteden bij andere landen.",
+                "rewritten_sentences": "Met geld van het IMF kopen ze weer spullen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Vervangen van 'leningen' en 'besteden' door 'geld' en 'kopen'.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Dankzij de leningen van het IMF kunnen ze geld blijven besteden bij andere landen",
+                        "new_text": "Met geld van het IMF kopen ze weer spullen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Landen als Rusland en de Oekra\u00efne hebben de afgelopen jaren enorme bedragen bij het IMF geleend.",
+                "rewritten_sentences": "Rusland en de Oekra\u00efne leenden veel geld bij het IMF.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Verwijderen van 'de afgelopen jaren' en 'enorme bedragen' om contentwoorden te verlagen.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Landen als Rusland en de Oekra\u00efne hebben de afgelopen jaren enorme bedragen bij het IMF geleend",
+                        "new_text": "Rusland en de Oekra\u00efne leenden veel geld bij het IMF",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Naast landen in Oost-Europa gebruiken vooral ontwikkelingslanden de kredieten van het IMF.",
+                "rewritten_sentences": "Arme landen lenen vaak geld van het IMF.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Vervangen van 'ontwikkelingslanden' door 'arme landen' en 'kredieten' door 'geld'.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Naast landen in Oost-Europa gebruiken vooral ontwikkelingslanden de kredieten van het IMF",
+                        "new_text": "Arme landen lenen vaak geld van het IMF",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Inmiddels is de schuld van een aantal van deze landen aan het IMF enorm hoog geworden.",
+                "rewritten_sentences": "Inmiddels is de schuld van een aantal van deze landen aan het IMF enorm hoog geworden.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "We kunnen dan ook spreken van een schuldencrisis.",
+                "rewritten_sentences": "Er is nu een crisis door de schuld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Vervangen van abstracte zin door concretere woorden.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "We kunnen dan ook spreken van een schuldencrisis",
+                        "new_text": "Er is nu een crisis door de schuld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Regelmatig regelt het IMF daarom dat hun schulden worden kwijtgescholden en/of verminderd.",
+                "rewritten_sentences": "Het IMF maakt de schuld soms lager.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Vervangen van 'kwijtgescholden' door 'lager maken'.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Regelmatig regelt het IMF daarom dat hun schulden worden kwijtgescholden en/of verminderd",
+                        "new_text": "Het IMF maakt de schuld soms lager",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Educatieve tekst over economie",
+        "full_text": "Het IMF is een groep. Het helpt de handel in de wereld. Het is opgericht in 1994. Het IMF praat vaak met landen. Het deelt ook nieuws over de economie. Het IMF geeft geld aan landen. Dit doen ze bij een tekort aan geld. Dit geld komt uit een pot. (Een fonds is in dit geval een 'potje' met geld voor een bepaald doel). De landen stoppen geld in de pot. Er is een tekort als een land te veel koopt. Het IMF geeft het land dan geld. Er zijn regels voor het geld. Landen moeten het gebruiken om hun productiestructuur te verbeteren en zo toekomstige betalingsbalanstekorten zien te voorkomen. Ze maken een plan voor het doel. Gaat het werk beter? Dan verkoopt het land meer spullen. De verkoop gaat omhoog. De inkoop gaat omlaag. Het tekort gaat zo weg. Het IMF helpt de handel. De WTO doet dit ook. Landen met weinig geld kopen geen spullen. Met geld van het IMF kopen ze weer spullen. Rusland en de Oekra\u00efne leenden veel geld bij het IMF. Arme landen lenen vaak geld van het IMF. Inmiddels is de schuld van een aantal van deze landen aan het IMF enorm hoog geworden. Er is nu een crisis door de schuld. Het IMF maakt de schuld soms lager.",
+        "prompt_id": "T01_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:48:05.978950"
+}

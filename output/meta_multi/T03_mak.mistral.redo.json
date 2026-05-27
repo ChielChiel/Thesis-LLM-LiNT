@@ -1,0 +1,513 @@
+{
+    "prompt_id": "T03_mak",
+    "Org - text": "Steden in de late middeleeuwen\n\nIn de late middeleeuwen zien we steeds meer steden in Europa. Dat heeft veel te maken met de toegenomen handel. Handelaren vormden namelijk handelsgemeenschappen op plaatsen waar relatief rijke afnemers zaten, zoals een adellijk hof, een militaire vesting of een klooster. Ook vestigden ze zich op plaatsen die aan een waterweg of op een kruispunt van handelsroutes lagen. Want die plaatsen waren goed bereikbaar. Deze handelsgemeenschappen trokken vervolgens ambachtslieden aan: die konden hier immers gemakkelijk aan grondstoffen komen om meubels te timmeren, paarden te beslaan of kleding te maken. Bovendien konden ze hun waren hier gemakkelijker afzetten dan op het platteland.\n\nIn het begin waren deze gemeenschappen eenvoudige nederzettingen met handelaren en ambachtslieden. Maar dat veranderde toen de bewoners begonnen te onderhandelen met de landsheer - de koning, graaf of bisschop in het gebied. Zij vroegen daarbij om speciale voorrechten of privileges, zoals het recht om een (jaar)markt te houden of de eigen rechtspraak te regelen. Een ander privilege was tolvrijheid: daarbij hoefden de kooplieden geen belasting (tol) meer te betalen als ze hun handelswaar door het gebied van de heer vervoerden. En ten slotte vroegen veel plaatsen om het recht een verdedigingsmuur om hun nederzetting te leggen. Als zij een aantal van dit soort rechten kregen, spreken we van stadsrecht. Veel landsheren waren geneigd stadsrecht te verlenen, omdat zij er iets voor terugkregen: belastingen en militaire steun.\n\nEen stad met stadsrechten was relatief onafhankelijk van de heer. Zo'n stad kon namelijk eigen wetten maken. Daarvoor moest men wel duidelijk maken wie tot de stad behoorde en wie er de baas was. In een middeleeuwse stad werd onderscheid gemaakt tussen verschillende groepen bewoners. De voornaamste inwoners waren de mensen met burgerrecht: als zij iets hadden misdreven, werden zij door hun stadsgenoten berecht. Daarnaast kwamen zij officieel in aanmerking voor bestuursambten. Mensen met burgerrecht vormden samen de burgerij. Binnen deze groep ontstond meestal een aantal rijke en machtige families die de belangrijkste bestuursfuncties vervulde. Zij werden de patrici\u00ebrs genoemd. Eerst waren dat vooral kooplieden, later drongen ook ambachtslieden tot deze groep door. Ten slotte waren er ook altijd mensen zonder burgerrecht, veelal armere, ongeschoolde arbeiders, die bijvoorbeeld het sjouwwerk deden. Vaak waren dit mensen die voor het werk op het platteland niet meer nodig waren en daarom naar de stad trokken. Overigens was er voor deze mensen vaak de mogelijkheid om tot de burgerij toe te treden, bijvoorbeeld door een huwelijk of door het betalen van een geldsom.",
+    "Org - lint": "42",
+    "Org - sent": "29, 26, 78, 42, 21, 24, 33, 22, 47, 43, 64, 37, 50, 56, 39, 57, 33, 16, 20, 43, 49, 48, 35, 46, 39, 32, 38, 29, 75",
+    "Mistral/ministral-14b-latest - text": "In de late middeleeuwen groeide het aantal steden in Europa. Dit kwam vooral door de toenemende handel. Handelaren richtten gemeenschappen op. Ze kozen voor plekken met veel rijke klanten, zoals kastelen, forten of kloosters. Ze kozen ook voor locaties langs rivieren of waar handelswegen elkaar kruisten. Deze plekken waren makkelijk te bereiken. Hierdoor kwamen ook ambachtslieden naar deze gemeenschappen. Zij hadden hier makkelijk toegang tot materialen. Zo konden ze meubels maken, paarden hoeven of kleding naaien. Daarnaast verkochten ze hun producten hier makkelijker dan op het platteland. Eerst waren deze gemeenschappen kleine dorpen met handelaren en ambachtslieden. Later begonnen de mensen te praten met de lokale heerser. Dat was de koning, graaf of bisschop. De mensen vroegen om speciale rechten. Bijvoorbeeld het houden van markten of hun eigen rechtspraak organiseren. Een ander voordeel was dat kooplieden geen tol hoefden te betalen. Dit gold als ze goederen door het gebied vervoerden. Daarnaast wilden veel dorpen een muur om hun gebied bouwen. Als een plaats deze rechten kreeg, noemden we dat stadsrecht. Veel heersers gaven graag stadsrechten. Zij kregen er belastingen en hulp bij oorlogen voor terug. Steden met stadsrechten waren minder afhankelijk van de heerser. Zo konden steden hun eigen regels maken. Maar eerst moesten ze bepalen wie erbij hoorde en wie leiding gaf. In middeleeuwse steden waren er verschillende groepen inwoners. De belangrijkste groep was de burgerij. Zij hadden speciale rechten. Als ze iets fout deden, werden ze door de stad berecht. Bovendien konden ze offici\u00eble functies in de stad krijgen. De mensen met burgerrecht vormden de burgerij. In deze groep waren vaak rijke families. Zij hadden de belangrijkste posities in de stad. Deze families heetten patrici\u00ebrs. Eerst waren het vooral kooplieden. Later kwamen ook ambachtslieden bij deze groep. Daarnaast waren er mensen zonder burgerrecht. Dit waren vaak arme, ongeschoolde arbeiders. Zij deden zware klussen. Vaak kwamen deze mensen van het platteland. Zij hadden daar geen werk meer en gingen naar de stad. Soms konden deze mensen wel lid van de burgerij worden. Bijvoorbeeld door te trouwen of geld te betalen.",
+    "Mistral/ministral-14b-latest - lint": "33",
+    "Mistral/ministral-14b-latest - sent": "41, 31, 54, 61, 52, 35, 29, 38, 14, 39, 37, 19, 26, 21, 53, 43, 55, 38, 32, 31, 49, 36, 25, 32, 37, 44, 28, 26, 32, 37, 29, 25, 40, 50, 17, 7, 32, 30, 4, 15, 38",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "In de late middeleeuwen zien we steeds meer steden in Europa. Dat heeft veel te maken met de toegenomen handel.",
+                "rewritten_sentences": "In de late middeleeuwen groeide het aantal steden in Europa. Dit kwam vooral door de toenemende handel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_1_change_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('steden' \u2192 'het aantal steden') en verlaagde inhoudswoorden per deelzin door splitsing.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "In de late middeleeuwen zien we steeds meer steden in Europa.",
+                        "new_text": "In de late middeleeuwen groeide het aantal steden in Europa.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "sentence_1_change_2",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door herformulering van de oorzaak.",
+                        "start_word": 11,
+                        "end_word": 21,
+                        "original_text": "Dat heeft veel te maken met de toegenomen handel.",
+                        "new_text": "Dit kwam vooral door de toenemende handel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Handelaren vormden namelijk handelsgemeenschappen op plaatsen waar relatief rijke afnemers zaten, zoals een adellijk hof, een militaire vesting of een klooster.",
+                "rewritten_sentences": "Handelaren richtten gemeenschappen op. Ze kozen voor plekken met veel rijke klanten, zoals kastelen, forten of kloosters.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_2_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Handelaren vormden namelijk handelsgemeenschappen op plaatsen waar relatief rijke afnemers zaten,",
+                        "new_text": "Handelaren richtten gemeenschappen op. Ze kozen voor plekken met veel rijke klanten,",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_2_change_2",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('adellijk hof' \u2192 'kastelen', 'militaire vesting' \u2192 'forten').",
+                        "start_word": 13,
+                        "end_word": 26,
+                        "original_text": "zoals een adellijk hof, een militaire vesting of een klooster.",
+                        "new_text": "zoals kastelen, forten of kloosters.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook vestigden ze zich op plaatsen die aan een waterweg of op een kruispunt van handelsroutes lagen. Want die plaatsen waren goed bereikbaar.",
+                "rewritten_sentences": "Ze kozen ook voor locaties langs rivieren of waar handelswegen elkaar kruisten. Deze plekken waren makkelijk te bereiken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_3_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Ook vestigden ze zich op plaatsen die aan een waterweg of op een kruispunt van handelsroutes lagen.",
+                        "new_text": "Ze kozen ook voor locaties langs rivieren of waar handelswegen elkaar kruisten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_3_change_2",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door herformulering.",
+                        "start_word": 18,
+                        "end_word": 27,
+                        "original_text": "Want die plaatsen waren goed bereikbaar.",
+                        "new_text": "Deze plekken waren makkelijk te bereiken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Deze handelsgemeenschappen trokken vervolgens ambachtslieden aan: die konden hier immers gemakkelijk aan grondstoffen komen om meubels te timmeren, paarden te beslaan of kleding te maken.",
+                "rewritten_sentences": "Hierdoor kwamen ook ambachtslieden naar deze gemeenschappen. Zij hadden hier makkelijk toegang tot materialen. Zo konden ze meubels maken, paarden hoeven of kleding naaien.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_4_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Deze handelsgemeenschappen trokken vervolgens ambachtslieden aan:",
+                        "new_text": "Hierdoor kwamen ook ambachtslieden naar deze gemeenschappen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_4_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door splitsing en concrete acties benoemen.",
+                        "start_word": 19,
+                        "end_word": 39,
+                        "original_text": "die konden hier immers gemakkelijk aan grondstoffen komen om meubels te timmeren, paarden te beslaan of kleding te maken.",
+                        "new_text": "Zij hadden hier makkelijk toegang tot materialen. Zo konden ze meubels maken, paarden hoeven of kleding naaien.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bovendien konden ze hun waren hier gemakkelijker afzetten dan op het platteland.",
+                "rewritten_sentences": "Daarnaast verkochten ze hun producten hier makkelijker dan op het platteland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_5_change_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('waren' \u2192 'producten') en verlaagde afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Bovendien konden ze hun waren hier gemakkelijker afzetten dan op het platteland.",
+                        "new_text": "Daarnaast verkochten ze hun producten hier makkelijker dan op het platteland.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In het begin waren deze gemeenschappen eenvoudige nederzettingen met handelaren en ambachtslieden.",
+                "rewritten_sentences": "Eerst waren deze gemeenschappen kleine dorpen met handelaren en ambachtslieden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_6_change_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('nederzettingen' \u2192 'dorpen') en verlaagde inhoudswoorden per deelzin.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "In het begin waren deze gemeenschappen eenvoudige nederzettingen met handelaren en ambachtslieden.",
+                        "new_text": "Eerst waren deze gemeenschappen kleine dorpen met handelaren en ambachtslieden.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar dat veranderde toen de bewoners begonnen te onderhandelen met de landsheer - de koning, graaf of bisschop in het gebied.",
+                "rewritten_sentences": "Later begonnen de mensen te praten met de lokale heerser. Dat was de koning, graaf of bisschop.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_7_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Maar dat veranderde toen de bewoners begonnen te onderhandelen met de landsheer -",
+                        "new_text": "Later begonnen de mensen te praten met de lokale heerser.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_7_change_2",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('landsheer' \u2192 'lokale heerser').",
+                        "start_word": 18,
+                        "end_word": 29,
+                        "original_text": "de koning, graaf of bisschop in het gebied.",
+                        "new_text": "Dat was de koning, graaf of bisschop.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zij vroegen daarbij om speciale voorrechten of privileges, zoals het recht om een (jaar)markt te houden of de eigen rechtspraak te regelen.",
+                "rewritten_sentences": "De mensen vroegen om speciale rechten. Bijvoorbeeld het houden van markten of hun eigen rechtspraak organiseren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_8_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Zij vroegen daarbij om speciale voorrechten of privileges,",
+                        "new_text": "De mensen vroegen om speciale rechten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_8_change_2",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('rechtspraak te regelen' \u2192 'rechtspraak organiseren').",
+                        "start_word": 13,
+                        "end_word": 31,
+                        "original_text": "zoals het recht om een (jaar)markt te houden of de eigen rechtspraak te regelen.",
+                        "new_text": "Bijvoorbeeld het houden van markten of hun eigen rechtspraak organiseren.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een ander privilege was tolvrijheid: daarbij hoefden de kooplieden geen belasting (tol) meer te betalen als ze hun handelswaar door het gebied van de heer vervoerden.",
+                "rewritten_sentences": "Een ander voordeel was dat kooplieden geen tol hoefden te betalen. Dit gold als ze goederen door het gebied vervoerden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_9_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Een ander privilege was tolvrijheid:",
+                        "new_text": "Een ander voordeel was dat kooplieden geen tol hoefden te betalen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_9_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 13,
+                        "end_word": 31,
+                        "original_text": "daarbij hoefden de kooplieden geen belasting (tol) meer te betalen als ze hun handelswaar door het gebied van de heer vervoerden.",
+                        "new_text": "Dit gold als ze goederen door het gebied vervoerden.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En ten slotte vroegen veel plaatsen om het recht een verdedigingsmuur om hun nederzetting te leggen.",
+                "rewritten_sentences": "Daarnaast wilden veel dorpen een muur om hun gebied bouwen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_10_change_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('nederzetting' \u2192 'gebied') en verlaagde afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "En ten slotte vroegen veel plaatsen om het recht een verdedigingsmuur om hun nederzetting te leggen.",
+                        "new_text": "Daarnaast wilden veel dorpen een muur om hun gebied bouwen.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als zij een aantal van dit soort rechten kregen, spreken we van stadsrecht.",
+                "rewritten_sentences": "Als een plaats deze rechten kreeg, noemden we dat stadsrecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_11_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Als zij een aantal van dit soort rechten kregen, spreken we van stadsrecht.",
+                        "new_text": "Als een plaats deze rechten kreeg, noemden we dat stadsrecht.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Veel landsheren waren geneigd stadsrecht te verlenen, omdat zij er iets voor terugkregen: belastingen en militaire steun.",
+                "rewritten_sentences": "Veel heersers gaven graag stadsrechten. Zij kregen er belastingen en hulp bij oorlogen voor terug.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_12_change_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('landsheren' \u2192 'heersers') en verlaagde afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Veel landsheren waren geneigd stadsrecht te verlenen,",
+                        "new_text": "Veel heersers gaven graag stadsrechten.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "sentence_12_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 19,
+                        "end_word": 37,
+                        "original_text": "omdat zij er iets voor terugkregen: belastingen en militaire steun.",
+                        "new_text": "Zij kregen er belastingen en hulp bij oorlogen voor terug.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een stad met stadsrechten was relatief onafhankelijk van de heer.",
+                "rewritten_sentences": "Steden met stadsrechten waren minder afhankelijk van de heerser.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_13_change_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('heer' \u2192 'heerser') en verlaagde afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Een stad met stadsrechten was relatief onafhankelijk van de heer.",
+                        "new_text": "Steden met stadsrechten waren minder afhankelijk van de heerser.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo'n stad kon namelijk eigen wetten maken. Daarvoor moest men wel duidelijk maken wie tot de stad behoorde en wie er de baas was.",
+                "rewritten_sentences": "Zo konden steden hun eigen regels maken. Maar eerst moesten ze bepalen wie erbij hoorde en wie leiding gaf.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_14_change_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('wetten' \u2192 'regels') en verlaagde afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Zo'n stad kon namelijk eigen wetten maken.",
+                        "new_text": "Zo konden steden hun eigen regels maken.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "sentence_14_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 13,
+                        "end_word": 30,
+                        "original_text": "Daarvoor moest men wel duidelijk maken wie tot de stad behoorde en wie er de baas was.",
+                        "new_text": "Maar eerst moesten ze bepalen wie erbij hoorde en wie leiding gaf.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In een middeleeuwse stad werd onderscheid gemaakt tussen verschillende groepen bewoners.",
+                "rewritten_sentences": "In middeleeuwse steden waren er verschillende groepen inwoners.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_15_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "In een middeleeuwse stad werd onderscheid gemaakt tussen verschillende groepen bewoners.",
+                        "new_text": "In middeleeuwse steden waren er verschillende groepen inwoners.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De voornaamste inwoners waren de mensen met burgerrecht: als zij iets hadden misdreven, werden zij door hun stadsgenoten berecht.",
+                "rewritten_sentences": "De belangrijkste groep was de burgerij. Zij hadden speciale rechten. Als ze iets fout deden, werden ze door de stad berecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_16_change_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('burgerrecht' \u2192 'burgerij') en verlaagde afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "De voornaamste inwoners waren de mensen met burgerrecht:",
+                        "new_text": "De belangrijkste groep was de burgerij.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "sentence_16_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 13,
+                        "end_word": 34,
+                        "original_text": "als zij iets hadden misdreven, werden zij door hun stadsgenoten berecht.",
+                        "new_text": "Zij hadden speciale rechten. Als ze iets fout deden, werden ze door de stad berecht.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarnaast kwamen zij officieel in aanmerking voor bestuursambten.",
+                "rewritten_sentences": "Bovendien konden ze offici\u00eble functies in de stad krijgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_17_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Daarnaast kwamen zij officieel in aanmerking voor bestuursambten.",
+                        "new_text": "Bovendien konden ze offici\u00eble functies in de stad krijgen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen met burgerrecht vormden samen de burgerij.",
+                "rewritten_sentences": "De mensen met burgerrecht vormden de burgerij.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_18_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Mensen met burgerrecht vormden samen de burgerij.",
+                        "new_text": "De mensen met burgerrecht vormden de burgerij.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Binnen deze groep ontstond meestal een aantal rijke en machtige families die de belangrijkste bestuursfuncties vervulde.",
+                "rewritten_sentences": "In deze groep waren vaak rijke families. Zij hadden de belangrijkste posities in de stad.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_19_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Binnen deze groep ontstond meestal een aantal rijke en machtige families die",
+                        "new_text": "In deze groep waren vaak rijke families.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_19_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 19,
+                        "end_word": 38,
+                        "original_text": "de belangrijkste bestuursfuncties vervulde.",
+                        "new_text": "Zij hadden de belangrijkste posities in de stad.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zij werden de patrici\u00ebrs genoemd.",
+                "rewritten_sentences": "Deze families heetten patrici\u00ebrs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_20_change_1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden ('patrici\u00ebrs' \u2192 'deze families') en verlaagde afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Zij werden de patrici\u00ebrs genoemd.",
+                        "new_text": "Deze families heetten patrici\u00ebrs.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Eerst waren dat vooral kooplieden, later drongen ook ambachtslieden tot deze groep door.",
+                "rewritten_sentences": "Eerst waren het vooral kooplieden. Later kwamen ook ambachtslieden bij deze groep.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_21_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Eerst waren dat vooral kooplieden,",
+                        "new_text": "Eerst waren het vooral kooplieden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_21_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 13,
+                        "end_word": 28,
+                        "original_text": "later drongen ook ambachtslieden tot deze groep door.",
+                        "new_text": "Later kwamen ook ambachtslieden bij deze groep.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ten slotte waren er ook altijd mensen zonder burgerrecht, veelal armere, ongeschoolde arbeiders, die bijvoorbeeld het sjouwwerk deden.",
+                "rewritten_sentences": "Daarnaast waren er mensen zonder burgerrecht. Dit waren vaak arme, ongeschoolde arbeiders. Zij deden zware klussen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_22_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Ten slotte waren er ook altijd mensen zonder burgerrecht,",
+                        "new_text": "Daarnaast waren er mensen zonder burgerrecht.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_22_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door splitsing en concrete acties benoemen.",
+                        "start_word": 13,
+                        "end_word": 34,
+                        "original_text": "veelal armere, ongeschoolde arbeiders, die bijvoorbeeld het sjouwwerk deden.",
+                        "new_text": "Dit waren vaak arme, ongeschoolde arbeiders. Zij deden zware klussen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vaak waren dit mensen die voor het werk op het platteland niet meer nodig waren en daarom naar de stad trokken.",
+                "rewritten_sentences": "Vaak kwamen deze mensen van het platteland. Zij hadden daar geen werk meer en gingen naar de stad.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_23_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door splitsing en vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Vaak waren dit mensen die voor het werk op het platteland niet meer nodig waren",
+                        "new_text": "Vaak kwamen deze mensen van het platteland.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_23_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 19,
+                        "end_word": 32,
+                        "original_text": "en daarom naar de stad trokken.",
+                        "new_text": "Zij hadden daar geen werk meer en gingen naar de stad.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Overigens was er voor deze mensen vaak de mogelijkheid om tot de burgerij toe te treden, bijvoorbeeld door een huwelijk of door het betalen van een geldsom.",
+                "rewritten_sentences": "Soms konden deze mensen wel lid van de burgerij worden. Bijvoorbeeld door te trouwen of geld te betalen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "sentence_24_change_1",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Overigens was er voor deze mensen vaak de mogelijkheid om tot de burgerij toe te treden,",
+                        "new_text": "Soms konden deze mensen wel lid van de burgerij worden,",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "sentence_24_change_2",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin door vereenvoudiging.",
+                        "start_word": 19,
+                        "end_word": 39,
+                        "original_text": "bijvoorbeeld door een huwelijk of door het betalen van een geldsom.",
+                        "new_text": "bijvoorbeeld door te trouwen of geld te betalen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "historisch",
+        "full_text": "In de late middeleeuwen groeide het aantal steden in Europa. Dit kwam vooral door de toenemende handel. Handelaren richtten gemeenschappen op. Ze kozen voor plekken met veel rijke klanten, zoals kastelen, forten of kloosters. Ze kozen ook voor locaties langs rivieren of waar handelswegen elkaar kruisten. Deze plekken waren makkelijk te bereiken. Hierdoor kwamen ook ambachtslieden naar deze gemeenschappen. Zij hadden hier makkelijk toegang tot materialen. Zo konden ze meubels maken, paarden hoeven of kleding naaien. Daarnaast verkochten ze hun producten hier makkelijker dan op het platteland. Eerst waren deze gemeenschappen kleine dorpen met handelaren en ambachtslieden. Later begonnen de mensen te praten met de lokale heerser. Dat was de koning, graaf of bisschop. De mensen vroegen om speciale rechten. Bijvoorbeeld het houden van markten of hun eigen rechtspraak organiseren. Een ander voordeel was dat kooplieden geen tol hoefden te betalen. Dit gold als ze goederen door het gebied vervoerden. Daarnaast wilden veel dorpen een muur om hun gebied bouwen. Als een plaats deze rechten kreeg, noemden we dat stadsrecht. Veel heersers gaven graag stadsrechten. Zij kregen er belastingen en hulp bij oorlogen voor terug. Steden met stadsrechten waren minder afhankelijk van de heerser. Zo konden steden hun eigen regels maken. Maar eerst moesten ze bepalen wie erbij hoorde en wie leiding gaf. In middeleeuwse steden waren er verschillende groepen inwoners. De belangrijkste groep was de burgerij. Zij hadden speciale rechten. Als ze iets fout deden, werden ze door de stad berecht. Bovendien konden ze offici\u00eble functies in de stad krijgen. De mensen met burgerrecht vormden de burgerij. In deze groep waren vaak rijke families. Zij hadden de belangrijkste posities in de stad. Deze families heetten patrici\u00ebrs. Eerst waren het vooral kooplieden. Later kwamen ook ambachtslieden bij deze groep. Daarnaast waren er mensen zonder burgerrecht. Dit waren vaak arme, ongeschoolde arbeiders. Zij deden zware klussen. Vaak kwamen deze mensen van het platteland. Zij hadden daar geen werk meer en gingen naar de stad. Soms konden deze mensen wel lid van de burgerij worden. Bijvoorbeeld door te trouwen of geld te betalen.",
+        "prompt_id": "T03_mak",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-05-27 18:30:48.137524"
+}

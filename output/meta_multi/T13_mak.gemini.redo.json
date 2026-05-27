@@ -1,0 +1,462 @@
+{
+    "prompt_id": "T13_mak",
+    "Org - text": "De eerste Kruistocht\n\nHet christendom is ontstaan in Palestina. Palestina hoorde lange tijd bij het Romeinse rijk. Daarna werd het veroverd door de Arabieren. En weer later door de Turken. Arabieren en Turken hadden een andere godsdienst, de islam. De aanhangers van de islam worden moslims genoemd.\n\nVoor de christenen was Palestina het Heilige Land. Maar Palestina, en vooral Jeruzalem, was niet alleen voor de christenen heilig. Ook voor joden en moslims. De moslims waren niet van plan het door hen veroverde Palestina af te staan. Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims. Met 'kruis' werd het christendom bedoeld.\n\nDe paus sprak het volk toe. Hij deed dat buiten de kerk. Want het grote aantal luisteraars paste niet in de kerk. 'Een goddeloos volk heeft het Heilige Land (Palestina) bezet. De christenen daar worden behandeld als slaven. Heilige plaatsen zijn in veestallen veranderd. Wat is dat een schande voor de stad waarin Christus leefde. Bewapent u lieve broeders. Verover de woonplaats van Christus terug. Wordt leenmannen van God. Dit is een gerechtvaardigde oorlog, een Kruistocht van God. Wie aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.'\n\nDe christelijke naastenliefde gold niet voor de moslimbevolking in Jeruzalem en Akko (Palestina). Een kruisridder vertelt over wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht: 'Vrijdagmorgen bestormden wij de stad. Wij achtervolgden de verdedigers tot aan de tempel van Salomon. Daar vond zo'n bloedbad plaats, dat wij tot onze enkels in het bloed liepen. Daarna stormden we af op een groot aantal mannen en vrouwen in de tempel. Ieder doodde of liet in leven wie hij wilde. Spoedig snelden de kruisridders door de stad en roofden goud, zilver, paarden en muilezels. Zij plunderden de huizen die vol rijkdommen waren. Daarna gingen de kruisridders, van vreugde huilend, naar het graf van Jezus Christus om hem te vereren en te danken'.",
+    "Org - lint": "35",
+    "Org - sent": "42, 25, 33, 35, 52, 38, 45, 49, 50, 47, 28, 23, 41, 38, 27, 30, 24, 0, 47, 46, 59, 46, 46, 36, 35, 24, 41, 37, 57",
+    "Gemini/gemini-3-flash-preview - text": "De eerste grote tocht met het houten kruis. De kerk van Jezus begon in het land Palestina. Het land hoorde lang bij de mannen van Rome. Daarna pakten de Arabieren het land met geweld af. En daarna kwamen de sterke mannen van de Turken naar het land. De Arabieren en Turken hadden een ander boek en geloof, de islam. De mensen van de islam heten moslims in de stad. Voor de mensen van de kerk was het land heilig. Maar de stad en het land waren ook voor anderen heilig. Ook voor de joden en de moslims in de straat. De moslims wilden het land niet teruggeven aan de anderen. De mensen in Europa wilden het land terugpakken met een grote tocht. Met het houten kruis bedoelden de mannen de kerk. De belangrijke man van de kerk sprak tot de mensen op het plein. Hij deed dat buiten de stenen kerk op het gras. Want de vele mensen pasten niet in het gebouw van steen. Slechte mannen hebben het land en de stad afgepakt. De mensen van de kerk zijn daar nu slaven. De mooie kerken zijn nu stallen voor het vee. Het is erg voor de stad waar de man Jezus woonde. Pak uw zwaard en uw schild, lieve broeders. Pak het huis van de man Jezus weer terug. Word de sterke mannen van God met een speer. Dit is een goede oorlog met het houten kruis van God. Wie meegaat met de tocht naar de stad, krijgt een plek in de hemel. De mensen hielden niet van de mannen en vrouwen in de steden. Een man met een zwaard vertelt over de stad en de tocht: Op de ochtend van de vrijdag renden wij de stad in met wapens. Wij renden achter de mannen aan tot bij de grote stenen tempel.",
+    "Gemini/gemini-3-flash-preview - lint": "27",
+    "Gemini/gemini-3-flash-preview - sent": "22, 10, 41, 17, 35, 30, 26, 26, 25, 31, 41, 20, 32, 27, 20, 23, 34, 0, 29, 8, 23, 33, 31, 25, 26, 33, 40",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "De eerste Kruistocht",
+                "rewritten_sentences": "De eerste grote tocht met het houten kruis.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Het toevoegen van concrete zelfstandige naamwoorden zoals 'kruis' en 'hout' verlaagt de score.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "Kruistocht",
+                        "new_text": "grote tocht met het houten kruis",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het christendom is ontstaan in Palestina.",
+                "rewritten_sentences": "De kerk van Jezus begon in het land Palestina.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Abstracte termen vervangen door concrete begrippen zoals 'kerk' en 'land'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "christendom",
+                        "new_text": "kerk van Jezus",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Palestina hoorde lange tijd bij het Romeinse rijk.",
+                "rewritten_sentences": "Het land hoorde lang bij de mannen van Rome.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vervangen van abstracte termen door concrete woorden zoals 'mannen'.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Palestina hoorde lange tijd bij het Romeinse rijk.",
+                        "new_text": "Het land hoorde lang bij de mannen van Rome.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarna werd het veroverd door de Arabieren.",
+                "rewritten_sentences": "Daarna pakten de Arabieren het land met geweld af.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Gebruik van frequentere woorden en concretere acties.",
+                        "start_word": 3,
+                        "end_word": 3,
+                        "original_text": "veroverd",
+                        "new_text": "pakten het land met geweld af",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En weer later door de Turken.",
+                "rewritten_sentences": "En daarna kwamen de sterke mannen van de Turken naar het land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Het toevoegen van concrete woorden zoals 'mannen' en 'land' verlaagt de score aanzienlijk.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "weer later door de Turken",
+                        "new_text": "daarna kwamen de sterke mannen van de Turken naar het land",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Arabieren en Turken hadden een andere godsdienst, de islam.",
+                "rewritten_sentences": "De Arabieren en Turken hadden een ander boek en geloof, de islam.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Het woord 'boek' is concreter dan 'godsdienst'.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "godsdienst",
+                        "new_text": "boek en geloof",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De aanhangers van de islam worden moslims genoemd.",
+                "rewritten_sentences": "De mensen van de islam heten moslims in de stad.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vervangen van 'aanhangers' door 'mensen' en toevoegen van 'stad' verhoogt de concreetheid.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "aanhangers",
+                        "new_text": "mensen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Toevoegen van een concreet zelfstandig naamwoord.",
+                        "start_word": 7,
+                        "end_word": 7,
+                        "original_text": "genoemd",
+                        "new_text": "heten moslims in de stad",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor de christenen was Palestina het Heilige Land.",
+                "rewritten_sentences": "Voor de mensen van de kerk was het land heilig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vervangen van abstracte termen door meer frequente en concrete woorden.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "christenen",
+                        "new_text": "mensen van de kerk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar Palestina, en vooral Jeruzalem, was niet alleen voor de christenen heilig.",
+                "rewritten_sentences": "Maar de stad en het land waren ook voor anderen heilig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Gebruik van frequentere en concretere woorden zoals 'stad' en 'land'.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Palestina, en vooral Jeruzalem,",
+                        "new_text": "de stad en het land",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook voor joden en moslims.",
+                "rewritten_sentences": "Ook voor de joden en de moslims in de straat.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Toevoegen van het concrete woord 'straat' om de score te verlagen.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "moslims.",
+                        "new_text": "moslims in de straat.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De moslims waren niet van plan het door hen veroverde Palestina af te staan.",
+                "rewritten_sentences": "De moslims wilden het land niet teruggeven aan de anderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vereenvoudiging van de zinsstructuur en gebruik van frequentere woorden.",
+                        "start_word": 3,
+                        "end_word": 12,
+                        "original_text": "waren niet van plan het door hen veroverde Palestina af te staan",
+                        "new_text": "wilden het land niet teruggeven aan de anderen",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims.",
+                "rewritten_sentences": "De mensen in Europa wilden het land terugpakken met een grote tocht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Verminderen van het aantal contentwoorden per deelzin en verhogen frequentie.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Onder de christenen in Europa ontstond het idee om Palestina te heroveren door een Kruistocht op de moslims.",
+                        "new_text": "De mensen in Europa wilden het land terugpakken met een grote tocht.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Met 'kruis' werd het christendom bedoeld.",
+                "rewritten_sentences": "Met het houten kruis bedoelden de mannen de kerk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Toevoegen van concrete woorden 'hout', 'mannen' en 'kerk'.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "'kruis' werd het christendom",
+                        "new_text": "houten kruis bedoelden de mannen de kerk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De paus sprak het volk toe.",
+                "rewritten_sentences": "De belangrijke man van de kerk sprak tot de mensen op het plein.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vervangen van 'paus' door concrete termen 'man', 'kerk' en toevoegen van 'plein'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "paus",
+                        "new_text": "belangrijke man van de kerk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij deed dat buiten de kerk.",
+                "rewritten_sentences": "Hij deed dat buiten de stenen kerk op het gras.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Toevoegen van concrete bijvoeglijke naamwoorden en zelfstandige naamwoorden.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "kerk.",
+                        "new_text": "stenen kerk op het gras.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Want het grote aantal luisteraars paste niet in de kerk.",
+                "rewritten_sentences": "Want de vele mensen pasten niet in het gebouw van steen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Vervangen van 'luisteraars' door 'mensen' en 'kerk' door 'gebouw van steen'.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "luisteraars",
+                        "new_text": "mensen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "'Een goddeloos volk heeft het Heilige Land (Palestina) bezet.",
+                "rewritten_sentences": "Slechte mannen hebben het land en de stad afgepakt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Gebruik van frequentere en concretere woorden.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "goddeloos volk heeft het Heilige Land (Palestina) bezet.",
+                        "new_text": "slechte mannen hebben het land en de stad afgepakt.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De christenen daar worden behandeld als slaven.",
+                "rewritten_sentences": "De mensen van de kerk zijn daar nu slaven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Vervangen van abstracte groep door concretere 'mensen van de kerk'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "christenen",
+                        "new_text": "mensen van de kerk",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Heilige plaatsen zijn in veestallen veranderd.",
+                "rewritten_sentences": "De mooie kerken zijn nu stallen voor het vee.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Gebruik van concrete woorden zoals 'kerken' en 'vee'.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Heilige plaatsen zijn in veestallen veranderd.",
+                        "new_text": "De mooie kerken zijn nu stallen voor het vee.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wat is dat een schande voor de stad waarin Christus leefde.",
+                "rewritten_sentences": "Het is erg voor de stad waar de man Jezus woonde.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Vervangen van 'Christus' door 'man Jezus' en 'schande' door 'erg' (hogere frequentie).",
+                        "start_word": 4,
+                        "end_word": 10,
+                        "original_text": "schande voor de stad waarin Christus leefde.",
+                        "new_text": "erg voor de stad waar de man Jezus woonde.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bewapent u lieve broeders.",
+                "rewritten_sentences": "Pak uw zwaard en uw schild, lieve broeders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Toevoegen van zeer concrete objecten 'zwaard' en 'schild' verlaagt de score drastisch.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Bewapent",
+                        "new_text": "Pak uw zwaard en uw schild",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Verover de woonplaats van Christus terug.",
+                "rewritten_sentences": "Pak het huis van de man Jezus weer terug.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Het woord 'huis' is concreter dan 'woonplaats'.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "woonplaats",
+                        "new_text": "huis",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wordt leenmannen van God.",
+                "rewritten_sentences": "Word de sterke mannen van God met een speer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Vervangen van archa\u00efsche term door concrete 'mannen' en 'speer'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "leenmannen",
+                        "new_text": "sterke mannen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit is een gerechtvaardigde oorlog, een Kruistocht van God.",
+                "rewritten_sentences": "Dit is een goede oorlog met het houten kruis van God.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Gebruik van frequentere woorden ('goede') en concretere woorden ('houten kruis').",
+                        "start_word": 3,
+                        "end_word": 7,
+                        "original_text": "gerechtvaardigde oorlog, een Kruistocht",
+                        "new_text": "goede oorlog met het houten kruis",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wie aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.",
+                "rewritten_sentences": "Wie meegaat met de tocht naar de stad, krijgt een plek in de hemel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "Sterke vereenvoudiging van de zin en toevoegen van concrete woorden zoals 'stad' en 'plek'.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "aan de Kruistocht deelneemt, zal al zijn zonden vergeven worden en daardoor het eeuwige leven ontvangen.",
+                        "new_text": "meegaat met de tocht naar de stad, krijgt een plek in de hemel.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De christelijke naastenliefde gold niet voor de moslimbevolking in Jeruzalem en Akko (Palestina).",
+                "rewritten_sentences": "De mensen hielden niet van de mannen en vrouwen in de steden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "27",
+                        "reason_for_change": "Abstracte begrippen vervangen door concrete mensen en steden.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "christelijke naastenliefde gold niet voor de moslimbevolking in Jeruzalem en Akko (Palestina).",
+                        "new_text": "mensen hielden niet van de mannen en vrouwen in de steden.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een kruisridder vertelt over wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht:",
+                "rewritten_sentences": "Een man met een zwaard vertelt over de stad en de tocht:",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "28",
+                        "reason_for_change": "Vervangen van 'kruisridder' door 'man met een zwaard' en vereenvoudigen van de context.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "kruisridder vertelt over wat hij meemaakte in Jeruzalem op 15 juli 1099 tijdens de eerste kruistocht:",
+                        "new_text": "man met een zwaard vertelt over de stad en de tocht:",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "'Vrijdagmorgen bestormden wij de stad.",
+                "rewritten_sentences": "Op de ochtend van de vrijdag renden wij de stad in met wapens.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "29",
+                        "reason_for_change": "Frequentere woorden en toevoeging van concreet 'wapens'.",
+                        "start_word": 1,
+                        "end_word": 2,
+                        "original_text": "Vrijdagmorgen bestormden",
+                        "new_text": "Op de ochtend van de vrijdag renden",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wij achtervolgden de verdedigers tot aan de tempel van Salomon.",
+                "rewritten_sentences": "Wij renden achter de mannen aan tot bij de grote stenen tempel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "30",
+                        "reason_for_change": "Vervangen van 'verdedigers' door 'mannen' en toevoegen van 'steen'.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "achtervolgden de verdedigers",
+                        "new_text": "renden achter de mannen aan",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Geschiedenisboek voor jongeren",
+        "full_text": "De eerste grote tocht met het houten kruis. De kerk van Jezus begon in het land Palestina. Het land hoorde lang bij de mannen van Rome. Daarna pakten de Arabieren het land met geweld af. En daarna kwamen de sterke mannen van de Turken naar het land. De Arabieren en Turken hadden een ander boek en geloof, de islam. De mensen van de islam heten moslims in de stad. Voor de mensen van de kerk was het land heilig. Maar de stad en het land waren ook voor anderen heilig. Ook voor de joden en de moslims in de straat. De moslims wilden het land niet teruggeven aan de anderen. De mensen in Europa wilden het land terugpakken met een grote tocht. Met het houten kruis bedoelden de mannen de kerk. De belangrijke man van de kerk sprak tot de mensen op het plein. Hij deed dat buiten de stenen kerk op het gras. Want de vele mensen pasten niet in het gebouw van steen. Slechte mannen hebben het land en de stad afgepakt. De mensen van de kerk zijn daar nu slaven. De mooie kerken zijn nu stallen voor het vee. Het is erg voor de stad waar de man Jezus woonde. Pak uw zwaard en uw schild, lieve broeders. Pak het huis van de man Jezus weer terug. Word de sterke mannen van God met een speer. Dit is een goede oorlog met het houten kruis van God. Wie meegaat met de tocht naar de stad, krijgt een plek in de hemel. De mensen hielden niet van de mannen en vrouwen in de steden. Een man met een zwaard vertelt over de stad en de tocht: Op de ochtend van de vrijdag renden wij de stad in met wapens. Wij renden achter de mannen aan tot bij de grote stenen tempel.",
+        "prompt_id": "T13_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:16:21.609672"
+}

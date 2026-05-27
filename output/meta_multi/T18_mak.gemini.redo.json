@@ -1,0 +1,339 @@
+{
+    "prompt_id": "T18_mak",
+    "Org - text": "Export in ontwikkelingslanden\n\nDe exportopbrengsten van de meeste ontwikkelingslanden zijn laag. E\u00e9n van de belangrijkste oorzaken hiervan is dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten. We spreken dan van een monocultuur. Landbouwprijzen gedragen zich vaak grillig. Als de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica van bananen en Brazili\u00eb van koffie, vallen de exportinkomsten tegen bij een groot aanbod en/of een kleine vraag.\n\nOntwikkelingslanden kunnen proberen een minder eenzijdig exportpakket te produceren. Deze oplossing wordt bemoeilijkt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen.\n\nEen andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt slecht toegankelijk is voor ontwikkelingslanden. De toegang wordt belemmerd door hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid van de ontwikkelde landen. Ook het gebrek aan kennis en de slechte infrastructuur verhinderen dat ontwikkelingslanden een groter aandeel krijgen in de wereldhandel. Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen. In de eerste plaats hebben ze geen binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen, zoals machines en vrachtauto's, te importeren. In de tweede plaats is er regelmatig hongersnood in veel ontwikkelingslanden. Voedselimport is dan noodzakelijk. In ontwikkelingslanden wordt ook nogal eens burgeroorlog gevoerd. De wapens die daarbij worden gebruikt, zijn allemaal gefabriceerd in het buitenland. Ook daar is dus import aan te pas gekomen.\n\nHet gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt. Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil.",
+    "Org - lint": "53",
+    "Org - sent": "42, 68, 31, 64, 52, 71, 50, 72, 62, 40, 50, 34, 50, 36, 32, 45, 83, 87",
+    "Gemini/gemini-3-flash-preview - text": "Arme landen verdienen weinig geld met de verkoop van spullen. Dit komt doordat zij vaak maar \u00e9\u00e9n soort plant verkopen. Dat noemen we een monocultuur. De prijs van eten verandert vaak snel. Costa Rica verkoopt bananen. Brazili\u00eb verkoopt koffie. Is er te veel fruit? Dan daalt de prijs. Deze landen willen meer verschillende spullen maken. Dat is lastig door weinig kennis. Ook houden rijke landen de markt dicht. De wereldmarkt is vaak dicht voor arme landen. Rijke landen vragen veel belasting. Ook geven zij hun eigen boeren geld. Slechte wegen en weinig kennis houden de handel tegen. Deze landen moeten ook veel spullen kopen. Zij hebben geen eigen fabrieken. Daarom kopen zij machines en vrachtwagens. Vaak is er honger in het land. Dan moeten zij eten kopen. Er is ook vaak oorlog tussen groepen mensen. De geweren en kogels komen uit een ander land. Dat kost ook veel geld. De prijs van de oogst is laag. De prijs van machines is hoog. Het land krijgt minder geld dan het moet betalen.",
+    "Gemini/gemini-3-flash-preview - lint": "23",
+    "Gemini/gemini-3-flash-preview - sent": "30, 31, 32, 29, 30, 13, 24, 36, 12, 29, 30, 31, 34, 22, 37, 14, 24, 19, 0, 23, 18, 19, 41, 28, 13",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "De exportopbrengsten van de meeste ontwikkelingslanden zijn laag.",
+                "rewritten_sentences": "Arme landen verdienen weinig geld met de verkoop van spullen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Vervangen van een abstract woord door een concreet en frequenter woord om de score te verlagen.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "exportopbrengsten",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Het gebruik van een concreter zelfstandig naamwoord.",
+                        "start_word": 5,
+                        "end_word": 5,
+                        "original_text": "ontwikkelingslanden",
+                        "new_text": "landen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "E\u00e9n van de belangrijkste oorzaken hiervan is dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten.",
+                "rewritten_sentences": "Dit komt doordat zij vaak maar \u00e9\u00e9n soort plant verkopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Verkorten van de zin om de afhankelijkheidslengte te verlagen.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "E\u00e9n van de belangrijkste oorzaken hiervan is dat veel ontwikkelingslanden voor hun exportinkomsten grotendeels afhankelijk zijn van de export van \u00e9\u00e9n soort landbouwproducten.",
+                        "new_text": "Dit komt doordat zij vaak maar \u00e9\u00e9n soort plant verkopen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Gebruik van een zeer concreet woord 'plant'.",
+                        "start_word": 22,
+                        "end_word": 22,
+                        "original_text": "landbouwproducten",
+                        "new_text": "plant",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We spreken dan van een monocultuur.",
+                "rewritten_sentences": "Dat noemen we een monocultuur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Vervangen door meer alledaagse woorden.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "We spreken dan van een",
+                        "new_text": "Dat noemen we een",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Landbouwprijzen gedragen zich vaak grillig.",
+                "rewritten_sentences": "De prijs van eten verandert vaak snel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Vervangen van het abstracte 'grillig' door het frequentere 'snel'.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "grillig",
+                        "new_text": "snel",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Gebruik van het concrete woord 'eten'.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Landbouwprijzen",
+                        "new_text": "De prijs van eten",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica van bananen en Brazili\u00eb van koffie, vallen de exportinkomsten tegen bij een groot aanbod en/of een kleine vraag.",
+                "rewritten_sentences": "Costa Rica verkoopt bananen. Brazili\u00eb verkoopt koffie. Is er te veel fruit? Dan daalt de prijs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Splitsen van een lange zin in meerdere korte zinnen om de afhankelijkheidslengte drastisch te verlagen.",
+                        "start_word": 0,
+                        "end_word": 35,
+                        "original_text": "Als de export van een land erg afhankelijk is van \u00e9\u00e9n of enkele landbouwproducten, zoals Costa Rica van bananen en Brazili\u00eb van koffie, vallen de exportinkomsten tegen bij een groot aanbod en/of een kleine vraag.",
+                        "new_text": "Costa Rica verkoopt bananen. Brazili\u00eb verkoopt koffie. Is er te veel fruit? Dan daalt de prijs.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ontwikkelingslanden kunnen proberen een minder eenzijdig exportpakket te produceren.",
+                "rewritten_sentences": "Deze landen willen meer verschillende spullen maken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Vervangen van 'exportpakket' door het concrete 'spullen'.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "exportpakket",
+                        "new_text": "spullen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Vervangen van 'produceren' door 'maken' voor hogere frequentie.",
+                        "start_word": 8,
+                        "end_word": 8,
+                        "original_text": "produceren",
+                        "new_text": "maken",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Deze oplossing wordt bemoeilijkt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen.",
+                "rewritten_sentences": "Dat is lastig door weinig kennis. Ook houden rijke landen de markt dicht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Verminderen van het aantal contentwoorden per deelzin door de zin op te splitsen.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "Deze oplossing wordt bemoeilijkt door het gebrek aan kennis, de bestaande handelsstromen en het protectionistisch beleid van de westerse landen die de producten afnemen.",
+                        "new_text": "Dat is lastig door weinig kennis. Ook houden rijke landen de markt dicht.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt slecht toegankelijk is voor ontwikkelingslanden.",
+                "rewritten_sentences": "De wereldmarkt is vaak dicht voor arme landen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Vervangen van abstracte termen door frequentere en kortere woorden.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Een andere oorzaak van de lage exportopbrengsten van ontwikkelingslanden is het feit dat de wereldmarkt slecht toegankelijk is voor ontwikkelingslanden.",
+                        "new_text": "De wereldmarkt is vaak dicht voor arme landen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De toegang wordt belemmerd door hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid van de ontwikkelde landen.",
+                "rewritten_sentences": "Rijke landen vragen veel belasting. Ook geven zij hun eigen boeren geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Vervangen van 'invoerrechten' en 'subsidiebeleid' door concretere termen als 'belasting' en 'geld'.",
+                        "start_word": 6,
+                        "end_word": 16,
+                        "original_text": "hoge invoerrechten, prijsbederf door dumping en het subsidiebeleid",
+                        "new_text": "veel belasting. Ook geven zij hun eigen boeren geld.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook het gebrek aan kennis en de slechte infrastructuur verhinderen dat ontwikkelingslanden een groter aandeel krijgen in de wereldhandel.",
+                "rewritten_sentences": "Slechte wegen en weinig kennis houden de handel tegen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Vervangen van 'infrastructuur' door het concrete 'wegen'.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "infrastructuur",
+                        "new_text": "wegen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen.",
+                "rewritten_sentences": "Deze landen moeten ook veel spullen kopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Sterke vereenvoudiging van de zinsstructuur.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Het beeld wordt nog erger als je beseft dat ontwikkelingslanden niet veel kans hebben om hun import te verminderen.",
+                        "new_text": "Deze landen moeten ook veel spullen kopen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de eerste plaats hebben ze geen binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen, zoals machines en vrachtauto's, te importeren.",
+                "rewritten_sentences": "Zij hebben geen eigen fabrieken. Daarom kopen zij machines en vrachtwagens.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Vervangen van 'industrie' en 'kapitaalgoederen' door 'fabrieken' en 'machines'.",
+                        "start_word": 7,
+                        "end_word": 15,
+                        "original_text": "binnenlandse industrie, zodat ze gedwongen zijn om noodzakelijke kapitaalgoederen",
+                        "new_text": "eigen fabrieken. Daarom kopen zij machines",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de tweede plaats is er regelmatig hongersnood in veel ontwikkelingslanden.",
+                "rewritten_sentences": "Vaak is er honger in het land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Vervangen van 'hongersnood' door 'honger' (hogere frequentie).",
+                        "start_word": 8,
+                        "end_word": 8,
+                        "original_text": "hongersnood",
+                        "new_text": "honger",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voedselimport is dan noodzakelijk.",
+                "rewritten_sentences": "Dan moeten zij eten kopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Vervangen van het abstracte 'voedselimport' door 'eten kopen'.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Voedselimport",
+                        "new_text": "eten kopen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In ontwikkelingslanden wordt ook nogal eens burgeroorlog gevoerd.",
+                "rewritten_sentences": "Er is ook vaak oorlog tussen groepen mensen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Vervangen van 'burgeroorlog' door het simpelere 'oorlog'.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "burgeroorlog",
+                        "new_text": "oorlog",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De wapens die daarbij worden gebruikt, zijn allemaal gefabriceerd in het buitenland.",
+                "rewritten_sentences": "De geweren en kogels komen uit een ander land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Vervangen van 'wapens' door de zeer concrete 'geweren en kogels'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "wapens",
+                        "new_text": "geweren en kogels",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook daar is dus import aan te pas gekomen.",
+                "rewritten_sentences": "Dat kost ook veel geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Vervangen van 'import aan te pas gekomen' door de frequentere woorden 'veel geld'.",
+                        "start_word": 4,
+                        "end_word": 8,
+                        "original_text": "import aan te pas gekomen",
+                        "new_text": "veel geld",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt.",
+                "rewritten_sentences": "De prijs van de oogst is laag. De prijs van machines is hoog.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Splitsen en versimpelen om contentwoorden per deelzin te verlagen en concreetheid te verhogen.",
+                        "start_word": 0,
+                        "end_word": 35,
+                        "original_text": "Het gevolg van de lage exportprijzen (de grondstoffenprijzen waren lange tijd erg laag) en de hoge importprijzen (de importprijzen van de noodzakelijke kapitaalgoederen zijn relatief hoog) is, dat de ruilvoet daalt.",
+                        "new_text": "De prijs van de oogst is laag. De prijs van machines is hoog.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil.",
+                "rewritten_sentences": "Het land krijgt minder geld dan het moet betalen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Vervangen van complexe termen door hoog-frequente woorden.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Bij een daling van de ruilvoet daalt het (gemiddelde) exportprijspeil ten opzichte van het (gemiddelde) importprijspeil.",
+                        "new_text": "Het land krijgt minder geld dan het moet betalen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst over economie",
+        "full_text": "Arme landen verdienen weinig geld met de verkoop van spullen. Dit komt doordat zij vaak maar \u00e9\u00e9n soort plant verkopen. Dat noemen we een monocultuur. De prijs van eten verandert vaak snel. Costa Rica verkoopt bananen. Brazili\u00eb verkoopt koffie. Is er te veel fruit? Dan daalt de prijs. Deze landen willen meer verschillende spullen maken. Dat is lastig door weinig kennis. Ook houden rijke landen de markt dicht. De wereldmarkt is vaak dicht voor arme landen. Rijke landen vragen veel belasting. Ook geven zij hun eigen boeren geld. Slechte wegen en weinig kennis houden de handel tegen. Deze landen moeten ook veel spullen kopen. Zij hebben geen eigen fabrieken. Daarom kopen zij machines en vrachtwagens. Vaak is er honger in het land. Dan moeten zij eten kopen. Er is ook vaak oorlog tussen groepen mensen. De geweren en kogels komen uit een ander land. Dat kost ook veel geld. De prijs van de oogst is laag. De prijs van machines is hoog. Het land krijgt minder geld dan het moet betalen.",
+        "prompt_id": "T18_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:16:15.037515"
+}

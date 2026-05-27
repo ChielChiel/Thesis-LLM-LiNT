@@ -1,0 +1,345 @@
+{
+    "prompt_id": "T34_mak",
+    "Org - text": "Donorregistratie\n\nIn het Donorregister kunt u laten vastleggen of u uw organen na uw overlijden wel of niet beschikbaar stelt voor transplantatie. U kunt er ook voor kiezen uw nabestaanden of \u00e9\u00e9n specifieke persoon te laten beslissen na uw overlijden. U kunt uw beslissing alleen vastleggen door het invullen en versturen van het donorformulier. Dit kan online of per post.\n\nHet laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen. Registratie in het Donorregister is niet verplicht. Maar als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet.\n\nNiet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente. Op dit moment staan ruim vijf miljoen keuzes in het Donorregister vastgelegd. De meeste geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen. Als u uw keuze heeft laten vastleggen, kunt u deze altijd wijzigen. Daarvoor moet u een nieuw donorformulier invullen.\n\nMinderjarigen kunnen vanaf hun twaalfde hun wens in het Donorregister laten opnemen. Ouders of voogden hoeven hiervoor g\u00e9\u00e9n toestemming te verlenen. Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren. Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen. Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd. Maar het vetorecht geldt andersom niet. Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn. Vanaf zestien jaar heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring.",
+    "Org - lint": "45",
+    "Org - sent": "63, 48, 48, 57, 57, 36, 56, 29, 47, 68, 38, 26, 51, 41, 58, 56, 50, 29, 44, 34",
+    "Gemini/gemini-3-flash-preview - text": "In het register schrijft u op of u uw hart geeft na de dood. Of laat uw familie of een vriend kiezen na de dood. Stuur het formulier op om uw keuze te maken. Dit kan op de computer of met de post. Dit geeft rust aan de familie en de dokter. U hoeft zich niet in te schrijven. Zonder brief moet de familie kiezen na de dood. U moet twaalf jaar zijn en in een stad wonen. Nu staan er vijf miljoen keuzes in het boek. De meeste mensen zeggen ja tegen de dokter. U kunt uw keuze altijd aanpassen. Vul dan een nieuw formulier in. Kinderen vanaf twaalf jaar schrijven hun wens op. De vader of moeder hoeft geen ja te zeggen. Soms zegt de vader toch nee bij een kind. Zonder hun hulp haalt de arts geen nier weg. Is de vader er niet? Dan telt de wens van het kind. De vader kan niet ja zeggen als het kind nee zegt. Zegt het kind nee? Dan blijft dat zo. Vanaf zestien jaar kiest de man of vrouw zelf.",
+    "Gemini/gemini-3-flash-preview - lint": "14",
+    "Gemini/gemini-3-flash-preview - sent": "35, 10, 26, 21, 17, 11, 26, 0, 39, 24, 16, 3, 6, 37, 0, 22, 0, 0, 9",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "In het Donorregister kunt u laten vastleggen of u uw organen na uw overlijden wel of niet beschikbaar stelt voor transplantatie.",
+                "rewritten_sentences": "In het register schrijft u op of u uw hart geeft na de dood.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Simpeler woord voor Donorregister.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "Donorregister",
+                        "new_text": "register",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Maakt de zin concreter door een specifiek orgaan te noemen.",
+                        "start_word": 10,
+                        "end_word": 10,
+                        "original_text": "organen",
+                        "new_text": "hart",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vervanging door een veel frequenter woord.",
+                        "start_word": 13,
+                        "end_word": 13,
+                        "original_text": "overlijden",
+                        "new_text": "dood",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "U kunt er ook voor kiezen uw nabestaanden of \u00e9\u00e9n specifieke persoon te laten beslissen na uw overlijden.",
+                "rewritten_sentences": "Of laat uw familie of een vriend kiezen na de dood.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Kortere zin met minder afhankelijkheden.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "U kunt er ook voor kiezen",
+                        "new_text": "Of laat",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Concretere woorden voor personen.",
+                        "start_word": 7,
+                        "end_word": 11,
+                        "original_text": "nabestaanden of \u00e9\u00e9n specifieke persoon",
+                        "new_text": "familie of een vriend",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "U kunt uw beslissing alleen vastleggen door het invullen en versturen van het donorformulier.",
+                "rewritten_sentences": "Stuur het formulier op om uw keuze te maken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Verlaagt het aantal contentwoorden door een actieve vorm.",
+                        "start_word": 3,
+                        "end_word": 13,
+                        "original_text": "beslissing alleen vastleggen door het invullen en versturen van het donorformulier",
+                        "new_text": "keuze te maken met het formulier",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit kan online of per post.",
+                "rewritten_sentences": "Dit kan op de computer of met de post.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Gebruik van concretere begrippen.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "online",
+                        "new_text": "op de computer",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen.",
+                "rewritten_sentences": "Dit geeft rust aan de familie en de dokter.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Sterke inkorting van de zin en gebruik van zeer concrete woorden.",
+                        "start_word": 0,
+                        "end_word": 31,
+                        "original_text": "Het laten registreren van uw keuze in het Donorregister geeft duidelijkheid en zekerheid voor iedereen die bij orgaan- en weefseldonatie betrokken is, zoals potenti\u00eble donoren, uw naasten, maar ook artsen en verpleegkundigen",
+                        "new_text": "Dit geeft rust aan de familie en de dokter",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Registratie in het Donorregister is niet verplicht.",
+                "rewritten_sentences": "U hoeft zich niet in te schrijven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vervanging van abstract zelfstandig naamwoord door een werkwoordvorm met hogere frequentie.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Registratie in het Donorregister is niet verplicht",
+                        "new_text": "U hoeft zich niet in te schrijven",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet.",
+                "rewritten_sentences": "Zonder brief moet de familie kiezen na de dood.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Gebruik van concreet object en simpelere werkwoorden.",
+                        "start_word": 1,
+                        "end_word": 22,
+                        "original_text": "als uw keuze niet geregistreerd staat, betekent dit dat uw nabestaanden na uw overlijden moeten beslissen of u donor bent of niet",
+                        "new_text": "zonder brief moet de familie kiezen na de dood",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente.",
+                "rewritten_sentences": "U moet twaalf jaar zijn en in een stad wonen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Inkorting en vereenvoudiging van de voorwaarden.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Niet iedereen kan zich inschrijven in het Donorregister: u moet minstens twaalf jaar zijn; en daarnaast moet u ingeschreven staan bij een Nederlandse gemeente",
+                        "new_text": "U moet twaalf jaar zijn en in een stad wonen",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op dit moment staan ruim vijf miljoen keuzes in het Donorregister vastgelegd.",
+                "rewritten_sentences": "Nu staan er vijf miljoen keuzes in het boek.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Donorregister vervangen door concreet woord boek.",
+                        "start_word": 9,
+                        "end_word": 9,
+                        "original_text": "Donorregister",
+                        "new_text": "boek",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De meeste geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen.",
+                "rewritten_sentences": "De meeste mensen zeggen ja tegen de dokter.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vervanging van abstracte termen door concrete actoren.",
+                        "start_word": 2,
+                        "end_word": 11,
+                        "original_text": "geregistreerden geven toestemming voor donatie, al dan niet met uitsluitingen",
+                        "new_text": "mensen zeggen ja tegen de dokter",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als u uw keuze heeft laten vastleggen, kunt u deze altijd wijzigen.",
+                "rewritten_sentences": "U kunt uw keuze altijd aanpassen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Verwijderen van de bijzin om de zin simpeler te maken.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Als u uw keuze heeft laten vastleggen",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarvoor moet u een nieuw donorformulier invullen.",
+                "rewritten_sentences": "Vul dan een nieuw formulier in.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Actieve gebiedende wijs verkort de afhankelijkheid.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Daarvoor moet u een nieuw donorformulier invullen",
+                        "new_text": "Vul dan een nieuw formulier in",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Minderjarigen kunnen vanaf hun twaalfde hun wens in het Donorregister laten opnemen.",
+                "rewritten_sentences": "Kinderen vanaf twaalf jaar schrijven hun wens op.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Concreter woord voor minderjarigen.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Minderjarigen",
+                        "new_text": "Kinderen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders of voogden hoeven hiervoor g\u00e9\u00e9n toestemming te verlenen.",
+                "rewritten_sentences": "De vader of moeder hoeft geen ja te zeggen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Concretere aanduiding van personen.",
+                        "start_word": 0,
+                        "end_word": 2,
+                        "original_text": "Ouders of voogden",
+                        "new_text": "De vader of moeder",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren.",
+                "rewritten_sentences": "Soms zegt de vader toch nee bij een kind.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Grote vereenvoudiging van de zinstructuur en woordkeuze.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Maar als minderjarigen instemmen met donatie en voor hun zestiende overlijden, kunnen ouders of voogden alsnog weigeren",
+                        "new_text": "Soms zegt de vader toch nee bij een kind",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen.",
+                "rewritten_sentences": "Zonder hun hulp haalt de arts geen nier weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Gebruik van het concrete woord arts en nier.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Ouders hebben namelijk een vetorecht en zonder hun goedkeuring worden er dus geen organen of weefsels uitgenomen",
+                        "new_text": "Zonder hun hulp haalt de arts geen nier weg",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd.",
+                "rewritten_sentences": "Is de vader er niet? Dan telt de wens van het kind.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Opsplitsen in kortere zinnen en concrete personen.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Als de ouders of voogden in zo'n geval niet bereikbaar zijn, wordt de geregistreerde wens van de minderjarige uitgevoerd",
+                        "new_text": "Is de vader er niet? Dan telt de wens van het kind",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Maar het vetorecht geldt andersom niet.",
+                "rewritten_sentences": "De vader kan niet ja zeggen als het kind nee zegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Uitleggen van een abstract concept met concrete voorbeelden.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "vetorecht",
+                        "new_text": "vader kan niet ja zeggen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn.",
+                "rewritten_sentences": "Zegt het kind nee? Dan blijft dat zo.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Radicale verkorting voor betere leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Ouders of voogden kunnen dus g\u00e9\u00e9n toestemming verlenen voor donatie als de minderjarige zelf heeft laten vastleggen juist geen donor te willen zijn",
+                        "new_text": "Zegt het kind nee? Dan blijft dat zo",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vanaf zestien jaar heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring.",
+                "rewritten_sentences": "Vanaf zestien jaar kiest de man of vrouw zelf.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Vervanging van abstracte termen door concrete personen.",
+                        "start_word": 3,
+                        "end_word": 12,
+                        "original_text": "heeft iemand volledige beslissingsbevoegdheid en dan geldt de eigen wilsverklaring",
+                        "new_text": "kiest de man of vrouw zelf",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst",
+        "full_text": "In het register schrijft u op of u uw hart geeft na de dood. Of laat uw familie of een vriend kiezen na de dood. Stuur het formulier op om uw keuze te maken. Dit kan op de computer of met de post. Dit geeft rust aan de familie en de dokter. U hoeft zich niet in te schrijven. Zonder brief moet de familie kiezen na de dood. U moet twaalf jaar zijn en in een stad wonen. Nu staan er vijf miljoen keuzes in het boek. De meeste mensen zeggen ja tegen de dokter. U kunt uw keuze altijd aanpassen. Vul dan een nieuw formulier in. Kinderen vanaf twaalf jaar schrijven hun wens op. De vader of moeder hoeft geen ja te zeggen. Soms zegt de vader toch nee bij een kind. Zonder hun hulp haalt de arts geen nier weg. Is de vader er niet? Dan telt de wens van het kind. De vader kan niet ja zeggen als het kind nee zegt. Zegt het kind nee? Dan blijft dat zo. Vanaf zestien jaar kiest de man of vrouw zelf.",
+        "prompt_id": "T34_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:17:06.326613"
+}

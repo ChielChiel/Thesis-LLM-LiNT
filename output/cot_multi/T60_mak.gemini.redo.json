@@ -1,0 +1,313 @@
+{
+    "prompt_id": "T60_mak",
+    "Org - text": "KNMI waarschuwing zicht\n\nWanneer het weer extra aandacht vraagt door gladheid en sneeuw, onweer, regen, temperatuur, wind- en waterhozen, windstoten of slecht zicht dan geeft het KNMI een waarschuwing uit. Voor een zicht van 200 meter of minder geldt de volgende waarschuwing: \u201ceen waarschuwing voor gevaarlijk weer\u201d. Het KNMI is de offici\u00eble instantie voor het uitgeven van weerwaarschuwingen.\n\nOp heldere dagen kunnen we in Nederland tientallen kilometers ver kijken en op grote afstand objecten en gebouwen herkennen. Andere dagen is het nevelig, heiig of soms mistig en is het zicht verminderd. Er wordt gesproken van een zichtbeperking, als het zicht minder dan 10 km is. Zichtvermindering ontstaat door verstrooiing van het licht door bijvoorbeeld rook- of stofdeeltjes of door kleine waterdruppeltjes. Zware regenbuien kunnen het zicht ook erg verminderen. Zicht van 200 meter of minder is lastig voor het verkeer.\n\nWe spreken van heiig weer, als het zicht verminderd is doordat er veel stof- of rookdeeltjes in de atmosfeer zitten en de luchtvochtigheid relatief laag is. Zulke situaties kunnen ontstaan tijdens achtereenvolgende dagen met droog, meest zonnig en rustig weer, waarbij zich in de onderste lagen van de atmosfeer stofdeeltjes kunnen verzamelen. Ook rook uit een specifieke bron, denk bijvoorbeeld aan brand, kan het zicht erg verslechteren. Er is sprake van nevel als het zicht verminderd wordt door de aanwezigheid van kleine waterdruppels; de luchtvochtigheid is dan vrij hoog.\n\nBij zware buien met regen, hagel of sneeuw, kan het zicht in korte tijd zeer snel minder worden. Vooral bij zware sneeuwval kan het gebeuren dat het zicht minder dan 200 m is.\n\nZichtvermindering wordt vaak veroorzaakt door mist. Bij mist is het zicht minder dan 1.000 m en deze zichtbeperking wordt veroorzaakt door de aanwezigheid van veel waterdruppeltjes in de lucht, een hoge luchtvochtigheid. Is het zicht minder dan 200 m, dan spreken we van 'dichte mist', bij minder dan 50 m van 'zeer dichte mist'. We hebben het over 'mistbanken' als het zicht minder dan 1.000 m is en daarbij de uitgebreidheid in combinatie met de zichtwaarden sterk wisselen. Over korte afstand is het mogelijk dat het zicht plotseling minder dan 50 m of 200 meter is, terwijl iets verder weg het zicht goed is.",
+    "Org - lint": "49",
+    "Org - sent": "64, 38, 70, 64, 49, 40, 81, 39, 34, 77, 73, 47, 42, 40, 61, 24, 33, 53, 42, 66, 46",
+    "Gemini/gemini-3-flash-preview - text": "De waarschuwing van het KNMI gaat over zicht. Het KNMI geeft een waarschuwing. Dat doet het bij sneeuw of onweer. Ook bij regen of harde wind. Zie je minder dan 200 meter? Het KNMI noemt dit gevaarlijk weer. Het KNMI geeft de offici\u00eble waarschuwing voor het weer. Is het helder weer? Dan zien we in Nederland huizen heel ver weg. Soms is het nevelig of mistig. Je ziet dan minder ver. Zie je minder dan 10 km? Dat heet een zichtbeperking. Rook of stof in de lucht maken het zicht slecht. Kleine waterdruppels doen dat ook. Harde regen maakt het zicht ook slechter. Auto's op de weg hebben last van slecht zicht. Er is heiig weer als er veel stof in de lucht zit. De lucht is dan droog. Dit komt vaak voor bij droog en zonnig weer. Stof blijft dan laag bij de grond. Rook van een brand maakt het zicht ook slecht. Er is nevel door kleine druppels water. De lucht is dan nat. Zware regen of sneeuw maken het zicht slechter. Dit gaat vaak heel snel. Vooral bij zware sneeuwval kan het gebeuren dat het zicht minder dan 200 m is. Zichtvermindering wordt vaak veroorzaakt door mist. Bij mist zie je minder dan 1000 meter. Er zitten dan veel druppels water in de lucht. Bij minder dan 200 meter is het dichte mist. Bij minder dan 50 meter is het zeer dichte mist. Soms zie je op de ene plek minder dan op de andere plek. Dat zijn mistbanken. Het zicht kan opeens slecht zijn. Een stukje verderop is het weer goed.",
+    "Gemini/gemini-3-flash-preview - lint": "24",
+    "Gemini/gemini-3-flash-preview - sent": "32, 28, 21, 6, 19, 30, 6, 16, 0, 21, 37, 33, 41, 26, 20, 36, 25, 44, 26, 31, 24, 33, 9, 31, 26, 28, 26, 6, 25, 18",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "KNMI waarschuwing zicht",
+                "rewritten_sentences": "De waarschuwing van het KNMI gaat over zicht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "De titel is omgezet naar een volledige zin met een duidelijker onderwerp om de concreetheid te verhogen.",
+                        "start_word": 0,
+                        "end_word": 2,
+                        "original_text": "KNMI waarschuwing zicht",
+                        "new_text": "De waarschuwing van het KNMI gaat over zicht",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wanneer het weer extra aandacht vraagt door gladheid en sneeuw, onweer, regen, temperatuur, wind- en waterhozen, windstoten of slecht zicht dan geeft het KNMI een waarschuwing uit.",
+                "rewritten_sentences": "Het KNMI geeft een waarschuwing. Dat doet het bij sneeuw of onweer. Ook bij regen of harde wind.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Lange opsomming in \u00e9\u00e9n bijzin is gesplitst in korte hoofdzinnen om het aantal inhoudswoorden per bijzin te beperken.",
+                        "start_word": 0,
+                        "end_word": 25,
+                        "original_text": "Wanneer het weer extra aandacht vraagt door gladheid en sneeuw, onweer, regen, temperatuur, wind- en waterhozen, windstoten of slecht zicht dan geeft het KNMI een waarschuwing uit.",
+                        "new_text": "Het KNMI geeft een waarschuwing. Dat doet het bij sneeuw of onweer. Ook bij regen of harde wind.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor een zicht van 200 meter of minder geldt de volgende waarschuwing: \u201ceen waarschuwing voor gevaarlijk weer\u201d.",
+                "rewritten_sentences": "Zie je minder dan 200 meter? Het KNMI noemt dit gevaarlijk weer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "De passieve vorm is vervangen door een directe vraag en actieve zin met meer concrete verwijzingen.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Voor een zicht van 200 meter of minder geldt de volgende waarschuwing: \u201ceen waarschuwing voor gevaarlijk weer\u201d.",
+                        "new_text": "Zie je minder dan 200 meter? Het KNMI noemt dit gevaarlijk weer.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het KNMI is de offici\u00eble instantie voor het uitgeven van weerwaarschuwingen.",
+                "rewritten_sentences": "Het KNMI geeft de offici\u00eble waarschuwing voor het weer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "'Offici\u00eble instantie' is een abstracte term; vervangen door simpelere woorden die vaker voorkomen.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Het KNMI is de offici\u00eble instantie voor het uitgeven van weerwaarschuwingen.",
+                        "new_text": "Het KNMI geeft de offici\u00eble waarschuwing voor het weer.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op heldere dagen kunnen we in Nederland tientallen kilometers ver kijken en op grote afstand objecten en gebouwen herkennen.",
+                "rewritten_sentences": "Is het helder weer? Dan zien we in Nederland huizen heel ver weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Abstracte termen als 'objecten en gebouwen' zijn vervangen door het concrete 'huizen'.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Op heldere dagen kunnen we in Nederland tientallen kilometers ver kijken en op grote afstand objecten en gebouwen herkennen.",
+                        "new_text": "Is het helder weer? Dan zien we in Nederland huizen heel ver weg.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Andere dagen is het nevelig, heiig of soms mistig en is het zicht verminderd.",
+                "rewritten_sentences": "Soms is het nevelig of mistig. Je ziet dan minder ver.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "De zin is gesplitst om de complexiteit en het aantal woorden per deelzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Andere dagen is het nevelig, heiig of soms mistig en is het zicht verminderd.",
+                        "new_text": "Soms is het nevelig of mistig. Je ziet dan minder ver.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er wordt gesproken van een zichtbeperking, als het zicht minder dan 10 km is.",
+                "rewritten_sentences": "Zie je minder dan 10 km? Dat heet een zichtbeperking.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "De passieve constructie 'Er wordt gesproken van' is vervangen door een korte vraag en een korte hoofdzin.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Er wordt gesproken van een zichtbeperking, als het zicht minder dan 10 km is.",
+                        "new_text": "Zie je minder dan 10 km? Dat heet een zichtbeperking.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zichtvermindering ontstaat door verstrooiing van het licht door bijvoorbeeld rook- of stofdeeltjes of door kleine waterdruppeltjes.",
+                "rewritten_sentences": "Rook of stof in de lucht maken het zicht slecht. Kleine waterdruppels doen dat ook.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Moeilijke woorden zoals 'verstrooiing' zijn vervangen door meer gangbare woorden en de zin is gesplitst.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Zichtvermindering ontstaat door verstrooiing van het licht door bijvoorbeeld rook- of stofdeeltjes of door kleine waterdruppeltjes.",
+                        "new_text": "Rook of stof in de lucht maken het zicht slecht. Kleine waterdruppels doen dat ook.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zware regenbuien kunnen het zicht ook erg verminderen.",
+                "rewritten_sentences": "Harde regen maakt het zicht ook slechter.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "'Verminderen' is vervangen door het meer frequente 'slechter maken'.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Zware regenbuien kunnen het zicht ook erg verminderen.",
+                        "new_text": "Harde regen maakt het zicht ook slechter.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zicht van 200 meter of minder is lastig voor het verkeer.",
+                "rewritten_sentences": "Auto's op de weg hebben last van slecht zicht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Het abstracte 'verkeer' is vervangen door concrete zelfstandige naamwoorden zoals 'auto's' en 'weg'.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Zicht van 200 meter of minder is lastig voor het verkeer.",
+                        "new_text": "Auto's op de weg hebben last van slecht zicht.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We spreken van heiig weer, als het zicht verminderd is doordat er veel stof- of rookdeeltjes in de atmosfeer zitten en de luchtvochtigheid relatief laag is.",
+                "rewritten_sentences": "Er is heiig weer als er veel stof in de lucht zit. De lucht is dan droog.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "De zin is gesplitst en technische woorden zoals 'atmosfeer' en 'luchtvochtigheid' zijn vervangen door simpelere begrippen.",
+                        "start_word": 0,
+                        "end_word": 25,
+                        "original_text": "We spreken van heiig weer, als het zicht verminderd is doordat er veel stof- of rookdeeltjes in de atmosfeer zitten en de luchtvochtigheid relatief laag is.",
+                        "new_text": "Er is heiig weer als er veel stof in de lucht zit. De lucht is dan droog.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zulke situaties kunnen ontstaan tijdens achtereenvolgende dagen met droog, meest zonnig en rustig weer, waarbij zich in de onderste lagen van de atmosfeer stofdeeltjes kunnen verzamelen.",
+                "rewritten_sentences": "Dit komt vaak voor bij droog en zonnig weer. Stof blijft dan laag bij de grond.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "'Achtereenvolgende' en 'atmosfeer' zijn vervangen door hoogfrequente woorden; de zin is aanzienlijk ingekort.",
+                        "start_word": 0,
+                        "end_word": 23,
+                        "original_text": "Zulke situaties kunnen ontstaan tijdens achtereenvolgende dagen met droog, meest zonnig en rustig weer, waarbij zich in de onderste lagen van de atmosfeer stofdeeltjes kunnen verzamelen.",
+                        "new_text": "Dit komt vaak voor bij droog en zonnig weer. Stof blijft dan laag bij de grond.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook rook uit een specifieke bron, denk bijvoorbeeld aan brand, kan het zicht erg verslechteren.",
+                "rewritten_sentences": "Rook van een brand maakt het zicht ook slecht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vervanging van 'specifieke bron' door het concrete 'brand' en gebruik van simpelere werkwoorden.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Ook rook uit een specifieke bron, denk bijvoorbeeld aan brand, kan het zicht erg verslechteren.",
+                        "new_text": "Rook van een brand maakt het zicht ook slecht.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er is sprake van nevel als het zicht verminderd wordt door de aanwezigheid van kleine waterdruppels; de luchtvochtigheid is dan vrij hoog.",
+                "rewritten_sentences": "Er is nevel door kleine druppels water. De lucht is dan nat.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Splitsing van de zin en vervanging van 'luchtvochtigheid' door 'nat' om de leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Er is sprake van nevel als het zicht verminderd wordt door de aanwezigheid van kleine waterdruppels; de luchtvochtigheid is dan vrij hoog.",
+                        "new_text": "Er is nevel door kleine druppels water. De lucht is dan nat.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij zware buien met regen, hagel of sneeuw, kan het zicht in korte tijd zeer snel minder worden.",
+                "rewritten_sentences": "Zware regen of sneeuw maken het zicht slechter. Dit gaat vaak heel snel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "De zin is gesplitst in twee delen om het aantal inhoudswoorden per bijzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Bij zware buien met regen, hagel of sneeuw, kan het zicht in korte tijd zeer snel minder worden.",
+                        "new_text": "Zware regen of sneeuw maken het zicht slechter. Dit gaat vaak heel snel.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vooral bij zware sneeuwval kan het gebeuren dat het zicht minder dan 200 m is.",
+                "rewritten_sentences": "Vooral bij zware sneeuwval kan het gebeuren dat het zicht minder dan 200 m is.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Zichtvermindering wordt vaak veroorzaakt door mist.",
+                "rewritten_sentences": "Zichtvermindering wordt vaak veroorzaakt door mist.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Bij mist is het zicht minder dan 1.000 m en deze zichtbeperking wordt veroorzaakt door de aanwezigheid van veel waterdruppeltjes in de lucht, een hoge luchtvochtigheid.",
+                "rewritten_sentences": "Bij mist zie je minder dan 1000 meter. Er zitten dan veel druppels water in de lucht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Splitsing van een lange zin met veel deelzinnen en verwijdering van de term 'luchtvochtigheid'.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Bij mist is het zicht minder dan 1.000 m en deze zichtbeperking wordt veroorzaakt door de aanwezigheid van veel waterdruppeltjes in de lucht, een hoge luchtvochtigheid.",
+                        "new_text": "Bij mist zie je minder dan 1000 meter. Er zitten dan veel druppels water in de lucht.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Is het zicht minder dan 200 m, dan spreken we van 'dichte mist', bij minder dan 50 m van 'zeer dichte mist'.",
+                "rewritten_sentences": "Bij minder dan 200 meter is het dichte mist. Bij minder dan 50 meter is het zeer dichte mist.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "De samengestelde zin is gesplitst in twee afzonderlijke, simpele feiten.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Is het zicht minder dan 200 m, dan spreken we van 'dichte mist', bij minder dan 50 m van 'zeer dichte mist'.",
+                        "new_text": "Bij minder dan 200 meter is het dichte mist. Bij minder dan 50 meter is het zeer dichte mist.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We hebben het over 'mistbanken' als het zicht minder dan 1.000 m is en daarbij de uitgebreidheid in combinatie met de zichtwaarden sterk wisselen.",
+                "rewritten_sentences": "Soms zie je op de ene plek minder dan op de andere plek. Dat zijn mistbanken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Abstracte termen als 'uitgebreidheid' en 'zichtwaarden' zijn vervangen door een simpele beschrijving.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "We hebben het over 'mistbanken' als het zicht minder dan 1.000 m is en daarbij de uitgebreidheid in combinatie met de zichtwaarden sterk wisselen.",
+                        "new_text": "Soms zie je op de ene plek minder dan op de andere plek. Dat zijn mistbanken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Over korte afstand is het mogelijk dat het zicht plotseling minder dan 50 m of 200 meter is, terwijl iets verder weg het zicht goed is.",
+                "rewritten_sentences": "Het zicht kan opeens slecht zijn. Een stukje verderop is het weer goed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Complexe contrast-zin gesplitst in twee korte, duidelijke zinnen.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "Over korte afstand is het mogelijk dat het zicht plotseling minder dan 50 m of 200 meter is, terwijl iets verder weg het zicht goed is.",
+                        "new_text": "Het zicht kan opeens slecht zijn. Een stukje verderop is het weer goed.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst over weerwaarschuwingen",
+        "full_text": "De waarschuwing van het KNMI gaat over zicht. Het KNMI geeft een waarschuwing. Dat doet het bij sneeuw of onweer. Ook bij regen of harde wind. Zie je minder dan 200 meter? Het KNMI noemt dit gevaarlijk weer. Het KNMI geeft de offici\u00eble waarschuwing voor het weer. Is het helder weer? Dan zien we in Nederland huizen heel ver weg. Soms is het nevelig of mistig. Je ziet dan minder ver. Zie je minder dan 10 km? Dat heet een zichtbeperking. Rook of stof in de lucht maken het zicht slecht. Kleine waterdruppels doen dat ook. Harde regen maakt het zicht ook slechter. Auto's op de weg hebben last van slecht zicht. Er is heiig weer als er veel stof in de lucht zit. De lucht is dan droog. Dit komt vaak voor bij droog en zonnig weer. Stof blijft dan laag bij de grond. Rook van een brand maakt het zicht ook slecht. Er is nevel door kleine druppels water. De lucht is dan nat. Zware regen of sneeuw maken het zicht slechter. Dit gaat vaak heel snel. Vooral bij zware sneeuwval kan het gebeuren dat het zicht minder dan 200 m is. Zichtvermindering wordt vaak veroorzaakt door mist. Bij mist zie je minder dan 1000 meter. Er zitten dan veel druppels water in de lucht. Bij minder dan 200 meter is het dichte mist. Bij minder dan 50 meter is het zeer dichte mist. Soms zie je op de ene plek minder dan op de andere plek. Dat zijn mistbanken. Het zicht kan opeens slecht zijn. Een stukje verderop is het weer goed.",
+        "prompt_id": "T60_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-05-27 18:49:55.346598"
+}
