@@ -1,0 +1,1290 @@
+{
+    "prompt_id": "T04_moei",
+    "Org - text": "Wisselkoers van valuta\n\nAls je producten koopt moet je betalen. Als je producten in het buitenland koopt, moet je betalen met buitenlands geld. De exporteur wil dat buitenlandse geld hebben. Daarmee kan hij in zijn eigen land de lonen betalen. Een Nederlandse importeur heeft daarom vreemde valuta nodig. Vreemde valuta is een ander woord voor buitenlands geld. Vreemde valuta zijn te koop bij de banken. Het bedrag dat je voor de vreemde valuta moet betalen hangt af van de wisselkoers. De wisselkoers geeft aan hoeveel euro's je moet betalen voor de vreemde valuta.\n\nDe prijs van het buitenlandse geld komt tot stand door vraag en aanbod. De wisselkoers van een valuta kan steeds veranderen. De koers van de euro stijgt als de vraag naar de euro toeneemt. En de koers van de euro daalt als het aanbod stijgt. Vraag naar en aanbod van de euro zijn het gevolg van import en export. Een importeur van buitenlandse producten heeft buitenlands geld nodig. Hij is aanbieder van euro's. Een toename van de import leidt tot meer aanbod van euro's en veroorzaakt een daling van de wisselkoers van de euro. Een Nederlands bedrijf dat goederen exporteert naar Japan stuurt een rekening in euro's. De Japanse klant heeft euro's nodig en is vrager van euro's. Een toename van de export leidt tot meer vraag naar euro's en veroorzaakt een stijging van de wisselkoers van de euro.\n\nAls je in een winkel koopt, moet je bij de kassa betalen. Als een importeur via de telefoon of met een fax kleding in het buitenland bestelt, kan hij daar niet langs de kassa lopen. Het is in de internationale handel de gewoonte dat je de kleding krijgt toegestuurd met een rekening erbij. Die rekening geeft een bedrag weer in vreemde valuta. Een importeur die over drie maanden zo'n rekening moet betalen, weet vandaag niet hoeveel het hem dan zal kosten. Het bedrag in vreemde valuta blijft wel hetzelfde, maar de wisselkoers kan veranderen.",
+    "Org - lint": "41",
+    "Org - sent": "35, 34, 7, 33, 47, 45, 42, 43, 44, 42, 47, 38, 37, 52, 45, 58, 61, 51, 41, 59, 22, 40, 40, 42, 27, 44",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Je betaalt als je iets koopt. Koop je in het buitenland, dan betaal je met buitenlands geld. De exporteur wil buitenlands geld. Hij gebruikt dat geld om lonen in eigen land te betalen. Een Nederlandse importeur heeft daarom vreemd geld nodig. Vreemd geld betekent buitenlands geld. Je koopt vreemd geld bij banken. De prijs van vreemd geld hangt af van de wisselkoers. De wisselkoers laat zien hoeveel euro je betaalt voor vreemd geld. De prijs van vreemd geld ontstaat door vraag en aanbod. De wisselkoers van geld kan steeds veranderen. De euro wordt duurder als meer mensen de euro willen. De euro wordt goedkoper als er meer euro's zijn. De vraag en het aanbod van de euro komen door import en export. Een importeur heeft buitenlands geld nodig voor producten uit het buitenland. Hij geeft euro's in ruil voor buitenlands geld. Meer import zorgt voor meer euro's te koop. Daardoor daalt de prijs van de euro. Een Nederlands bedrijf exporteert naar Japan en stuurt een rekening in euro's. De Japanse klant heeft euro's nodig en vraagt erom. Meer export zorgt voor vraag naar euro's. Daardoor gaat de prijs van de euro omhoog. Koop je in een winkel, betaal je bij de kassa. Bestelt een importeur kleding uit het buitenland via telefoon of fax, dan kan hij niet bij de kassa betalen. In de internationale handel krijg je de kleding thuis gestuurd met een rekening. Op de rekening staat een bedrag in vreemd geld. Een importeur die de rekening over drie maanden betaalt, weet nu niet hoe duur het wordt. Het bedrag in vreemd geld blijft hetzelfde. De wisselkoers kan wel veranderen.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "32",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "27, 16, 40, 36, 30, 35, 34, 19, 24, 38, 29, 21, 40, 50, 37, 44, 47, 34, 46, 25, 43, 23, 21, 50, 39, 29, 30, 24, 30",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Als je producten koopt moet je betalen.",
+                "rewritten_sentences": "Je betaalt als je iets koopt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Verkorting en eenvoudiger taalgebruik verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Als je producten koopt moet je betalen.",
+                        "new_text": "Je betaalt als je iets koopt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je producten in het buitenland koopt, moet je betalen met buitenlands geld.",
+                "rewritten_sentences": "Koop je in het buitenland, dan betaal je met buitenlands geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Splitsen in kleine zinnen en verlagen afhankelijkheidslengte verhoogt leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Als je producten in het buitenland koopt, moet je betalen met buitenlands geld.",
+                        "new_text": "Koop je in het buitenland, dan betaal je met buitenlands geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De exporteur wil dat buitenlandse geld hebben.",
+                "rewritten_sentences": "De exporteur wil buitenlands geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Korter en concreter maken van de zin verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "De exporteur wil dat buitenlandse geld hebben.",
+                        "new_text": "De exporteur wil buitenlands geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarmee kan hij in zijn eigen land de lonen betalen.",
+                "rewritten_sentences": "Hij gebruikt dat geld om lonen in eigen land te betalen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Actie duidelijker en concreter maken verlaagd afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Daarmee kan hij in zijn eigen land de lonen betalen.",
+                        "new_text": "Hij gebruikt dat geld om lonen in eigen land te betalen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een Nederlandse importeur heeft daarom vreemde valuta nodig.",
+                "rewritten_sentences": "Een Nederlandse importeur heeft daarom vreemd geld nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "\u2018Vreemde valuta\u2019 vervangen door eenvoudiger \u2018vreemd geld\u2019 en verkorten zin.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Een Nederlandse importeur heeft daarom vreemde valuta nodig.",
+                        "new_text": "Een Nederlandse importeur heeft daarom vreemd geld nodig.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vreemde valuta is een ander woord voor buitenlands geld.",
+                "rewritten_sentences": "Vreemd geld betekent buitenlands geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Kort en concreet formuleren om lengte te verminderen.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Vreemde valuta is een ander woord voor buitenlands geld.",
+                        "new_text": "Vreemd geld betekent buitenlands geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vreemde valuta zijn te koop bij de banken.",
+                "rewritten_sentences": "Je koopt vreemd geld bij banken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Korter en actiever maken van de zin vermindert afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Vreemde valuta zijn te koop bij de banken.",
+                        "new_text": "Je koopt vreemd geld bij banken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bedrag dat je voor de vreemde valuta moet betalen hangt af van de wisselkoers.",
+                "rewritten_sentences": "De prijs van vreemd geld hangt af van de wisselkoers.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Korter en eenvoudiger taalgebruik verbetert leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Het bedrag dat je voor de vreemde valuta moet betalen hangt af van de wisselkoers.",
+                        "new_text": "De prijs van vreemd geld hangt af van de wisselkoers.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De wisselkoers geeft aan hoeveel euro's je moet betalen voor de vreemde valuta.",
+                "rewritten_sentences": "De wisselkoers laat zien hoeveel euro je betaalt voor vreemd geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Actiever en concreter formuleren vergemakkelijkt begrip.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "De wisselkoers geeft aan hoeveel euro's je moet betalen voor de vreemde valuta.",
+                        "new_text": "De wisselkoers laat zien hoeveel euro je betaalt voor vreemd geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De prijs van het buitenlandse geld komt tot stand door vraag en aanbod.",
+                "rewritten_sentences": "De prijs van vreemd geld ontstaat door vraag en aanbod.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Korter en eenvoudiger maken verbetert leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "De prijs van het buitenlandse geld komt tot stand door vraag en aanbod.",
+                        "new_text": "De prijs van vreemd geld ontstaat door vraag en aanbod.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De wisselkoers van een valuta kan steeds veranderen.",
+                "rewritten_sentences": "De wisselkoers van geld kan steeds veranderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Kort en concreet om helderheid te vergroten.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "De wisselkoers van een valuta kan steeds veranderen.",
+                        "new_text": "De wisselkoers van geld kan steeds veranderen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De koers van de euro stijgt als de vraag naar de euro toeneemt.",
+                "rewritten_sentences": "De euro wordt duurder als meer mensen de euro willen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Makkelijkere en concretere taal gebruiken verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "De koers van de euro stijgt als de vraag naar de euro toeneemt.",
+                        "new_text": "De euro wordt duurder als meer mensen de euro willen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En de koers van de euro daalt als het aanbod stijgt.",
+                "rewritten_sentences": "De euro wordt goedkoper als er meer euro's zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Kort en simpel maken om leesbaarheid te vergroten.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "En de koers van de euro daalt als het aanbod stijgt.",
+                        "new_text": "De euro wordt goedkoper als er meer euro's zijn.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vraag naar en aanbod van de euro zijn het gevolg van import en export.",
+                "rewritten_sentences": "De vraag en het aanbod van de euro komen door import en export.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Korter en eenvoudiger taalgebruik verhoogt leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Vraag naar en aanbod van de euro zijn het gevolg van import en export.",
+                        "new_text": "De vraag en het aanbod van de euro komen door import en export.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een importeur van buitenlandse producten heeft buitenlands geld nodig.",
+                "rewritten_sentences": "Een importeur heeft buitenlands geld nodig voor producten uit het buitenland.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Concrete en korte zinsstructuur verbetert begrip.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Een importeur van buitenlandse producten heeft buitenlands geld nodig.",
+                        "new_text": "Een importeur heeft buitenlands geld nodig voor producten uit het buitenland.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij is aanbieder van euro's.",
+                "rewritten_sentences": "Hij geeft euro's in ruil voor buitenlands geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Concreter en actief formuleren om leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Hij is aanbieder van euro's.",
+                        "new_text": "Hij geeft euro's in ruil voor buitenlands geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een toename van de import leidt tot meer aanbod van euro's en veroorzaakt een daling van de wisselkoers van de euro.",
+                "rewritten_sentences": "Meer import zorgt voor meer euro's te koop. Daardoor daalt de prijs van de euro.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Splitsen in twee korte zinnen vermindert inhoudswoorden per zin en verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 26,
+                        "original_text": "Een toename van de import leidt tot meer aanbod van euro's en veroorzaakt een daling van de wisselkoers van de euro.",
+                        "new_text": "Meer import zorgt voor meer euro's te koop. Daardoor daalt de prijs van de euro.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een Nederlands bedrijf dat goederen exporteert naar Japan stuurt een rekening in euro's.",
+                "rewritten_sentences": "Een Nederlands bedrijf exporteert naar Japan en stuurt een rekening in euro's.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Korter en duidelijke structuur verhoogt leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Een Nederlands bedrijf dat goederen exporteert naar Japan stuurt een rekening in euro's.",
+                        "new_text": "Een Nederlands bedrijf exporteert naar Japan en stuurt een rekening in euro's.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Japanse klant heeft euro's nodig en is vrager van euro's.",
+                "rewritten_sentences": "De Japanse klant heeft euro's nodig en vraagt erom.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Korter en eenvoudiger taalgebruik verlaagd afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "De Japanse klant heeft euro's nodig en is vrager van euro's.",
+                        "new_text": "De Japanse klant heeft euro's nodig en vraagt erom.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een toename van de export leidt tot meer vraag naar euro's en veroorzaakt een stijging van de wisselkoers van de euro.",
+                "rewritten_sentences": "Meer export zorgt voor vraag naar euro's. Daardoor gaat de prijs van de euro omhoog.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Splitsen in korte zinnen verlaagt inhoudswoorden per deelzin en vermindert complexiteit.",
+                        "start_word": 0,
+                        "end_word": 26,
+                        "original_text": "Een toename van de export leidt tot meer vraag naar euro's en veroorzaakt een stijging van de wisselkoers van de euro.",
+                        "new_text": "Meer export zorgt voor vraag naar euro's. Daardoor gaat de prijs van de euro omhoog.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je in een winkel koopt, moet je bij de kassa betalen.",
+                "rewritten_sentences": "Koop je in een winkel, betaal je bij de kassa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Kort en concreet met simpele structuur verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Als je in een winkel koopt, moet je bij de kassa betalen.",
+                        "new_text": "Koop je in een winkel, betaal je bij de kassa.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als een importeur via de telefoon of met een fax kleding in het buitenland bestelt, kan hij daar niet langs de kassa lopen.",
+                "rewritten_sentences": "Bestelt een importeur kleding uit het buitenland via telefoon of fax, dan kan hij niet bij de kassa betalen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Splitsen en helder formuleren vermindert afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 23,
+                        "original_text": "Als een importeur via de telefoon of met een fax kleding in het buitenland bestelt, kan hij daar niet langs de kassa lopen.",
+                        "new_text": "Bestelt een importeur kleding uit het buitenland via telefoon of fax, dan kan hij niet bij de kassa betalen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is in de internationale handel de gewoonte dat je de kleding krijgt toegestuurd met een rekening erbij.",
+                "rewritten_sentences": "In de internationale handel krijg je de kleding thuis gestuurd met een rekening.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Kort en direct formuleren verlaagt afhankelijkheidslengte en inhoudswoorden per deelzin.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "Het is in de internationale handel de gewoonte dat je de kleding krijgt toegestuurd met een rekening erbij.",
+                        "new_text": "In de internationale handel krijg je de kleding thuis gestuurd met een rekening.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die rekening geeft een bedrag weer in vreemde valuta.",
+                "rewritten_sentences": "Op de rekening staat een bedrag in vreemd geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Concreter en korter om leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Die rekening geeft een bedrag weer in vreemde valuta.",
+                        "new_text": "Op de rekening staat een bedrag in vreemd geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een importeur die over drie maanden zo'n rekening moet betalen, weet vandaag niet hoeveel het hem dan zal kosten.",
+                "rewritten_sentences": "Een importeur die de rekening over drie maanden betaalt, weet nu niet hoe duur het wordt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Kort en concreet met eenvoudige structuur verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "Een importeur die over drie maanden zo'n rekening moet betalen, weet vandaag niet hoeveel het hem dan zal kosten.",
+                        "new_text": "Een importeur die de rekening over drie maanden betaalt, weet nu niet hoe duur het wordt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bedrag in vreemde valuta blijft wel hetzelfde, maar de wisselkoers kan veranderen.",
+                "rewritten_sentences": "Het bedrag in vreemd geld blijft hetzelfde. De wisselkoers kan wel veranderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "Splitsen van de zin verlaagt inhoudswoorden per deelzin en verlaagt afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Het bedrag in vreemde valuta blijft wel hetzelfde, maar de wisselkoers kan veranderen.",
+                        "new_text": "Het bedrag in vreemd geld blijft hetzelfde. De wisselkoers kan wel veranderen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informative",
+        "full_text": "Je betaalt als je iets koopt. Koop je in het buitenland, dan betaal je met buitenlands geld. De exporteur wil buitenlands geld. Hij gebruikt dat geld om lonen in eigen land te betalen. Een Nederlandse importeur heeft daarom vreemd geld nodig. Vreemd geld betekent buitenlands geld. Je koopt vreemd geld bij banken. De prijs van vreemd geld hangt af van de wisselkoers. De wisselkoers laat zien hoeveel euro je betaalt voor vreemd geld. De prijs van vreemd geld ontstaat door vraag en aanbod. De wisselkoers van geld kan steeds veranderen. De euro wordt duurder als meer mensen de euro willen. De euro wordt goedkoper als er meer euro's zijn. De vraag en het aanbod van de euro komen door import en export. Een importeur heeft buitenlands geld nodig voor producten uit het buitenland. Hij geeft euro's in ruil voor buitenlands geld. Meer import zorgt voor meer euro's te koop. Daardoor daalt de prijs van de euro. Een Nederlands bedrijf exporteert naar Japan en stuurt een rekening in euro's. De Japanse klant heeft euro's nodig en vraagt erom. Meer export zorgt voor vraag naar euro's. Daardoor gaat de prijs van de euro omhoog. Koop je in een winkel, betaal je bij de kassa. Bestelt een importeur kleding uit het buitenland via telefoon of fax, dan kan hij niet bij de kassa betalen. In de internationale handel krijg je de kleding thuis gestuurd met een rekening. Op de rekening staat een bedrag in vreemd geld. Een importeur die de rekening over drie maanden betaalt, weet nu niet hoe duur het wordt. Het bedrag in vreemd geld blijft hetzelfde. De wisselkoers kan wel veranderen.",
+        "prompt_id": "T04_moei",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Wisselkoers. Valuta. Je koopt iets. Je betaalt. Je koopt iets in het buitenland. Je betaalt met buitenlands geld. De exporteur wil buitenlands geld. Hij wil dat geld hebben. Hij kan hiermee in zijn land de lonen betalen. Hij betaalt lonen aan werknemers. Een Nederlandse importeur heeft vreemde valuta nodig. De importeur wil betalen in vreemde valuta. Vreemde valuta betekent buitenlands geld. Het zijn munten of bankgeld uit een ander land. Je koopt vreemde valuta bij banken. De bank verkoopt de valuta. Het bedrag dat je betaalt hangt van de wisselkoers af. De wisselkoers bepaalt de prijs. De wisselkoers zegt hoeveel euro's je nodig hebt voor de vreemde valuta. Het is de prijs van de vreemde valuta in euro's. De prijs van buitenlands geld ontstaat door vraag en aanbod. Kopers en verkopers bepalen samen de prijs. De wisselkoers kan veranderen. De koers wisselt vaak. Als meer mensen euro's willen, stijgt de koers van de euro. Meer vraag verhoogt de prijs. Als er meer euro's beschikbaar zijn, daalt de koers van de euro. Meer aanbod verlaagt de prijs. Vraag en aanbod van euro's ontstaan door import en export. Handel zorgt voor beweging in de markt. Een importeur heeft buitenlands geld nodig. Hij koopt met vreemd geld. Hij biedt euro's aan. Hij ruilt euro's voor vreemd geld. Meer import geeft meer aanbod van euro's. Dit veroorzaakt een daling van de wisselkoers van de euro. Een Nederlands bedrijf exporteert naar Japan. Het stuurt een rekening in euro's. De Japanse klant heeft euro's nodig. Hij vraagt om euro's. Meer export geeft meer vraag naar euro's. Dat zorgt voor een stijging van de wisselkoers van de euro. In een winkel betaal je bij de kassa. Je rekent aan de kassa af. Een importeur bestelt via telefoon of fax in het buitenland. Hij kan daar niet naar een kassa lopen. In de internationale handel krijg je de kleding toegestuurd. Je krijgt er een rekening bij. Die rekening staat in vreemde valuta. Het bedrag staat in vreemde valuta vermeld. Een importeur moet over drie maanden betalen. Vandaag weet hij niet hoeveel euro's dat zal kosten. Het bedrag in vreemde valuta blijft hetzelfde. De wisselkoers kan veranderen.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "34",
+    "GPT 5.1 mini/gpt-5-mini - sent": "14, 34, 16, 1, 42, 37, 45, 35, 40, 46, 41, 27, 36, 32, 49, 43, 34, 28, 12, 22, 33, 33, 42, 55, 39, 34, 26, 33, 38, 41, 43, 48, 38, 25, 44, 40, 43, 22, 33, 36, 23, 34, 25, 38, 39, 27, 15, 35, 28",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Wisselkoers van valuta",
+                "rewritten_sentences": "Wisselkoers. Valuta.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s1c1",
+                        "reason_for_change": "Opdelen van de titel in korte, losse termen om de zinsafhankelijke lengte te verminderen.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "Wisselkoers van valuta",
+                        "new_text": "Wisselkoers. Valuta.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je producten koopt moet je betalen.",
+                "rewritten_sentences": "Je koopt iets. Je betaalt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "Zin opgesplitst in twee korte zinnen om afhankelijkheidslengte en aantal inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 4,
+                        "end_word": 10,
+                        "original_text": "Als je producten koopt moet je betalen.",
+                        "new_text": "Je koopt iets. Je betaalt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je producten in het buitenland koopt, moet je betalen met buitenlands geld.",
+                "rewritten_sentences": "Je koopt iets in het buitenland. Je betaalt met buitenlands geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3c1",
+                        "reason_for_change": "Opdeling in twee korte zinnen en eenvoudige woordkeuze om syntactische afhankelijkheden te verkorten.",
+                        "start_word": 11,
+                        "end_word": 23,
+                        "original_text": "Als je producten in het buitenland koopt, moet je betalen met buitenlands geld.",
+                        "new_text": "Je koopt iets in het buitenland. Je betaalt met buitenlands geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De exporteur wil dat buitenlandse geld hebben.",
+                "rewritten_sentences": "De exporteur wil buitenlands geld. Hij wil dat geld hebben.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "Zin opgesplitst en herformuleerd naar twee korte zinnen met concrete zelfstandige naamwoorden.",
+                        "start_word": 24,
+                        "end_word": 30,
+                        "original_text": "De exporteur wil dat buitenlandse geld hebben.",
+                        "new_text": "De exporteur wil buitenlands geld. Hij wil dat geld hebben.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarmee kan hij in zijn eigen land de lonen betalen.",
+                "rewritten_sentences": "Hij kan hiermee in zijn land de lonen betalen. Hij betaalt lonen aan werknemers.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Opsplitsing en nadruk op concrete handeling om afhankelijkheidslengte te verlagen en concrete zelfstandige naamwoorden te vergroten.",
+                        "start_word": 31,
+                        "end_word": 40,
+                        "original_text": "Daarmee kan hij in zijn eigen land de lonen betalen.",
+                        "new_text": "Hij kan hiermee in zijn land de lonen betalen. Hij betaalt lonen aan werknemers.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een Nederlandse importeur heeft daarom vreemde valuta nodig.",
+                "rewritten_sentences": "Een Nederlandse importeur heeft vreemde valuta nodig. De importeur wil betalen in vreemde valuta.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "Toevoeging van een korte tweede zin en behoud van concrete termen om duidelijkheid te vergroten en zinslengte te beperken.",
+                        "start_word": 41,
+                        "end_word": 48,
+                        "original_text": "Een Nederlandse importeur heeft daarom vreemde valuta nodig.",
+                        "new_text": "Een Nederlandse importeur heeft vreemde valuta nodig. De importeur wil betalen in vreemde valuta.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vreemde valuta is een ander woord voor buitenlands geld.",
+                "rewritten_sentences": "Vreemde valuta betekent buitenlands geld. Het zijn munten of bankgeld uit een ander land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "Definitie gesplitst en opgehelderd met concrete voorbeelden om de zinnen kort te houden.",
+                        "start_word": 49,
+                        "end_word": 57,
+                        "original_text": "Vreemde valuta is een ander woord voor buitenlands geld.",
+                        "new_text": "Vreemde valuta betekent buitenlands geld. Het zijn munten of bankgeld uit een ander land.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vreemde valuta zijn te koop bij de banken.",
+                "rewritten_sentences": "Je koopt vreemde valuta bij banken. De bank verkoopt de valuta.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Opdelen in twee korte zinnen en gebruik van concrete zelfstandige naamwoorden (bank).",
+                        "start_word": 58,
+                        "end_word": 65,
+                        "original_text": "Vreemde valuta zijn te koop bij de banken.",
+                        "new_text": "Je koopt vreemde valuta bij banken. De bank verkoopt de valuta.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bedrag dat je voor de vreemde valuta moet betalen hangt af van de wisselkoers.",
+                "rewritten_sentences": "Het bedrag dat je betaalt hangt van de wisselkoers af. De wisselkoers bepaalt de prijs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "Zin opgesplitst in twee korte zinnen om syntactische afhankelijkheden en het aantal inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 66,
+                        "end_word": 80,
+                        "original_text": "Het bedrag dat je voor de vreemde valuta moet betalen hangt af van de wisselkoers.",
+                        "new_text": "Het bedrag dat je betaalt hangt van de wisselkoers af. De wisselkoers bepaalt de prijs.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De wisselkoers geeft aan hoeveel euro's je moet betalen voor de vreemde valuta.",
+                "rewritten_sentences": "De wisselkoers zegt hoeveel euro's je nodig hebt voor de vreemde valuta. Het is de prijs van de vreemde valuta in euro's.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "Herformulering en opsplitsing in korte zinnen met concrete termen (euro's).",
+                        "start_word": 81,
+                        "end_word": 93,
+                        "original_text": "De wisselkoers geeft aan hoeveel euro's je moet betalen voor de vreemde valuta.",
+                        "new_text": "De wisselkoers zegt hoeveel euro's je nodig hebt voor de vreemde valuta. Het is de prijs van de vreemde valuta in euro's.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De prijs van het buitenlandse geld komt tot stand door vraag en aanbod.",
+                "rewritten_sentences": "De prijs van buitenlands geld ontstaat door vraag en aanbod. Kopers en verkopers bepalen samen de prijs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "Opsplitsen en verduidelijken met korte zinnen en concrete rollen (kopers, verkopers).",
+                        "start_word": 94,
+                        "end_word": 106,
+                        "original_text": "De prijs van het buitenlandse geld komt tot stand door vraag en aanbod.",
+                        "new_text": "De prijs van buitenlands geld ontstaat door vraag en aanbod. Kopers en verkopers bepalen samen de prijs.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De wisselkoers van een valuta kan steeds veranderen.",
+                "rewritten_sentences": "De wisselkoers kan veranderen. De koers wisselt vaak.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "Korte, eenvoudige zinnen om afhankelijkheidslengte te beperken en woordfrequentie te verhogen.",
+                        "start_word": 107,
+                        "end_word": 114,
+                        "original_text": "De wisselkoers van een valuta kan steeds veranderen.",
+                        "new_text": "De wisselkoers kan veranderen. De koers wisselt vaak.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De koers van de euro stijgt als de vraag naar de euro toeneemt.",
+                "rewritten_sentences": "Als meer mensen euro's willen, stijgt de koers van de euro. Meer vraag verhoogt de prijs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "Opsplitsing en vereenvoudiging om zinscomplexiteit te verlagen en concrete termen te benadrukken.",
+                        "start_word": 115,
+                        "end_word": 127,
+                        "original_text": "De koers van de euro stijgt als de vraag naar de euro toeneemt.",
+                        "new_text": "Als meer mensen euro's willen, stijgt de koers van de euro. Meer vraag verhoogt de prijs.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En de koers van de euro daalt als het aanbod stijgt.",
+                "rewritten_sentences": "Als er meer euro's beschikbaar zijn, daalt de koers van de euro. Meer aanbod verlaagt de prijs.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Herhaling in kortere zinnen om afhankelijkheidslengte en inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 128,
+                        "end_word": 138,
+                        "original_text": "En de koers van de euro daalt als het aanbod stijgt.",
+                        "new_text": "Als er meer euro's beschikbaar zijn, daalt de koers van de euro. Meer aanbod verlaagt de prijs.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vraag naar en aanbod van de euro zijn het gevolg van import en export.",
+                "rewritten_sentences": "Vraag en aanbod van euro's ontstaan door import en export. Handel zorgt voor beweging in de markt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Opsplitsing en verduidelijking met concrete woorden (handel, markt) om zinslengte te reduceren.",
+                        "start_word": 139,
+                        "end_word": 152,
+                        "original_text": "Vraag naar en aanbod van de euro zijn het gevolg van import en export.",
+                        "new_text": "Vraag en aanbod van euro's ontstaan door import en export. Handel zorgt voor beweging in de markt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een importeur van buitenlandse producten heeft buitenlands geld nodig.",
+                "rewritten_sentences": "Een importeur heeft buitenlands geld nodig. Hij koopt met vreemd geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Opsplitsing in korte zinnen en gebruik van concrete termen om afhankelijkheidslengte te verlagen.",
+                        "start_word": 153,
+                        "end_word": 161,
+                        "original_text": "Een importeur van buitenlandse producten heeft buitenlands geld nodig.",
+                        "new_text": "Een importeur heeft buitenlands geld nodig. Hij koopt met vreemd geld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij is aanbieder van euro's.",
+                "rewritten_sentences": "Hij biedt euro's aan. Hij ruilt euro's voor vreemd geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "Uitbreiding naar twee korte zinnen en explicitering van de rol om concreetheid te verhogen.",
+                        "start_word": 162,
+                        "end_word": 166,
+                        "original_text": "Hij is aanbieder van euro's.",
+                        "new_text": "Hij biedt euro's aan. Hij ruilt euro's voor vreemd geld.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een toename van de import leidt tot meer aanbod van euro's en veroorzaakt een daling van de wisselkoers van de euro.",
+                "rewritten_sentences": "Meer import geeft meer aanbod van euro's. Dit veroorzaakt een daling van de wisselkoers van de euro.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "Opsplitsing in korte stappen en herformulering om afhankelijkheidslengte en complexiteit te verminderen.",
+                        "start_word": 167,
+                        "end_word": 187,
+                        "original_text": "Een toename van de import leidt tot meer aanbod van euro's en veroorzaakt een daling van de wisselkoers van de euro.",
+                        "new_text": "Meer import geeft meer aanbod van euro's. Dit veroorzaakt een daling van de wisselkoers van de euro.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een Nederlands bedrijf dat goederen exporteert naar Japan stuurt een rekening in euro's.",
+                "rewritten_sentences": "Een Nederlands bedrijf exporteert naar Japan. Het stuurt een rekening in euro's.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "Zin gesplitst in twee korte zinnen om zinsstructuur te vereenvoudigen en concrete zelfstandige naamwoorden te benadrukken.",
+                        "start_word": 188,
+                        "end_word": 200,
+                        "original_text": "Een Nederlands bedrijf dat goederen exporteert naar Japan stuurt een rekening in euro's.",
+                        "new_text": "Een Nederlands bedrijf exporteert naar Japan. Het stuurt een rekening in euro's.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Japanse klant heeft euro's nodig en is vrager van euro's.",
+                "rewritten_sentences": "De Japanse klant heeft euro's nodig. Hij vraagt om euro's.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20c1",
+                        "reason_for_change": "Opsplitsing in twee korte zinnen met directe bewoording om afhankelijkheidslengte te verlagen.",
+                        "start_word": 201,
+                        "end_word": 211,
+                        "original_text": "De Japanse klant heeft euro's nodig en is vrager van euro's.",
+                        "new_text": "De Japanse klant heeft euro's nodig. Hij vraagt om euro's.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een toename van de export leidt tot meer vraag naar euro's en veroorzaakt een stijging van de wisselkoers van de euro.",
+                "rewritten_sentences": "Meer export geeft meer vraag naar euro's. Dat zorgt voor een stijging van de wisselkoers van de euro.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21c1",
+                        "reason_for_change": "Opdelen in korte stappen en vereenvoudigen van formulering om de zinslengte en inhoudscomplexiteit te verminderen.",
+                        "start_word": 212,
+                        "end_word": 232,
+                        "original_text": "Een toename van de export leidt tot meer vraag naar euro's en veroorzaakt een stijging van de wisselkoers van de euro.",
+                        "new_text": "Meer export geeft meer vraag naar euro's. Dat zorgt voor een stijging van de wisselkoers van de euro.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je in een winkel koopt, moet je bij de kassa betalen.",
+                "rewritten_sentences": "In een winkel betaal je bij de kassa. Je rekent aan de kassa af.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s22c1",
+                        "reason_for_change": "Zin opgesplitst en herformuleerd in korte, concrete zinnen om afhankelijkheidslengte te verkorten.",
+                        "start_word": 233,
+                        "end_word": 244,
+                        "original_text": "Als je in een winkel koopt, moet je bij de kassa betalen.",
+                        "new_text": "In een winkel betaal je bij de kassa. Je rekent aan de kassa af.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als een importeur via de telefoon of met een fax kleding in het buitenland bestelt, kan hij daar niet langs de kassa lopen.",
+                "rewritten_sentences": "Een importeur bestelt via telefoon of fax in het buitenland. Hij kan daar niet naar een kassa lopen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23c1",
+                        "reason_for_change": "Opsplitsing in twee korte zinnen en vereenvoudiging van zinsstructuur om afhankelijkheidslengte te verlagen.",
+                        "start_word": 245,
+                        "end_word": 267,
+                        "original_text": "Als een importeur via de telefoon of met een fax kleding in het buitenland bestelt, kan hij daar niet langs de kassa lopen.",
+                        "new_text": "Een importeur bestelt via telefoon of fax in het buitenland. Hij kan daar niet naar een kassa lopen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is in de internationale handel de gewoonte dat je de kleding krijgt toegestuurd met een rekening erbij.",
+                "rewritten_sentences": "In de internationale handel krijg je de kleding toegestuurd. Je krijgt er een rekening bij.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s24c1",
+                        "reason_for_change": "Zin opgesplitst in twee eenvoudige zinnen om complexiteit te verminderen en concretere termen te gebruiken.",
+                        "start_word": 268,
+                        "end_word": 285,
+                        "original_text": "Het is in de internationale handel de gewoonte dat je de kleding krijgt toegestuurd met een rekening erbij.",
+                        "new_text": "In de internationale handel krijg je de kleding toegestuurd. Je krijgt er een rekening bij.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die rekening geeft een bedrag weer in vreemde valuta.",
+                "rewritten_sentences": "Die rekening staat in vreemde valuta. Het bedrag staat in vreemde valuta vermeld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s25c1",
+                        "reason_for_change": "Herhaling in korte, simpele zinnen om duidelijkheid te vergroten en afhankelijkheidslengte te verlagen.",
+                        "start_word": 286,
+                        "end_word": 294,
+                        "original_text": "Die rekening geeft een bedrag weer in vreemde valuta.",
+                        "new_text": "Die rekening staat in vreemde valuta. Het bedrag staat in vreemde valuta vermeld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een importeur die over drie maanden zo'n rekening moet betalen, weet vandaag niet hoeveel het hem dan zal kosten.",
+                "rewritten_sentences": "Een importeur moet over drie maanden betalen. Vandaag weet hij niet hoeveel euro's dat zal kosten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s26c1",
+                        "reason_for_change": "Opdeling in twee korte zinnen en expliciete vermelding van euro's om concreetheid en leesbaarheid te sturen.",
+                        "start_word": 295,
+                        "end_word": 313,
+                        "original_text": "Een importeur die over drie maanden zo'n rekening moet betalen, weet vandaag niet hoeveel het hem dan zal kosten.",
+                        "new_text": "Een importeur moet over drie maanden betalen. Vandaag weet hij niet hoeveel euro's dat zal kosten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bedrag in vreemde valuta blijft wel hetzelfde, maar de wisselkoers kan veranderen.",
+                "rewritten_sentences": "Het bedrag in vreemde valuta blijft hetzelfde. De wisselkoers kan veranderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s27c1",
+                        "reason_for_change": "Opsplitsing in twee korte zinnen om de informatie per deelzin te beperken en syntactische afhankelijkheid te verminderen.",
+                        "start_word": 314,
+                        "end_word": 326,
+                        "original_text": "Het bedrag in vreemde valuta blijft wel hetzelfde, maar de wisselkoers kan veranderen.",
+                        "new_text": "Het bedrag in vreemde valuta blijft hetzelfde. De wisselkoers kan veranderen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "uitleg economie",
+        "full_text": "Wisselkoers. Valuta. Je koopt iets. Je betaalt. Je koopt iets in het buitenland. Je betaalt met buitenlands geld. De exporteur wil buitenlands geld. Hij wil dat geld hebben. Hij kan hiermee in zijn land de lonen betalen. Hij betaalt lonen aan werknemers. Een Nederlandse importeur heeft vreemde valuta nodig. De importeur wil betalen in vreemde valuta. Vreemde valuta betekent buitenlands geld. Het zijn munten of bankgeld uit een ander land. Je koopt vreemde valuta bij banken. De bank verkoopt de valuta. Het bedrag dat je betaalt hangt van de wisselkoers af. De wisselkoers bepaalt de prijs. De wisselkoers zegt hoeveel euro's je nodig hebt voor de vreemde valuta. Het is de prijs van de vreemde valuta in euro's. De prijs van buitenlands geld ontstaat door vraag en aanbod. Kopers en verkopers bepalen samen de prijs. De wisselkoers kan veranderen. De koers wisselt vaak. Als meer mensen euro's willen, stijgt de koers van de euro. Meer vraag verhoogt de prijs. Als er meer euro's beschikbaar zijn, daalt de koers van de euro. Meer aanbod verlaagt de prijs. Vraag en aanbod van euro's ontstaan door import en export. Handel zorgt voor beweging in de markt. Een importeur heeft buitenlands geld nodig. Hij koopt met vreemd geld. Hij biedt euro's aan. Hij ruilt euro's voor vreemd geld. Meer import geeft meer aanbod van euro's. Dit veroorzaakt een daling van de wisselkoers van de euro. Een Nederlands bedrijf exporteert naar Japan. Het stuurt een rekening in euro's. De Japanse klant heeft euro's nodig. Hij vraagt om euro's. Meer export geeft meer vraag naar euro's. Dat zorgt voor een stijging van de wisselkoers van de euro. In een winkel betaal je bij de kassa. Je rekent aan de kassa af. Een importeur bestelt via telefoon of fax in het buitenland. Hij kan daar niet naar een kassa lopen. In de internationale handel krijg je de kleding toegestuurd. Je krijgt er een rekening bij. Die rekening staat in vreemde valuta. Het bedrag staat in vreemde valuta vermeld. Een importeur moet over drie maanden betalen. Vandaag weet hij niet hoeveel euro's dat zal kosten. Het bedrag in vreemde valuta blijft hetzelfde. De wisselkoers kan veranderen.",
+        "prompt_id": "T04_moei",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "De prijs van buitenlands geld. Koop je spullen? Dan moet je betalen. De verkoper wil dat geld graag hebben. Hij betaalt er de mensen mee. Je koopt dat geld bij de bank. De koers zegt hoeveel euro je betaalt. De prijs komt door vraag en aanbod. De euro wordt duurder als veel mensen hem willen. Een bedrijf verkoopt spullen aan Japan. Hij stuurt een brief. De prijs van het geld verandert vaak.",
+    "Gemini/gemini-3-flash-preview - lint": "20",
+    "Gemini/gemini-3-flash-preview - sent": "10, 11, 5, 30, 16, 27, 15, 24, 13, 29",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Wisselkoers van valuta",
+                "rewritten_sentences": "De prijs van buitenlands geld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Vervangen van een abstracte term door een meer alledaags en frequent woord om de score te verlagen.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Wisselkoers",
+                        "new_text": "prijs",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Vervangen van een abstract zelfstandig naamwoord door een concreter alternatief.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "valuta",
+                        "new_text": "geld",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je producten koopt moet je betalen.",
+                "rewritten_sentences": "Koop je spullen? Dan moet je betalen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Het opsplitsen van de zin verkleint de syntactische afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Als je producten koopt moet je betalen.",
+                        "new_text": "Koop je spullen? Dan moet je betalen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Het woord 'spullen' is concreter en komt vaker voor dan 'producten'.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "producten",
+                        "new_text": "spullen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De exporteur wil dat buitenlandse geld hebben.",
+                "rewritten_sentences": "De verkoper wil dat geld graag hebben.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Het woord 'verkoper' heeft een hogere woordfrequentie dan 'exporteur'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "exporteur",
+                        "new_text": "verkoper",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Het weglaten van het bijvoeglijk naamwoord 'buitenlandse' vermindert het aantal inhoudswoorden per deelzin.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "buitenlandse",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarmee kan hij in zijn eigen land de lonen betalen.",
+                "rewritten_sentences": "Hij betaalt er de mensen mee.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Het gebruik van 'mensen' is concreter dan 'lonen'.",
+                        "start_word": 8,
+                        "end_word": 8,
+                        "original_text": "lonen",
+                        "new_text": "mensen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Door de zin te verkorten en bijzaken weg te laten, daalt het aantal inhoudswoorden.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Daarmee kan hij in zijn eigen land de lonen betalen",
+                        "new_text": "Hij betaalt er de mensen mee",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vreemde valuta zijn te koop bij de banken.",
+                "rewritten_sentences": "Je koopt dat geld bij de bank.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "De lijdende vorm is vervangen door een actieve vorm met 'je', wat de afhankelijkheidslengte verlaagt.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Vreemde valuta zijn te koop bij de banken",
+                        "new_text": "Je koopt dat geld bij de bank",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De wisselkoers geeft aan hoeveel euro's je moet betalen voor de vreemde valuta.",
+                "rewritten_sentences": "De koers zegt hoeveel euro je betaalt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Het aantal inhoudswoorden per deelzin is verlaagd door de zin tot de kern te beperken.",
+                        "start_word": 4,
+                        "end_word": 12,
+                        "original_text": "hoeveel euro's je moet betalen voor de vreemde valuta",
+                        "new_text": "hoeveel euro je betaalt",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De prijs van het buitenlandse geld komt tot stand door vraag en aanbod.",
+                "rewritten_sentences": "De prijs komt door vraag en aanbod.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Vermindering van het aantal inhoudswoorden door het weglaten van 'buitenlandse geld'.",
+                        "start_word": 2,
+                        "end_word": 5,
+                        "original_text": "van het buitenlandse geld",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De koers van de euro stijgt als de vraag naar de euro toeneemt.",
+                "rewritten_sentences": "De euro wordt duurder als veel mensen hem willen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Abstracte termen zoals 'vraag toeneemt' zijn vervangen door concretere termen zoals 'mensen hem willen'.",
+                        "start_word": 7,
+                        "end_word": 11,
+                        "original_text": "als de vraag naar de euro toeneemt",
+                        "new_text": "als veel mensen hem willen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een Nederlands bedrijf dat goederen exporteert naar Japan stuurt een rekening in euro's.",
+                "rewritten_sentences": "Een bedrijf verkoopt spullen aan Japan. Hij stuurt een brief.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Het opsplitsen van de complexe zin met een betrekkelijke bijzin verlaagt de syntactische afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Een Nederlands bedrijf dat goederen exporteert naar Japan stuurt een rekening in euro's.",
+                        "new_text": "Een bedrijf verkoopt spullen aan Japan. Hij stuurt een brief.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Het woord 'brief' is een concreter zelfstandig naamwoord dan 'rekening'.",
+                        "start_word": 10,
+                        "end_word": 10,
+                        "original_text": "rekening",
+                        "new_text": "brief",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bedrag in vreemde valuta blijft wel hetzelfde, maar de wisselkoers kan veranderen.",
+                "rewritten_sentences": "De prijs van het geld verandert vaak.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "De samengestelde zin is vereenvoudigd tot een enkele hoofdzin om de contentwoorden per deelzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Het bedrag in vreemde valuta blijft wel hetzelfde, maar de wisselkoers kan veranderen",
+                        "new_text": "De prijs van het geld verandert vaak",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Financieel-economische educatie",
+        "full_text": "De prijs van buitenlands geld. Koop je spullen? Dan moet je betalen. De verkoper wil dat geld graag hebben. Hij betaalt er de mensen mee. Je koopt dat geld bij de bank. De koers zegt hoeveel euro je betaalt. De prijs komt door vraag en aanbod. De euro wordt duurder als veel mensen hem willen. Een bedrijf verkoopt spullen aan Japan. Hij stuurt een brief. De prijs van het geld verandert vaak.",
+        "prompt_id": "T04_moei",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Als je iets koopt, betaal je ervoor. Koop je dat in het buitenland? Dan heb je buitenlands geld nodig. Dat heet ook wel vreemde valuta. Een bedrijf dat producten naar het buitenland verkoopt, heeft buitenlands geld nodig. Met dat geld betaalt het de werknemers in eigen land. Een Nederlandse importeur heeft dus vreemde valuta nodig. Dat is buitenlands geld. Je koopt het bij banken. Hoeveel je betaalt voor vreemde valuta, hangt af van de wisselkoers. Dat is het aantal euro's dat je voor buitenlands geld geeft. De prijs van buitenlands geld wordt bepaald door vraag en aanbod. De wisselkoers kan dus veranderen. Als veel mensen euro's willen hebben, stijgt de koers. Als er veel euro's beschikbaar zijn, daalt de koers. Import en export be\u00efnvloeden de vraag en het aanbod van euro's. Een importeur koopt buitenlandse producten. Hij heeft buitenlands geld nodig en geeft euro's. Als Nederland meer importeert, zijn er meer euro's te koop. De wisselkoers daalt dan. Een Nederlands bedrijf verkoopt goederen aan Japan. Het stuurde een rekening in euro's. De Japanse klant heeft euro's nodig. Als Nederland meer exporteert, willen mensen meer euro's. De wisselkoers stijgt dan. In een winkel betaal je bij de kassa. Een importeur bestelt kleding in het buitenland. Hij kan niet naar de kassa. In de internationale handel krijg je kleding toegestuurd. Er zit een rekening bij. Die rekening is in vreemde valuta. Een importeur krijgt over drie maanden een rekening. Hij weet nu niet hoeveel het kost. Het bedrag in vreemde valuta verandert niet. Maar de wisselkoers kan veranderen.",
+    "Mistral/ministral-14b-latest - lint": "32",
+    "Mistral/ministral-14b-latest - sent": "12, 28, 39, 40, 22, 47, 32, 40, 40, 37, 43, 30, 22, 32, 56, 44, 28, 30, 39, 42, 38, 25, 23, 37, 22, 33, 28, 32, 19, 44, 32, 38, 31",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Als je producten koopt moet je betalen. Als je producten in het buitenland koopt, moet je betalen met buitenlands geld.",
+                "rewritten_sentences": "Als je iets koopt, betaal je ervoor. Koop je dat in het buitenland? Dan heb je buitenlands geld nodig. Dat heet ook wel vreemde valuta.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "split_sentence_1",
+                        "reason_for_change": "Verlaag de complexiteit door de zinnen korter en eenvoudiger te maken. Verhoog de woordfrequentie door herhaling te verminderen.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Als je producten koopt moet je betalen. Als je producten in het buitenland koopt, moet je betalen met buitenlands geld.",
+                        "new_text": "Als je iets koopt, betaal je ervoor. Koop je dat in het buitenland? Dan heb je buitenlands geld nodig. Dat heet ook wel vreemde valuta.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De exporteur wil dat buitenlandse geld hebben. Daarmee kan hij in zijn eigen land de lonen betalen.",
+                "rewritten_sentences": "Een bedrijf dat producten naar het buitenland verkoopt, heeft buitenlands geld nodig. Met dat geld betaalt het de werknemers in eigen land.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_concept_1",
+                        "reason_for_change": "Verminder de abstractie door een concreter voorbeeld te geven en de afhankelijkheidslengte te verkorten.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "De exporteur wil dat buitenlandse geld hebben. Daarmee kan hij in zijn eigen land de lonen betalen.",
+                        "new_text": "Een bedrijf dat producten naar het buitenland verkoopt, heeft buitenlands geld nodig. Met dat geld betaalt het de werknemers in eigen land.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een Nederlandse importeur heeft daarom vreemde valuta nodig. Vreemde valuta is een ander woord voor buitenlands geld. Vreemde valuta zijn te koop bij de banken.",
+                "rewritten_sentences": "Een Nederlandse importeur heeft dus vreemde valuta nodig. Dat is buitenlands geld. Je koopt het bij banken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "reduce_content_words_1",
+                        "reason_for_change": "Verlaag het aantal inhoudswoorden per deelzin door herhalingen te verwijderen en zinnen korter te maken.",
+                        "start_word": 1,
+                        "end_word": 19,
+                        "original_text": "Een Nederlandse importeur heeft daarom vreemde valuta nodig. Vreemde valuta is een ander woord voor buitenlands geld. Vreemde valuta zijn te koop bij de banken.",
+                        "new_text": "Een Nederlandse importeur heeft dus vreemde valuta nodig. Dat is buitenlands geld. Je koopt het bij banken.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het bedrag dat je voor de vreemde valuta moet betalen hangt af van de wisselkoers. De wisselkoers geeft aan hoeveel euro's je moet betalen voor de vreemde valuta.",
+                "rewritten_sentences": "Hoeveel je betaalt voor vreemde valuta, hangt af van de wisselkoers. Dat is het aantal euro's dat je voor buitenlands geld geeft.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_dependency_2",
+                        "reason_for_change": "Verlaag de afhankelijkheidslengte door de zinnen korter en directer te maken.",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "Het bedrag dat je voor de vreemde valuta moet betalen hangt af van de wisselkoers. De wisselkoers geeft aan hoeveel euro's je moet betalen voor de vreemde valuta.",
+                        "new_text": "Hoeveel je betaalt voor vreemde valuta, hangt af van de wisselkoers. Dat is het aantal euro's dat je voor buitenlands geld geeft.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De prijs van het buitenlandse geld komt tot stand door vraag en aanbod. De wisselkoers van een valuta kan steeds veranderen.",
+                "rewritten_sentences": "De prijs van buitenlands geld wordt bepaald door vraag en aanbod. De wisselkoers kan dus veranderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "reduce_abstract_concepts_1",
+                        "reason_for_change": "Verminder abstracte termen door een eenvoudiger formulering te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "De prijs van het buitenlandse geld komt tot stand door vraag en aanbod.",
+                        "new_text": "De prijs van buitenlands geld wordt bepaald door vraag en aanbod.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_sentence_1",
+                        "reason_for_change": "Verlaag de complexiteit door de zin korter te maken.",
+                        "start_word": 13,
+                        "end_word": 18,
+                        "original_text": "De wisselkoers van een valuta kan steeds veranderen.",
+                        "new_text": "De wisselkoers kan dus veranderen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De koers van de euro stijgt als de vraag naar de euro toeneemt. En de koers van de euro daalt als het aanbod stijgt.",
+                "rewritten_sentences": "Als veel mensen euro's willen hebben, stijgt de koers. Als er veel euro's beschikbaar zijn, daalt de koers.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "increase_concrete_nouns_1",
+                        "reason_for_change": "Verhoog de verhouding van concrete zelfstandige naamwoorden door specifiekere voorbeelden te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "De koers van de euro stijgt als de vraag naar de euro toeneemt. En de koers van de euro daalt als het aanbod stijgt.",
+                        "new_text": "Als veel mensen euro's willen hebben, stijgt de koers. Als er veel euro's beschikbaar zijn, daalt de koers.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vraag naar en aanbod van de euro zijn het gevolg van import en export. Een importeur van buitenlandse producten heeft buitenlands geld nodig. Hij is aanbieder van euro's.",
+                "rewritten_sentences": "Import en export be\u00efnvloeden de vraag en het aanbod van euro's. Een importeur koopt buitenlandse producten. Hij heeft buitenlands geld nodig en geeft euro's.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "reduce_dependency_length_1",
+                        "reason_for_change": "Verlaag de afhankelijkheidslengte door de zinnen korter en duidelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "Vraag naar en aanbod van de euro zijn het gevolg van import en export.",
+                        "new_text": "Import en export be\u00efnvloeden de vraag en het aanbod van euro's.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "simplify_concepts_2",
+                        "reason_for_change": "Verminder de complexiteit door eenvoudiger woorden te gebruiken.",
+                        "start_word": 18,
+                        "end_word": 30,
+                        "original_text": "Een importeur van buitenlandse producten heeft buitenlands geld nodig. Hij is aanbieder van euro's.",
+                        "new_text": "Een importeur koopt buitenlandse producten. Hij heeft buitenlands geld nodig en geeft euro's.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een toename van de import leidt tot meer aanbod van euro's en veroorzaakt een daling van de wisselkoers van de euro.",
+                "rewritten_sentences": "Als Nederland meer importeert, zijn er meer euro's te koop. De wisselkoers daalt dan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "increase_concrete_nouns_2",
+                        "reason_for_change": "Verhoog de verhouding van concrete zelfstandige naamwoorden door specifieker te zijn over de situatie.",
+                        "start_word": 1,
+                        "end_word": 19,
+                        "original_text": "Een toename van de import leidt tot meer aanbod van euro's en veroorzaakt een daling van de wisselkoers van de euro.",
+                        "new_text": "Als Nederland meer importeert, zijn er meer euro's te koop. De wisselkoers daalt dan.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een Nederlands bedrijf dat goederen exporteert naar Japan stuurt een rekening in euro's. De Japanse klant heeft euro's nodig en is vrager van euro's.",
+                "rewritten_sentences": "Een Nederlands bedrijf verkoopt goederen aan Japan. Het stuurde een rekening in euro's. De Japanse klant heeft euro's nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "reduce_content_words_2",
+                        "reason_for_change": "Verlaag het aantal inhoudswoorden per zin door de zin korter en eenvoudiger te maken.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "Een Nederlands bedrijf dat goederen exporteert naar Japan stuurt een rekening in euro's.",
+                        "new_text": "Een Nederlands bedrijf verkoopt goederen aan Japan. Het stuurde een rekening in euro's.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_dependency_3",
+                        "reason_for_change": "Verlaag de afhankelijkheidslengte door de zin korter te maken.",
+                        "start_word": 21,
+                        "end_word": 30,
+                        "original_text": "De Japanse klant heeft euro's nodig en is vrager van euro's.",
+                        "new_text": "De Japanse klant heeft euro's nodig.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een toename van de export leidt tot meer vraag naar euro's en veroorzaakt een stijging van de wisselkoers van de euro.",
+                "rewritten_sentences": "Als Nederland meer exporteert, willen mensen meer euro's. De wisselkoers stijgt dan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "increase_concrete_nouns_3",
+                        "reason_for_change": "Verhoog de verhouding van concrete zelfstandige naamwoorden door eenvoudiger en specifiekere woorden te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 23,
+                        "original_text": "Een toename van de export leidt tot meer vraag naar euro's en veroorzaakt een stijging van de wisselkoers van de euro.",
+                        "new_text": "Als Nederland meer exporteert, willen mensen meer euro's. De wisselkoers stijgt dan.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je in een winkel koopt, moet je bij de kassa betalen. Als een importeur via de telefoon of met een fax kleding in het buitenland bestelt, kan hij daar niet langs de kassa lopen.",
+                "rewritten_sentences": "In een winkel betaal je bij de kassa. Een importeur bestelt kleding in het buitenland. Hij kan niet naar de kassa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "reduce_dependency_length_2",
+                        "reason_for_change": "Verlaag de afhankelijkheidslengte door de zinnen korter en duidelijker te maken.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Als je in een winkel koopt, moet je bij de kassa betalen.",
+                        "new_text": "In een winkel betaal je bij de kassa.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "split_complex_sentence_1",
+                        "reason_for_change": "Split een complexe zin in twee eenvoudigere zinnen.",
+                        "start_word": 13,
+                        "end_word": 30,
+                        "original_text": "Als een importeur via de telefoon of met een fax kleding in het buitenland bestelt, kan hij daar niet langs de kassa lopen.",
+                        "new_text": "Een importeur bestelt kleding in het buitenland. Hij kan niet naar de kassa.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is in de internationale handel de gewoonte dat je de kleding krijgt toegestuurd met een rekening erbij. Die rekening geeft een bedrag weer in vreemde valuta.",
+                "rewritten_sentences": "In de internationale handel krijg je kleding toegestuurd. Er zit een rekening bij. Die rekening is in vreemde valuta.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "reduce_content_words_3",
+                        "reason_for_change": "Verlaag het aantal inhoudswoorden per zin door de zin te splitsen en korter te maken.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "Het is in de internationale handel de gewoonte dat je de kleding krijgt toegestuurd met een rekening erbij.",
+                        "new_text": "In de internationale handel krijg je kleding toegestuurd. Er zit een rekening bij.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_dependency_4",
+                        "reason_for_change": "Verlaag de afhankelijkheidslengte door de zin korter te maken.",
+                        "start_word": 21,
+                        "end_word": 30,
+                        "original_text": "Die rekening geeft een bedrag weer in vreemde valuta.",
+                        "new_text": "Die rekening is in vreemde valuta.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een importeur die over drie maanden zo'n rekening moet betalen, weet vandaag niet hoeveel het hem dan zal kosten. Het bedrag in vreemde valuta blijft wel hetzelfde, maar de wisselkoers kan veranderen.",
+                "rewritten_sentences": "Een importeur krijgt over drie maanden een rekening. Hij weet nu niet hoeveel het kost. Het bedrag in vreemde valuta verandert niet. Maar de wisselkoers kan veranderen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "split_complex_sentence_2",
+                        "reason_for_change": "Split een complexe zin in meerdere eenvoudige zinnen.",
+                        "start_word": 1,
+                        "end_word": 22,
+                        "original_text": "Een importeur die over drie maanden zo'n rekening moet betalen, weet vandaag niet hoeveel het hem dan zal kosten.",
+                        "new_text": "Een importeur krijgt over drie maanden een rekening. Hij weet nu niet hoeveel het kost.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "increase_concrete_nouns_4",
+                        "reason_for_change": "Verhoog de verhouding van concrete zelfstandige naamwoorden door specifieker te zijn.",
+                        "start_word": 23,
+                        "end_word": 38,
+                        "original_text": "Het bedrag in vreemde valuta blijft wel hetzelfde, maar de wisselkoers kan veranderen.",
+                        "new_text": "Het bedrag in vreemde valuta verandert niet. Maar de wisselkoers kan veranderen.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Uitleg over economische concepten",
+        "full_text": "Als je iets koopt, betaal je ervoor. Koop je dat in het buitenland? Dan heb je buitenlands geld nodig. Dat heet ook wel vreemde valuta. Een bedrijf dat producten naar het buitenland verkoopt, heeft buitenlands geld nodig. Met dat geld betaalt het de werknemers in eigen land. Een Nederlandse importeur heeft dus vreemde valuta nodig. Dat is buitenlands geld. Je koopt het bij banken. Hoeveel je betaalt voor vreemde valuta, hangt af van de wisselkoers. Dat is het aantal euro's dat je voor buitenlands geld geeft. De prijs van buitenlands geld wordt bepaald door vraag en aanbod. De wisselkoers kan dus veranderen. Als veel mensen euro's willen hebben, stijgt de koers. Als er veel euro's beschikbaar zijn, daalt de koers. Import en export be\u00efnvloeden de vraag en het aanbod van euro's. Een importeur koopt buitenlandse producten. Hij heeft buitenlands geld nodig en geeft euro's. Als Nederland meer importeert, zijn er meer euro's te koop. De wisselkoers daalt dan. Een Nederlands bedrijf verkoopt goederen aan Japan. Het stuurde een rekening in euro's. De Japanse klant heeft euro's nodig. Als Nederland meer exporteert, willen mensen meer euro's. De wisselkoers stijgt dan. In een winkel betaal je bij de kassa. Een importeur bestelt kleding in het buitenland. Hij kan niet naar de kassa. In de internationale handel krijg je kleding toegestuurd. Er zit een rekening bij. Die rekening is in vreemde valuta. Een importeur krijgt over drie maanden een rekening. Hij weet nu niet hoeveel het kost. Het bedrag in vreemde valuta verandert niet. Maar de wisselkoers kan veranderen.",
+        "prompt_id": "T04_moei",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-06-07 22:36:30.167913"
+}

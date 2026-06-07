@@ -1,0 +1,1145 @@
+{
+    "prompt_id": "T12_moei",
+    "Org - text": "Cultuur\n\nVanaf je geboorte begin je met leren. Je leert praten en wat je wel en niet mag eten. Je leert hoe je mensen begroet. Je leert wat goed is en wat slecht. Je leert nog honderd dingen meer. Niet alleen van je ouders leer je gewoonten en gebruiken. Ook van broers en zussen, de rest van de familie en de buren leer je. School, televisie en vrienden krijgen invloed op je. Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.\n\nCultuur is taal, godsdienst, gewoonten en gebruiken van een groep mensen. Een cultuur kun je aan taal en godsdienst herkennen. Ook aan symbolen, helden, en rituelen herken je cultuur.\n\nSymbolen zijn woorden, gebaren of voorwerpen met een speciale betekenis in een cultuur. De Nederlandse vlag is een voorbeeld. Of je duim omhoog steken als iemand iets goeds doet.\n\nHelden zijn figuren met eigenschappen die in een cultuur belangrijk zijn. Mohammed is een belangrijke man voor islamieten. Jezus is belangrijk voor alle christenen. En Maria wordt door rooms-katholieken vereerd.\n\nRituelen zijn vaste handelingen die in een cultuur belangrijk zijn. De vlag halfstok hangen bij de dodenherdenking op 4 mei is een voorbeeld.\n\nElke cultuur heeft ook waarden. Waarden zijn idee\u00ebn over goed en slecht, over normaal en abnormaal. Jij leert dat stelen slecht is. Dus betaal je bij de kassa. Als christen en islamiet leer je dat je voor mensen in moeilijkheden moet zorgen. Daarom geef je geld aan een collecte. Cultuur heeft dus alles te maken met je denken en je doen. Omdat de waarden per cultuur kunnen verschillen, kan het zijn dat je mensen uit een andere cultuur niet altijd begrijpt. In verschillende culturen wordt anders over de vraag wat waardevoller is: de groep of het individu ('ik'), gedacht. Een belangrijke groep is de familie. In een cultuur waar de groep belangrijk is, blijf je de groep altijd trouw. Je komt voor elkaar op. Je hebt dezelfde mening als de rest van de groep. Als 'ik' belangrijker is, dan leer je zelf te kiezen. Je moet voor jezelf kunnen zorgen en je hebt je eigen mening.",
+    "Org - lint": "34",
+    "Org - sent": "29, 9, 26, 30, 40, 30, 24, 50, 52, 48, 37, 23, 38, 29, 21, 52, 46, 58, 42, 23, 42, 24, 35, 36, 28, 40, 20, 43, 32, 25",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Vanaf het moment dat je geboren wordt, begin je met leren. Je leert praten. Ook leer je wat je wel mag eten en wat niet. Je leert ook hoe je mensen moet begroeten. Je leert wat goed is. Je leert ook wat slecht is. Er zijn nog wel honderd andere dingen die je leert. Je leert gewoonten en gebruiken niet alleen van je ouders. Je leert ook van broers en zussen. Ook van de rest van de familie. En van de buren leer je. School be\u00efnvloedt je. Televisie heeft ook invloed. Vrienden spelen ook een rol. Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "18",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "9, 9, 16, 27, 26, 18, 32, 25, 16, 24",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Vanaf je geboorte begin je met leren.",
+                "rewritten_sentences": "Vanaf het moment dat je geboren wordt, begin je met leren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "verhoog woordfrequentie door opsplitsen en iets concreter maken",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Vanaf je geboorte begin je met leren.",
+                        "new_text": "Vanaf het moment dat je geboren wordt, begin je met leren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je leert praten en wat je wel en niet mag eten.",
+                "rewritten_sentences": "Je leert praten. Ook leer je wat je wel mag eten en wat niet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "verlaag afhankelijkheidslengte door opsplitsen in twee kortere zinnen",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Je leert praten en wat je wel en niet mag eten.",
+                        "new_text": "Je leert praten. Ook leer je wat je wel mag eten en wat niet.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je leert hoe je mensen begroet.",
+                "rewritten_sentences": "Je leert ook hoe je mensen moet begroeten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "verhoog woordfrequentie en concrete woorden door duidelijker te formuleren",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Je leert hoe je mensen begroet.",
+                        "new_text": "Je leert ook hoe je mensen moet begroeten.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je leert wat goed is en wat slecht.",
+                "rewritten_sentences": "Je leert wat goed is. Je leert ook wat slecht is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "verlaag afhankelijkheidslengte door opsplitsen in twee zinnen",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Je leert wat goed is en wat slecht.",
+                        "new_text": "Je leert wat goed is. Je leert ook wat slecht is.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je leert nog honderd dingen meer.",
+                "rewritten_sentences": "Er zijn nog wel honderd andere dingen die je leert.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "verhoog woordfrequentie en concrete zelfstandige naamwoorden door specifieke formulering",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Je leert nog honderd dingen meer.",
+                        "new_text": "Er zijn nog wel honderd andere dingen die je leert.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet alleen van je ouders leer je gewoonten en gebruiken.",
+                "rewritten_sentences": "Je leert gewoonten en gebruiken niet alleen van je ouders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "verlaag afhankelijkheidslengte door zinsstructuur te vereenvoudigen",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Niet alleen van je ouders leer je gewoonten en gebruiken.",
+                        "new_text": "Je leert gewoonten en gebruiken niet alleen van je ouders.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook van broers en zussen, de rest van de familie en de buren leer je.",
+                "rewritten_sentences": "Je leert ook van broers en zussen. Ook van de rest van de familie. En van de buren leer je.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "verlaag afhankelijkheidslengte door opsplitsen in meerdere korte zinnen",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Ook van broers en zussen, de rest van de familie en de buren leer je.",
+                        "new_text": "Je leert ook van broers en zussen. Ook van de rest van de familie. En van de buren leer je.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "School, televisie en vrienden krijgen invloed op je.",
+                "rewritten_sentences": "School be\u00efnvloedt je. Televisie heeft ook invloed. Vrienden spelen ook een rol.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "verlaag afhankelijkheidslengte en verhoog woordfrequentie door opsplitsing",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "School, televisie en vrienden krijgen invloed op je.",
+                        "new_text": "School be\u00efnvloedt je. Televisie heeft ook invloed. Vrienden spelen ook een rol.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.",
+                "rewritten_sentences": "Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.",
+                "changes_in_sentence": []
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Vanaf het moment dat je geboren wordt, begin je met leren. Je leert praten. Ook leer je wat je wel mag eten en wat niet. Je leert ook hoe je mensen moet begroeten. Je leert wat goed is. Je leert ook wat slecht is. Er zijn nog wel honderd andere dingen die je leert. Je leert gewoonten en gebruiken niet alleen van je ouders. Je leert ook van broers en zussen. Ook van de rest van de familie. En van de buren leer je. School be\u00efnvloedt je. Televisie heeft ook invloed. Vrienden spelen ook een rol. Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.",
+        "prompt_id": "T12_moei",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Cultuur Je leert al vanaf je geboorte. Je leert veel. Je leert praten. Je leert wat je wel mag eten. Je leert wat je niet mag eten. Je leert begroeten. Je leert hoe je iemand begroet. Je leert wat goed is. Je leert wat slecht is. Je leert nog veel meer. Soms zijn het wel honderd dingen. Je leert gewoonten en gebruiken van je ouders. Maar niet alleen van hen. Je leert ook van broers en zussen. Je leert van de rest van de familie. Je leert van de buren. School heeft invloed op je. Televisie heeft invloed. Vrienden hebben ook invloed. Mensen die in hetzelfde land opgroeien leren vaak dezelfde cultuur. Ze delen gewoonten en waarden. Cultuur bestaat uit taal en godsdienst. Het omvat ook gewoonten en gebruiken van een groep mensen. Je herkent een cultuur aan de taal. Je herkent die ook aan de godsdienst. Ook symbolen horen bij cultuur. Helden horen erbij. Rituelen ook. Symbolen zijn woorden en gebaren. Het kunnen ook voorwerpen zijn. Ze hebben een speciale betekenis in een cultuur. Een voorbeeld is de Nederlandse vlag. Je steekt je duim omhoog als iemand iets goeds doet. Helden zijn mensen. Zij hebben eigenschappen die een cultuur belangrijk vindt. Mohammed is belangrijk voor veel islamieten. Jezus is belangrijk voor christenen. Maria wordt vereerd door rooms-katholieken. Rituelen zijn vaste handelingen. Ze zijn belangrijk in een cultuur. Een voorbeeld is het halfstok hangen van de vlag. Dat gebeurt bij de dodenherdenking op 4 mei. Elke cultuur heeft waarden. Waarden zijn idee\u00ebn over goed en slecht. Ze gaan ook over wat normaal of abnormaal is. Jij leert dat stelen slecht is. Je betaalt bij de kassa. Christenen leren dat. Ook islamieten leren dat. Je moet voor mensen in moeilijkheden zorgen. Daarom geef je soms geld tijdens een collecte. Cultuur gaat over denken. Cultuur gaat ook over doen. Waarden verschillen per cultuur. Daarom begrijp je mensen uit een andere cultuur niet altijd. Sommige culturen vinden de groep belangrijker. Andere culturen vinden het individu belangrijker. De familie is een belangrijke groep. Als de groep belangrijk is, blijf je trouw aan de groep. Je helpt elkaar. Je komt voor elkaar op. Je deelt vaak dezelfde mening. Is het 'ik' belangrijker? Dan leer je zelf kiezen. Je moet voor jezelf kunnen zorgen. Je hebt je eigen mening.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "27",
+    "GPT 5.1 mini/gpt-5-mini - sent": "38, 14, 32, 26, 19, 19, 21, 24, 11, 32, 45, 44, 39, 44, 48, 36, 9, 44, 33, 39, 24, 6, 30, 36, 20, 47, 50, 32, 42, 32, 42, 22, 15, 29, 16, 26, 21, 17, 45, 25, 37, 32, 22, 29, 36, 20",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Cultuur",
+                "rewritten_sentences": "Cultuur",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Vanaf je geboorte begin je met leren.",
+                "rewritten_sentences": "Je leert al vanaf je geboorte. Je leert veel.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s2c1",
+                        "reason_for_change": "Zin opgesplitst in kortere zinnen om de syntactische afhankelijkheidslengte te verkleinen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Vanaf je geboorte begin je met leren.",
+                        "new_text": "Je leert al vanaf je geboorte. Je leert veel.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je leert praten en wat je wel en niet mag eten.",
+                "rewritten_sentences": "Je leert praten. Je leert wat je wel mag eten. Je leert wat je niet mag eten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s3c1",
+                        "reason_for_change": "Oorspronkelijke samengestelde zin opgesplitst in kortere zinnen om afhankelijkheidslengte en aantal inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Je leert praten en wat je wel en niet mag eten.",
+                        "new_text": "Je leert praten. Je leert wat je wel mag eten. Je leert wat je niet mag eten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je leert hoe je mensen begroet.",
+                "rewritten_sentences": "Je leert begroeten. Je leert hoe je iemand begroet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4c1",
+                        "reason_for_change": "Zin gesplitst en woordkeuze licht aangepast om zinnen korter en directer te maken.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Je leert hoe je mensen begroet.",
+                        "new_text": "Je leert begroeten. Je leert hoe je iemand begroet.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je leert wat goed is en wat slecht.",
+                "rewritten_sentences": "Je leert wat goed is. Je leert wat slecht is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s5c1",
+                        "reason_for_change": "Opsplitsing in twee korte zinnen om de afhankelijkheidslengte en het aantal inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Je leert wat goed is en wat slecht.",
+                        "new_text": "Je leert wat goed is. Je leert wat slecht is.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je leert nog honderd dingen meer.",
+                "rewritten_sentences": "Je leert nog veel meer. Soms zijn het wel honderd dingen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s6c1",
+                        "reason_for_change": "De zin is opgesplitst en verduidelijkt in twee korte zinnen om zinslengte te verkleinen en concretere informatie te geven.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Je leert nog honderd dingen meer.",
+                        "new_text": "Je leert nog veel meer. Soms zijn het wel honderd dingen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet alleen van je ouders leer je gewoonten en gebruiken.",
+                "rewritten_sentences": "Je leert gewoonten en gebruiken van je ouders. Maar niet alleen van hen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s7c1",
+                        "reason_for_change": "Zin opgesplitst om kortere, eenvoudigere zinnen te maken en zo de afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Niet alleen van je ouders leer je gewoonten en gebruiken.",
+                        "new_text": "Je leert gewoonten en gebruiken van je ouders. Maar niet alleen van hen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook van broers en zussen, de rest van de familie en de buren leer je.",
+                "rewritten_sentences": "Je leert ook van broers en zussen. Je leert van de rest van de familie. Je leert van de buren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8c1",
+                        "reason_for_change": "Lijst opgesplitst in losse zinnen om elk bron van leren apart te noemen en de syntactische afhankelijkheid te verkleinen.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Ook van broers en zussen, de rest van de familie en de buren leer je.",
+                        "new_text": "Je leert ook van broers en zussen. Je leert van de rest van de familie. Je leert van de buren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "School, televisie en vrienden krijgen invloed op je.",
+                "rewritten_sentences": "School heeft invloed op je. Televisie heeft invloed. Vrienden hebben ook invloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9c1",
+                        "reason_for_change": "Samengestelde zin verdeeld in korte, eenvoudige zinnen om afhankelijkheidslengte en complexiteit te verminderen.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "School, televisie en vrienden krijgen invloed op je.",
+                        "new_text": "School heeft invloed op je. Televisie heeft invloed. Vrienden hebben ook invloed.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.",
+                "rewritten_sentences": "Mensen die in hetzelfde land opgroeien leren vaak dezelfde cultuur. Ze delen gewoonten en waarden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10c1",
+                        "reason_for_change": "Zin opgesplitst en iets vereenvoudigd om de afhankelijkheidslengte te verlagen en concrete voorbeelden te geven.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.",
+                        "new_text": "Mensen die in hetzelfde land opgroeien leren vaak dezelfde cultuur. Ze delen gewoonten en waarden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Cultuur is taal, godsdienst, gewoonten en gebruiken van een groep mensen.",
+                "rewritten_sentences": "Cultuur bestaat uit taal en godsdienst. Het omvat ook gewoonten en gebruiken van een groep mensen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11c1",
+                        "reason_for_change": "Lange opsomming opgesplitst in twee zinnen om de informatie per zin te beperken en de afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Cultuur is taal, godsdienst, gewoonten en gebruiken van een groep mensen.",
+                        "new_text": "Cultuur bestaat uit taal en godsdienst. Het omvat ook gewoonten en gebruiken van een groep mensen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een cultuur kun je aan taal en godsdienst herkennen.",
+                "rewritten_sentences": "Je herkent een cultuur aan de taal. Je herkent die ook aan de godsdienst.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s12c1",
+                        "reason_for_change": "Zin opgesplitst in twee korte zinnen om leesbaarheid voor lage niveaus te verlagen en afhankelijkheid te verminderen.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Een cultuur kun je aan taal en godsdienst herkennen.",
+                        "new_text": "Je herkent een cultuur aan de taal. Je herkent die ook aan de godsdienst.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook aan symbolen, helden, en rituelen herken je cultuur.",
+                "rewritten_sentences": "Ook symbolen horen bij cultuur. Helden horen erbij. Rituelen ook.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s13c1",
+                        "reason_for_change": "Opsomming verdeeld in korte zinnen om het aantal inhoudswoorden per deelzin te verlagen en de zinnen concreter te maken.",
+                        "start_word": 1,
+                        "end_word": 9,
+                        "original_text": "Ook aan symbolen, helden, en rituelen herken je cultuur.",
+                        "new_text": "Ook symbolen horen bij cultuur. Helden horen erbij. Rituelen ook.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Symbolen zijn woorden, gebaren of voorwerpen met een speciale betekenis in een cultuur.",
+                "rewritten_sentences": "Symbolen zijn woorden en gebaren. Het kunnen ook voorwerpen zijn. Ze hebben een speciale betekenis in een cultuur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s14c1",
+                        "reason_for_change": "Zin opgesplitst in korte zinnen en structuur vereenvoudigd om afhankelijkheidslengte en aantal inhoudswoorden per deelzin te verminderen.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Symbolen zijn woorden, gebaren of voorwerpen met een speciale betekenis in een cultuur.",
+                        "new_text": "Symbolen zijn woorden en gebaren. Het kunnen ook voorwerpen zijn. Ze hebben een speciale betekenis in een cultuur.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Nederlandse vlag is een voorbeeld.",
+                "rewritten_sentences": "Een voorbeeld is de Nederlandse vlag.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s15c1",
+                        "reason_for_change": "Woordvolgorde licht aangepast voor directe, korte zin met dezelfde betekenis.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "De Nederlandse vlag is een voorbeeld.",
+                        "new_text": "Een voorbeeld is de Nederlandse vlag.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Of je duim omhoog steken als iemand iets goeds doet.",
+                "rewritten_sentences": "Je steekt je duim omhoog als iemand iets goeds doet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16c1",
+                        "reason_for_change": "Fragment herzien tot volledige, korte zin om grammaticale afhankelijkheid te verminderen en de zin concreet te maken.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Of je duim omhoog steken als iemand iets goeds doet.",
+                        "new_text": "Je steekt je duim omhoog als iemand iets goeds doet.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Helden zijn figuren met eigenschappen die in een cultuur belangrijk zijn.",
+                "rewritten_sentences": "Helden zijn mensen. Zij hebben eigenschappen die een cultuur belangrijk vindt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17c1",
+                        "reason_for_change": "Zin opgesplitst zodat elk deel een korte, zelfstandige zin wordt; vermindert afhankelijkheidslengte.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Helden zijn figuren met eigenschappen die in een cultuur belangrijk zijn.",
+                        "new_text": "Helden zijn mensen. Zij hebben eigenschappen die een cultuur belangrijk vindt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mohammed is een belangrijke man voor islamieten.",
+                "rewritten_sentences": "Mohammed is belangrijk voor veel islamieten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s18c1",
+                        "reason_for_change": "Zin vereenvoudigd en compacter gemaakt door woordkeuze en structuur aan te passen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Mohammed is een belangrijke man voor islamieten.",
+                        "new_text": "Mohammed is belangrijk voor veel islamieten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jezus is belangrijk voor alle christenen.",
+                "rewritten_sentences": "Jezus is belangrijk voor christenen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19c1",
+                        "reason_for_change": "Woordkeuze iets compacter gemaakt voor kortere en directere zin.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Jezus is belangrijk voor alle christenen.",
+                        "new_text": "Jezus is belangrijk voor christenen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En Maria wordt door rooms-katholieken vereerd.",
+                "rewritten_sentences": "Maria wordt vereerd door rooms-katholieken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20c1",
+                        "reason_for_change": "Beginwoord verwijderd en woordvolgorde aangepast om korte, duidelijke zin te maken.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "En Maria wordt door rooms-katholieken vereerd.",
+                        "new_text": "Maria wordt vereerd door rooms-katholieken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Rituelen zijn vaste handelingen die in een cultuur belangrijk zijn.",
+                "rewritten_sentences": "Rituelen zijn vaste handelingen. Ze zijn belangrijk in een cultuur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s21c1",
+                        "reason_for_change": "Zin opgesplitst om informatie per zin te beperken en afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Rituelen zijn vaste handelingen die in een cultuur belangrijk zijn.",
+                        "new_text": "Rituelen zijn vaste handelingen. Ze zijn belangrijk in een cultuur.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De vlag halfstok hangen bij de dodenherdenking op 4 mei is een voorbeeld.",
+                "rewritten_sentences": "Een voorbeeld is het halfstok hangen van de vlag. Dat gebeurt bij de dodenherdenking op 4 mei.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s22c1",
+                        "reason_for_change": "Lange zin herschreven en opgesplitst in twee korte zinnen om syntactische afhankelijkheid te verminderen en concreet voorbeeld te scheiden.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "De vlag halfstok hangen bij de dodenherdenking op 4 mei is een voorbeeld.",
+                        "new_text": "Een voorbeeld is het halfstok hangen van de vlag. Dat gebeurt bij de dodenherdenking op 4 mei.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Elke cultuur heeft ook waarden.",
+                "rewritten_sentences": "Elke cultuur heeft waarden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23c1",
+                        "reason_for_change": "Kleine vereenvoudiging om de zin directer en compacter te maken.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Elke cultuur heeft ook waarden.",
+                        "new_text": "Elke cultuur heeft waarden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Waarden zijn idee\u00ebn over goed en slecht, over normaal en abnormaal.",
+                "rewritten_sentences": "Waarden zijn idee\u00ebn over goed en slecht. Ze gaan ook over wat normaal of abnormaal is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s24c1",
+                        "reason_for_change": "Opsplitsing in twee zinnen om elke gedachte eenvoudiger te maken en het aantal inhoudswoorden per deelzin te verlagen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Waarden zijn idee\u00ebn over goed en slecht, over normaal en abnormaal.",
+                        "new_text": "Waarden zijn idee\u00ebn over goed en slecht. Ze gaan ook over wat normaal of abnormaal is.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jij leert dat stelen slecht is.",
+                "rewritten_sentences": "Jij leert dat stelen slecht is.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Dus betaal je bij de kassa.",
+                "rewritten_sentences": "Je betaalt bij de kassa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s26c1",
+                        "reason_for_change": "Bijwoord aan het begin verwijderd en woordvorm aangepast voor een korte, directe zin.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Dus betaal je bij de kassa.",
+                        "new_text": "Je betaalt bij de kassa.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als christen en islamiet leer je dat je voor mensen in moeilijkheden moet zorgen.",
+                "rewritten_sentences": "Christenen leren dat. Ook islamieten leren dat. Je moet voor mensen in moeilijkheden zorgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s27c1",
+                        "reason_for_change": "Grotere samengestelde zin opgesplitst in korte, heldere zinnen om afhankelijkheidslengte en complexiteit te verminderen.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "Als christen en islamiet leer je dat je voor mensen in moeilijkheden moet zorgen.",
+                        "new_text": "Christenen leren dat. Ook islamieten leren dat. Je moet voor mensen in moeilijkheden zorgen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom geef je geld aan een collecte.",
+                "rewritten_sentences": "Daarom geef je soms geld tijdens een collecte.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s28c1",
+                        "reason_for_change": "Kleine aanpassing om de zin concreter en iets langer te maken zonder syntactische complexiteit toe te voegen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Daarom geef je geld aan een collecte.",
+                        "new_text": "Daarom geef je soms geld tijdens een collecte.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Cultuur heeft dus alles te maken met je denken en je doen.",
+                "rewritten_sentences": "Cultuur gaat over denken. Cultuur gaat ook over doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s29c1",
+                        "reason_for_change": "Zin opgesplitst in twee korte, herhalende zinnen om de relatie tussen denken en doen duidelijk en eenvoudig te maken.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Cultuur heeft dus alles te maken met je denken en je doen.",
+                        "new_text": "Cultuur gaat over denken. Cultuur goes ook over doen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Omdat de waarden per cultuur kunnen verschillen, kan het zijn dat je mensen uit een andere cultuur niet altijd begrijpt.",
+                "rewritten_sentences": "Waarden verschillen per cultuur. Daarom begrijp je mensen uit een andere cultuur niet altijd.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s30c1",
+                        "reason_for_change": "Lange bijzin opgesplitst in twee korte zinnen om afhankelijkheidslengte en complexiteit te verminderen.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "Omdat de waarden per cultuur kunnen verschillen, kan het zijn dat je mensen uit een andere cultuur niet altijd begrijpt.",
+                        "new_text": "Waarden verschillen per cultuur. Daarom begrijp je mensen uit een andere cultuur niet altijd.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In verschillende culturen wordt anders over de vraag wat waardevoller is: de groep of het individu ('ik'), gedacht.",
+                "rewritten_sentences": "Sommige culturen vinden de groep belangrijker. Andere culturen vinden het individu belangrijker.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s31c1",
+                        "reason_for_change": "Complexe formulering herzien en opgesplitst in twee duidelijke stellingen om afhankelijkheidslengte en aantal inhoudswoorden per zin te verminderen.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "In verschillende culturen wordt anders over de vraag wat waardevoller is: de groep of het individu ('ik'), gedacht.",
+                        "new_text": "Sommige culturen vinden de groep belangrijker. Andere culturen vinden het individu belangrijker.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een belangrijke groep is de familie.",
+                "rewritten_sentences": "De familie is een belangrijke groep.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s32c1",
+                        "reason_for_change": "Volgorde aangepast voor een meer directe, korte zin met dezelfde betekenis.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "Een belangrijke groep is de familie.",
+                        "new_text": "De familie is een belangrijke groep.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In een cultuur waar de groep belangrijk is, blijf je de groep altijd trouw.",
+                "rewritten_sentences": "Als de groep belangrijk is, blijf je trouw aan de groep. Je helpt elkaar.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s33c1",
+                        "reason_for_change": "Lange bijzin opgesplitst in twee korte zinnen om de informatiestroom te vereenvoudigen en afhankelijkheden te minimaliseren.",
+                        "start_word": 1,
+                        "end_word": 14,
+                        "original_text": "In een cultuur waar de groep belangrijk is, blijf je de groep altijd trouw.",
+                        "new_text": "Als de groep belangrijk is, blijf je trouw aan de groep. Je helpt elkaar.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je komt voor elkaar op.",
+                "rewritten_sentences": "Je komt voor elkaar op.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Je hebt dezelfde mening als de rest van de groep.",
+                "rewritten_sentences": "Je deelt vaak dezelfde mening.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s35c1",
+                        "reason_for_change": "Zin compacter gemaakt en actief geformuleerd om de leesstructuur te vereenvoudigen.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Je hebt dezelfde mening als de rest van de groep.",
+                        "new_text": "Je deelt vaak dezelfde mening.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als 'ik' belangrijker is, dan leer je zelf te kiezen.",
+                "rewritten_sentences": "Is het 'ik' belangrijker? Dan leer je zelf kiezen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s36c1",
+                        "reason_for_change": "Vraag-antwoord structuur gebruikt en zin opgesplitst om duidelijkheid te vergroten en afhankelijkheid te verminderen.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Als 'ik' importanter is, dan leer je zelf te kiezen.",
+                        "new_text": "Is het 'ik' belangrijker? Dan leer je zelf kiezen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je moet voor jezelf kunnen zorgen en je hebt je eigen mening.",
+                "rewritten_sentences": "Je moet voor jezelf kunnen zorgen. Je hebt je eigen mening.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s37c1",
+                        "reason_for_change": "Samengestelde zin opgesplitst in twee korte zinnen om het aantal inhoudswoorden per deelzin te verlagen en de zinnen concreter te maken.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "Je moet voor jezelf kunnen zorgen en je hebt je eigen mening.",
+                        "new_text": "Je moet voor jezelf kunnen zorgen. Je hebt je eigen mening.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatieve tekst voor leerlingen",
+        "full_text": "Cultuur Je leert al vanaf je geboorte. Je leert veel. Je leert praten. Je leert wat je wel mag eten. Je leert wat je niet mag eten. Je leert begroeten. Je leert hoe je iemand begroet. Je leert wat goed is. Je leert wat slecht is. Je leert nog veel meer. Soms zijn het wel honderd dingen. Je leert gewoonten en gebruiken van je ouders. Maar niet alleen van hen. Je leert ook van broers en zussen. Je leert van de rest van de familie. Je leert van de buren. School heeft invloed op je. Televisie heeft invloed. Vrienden hebben ook invloed. Mensen die in hetzelfde land opgroeien leren vaak dezelfde cultuur. Ze delen gewoonten en waarden. Cultuur bestaat uit taal en godsdienst. Het omvat ook gewoonten en gebruiken van een groep mensen. Je herkent een cultuur aan de taal. Je herkent die ook aan de godsdienst. Ook symbolen horen bij cultuur. Helden horen erbij. Rituelen ook. Symbolen zijn woorden en gebaren. Het kunnen ook voorwerpen zijn. Ze hebben een speciale betekenis in een cultuur. Een voorbeeld is de Nederlandse vlag. Je steekt je duim omhoog als iemand iets goeds doet. Helden zijn mensen. Zij hebben eigenschappen die een cultuur belangrijk vindt. Mohammed is belangrijk voor veel islamieten. Jezus is belangrijk voor christenen. Maria wordt vereerd door rooms-katholieken. Rituelen zijn vaste handelingen. Ze zijn belangrijk in een cultuur. Een voorbeeld is het halfstok hangen van de vlag. Dat gebeurt bij de dodenherdenking op 4 mei. Elke cultuur heeft waarden. Waarden zijn idee\u00ebn over goed en slecht. Ze gaan ook over wat normaal of abnormaal is. Jij leert dat stelen slecht is. Je betaalt bij de kassa. Christenen leren dat. Ook islamieten leren dat. Je moet voor mensen in moeilijkheden zorgen. Daarom geef je soms geld tijdens een collecte. Cultuur gaat over denken. Cultuur gaat ook over doen. Waarden verschillen per cultuur. Daarom begrijp je mensen uit een andere cultuur niet altijd. Sommige culturen vinden de groep belangrijker. Andere culturen vinden het individu belangrijker. De familie is een belangrijke groep. Als de groep belangrijk is, blijf je trouw aan de groep. Je helpt elkaar. Je komt voor elkaar op. Je deelt vaak dezelfde mening. Is het 'ik' belangrijker? Dan leer je zelf kiezen. Je moet voor jezelf kunnen zorgen. Je hebt je eigen mening.",
+        "prompt_id": "T12_moei",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "De groep. Je bent een baby. Je leert praten. Je leert wat je eet. Je leert van je vader en moeder. Je leert van je zus. Je leert van de buurman. De school is belangrijk. De tv ook. Mensen in een land doen hetzelfde. Een symbool is een ding. De vlag is een symbool. Stelen mag niet. Je betaalt bij de kassa. Soms ben 'ik' het belangrijkste. Dan kies je zelf. Je zorgt voor jezelf.",
+    "Gemini/gemini-3-flash-preview - lint": "13",
+    "Gemini/gemini-3-flash-preview - sent": "4, 8, 13, 4, 19, 0, 29, 32, 22",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Cultuur",
+                "rewritten_sentences": "De groep.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Het woord cultuur is abstract. Het woord groep is concreter en bekender.",
+                        "start_word": 0,
+                        "end_word": 0,
+                        "original_text": "Cultuur",
+                        "new_text": "De groep",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Vanaf je geboorte begin je met leren. Je leert praten en wat je wel en niet mag eten.",
+                "rewritten_sentences": "Je bent een baby. Je leert praten. Je leert wat je eet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Het woord geboorte is minder frequent dan baby.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "geboorte",
+                        "new_text": "baby",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Lange zinnen met voegwoorden verhogen de afhankelijkheidslengte. Opsplitsen in korte zinnen verlaagt dit.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Vanaf je geboorte begin je met leren. Je leert praten en wat je wel en niet mag eten.",
+                        "new_text": "Je bent een baby. Je leert praten. Je leert wat je eet.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet alleen van je ouders leer je gewoonten en gebruiken. Ook van broers en zussen, de rest van de familie en de buren leer je.",
+                "rewritten_sentences": "Je leert van je vader en moeder. Je leert van je zus. Je leert van de buurman.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Ouders, gewoonten en familie zijn abstracter dan vader, moeder en buurman.",
+                        "start_word": 4,
+                        "end_word": 21,
+                        "original_text": "ouders leer je gewoonten en gebruiken. Ook van broers en zussen, de rest van de familie en de buren",
+                        "new_text": "vader en moeder. Je leert van je zus. Je leert van de buurman",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "School, televisie en vrienden krijgen invloed op je. Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.",
+                "rewritten_sentences": "De school is belangrijk. De tv ook. Mensen in een land doen hetzelfde.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "De woordfrequentie van 'invloed' en 'opgroeien' is lager dan die van 'belangrijk' en 'doen'.",
+                        "start_word": 6,
+                        "end_word": 16,
+                        "original_text": "krijgen invloed op je. Mensen die in hetzelfde land opgroeien",
+                        "new_text": "is belangrijk. De tv ook. Mensen in een land",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Symbolen zijn woorden, gebaren of voorwerpen met een speciale betekenis in een cultuur. De Nederlandse vlag is een voorbeeld.",
+                "rewritten_sentences": "Een symbool is een ding. De vlag is een symbool.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Door bijzinnen en opsommingen te verwijderen, daalt het aantal inhoudswoorden per deelzin.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Symbolen zijn woorden, gebaren of voorwerpen met een speciale betekenis in een cultuur",
+                        "new_text": "Een symbool is een ding",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jij leert dat stelen slecht is. Dus betaal je bij de kassa.",
+                "rewritten_sentences": "Stelen mag niet. Je betaalt bij de kassa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Het gebruik van 'kassa' verhoogt de verhouding van concrete zelfstandige naamwoorden.",
+                        "start_word": 9,
+                        "end_word": 10,
+                        "original_text": "de kassa",
+                        "new_text": "de kassa",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als 'ik' belangrijker is, dan leer je zelf te kiezen. Je moet voor jezelf kunnen zorgen en je hebt je eigen mening.",
+                "rewritten_sentences": "Soms ben 'ik' het belangrijkste. Dan kies je zelf. Je zorgt voor jezelf.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Kortere zinnen verlagen de syntactische afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Als 'ik' belangrijker is, dan leer je zelf te kiezen. Je moet voor jezelf kunnen zorgen en je hebt je eigen mening.",
+                        "new_text": "Soms ben 'ik' het belangrijkste. Dan kies je zelf. Je zorgt voor jezelf.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Educatieve tekst",
+        "full_text": "De groep. Je bent een baby. Je leert praten. Je leert wat je eet. Je leert van je vader en moeder. Je leert van je zus. Je leert van de buurman. De school is belangrijk. De tv ook. Mensen in een land doen hetzelfde. Een symbool is een ding. De vlag is een symbool. Stelen mag niet. Je betaalt bij de kassa. Soms ben 'ik' het belangrijkste. Dan kies je zelf. Je zorgt voor jezelf.",
+        "prompt_id": "T12_moei",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Vanaf je geboorte leer je dingen. Je leert praten. Je leert wat je mag eten en wat niet. Je leert hoe je mensen begroet. Je leert wat goed en slecht is. Er zijn nog veel meer dingen die je leert. Je leert gewoonten en gebruiken van je ouders. Ook van je broers en zussen, familie en buren leer je dingen. School, televisie en vrienden be\u00efnvloeden je. Als je in hetzelfde land woont, leer je dezelfde cultuur. Cultuur bestaat uit taal, godsdienst, gewoonten en gebruiken van een groep mensen. Je herkent cultuur aan taal en godsdienst. Ook aan symbolen, helden en rituelen zie je cultuur. Symbolen zijn woorden, gebaren of dingen die een speciale betekenis hebben in een cultuur. Bijvoorbeeld de Nederlandse vlag. Of je duim omhoogsteken als iemand iets goeds doet. Helden zijn mensen die belangrijk zijn in een cultuur. Bijvoorbeeld Mohammed. Hij is belangrijk voor islamieten. Jezus is belangrijk voor christenen. Maria is belangrijk voor rooms-katholieken. Rituelen zijn dingen die je in een cultuur doet. Bijvoorbeeld de vlag halfstok hangen op 4 mei tijdens de dodenherdenking. Elke cultuur heeft regels. Deze regels zeggen wat goed en slecht is. Ook wat normaal en abnormaal is. Je leert dat stelen niet goed is. Je betaalt dan bij de kassa. Als christen of islamiet, help je mensen in de problemen. Je geeft geld aan een collecte. Cultuur be\u00efnvloedt hoe je denkt en handelt. Waarden zijn anders in elke cultuur. Je begrijpt mensen uit een andere cultuur soms niet. In verschillende culturen is het anders. Sommige culturen vinden de groep belangrijker. Andere culturen vinden het individu belangrijker. Familie is een belangrijke groep. In sommige culturen is de groep belangrijk. Je blijft dan trouw aan de groep. Je helpt elkaar. Je denkt hetzelfde als de groep. Als het individu belangrijker is, kies je zelf. Je zorgt voor jezelf. Je hebt je eigen mening.",
+    "Mistral/ministral-14b-latest - lint": "29",
+    "Mistral/ministral-14b-latest - sent": "28, 9, 14, 32, 31, 31, 31, 51, 48, 43, 42, 19, 31, 20, 37, 34, 31, 15, 24, 39, 25, 40, 44, 25, 24, 37, 32, 22, 38, 31, 26, 23, 20",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Vanaf je geboorte begin je met leren. Je leert praten en wat je wel en niet mag eten. Je leert hoe je mensen begroet. Je leert wat goed is en wat slecht. Je leert nog honderd dingen meer.",
+                "rewritten_sentences": "Vanaf je geboorte leer je dingen. Je leert praten. Je leert wat je mag eten en wat niet. Je leert hoe je mensen begroet. Je leert wat goed en slecht is. Er zijn nog veel meer dingen die je leert.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Verlaagde complexiteit van de zin door op te splitsen in eenvoudigere zinnen en het gebruik van concrete voorbeelden.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Vanaf je geboorte begin je met leren. Je leert praten en wat je wel en niet mag eten.",
+                        "new_text": "Vanaf je geboorte leer je dingen. Je leert praten. Je leert wat je mag eten en wat niet.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Verlaagde abstractie door specifieke acties te benoemen in plaats van algemene concepten.",
+                        "start_word": 11,
+                        "end_word": 20,
+                        "original_text": "Je leert hoe je mensen begroet. Je leert wat goed is en wat slecht.",
+                        "new_text": "Je leert hoe je mensen begroet. Je leert wat goed en slecht is.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Verduidelijking en vereenvoudiging van de zin door het weglaten van abstracte termen.",
+                        "start_word": 21,
+                        "end_word": 27,
+                        "original_text": "Je leert nog honderd dingen meer.",
+                        "new_text": "Er zijn nog veel meer dingen die je leert.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Niet alleen van je ouders leer je gewoonten en gebruiken. Ook van broers en zussen, de rest van de familie en de buren leer je.",
+                "rewritten_sentences": "Je leert gewoonten en gebruiken van je ouders. Ook van je broers en zussen, familie en buren leer je dingen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door de zin te splitsen en de volgorde van de zinnen te vereenvoudigen.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Niet alleen van je ouders leer je gewoonten en gebruiken.",
+                        "new_text": "Je leert gewoonten en gebruiken van je ouders.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door het herhalen van het werkwoord en het verwijderen van onnodige woorden.",
+                        "start_word": 13,
+                        "end_word": 26,
+                        "original_text": "Ook van broers en zussen, de rest van de familie en de buren leer je.",
+                        "new_text": "Ook van je broers en zussen, familie en buren leer je dingen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "School, televisie en vrienden krijgen invloed op je. Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.",
+                "rewritten_sentences": "School, televisie en vrienden be\u00efnvloeden je. Als je in hetzelfde land woont, leer je dezelfde cultuur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Vereenvoudigde zin door het werkwoord te veranderen en de zinstructuur te vereenvoudigen.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "School, televisie en vrienden krijgen invloed op je.",
+                        "new_text": "School, televisie en vrienden be\u00efnvloeden je.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vereenvoudigde voorwaardezin door een eenvoudiger constructie te gebruiken.",
+                        "start_word": 11,
+                        "end_word": 24,
+                        "original_text": "Mensen die in hetzelfde land opgroeien, leren dezelfde cultuur.",
+                        "new_text": "Als je in hetzelfde land woont, leer je dezelfde cultuur.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Cultuur is taal, godsdienst, gewoonten en gebruiken van een groep mensen. Een cultuur kun je aan taal en godsdienst herkennen. Ook aan symbolen, helden, en rituelen herken je cultuur.",
+                "rewritten_sentences": "Cultuur bestaat uit taal, godsdienst, gewoonten en gebruiken van een groep mensen. Je herkent cultuur aan taal en godsdienst. Ook aan symbolen, helden en rituelen zie je cultuur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Vereenvoudigde zin door het gebruik van een eenvoudiger werkwoord en het verwijderen van onnodige woorden.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Cultuur is taal, godsdienst, gewoonten en gebruiken van een groep mensen.",
+                        "new_text": "Cultuur bestaat uit taal, godsdienst, gewoonten en gebruiken van een groep mensen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door het gebruik van een eenvoudiger werkwoord en het verwijderen van herhalingen.",
+                        "start_word": 14,
+                        "end_word": 25,
+                        "original_text": "Een cultuur kun je aan taal en godsdienst herkennen.",
+                        "new_text": "Je herkent cultuur aan taal en godsdienst.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Vereenvoudigde zin door het verwijderen van onnodige woorden en het gebruik van een eenvoudiger constructie.",
+                        "start_word": 26,
+                        "end_word": 36,
+                        "original_text": "Ook aan symbolen, helden, en rituelen herken je cultuur.",
+                        "new_text": "Ook aan symbolen, helden en rituelen zie je cultuur.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Symbolen zijn woorden, gebaren of voorwerpen met een speciale betekenis in een cultuur. De Nederlandse vlag is een voorbeeld. Of je duim omhoog steken als iemand iets goeds doet.",
+                "rewritten_sentences": "Symbolen zijn woorden, gebaren of dingen die een speciale betekenis hebben in een cultuur. Bijvoorbeeld de Nederlandse vlag. Of je duim omhoogsteken als iemand iets goeds doet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Vereenvoudigde zin door het vervangen van een abstract woord door een concreter woord.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Symbolen zijn woorden, gebaren of voorwerpen met een speciale betekenis in een cultuur.",
+                        "new_text": "Symbolen zijn woorden, gebaren of dingen die een speciale betekenis hebben in een cultuur.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door het verwijderen van een onnodige voegwoordconstructie.",
+                        "start_word": 14,
+                        "end_word": 26,
+                        "original_text": "De Nederlandse vlag is een voorbeeld. Of je duim omhoog steken als iemand iets goeds doet.",
+                        "new_text": "Bijvoorbeeld de Nederlandse vlag. Of je duim omhoogsteken als iemand iets goeds doet.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Helden zijn figuren met eigenschappen die in een cultuur belangrijk zijn. Mohammed is een belangrijke man voor islamieten. Jezus is belangrijk voor alle christenen. En Maria wordt door rooms-katholieken vereerd.",
+                "rewritten_sentences": "Helden zijn mensen die belangrijk zijn in een cultuur. Bijvoorbeeld Mohammed. Hij is belangrijk voor islamieten. Jezus is belangrijk voor christenen. Maria is belangrijk voor rooms-katholieken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vereenvoudigde zin door het verwijderen van onnodige woorden en het gebruik van een eenvoudiger constructie.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Helden zijn figuren met eigenschappen die in een cultuur belangrijk zijn.",
+                        "new_text": "Helden zijn mensen die belangrijk zijn in een cultuur.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Vereenvoudigde zin door het verwijderen van onnodige woorden en het opbreken van complexe zinnen.",
+                        "start_word": 13,
+                        "end_word": 33,
+                        "original_text": "Mohammed is een belangrijke man voor islamieten. Jezus is belangrijk voor alle christenen. En Maria wordt door rooms-katholieken vereerd.",
+                        "new_text": "Bijvoorbeeld Mohammed. Hij is belangrijk voor islamieten. Jezus is belangrijk voor christenen. Maria is belangrijk voor rooms-katholieken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Rituelen zijn vaste handelingen die in een cultuur belangrijk zijn. De vlag halfstok hangen bij de dodenherdenking op 4 mei is een voorbeeld.",
+                "rewritten_sentences": "Rituelen zijn dingen die je in een cultuur doet. Bijvoorbeeld de vlag halfstok hangen op 4 mei tijdens de dodenherdenking.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vereenvoudigde zin door het gebruik van een concreter werkwoord en het verwijderen van onnodige woorden.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Rituelen zijn vaste handelingen die in een cultuur belangrijk zijn.",
+                        "new_text": "Rituelen zijn dingen die je in een cultuur doet.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Vereenvoudigde zin door het herstructureren van de zin en het toevoegen van concrete details.",
+                        "start_word": 14,
+                        "end_word": 29,
+                        "original_text": "De vlag halfstok hangen bij de dodenherdenking op 4 mei is een voorbeeld.",
+                        "new_text": "Bijvoorbeeld de vlag halfstok hangen op 4 mei tijdens de dodenherdenking.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Elke cultuur heeft ook waarden. Waarden zijn idee\u00ebn over goed en slecht, over normaal en abnormaal.",
+                "rewritten_sentences": "Elke cultuur heeft regels. Deze regels zeggen wat goed en slecht is. Ook wat normaal en abnormaal is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Vereenvoudigde zin door het vervangen van abstracte termen door concrete woorden.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Elke cultuur heeft ook waarden.",
+                        "new_text": "Elke cultuur heeft regels.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Vereenvoudigde zin door het opbreken van de complexe zin in twee eenvoudige zinnen.",
+                        "start_word": 11,
+                        "end_word": 26,
+                        "original_text": "Waarden zijn idee\u00ebn over goed en slecht, over normaal en abnormaal.",
+                        "new_text": "Deze regels zeggen wat goed en slecht is. Ook wat normaal en abnormaal is.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jij leert dat stelen slecht is. Dus betaal je bij de kassa. Als christen en islamiet leer je dat je voor mensen in moeilijkheden moet zorgen. Daarom geef je geld aan een collecte.",
+                "rewritten_sentences": "Je leert dat stelen niet goed is. Je betaalt dan bij de kassa. Als christen of islamiet, help je mensen in de problemen. Je geeft geld aan een collecte.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Vereenvoudigde zin door het gebruik van eenvoudiger woorden en het verwijderen van onnodige woorden.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Jij leert dat stelen slecht is.",
+                        "new_text": "Je leert dat stelen niet goed is.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door het verwijderen van onnodige voegwoorden en het gebruik van een eenvoudige constructie.",
+                        "start_word": 11,
+                        "end_word": 20,
+                        "original_text": "Dus betaal je bij de kassa.",
+                        "new_text": "Je betaalt dan bij de kassa.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Vereenvoudigde zin door het verwijderen van herhalingen en het gebruik van een eenvoudige constructie.",
+                        "start_word": 21,
+                        "end_word": 40,
+                        "original_text": "Als christen en islamiet leer je dat je voor mensen in moeilijkheden moet zorgen. Daarom geef je geld aan een collecte.",
+                        "new_text": "Als christen of islamiet, help je mensen in de problemen. Je geeft geld aan een collecte.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Cultuur heeft dus alles te maken met je denken en je doen. Omdat de waarden per cultuur kunnen verschillen, kan het zijn dat je mensen uit een andere cultuur niet altijd begrijpt.",
+                "rewritten_sentences": "Cultuur be\u00efnvloedt hoe je denkt en handelt. Waarden zijn anders in elke cultuur. Je begrijpt mensen uit een andere cultuur soms niet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Vereenvoudigde zin door het verwijderen van onnodige woorden en het gebruik van een eenvoudiger constructie.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Cultuur heeft dus alles te maken met je denken en je doen.",
+                        "new_text": "Cultuur be\u00efnvloedt hoe je denkt en handelt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Vereenvoudigde zin door het opbreken van de complexe zin in twee eenvoudige zinnen.",
+                        "start_word": 16,
+                        "end_word": 38,
+                        "original_text": "Omdat de waarden per cultuur kunnen verschillen, kan het zijn dat je mensen uit een andere cultuur niet altijd begrijpt.",
+                        "new_text": "Waarden zijn anders in elke cultuur. Je begrijpt mensen uit een andere cultuur soms niet.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In verschillende culturen wordt anders over de vraag wat waardevoller is: de groep of het individu ('ik'), gedacht.",
+                "rewritten_sentences": "In verschillende culturen is het anders. Sommige culturen vinden de groep belangrijker. Andere culturen vinden het individu belangrijker.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Vereenvoudigde zin door het opbreken van de complexe zin in twee eenvoudige zinnen en het verwijderen van abstracte termen.",
+                        "start_word": 0,
+                        "end_word": 27,
+                        "original_text": "In verschillende culturen wordt anders over de vraag wat waardevoller is: de groep of het individu ('ik'), gedacht.",
+                        "new_text": "In verschillende culturen is het anders. Sommige culturen vinden de groep belangrijker. Andere culturen vinden het individu belangrijker.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een belangrijke groep is de familie. In een cultuur waar de groep belangrijk is, blijf je de groep altijd trouw. Je komt voor elkaar op. Je hebt dezelfde mening als de rest van de groep.",
+                "rewritten_sentences": "Familie is een belangrijke groep. In sommige culturen is de groep belangrijk. Je blijft dan trouw aan de groep. Je helpt elkaar. Je denkt hetzelfde als de groep.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Vereenvoudigde zin door het verwijderen van onnodige woorden en het gebruik van een eenvoudige constructie.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Een belangrijke groep is de familie.",
+                        "new_text": "Familie is een belangrijke groep.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door het opbreken van complexe zinnen in eenvoudige zinnen.",
+                        "start_word": 11,
+                        "end_word": 38,
+                        "original_text": "In een cultuur waar de groep belangrijk is, blijf je de groep altijd trouw. Je komt voor elkaar op. Je hebt dezelfde mening als de rest van de groep.",
+                        "new_text": "In sommige culturen is de groep belangrijk. Je blijft dan trouw aan de groep. Je helpt elkaar. Je denkt hetzelfde als de groep.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als 'ik' belangrijker is, dan leer je zelf te kiezen. Je moet voor jezelf kunnen zorgen en je hebt je eigen mening.",
+                "rewritten_sentences": "Als het individu belangrijker is, kies je zelf. Je zorgt voor jezelf. Je hebt je eigen mening.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "27",
+                        "reason_for_change": "Vereenvoudigde zin door het verwijderen van onnodige woorden en het gebruik van een eenvoudige constructie.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Als 'ik' belangrijker is, dan leer je zelf te kiezen.",
+                        "new_text": "Als het individu belangrijker is, kies je zelf.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "28",
+                        "reason_for_change": "Vereenvoudigde zinstructuur door het opbreken van de complexe zin in twee eenvoudige zinnen.",
+                        "start_word": 16,
+                        "end_word": 32,
+                        "original_text": "Je moet voor jezelf kunnen zorgen en je hebt je eigen mening.",
+                        "new_text": "Je zorgt voor jezelf. Je hebt je eigen mening.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Uitleg over cultuur",
+        "full_text": "Vanaf je geboorte leer je dingen. Je leert praten. Je leert wat je mag eten en wat niet. Je leert hoe je mensen begroet. Je leert wat goed en slecht is. Er zijn nog veel meer dingen die je leert. Je leert gewoonten en gebruiken van je ouders. Ook van je broers en zussen, familie en buren leer je dingen. School, televisie en vrienden be\u00efnvloeden je. Als je in hetzelfde land woont, leer je dezelfde cultuur. Cultuur bestaat uit taal, godsdienst, gewoonten en gebruiken van een groep mensen. Je herkent cultuur aan taal en godsdienst. Ook aan symbolen, helden en rituelen zie je cultuur. Symbolen zijn woorden, gebaren of dingen die een speciale betekenis hebben in een cultuur. Bijvoorbeeld de Nederlandse vlag. Of je duim omhoogsteken als iemand iets goeds doet. Helden zijn mensen die belangrijk zijn in een cultuur. Bijvoorbeeld Mohammed. Hij is belangrijk voor islamieten. Jezus is belangrijk voor christenen. Maria is belangrijk voor rooms-katholieken. Rituelen zijn dingen die je in een cultuur doet. Bijvoorbeeld de vlag halfstok hangen op 4 mei tijdens de dodenherdenking. Elke cultuur heeft regels. Deze regels zeggen wat goed en slecht is. Ook wat normaal en abnormaal is. Je leert dat stelen niet goed is. Je betaalt dan bij de kassa. Als christen of islamiet, help je mensen in de problemen. Je geeft geld aan een collecte. Cultuur be\u00efnvloedt hoe je denkt en handelt. Waarden zijn anders in elke cultuur. Je begrijpt mensen uit een andere cultuur soms niet. In verschillende culturen is het anders. Sommige culturen vinden de groep belangrijker. Andere culturen vinden het individu belangrijker. Familie is een belangrijke groep. In sommige culturen is de groep belangrijk. Je blijft dan trouw aan de groep. Je helpt elkaar. Je denkt hetzelfde als de groep. Als het individu belangrijker is, kies je zelf. Je zorgt voor jezelf. Je hebt je eigen mening.",
+        "prompt_id": "T12_moei",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-06-07 22:44:17.756047"
+}

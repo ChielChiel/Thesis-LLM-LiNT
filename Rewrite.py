@@ -57,6 +57,7 @@ class RewriteEngine:
 #     original_part_of_text: str
 #     rewritten_part_of_text: str
 #     reason_for_change: str
+
 class RewriteCategory(str, Enum):
     word_frequency = "verhoog woordfrequentie"
     syntactic_dependency_length = "verlaag afhankelijkheidslengte"

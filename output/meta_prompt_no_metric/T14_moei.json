@@ -1,0 +1,1515 @@
+{
+    "prompt_id": "T14_moei",
+    "Org - text": "Een beroep kiezen\n\nNina gaat soms met haar moeder mee naar de kapsalon. Haar moeder werkt daar als kapster. Nina wil zelf geen kapster worden. Daarom zal ze voor een andere opleiding kiezen dan haar moeder. Ook Jimmy weet al wat hij niet wil: hij wil geen chauffeur worden.\n\nJe hebt voor de meeste beroepen een opleiding nodig. Er bestaan ook beroepen waarvoor geen opleiding nodig is. Werk waarvoor je geen opleiding nodig hebt, is ongeschoold werk. Fabrieksarbeid aan een lopende band en schoonmaakwerk zijn voorbeelden van ongeschoold werk. Voor geschoold werk heb je wel een opleiding nodig. Voor veel beroepen bestaan speciale, beroepsgerichte opleidingen. De kappersschool, administratieve opleidingen of technische opleidingen zijn daar voorbeelden van.\n\nOp de school van Jimmy en Nina wordt een keuzetest gedaan. Alle leerlingen moeten een vragenlijst invullen. Aan de hand van de antwoorden kunnen de leerlingen samen met de studiebegeleiders uitzoeken welke sector of welk beroep bij hen past. Dat is belangrijk omdat ze een vakkenpakket moeten kiezen.\n\nJe keuze voor een beroep hangt niet alleen van de situatie op de arbeidsmarkt af. Het is ook belangrijk om een beroep dat bij je past te kiezen. Je kunt onder andere op alles wat te maken heeft met de veiligheid, de gezondheid en het welzijn (de tevredenheid) van de werknemer op de werkplek letten, met andere woorden op de arbeidsomstandigheden. In sommige beroepen doe je veel lichamelijke arbeid, in andere beroepen heb je veel met mensen te maken of zit je de hele dag binnen. Ook de arbeidsomstandigheden moeten bij je passen.\n\nMeneer Smit is op zoek naar nieuwe chauffeurs voor zijn transportbedrijf. Hij heeft de vacatures bij het CWI (Centrum voor Werk en Inkomen) aangemeld. Hij heeft ook een personeelsadvertentie in de krant gezet.\n\nEen vacature is een baan waar iemand voor wordt gezocht. Een vacature kan ontstaan omdat er iemand vertrekt. De werkgever zoekt dan een vervanger. Een vacature kan ook ontstaan doordat een bedrijf erg veel werk heeft, of gaat uitbreiden.",
+    "Org - lint": "36",
+    "Org - sent": "18, 23, 13, 26, 0, 0, 39, 36, 27, 52, 40, 62, 60, 28, 31, 45, 41, 49, 31, 53, 46, 35, 25, 67, 37, 40, 43, 47, 36",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Een beroep kiezen. Nina gaat soms met haar moeder mee naar de kapsalon. Haar moeder werkt daar als kapster. Nina wil zelf geen kapster worden. Daarom zal ze voor een andere opleiding kiezen dan haar moeder. Ook Jimmy weet al wat hij niet wil. Hij wil geen chauffeur worden. Voor de meeste beroepen heb je een opleiding nodig. Er zijn ook beroepen waarvoor geen opleiding nodig is. Werk zonder opleiding is ongeschoold werk. Fabrieksarbeid aan de lopende band is ongeschoold werk. Ook schoonmaakwerk is ongeschoold werk. Voor geschoold werk heb je altijd een opleiding nodig. Voor veel beroepen zijn speciale, beroepsgerichte opleidingen. De kappersschool is daar een voorbeeld van. Administratieve opleidingen ook. Technische opleidingen horen er ook bij. Op de school van Jimmy en Nina maken ze een keuzetest. Alle leerlingen vullen een vragenlijst in. Dan bekijken de leerlingen samen met de studiebegeleiders welke sector of welk beroep bij hen past. Dit is belangrijk. Ze moeten een vakkenpakket kiezen. Je keuze voor een beroep hangt niet alleen af van de situatie op de arbeidsmarkt. Het is ook belangrijk om een beroep te kiezen dat bij je past. Je kunt letten op de veiligheid, gezondheid en het welzijn van de werknemer op de werkplek. Dat noemen we de arbeidsomstandigheden. In sommige beroepen doe je veel lichamelijk werk. In andere beroepen werk je veel met mensen. Soms zit je de hele dag binnen. Ook de arbeidsomstandigheden moeten bij je passen. Meneer Smit zoekt nieuwe chauffeurs voor zijn transportbedrijf. Hij heeft de vacatures doorgegeven aan het CWI. Dat is het Centrum voor Werk en Inkomen. Hij plaatste ook een advertentie in de krant. Een vacature is een baan waar iemand gezocht wordt. Een vacature ontstaat soms omdat iemand vertrekt. De werkgever zoekt dan een vervanger. Een vacature ontstaat ook als een bedrijf veel werk heeft. Of als het bedrijf groter wordt.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "31",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "18, 23, 13, 26, 0, 0, 41, 26, 29, 50, 6, 40, 67, 29, 44, 23, 31, 40, 41, 44, 33, 52, 29, 37, 0, 35, 25, 69, 28, 37, 37, 46, 47, 48, 2, 28",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Een beroep kiezen",
+                "rewritten_sentences": "Een beroep kiezen.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Nina gaat soms met haar moeder mee naar de kapsalon.",
+                "rewritten_sentences": "Nina gaat soms met haar moeder mee naar de kapsalon.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Haar moeder werkt daar als kapster.",
+                "rewritten_sentences": "Haar moeder werkt daar als kapster.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Nina wil zelf geen kapster worden.",
+                "rewritten_sentences": "Nina wil zelf geen kapster worden.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Daarom zal ze voor een andere opleiding kiezen dan haar moeder.",
+                "rewritten_sentences": "Daarom zal ze voor een andere opleiding kiezen dan haar moeder.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Ook Jimmy weet al wat hij niet wil: hij wil geen chauffeur worden.",
+                "rewritten_sentences": "Ook Jimmy weet al wat hij niet wil. Hij wil geen chauffeur worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Gesplitst voor kortere zinnen om afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "Ook Jimmy weet al wat hij niet wil: hij wil geen chauffeur worden.",
+                        "new_text": "Ook Jimmy weet al wat hij niet wil. Hij wil geen chauffeur worden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je hebt voor de meeste beroepen een opleiding nodig.",
+                "rewritten_sentences": "Voor de meeste beroepen heb je een opleiding nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Zinsvolgorde aangepast voor concreter zelfstandignaamwoord ('opleiding' dichterbij onderwerp).",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Je hebt voor de meeste beroepen een opleiding nodig.",
+                        "new_text": "Voor de meeste beroepen heb je een opleiding nodig.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er bestaan ook beroepen waarvoor geen opleiding nodig is.",
+                "rewritten_sentences": "Er zijn ook beroepen waarvoor geen opleiding nodig is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Werkwoord vervangen om woordfrequentie te verhogen.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "Er bestaan ook beroepen waarvoor geen opleiding nodig is.",
+                        "new_text": "Er zijn ook beroepen waarvoor geen opleiding nodig is.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Werk waarvoor je geen opleiding nodig hebt, is ongeschoold werk.",
+                "rewritten_sentences": "Werk zonder opleiding is ongeschoold werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Zin korter gemaakt door onderdeel samen te voegen, afhankelijkheidslengte verlaagd.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Werk waarvoor je geen opleiding nodig hebt, is ongeschoold werk.",
+                        "new_text": "Werk zonder opleiding is ongeschoold werk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Fabrieksarbeid aan de lopende band en schoonmaakwerk zijn voorbeelden van ongeschoold werk.",
+                "rewritten_sentences": "Fabrieksarbeid aan de lopende band is ongeschoold werk. Ook schoonmaakwerk is ongeschoold werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Zin opgesplitst om de afhankelijkheidslengte te verkorten.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "Fabrieksarbeid aan de lopende band en schoonmaakwerk zijn voorbeelden van ongeschoold werk.",
+                        "new_text": "Fabrieksarbeid aan de lopende band is ongeschoold werk. Ook schoonmaakwerk is ongeschoold werk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor geschoold werk heb je wel een opleiding nodig.",
+                "rewritten_sentences": "Voor geschoold werk heb je altijd een opleiding nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Woordfrequentie verhoogd met het woord 'altijd'.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Voor geschoold werk heb je wel een opleiding nodig.",
+                        "new_text": "Voor geschoold werk heb je altijd een opleiding nodig.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor veel beroepen bestaan speciale, beroepsgerichte opleidingen.",
+                "rewritten_sentences": "Voor veel beroepen zijn speciale, beroepsgerichte opleidingen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Werkwoord veranderd voor hogere frequentie.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Voor veel beroepen bestaan speciale, beroepsgerichte opleidingen.",
+                        "new_text": "Voor veel beroepen zijn speciale, beroepsgerichte opleidingen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De kappersschool, administratieve opleidingen of technische opleidingen zijn daar voorbeelden van.",
+                "rewritten_sentences": "De kappersschool is daar een voorbeeld van. Administratieve opleidingen ook. Technische opleidingen horen er ook bij.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Zin opgesplitst om afhankelijkheidslengte te verminderen en concretere zelfstandigen te geven.",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "De kappersschool, administratieve opleidingen of technische opleidingen zijn daar voorbeelden van.",
+                        "new_text": "De kappersschool is daar een voorbeeld van. Administratieve opleidingen ook. Technische opleidingen horen er ook bij.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op de school van Jimmy en Nina wordt een keuzetest gedaan.",
+                "rewritten_sentences": "Op de school van Jimmy en Nina maken ze een keuzetest.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Informeler werkwoord voor hogere woordfrequentie gekozen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Op de school van Jimmy en Nina wordt een keuzetest gedaan.",
+                        "new_text": "Op de school van Jimmy en Nina maken ze een keuzetest.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Alle leerlingen moeten een vragenlijst invullen.",
+                "rewritten_sentences": "Alle leerlingen vullen een vragenlijst in.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Passieve vorm omgezet in actieve zin voor lagere afhankelijkheidslengte.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Alle leerlingen moeten een vragenlijst invullen.",
+                        "new_text": "Alle leerlingen vullen een vragenlijst in.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Aan de hand van de antwoorden kunnen de leerlingen samen met de studiebegeleiders uitzoeken welke sector of welk beroep bij hen past.",
+                "rewritten_sentences": "Dan bekijken de leerlingen samen met de studiebegeleiders welke sector of welk beroep bij hen past.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Zin vereenvoudigd en ingekort om afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 26,
+                        "original_text": "Aan de hand van de antwoorden kunnen de leerlingen samen met de studiebegeleiders uitzoeken welke sector of welk beroep bij hen past.",
+                        "new_text": "Dan bekijken de leerlingen samen met de studiebegeleiders welke sector of welk beroep bij hen past.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is belangrijk omdat ze een vakkenpakket moeten kiezen.",
+                "rewritten_sentences": "Dit is belangrijk. Ze moeten een vakkenpakket kiezen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Zin gesplitst om afhankelijkheidslengte te verminderen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Dat is belangrijk omdat ze een vakkenpakket moeten kiezen.",
+                        "new_text": "Dit is belangrijk. Ze moeten een vakkenpakket kiezen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je keuze voor een beroep hangt niet alleen van de situatie op de arbeidsmarkt af.",
+                "rewritten_sentences": "Je keuze voor een beroep hangt niet alleen af van de situatie op de arbeidsmarkt.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het is ook belangrijk om een beroep dat bij je past te kiezen.",
+                "rewritten_sentences": "Het is ook belangrijk om een beroep te kiezen dat bij je past.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Je kunt onder andere op alles wat te maken heeft met de veiligheid, de gezondheid en het welzijn (de tevredenheid) van de werknemer op de werkplek letten, met andere woorden op de arbeidsomstandigheden.",
+                "rewritten_sentences": "Je kunt letten op de veiligheid, gezondheid en het welzijn van de werknemer op de werkplek. Dat noemen we de arbeidsomstandigheden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Zin opgesplitst om afhankelijkheidslengte aanzienlijk te verlagen en concreter te maken.",
+                        "start_word": 1,
+                        "end_word": 38,
+                        "original_text": "Je kunt onder andere op alles wat te maken heeft met de veiligheid, de gezondheid en het welzijn (de tevredenheid) van de werknemer op de werkplek letten, met andere woorden op de arbeidsomstandigheden.",
+                        "new_text": "Je kunt letten op de veiligheid, gezondheid en het welzijn van de werknemer op de werkplek. Dat noemen we de arbeidsomstandigheden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In sommige beroepen doe je veel lichamelijke arbeid, in andere beroepen heb je veel met mensen te maken of zit je de hele dag binnen.",
+                "rewritten_sentences": "In sommige beroepen doe je veel lichamelijk werk. In andere beroepen werk je veel met mensen. Soms zit je de hele dag binnen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Zinnen opgesplitst en ingekort om afhankelijkheidslengte te verlagen en concretere zelfstandignaamwoorden te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 33,
+                        "original_text": "In sommige beroepen doe je veel lichamelijke arbeid, in andere beroepen heb je veel met mensen te maken of zit je de hele dag binnen.",
+                        "new_text": "In sommige beroepen doe je veel lichamelijk werk. In andere beroepen werk je veel met mensen. Soms zit je de hele dag binnen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook de arbeidsomstandigheden moeten bij je passen.",
+                "rewritten_sentences": "Ook de arbeidsomstandigheden moeten bij je passen.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Meneer Smit is op zoek naar nieuwe chauffeurs voor zijn transportbedrijf.",
+                "rewritten_sentences": "Meneer Smit zoekt nieuwe chauffeurs voor zijn transportbedrijf.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Werkwoord veranderd voor hogere woordfrequentie.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Meneer Smit is op zoek naar nieuwe chauffeurs voor zijn transportbedrijf.",
+                        "new_text": "Meneer Smit zoekt nieuwe chauffeurs voor zijn transportbedrijf.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij heeft de vacatures bij het CWI (Centrum voor Werk en Inkomen) aangemeld.",
+                "rewritten_sentences": "Hij heeft de vacatures doorgegeven aan het CWI. Dat is het Centrum voor Werk en Inkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Zin opgesplitst om afhankelijkheidslengte te verlagen en afkorting uitgelegd voor concreter begrip.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Hij heeft de vacatures bij het CWI (Centrum voor Werk en Inkomen) aangemeld.",
+                        "new_text": "Hij heeft de vacatures doorgegeven aan het CWI. Dat is het Centrum voor Werk en Inkomen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij heeft ook een personeelsadvertentie in de krant gezet.",
+                "rewritten_sentences": "Hij plaatste ook een advertentie in de krant.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Werkwoord aangepast voor hogere woordfrequentie en kortere zin.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Hij heeft ook een personeelsadvertentie in de krant gezet.",
+                        "new_text": "Hij plaatste ook een advertentie in de krant.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vacature is een baan waar iemand voor wordt gezocht.",
+                "rewritten_sentences": "Een vacature is een baan waar iemand gezocht wordt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Zinsvolgorde aangepast om afhankelijkheidslengte te verlagen.",
+                        "start_word": 1,
+                        "end_word": 11,
+                        "original_text": "Een vacature is een baan waar iemand voor wordt gezocht.",
+                        "new_text": "Een vacature is een baan waar iemand gezocht wordt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vacature kan ontstaan omdat er iemand vertrekt.",
+                "rewritten_sentences": "Een vacature ontstaat soms omdat iemand vertrekt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Woordfrequentie verhoogd en afhankelijkheidslengte verlaagd.",
+                        "start_word": 1,
+                        "end_word": 8,
+                        "original_text": "Een vacature kan ontstaan omdat er iemand vertrekt.",
+                        "new_text": "Een vacature ontstaat soms omdat iemand vertrekt.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De werkgever zoekt dan een vervanger.",
+                "rewritten_sentences": "De werkgever zoekt dan een vervanger.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Een vacature kan ook ontstaan doordat een bedrijf erg veel werk heeft, of gaat uitbreiden.",
+                "rewritten_sentences": "Een vacature ontstaat ook als een bedrijf veel werk heeft. Of als het bedrijf groter wordt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Zin opgesplitst om afhankelijkheidslengte te verlagen en zinnen korter te maken.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "Een vacature kan ook ontstaan doordat een bedrijf erg veel werk heeft, of gaat uitbreiden.",
+                        "new_text": "Een vacature ontstaat ook als een bedrijf veel werk heeft. Of als het bedrijf groter wordt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatieve tekst",
+        "full_text": "Een beroep kiezen. Nina gaat soms met haar moeder mee naar de kapsalon. Haar moeder werkt daar als kapster. Nina wil zelf geen kapster worden. Daarom zal ze voor een andere opleiding kiezen dan haar moeder. Ook Jimmy weet al wat hij niet wil. Hij wil geen chauffeur worden. Voor de meeste beroepen heb je een opleiding nodig. Er zijn ook beroepen waarvoor geen opleiding nodig is. Werk zonder opleiding is ongeschoold werk. Fabrieksarbeid aan de lopende band is ongeschoold werk. Ook schoonmaakwerk is ongeschoold werk. Voor geschoold werk heb je altijd een opleiding nodig. Voor veel beroepen zijn speciale, beroepsgerichte opleidingen. De kappersschool is daar een voorbeeld van. Administratieve opleidingen ook. Technische opleidingen horen er ook bij. Op de school van Jimmy en Nina maken ze een keuzetest. Alle leerlingen vullen een vragenlijst in. Dan bekijken de leerlingen samen met de studiebegeleiders welke sector of welk beroep bij hen past. Dit is belangrijk. Ze moeten een vakkenpakket kiezen. Je keuze voor een beroep hangt niet alleen af van de situatie op de arbeidsmarkt. Het is ook belangrijk om een beroep te kiezen dat bij je past. Je kunt letten op de veiligheid, gezondheid en het welzijn van de werknemer op de werkplek. Dat noemen we de arbeidsomstandigheden. In sommige beroepen doe je veel lichamelijk werk. In andere beroepen werk je veel met mensen. Soms zit je de hele dag binnen. Ook de arbeidsomstandigheden moeten bij je passen. Meneer Smit zoekt nieuwe chauffeurs voor zijn transportbedrijf. Hij heeft de vacatures doorgegeven aan het CWI. Dat is het Centrum voor Werk en Inkomen. Hij plaatste ook een advertentie in de krant. Een vacature is een baan waar iemand gezocht wordt. Een vacature ontstaat soms omdat iemand vertrekt. De werkgever zoekt dan een vervanger. Een vacature ontstaat ook als een bedrijf veel werk heeft. Of als het bedrijf groter wordt.",
+        "prompt_id": "T14_moei",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Kies een beroep. Nina gaat soms mee met haar moeder. Ze gaat naar de kapsalon. Ze is kapster. Nina wil geen kapster. Daarom kiest ze een andere opleiding. Niet dezelfde als haar moeder. Jimmy weet ook al wat hij niet wil. Hij wil geen chauffeur worden. Voor de meeste beroepen heb je een opleiding nodig. Er zijn ook banen zonder opleiding. Werk zonder opleiding heet ongeschoold werk. Werk aan de lopende band is ongeschoold werk. Ook schoonmaakwerk is een voorbeeld. Voor geschoold werk heb je een opleiding nodig. Voor veel beroepen zijn er speciale opleidingen. Voorbeelden zijn de kappersschool. Ook administratieve en technische opleidingen horen erbij. Op hun school doen ze een keuzetest. Alle leerlingen vullen een vragenlijst in. De antwoorden geven informatie. Leerlingen zoeken dit samen met de studiebegeleiders uit. Zo zien ze welke sector of welk beroep bij hen past. Dat is belangrijk. Ze moeten daarna hun vakkenpakket kiezen. Je keuze hangt niet alleen van de arbeidsmarkt af. Het is belangrijk dat het beroep bij je past. Let ook op de arbeidsomstandigheden. Denk aan veiligheid op het werk. Denk aan gezondheid. Let op het welzijn of de tevredenheid van de werknemer. Sommige banen vragen veel lichamelijk werk. Andere banen vragen veel contact met mensen. Sommige banen zijn vooral binnenwerk. De arbeidsomstandigheden moeten ook bij je passen. Meneer Smit zoekt nieuwe chauffeurs. Het is voor zijn transportbedrijf. Hij meldde de vacatures aan bij het CWI. CWI is het Centrum voor Werk en Inkomen. Hij zette ook een advertentie in de krant. Een vacature is een open baan. Er wordt iemand voor gezocht. Een vacature ontstaat soms omdat iemand vertrekt. Dan zoekt de werkgever een vervanger. Een vacature kan ook ontstaan als een bedrijf veel werk heeft. Een bedrijf krijgt soms een vacature als het uitbreidt.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "29",
+    "GPT 5.1 mini/gpt-5-mini - sent": "33, 0, 9, 40, 14, 34, 0, 0, 41, 26, 27, 33, 15, 38, 42, 37, 52, 20, 31, 23, 31, 38, 42, 39, 33, 32, 18, 19, 48, 39, 23, 19, 36, 16, 27, 67, 31, 31, 35, 46, 49, 33, 47",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Een beroep kiezen",
+                "rewritten_sentences": "Kies een beroep.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Zet de titel om naar een korte, directe zin om afhankelijkheidslengte te verkleinen en eenvoudige woorden te gebruiken.",
+                        "start_word": 1,
+                        "end_word": 3,
+                        "original_text": "Een beroep kiezen",
+                        "new_text": "Kies een beroep.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Nina gaat soms met haar moeder mee naar de kapsalon.",
+                "rewritten_sentences": "Nina gaat soms mee met haar moeder. Ze gaat naar de kapsalon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Splits lange bijzin in twee korte zinnen om syntactische afhankelijkheidslengte te verlagen en de zinnen eenvoudiger te maken.",
+                        "start_word": 4,
+                        "end_word": 13,
+                        "original_text": "Nina gaat soms met haar moeder mee naar de kapsalon.",
+                        "new_text": "Nina gaat soms mee met haar moeder. Ze gaat naar de kapsalon.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Haar moeder werkt daar als kapster.",
+                "rewritten_sentences": "Ze is kapster.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Vervang door een korte, veelgebruikte zin om woordfrequentie te verhogen en afhankelijkheidslengte te verlagen.",
+                        "start_word": 14,
+                        "end_word": 19,
+                        "original_text": "Haar moeder werkt daar als kapster.",
+                        "new_text": "Ze is kapster.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Nina wil zelf geen kapster worden.",
+                "rewritten_sentences": "Nina wil geen kapster.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Maak de zin korter en directer om afhankelijkheidslengte te verminderen.",
+                        "start_word": 20,
+                        "end_word": 25,
+                        "original_text": "Nina wil zelf geen kapster worden.",
+                        "new_text": "Nina wil geen kapster.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom zal ze voor een andere opleiding kiezen dan haar moeder.",
+                "rewritten_sentences": "Daarom kiest ze een andere opleiding. Niet dezelfde als haar moeder.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Splits de lange bijzin in twee korte zinnen en gebruik eenvoudige woorden om afhankelijkheidslengte te verlagen en woordfrequentie te verhogen.",
+                        "start_word": 26,
+                        "end_word": 36,
+                        "original_text": "Daarom zal ze voor een andere opleiding kiezen dan haar moeder.",
+                        "new_text": "Daarom kiest ze een andere opleiding. Niet dezelfde als haar moeder.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook Jimmy weet al wat hij niet wil: hij wil geen chauffeur worden.",
+                "rewritten_sentences": "Jimmy weet ook al wat hij niet wil. Hij wil geen chauffeur worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Splits de dubbele structuur in twee korte zinnen om de zinnen eenvoudiger te maken en afhankelijkheidslengte te verlagen.",
+                        "start_word": 37,
+                        "end_word": 49,
+                        "original_text": "Ook Jimmy weet al wat hij niet wil: hij wil geen chauffeur worden.",
+                        "new_text": "Jimmy weet ook al wat hij niet wil. Hij wil geen chauffeur worden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je hebt voor de meeste beroepen een opleiding nodig.",
+                "rewritten_sentences": "Voor de meeste beroepen heb je een opleiding nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Herschik en verkort de zin licht om de structuur eenvoudiger en directer te maken.",
+                        "start_word": 50,
+                        "end_word": 58,
+                        "original_text": "Je hebt voor de meeste beroepen een opleiding nodig.",
+                        "new_text": "Voor de meeste beroepen heb je een opleiding nodig.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er bestaan ook beroepen waarvoor geen opleiding nodig is.",
+                "rewritten_sentences": "Er zijn ook banen zonder opleiding.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Vervang 'beroepen' door het concretere en frequente woord 'banen' en maak de zin korter om woordfrequentie en concreetheid te verhogen.",
+                        "start_word": 59,
+                        "end_word": 67,
+                        "original_text": "Er bestaan ook beroepen waarvoor geen opleiding nodig is.",
+                        "new_text": "Er zijn ook banen zonder opleiding.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Werk waarvoor je geen opleiding nodig hebt, is ongeschoold werk.",
+                "rewritten_sentences": "Werk zonder opleiding heet ongeschoold werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Vervang omslachtige constructie door een korte, directe verklaring om afhankelijkheidslengte te verlagen en woordfrequentie te verhogen.",
+                        "start_word": 68,
+                        "end_word": 77,
+                        "original_text": "Werk waarvoor je geen opleiding nodig hebt, is ongeschoold werk.",
+                        "new_text": "Werk zonder opleiding heet ongeschoold werk.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Fabrieksarbeid aan een lopende band en schoonmaakwerk zijn voorbeelden van ongeschoold werk.",
+                "rewritten_sentences": "Werk aan de lopende band is ongeschoold werk. Ook schoonmaakwerk is een voorbeeld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Splits de opsomming in twee korte zinnen en gebruik concrete voorbeelden om de verhouding concrete zelfstandige naamwoorden te verhogen en afhankelijkheidslengte te verlagen.",
+                        "start_word": 78,
+                        "end_word": 89,
+                        "original_text": "Fabrieksarbeid aan een lopende band en schoonmaakwerk zijn voorbeelden van ongeschoold werk.",
+                        "new_text": "Werk aan de lopende band is ongeschoold werk. Ook schoonmaakwerk is een voorbeeld.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor geschoold werk heb je wel een opleiding nodig.",
+                "rewritten_sentences": "Voor geschoold werk heb je een opleiding nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Maak de zin directer en korter om afhankelijkheidslengte te verlagen.",
+                        "start_word": 90,
+                        "end_word": 98,
+                        "original_text": "Voor geschoold werk heb je wel een opleiding nodig.",
+                        "new_text": "Voor geschoold werk heb je een opleiding nodig.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor veel beroepen bestaan speciale, beroepsgerichte opleidingen.",
+                "rewritten_sentences": "Voor veel beroepen zijn er speciale opleidingen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Vereenvoudig woordkeuze en verwijder overbodige bijvoeglijke toevoeging om woordfrequentie en leesbaarheid te verbeteren.",
+                        "start_word": 99,
+                        "end_word": 105,
+                        "original_text": "Voor veel beroepen bestaan speciale, beroepsgerichte opleidingen.",
+                        "new_text": "Voor veel beroepen zijn er speciale opleidingen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De kappersschool, administratieve opleidingen of technische opleidingen zijn daar voorbeelden van.",
+                "rewritten_sentences": "Voorbeelden zijn de kappersschool. Ook administratieve en technische opleidingen horen erbij.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Splits de lange opsomming in korte zinnen en gebruik concrete namen om de verhouding concrete zelfstandige naamwoorden te vergroten.",
+                        "start_word": 106,
+                        "end_word": 116,
+                        "original_text": "De kappersschool, administratieve opleidingen of technische opleidingen zijn daar voorbeelden van.",
+                        "new_text": "Voorbeelden zijn de kappersschool. Ook administratieve en technische opleidingen horen erbij.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op de school van Jimmy en Nina wordt een keuzetest gedaan.",
+                "rewritten_sentences": "Op hun school doen ze een keuzetest.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Kort de zin en gebruik eenvoudigere constructie om afhankelijkheidslengte te verlagen.",
+                        "start_word": 117,
+                        "end_word": 127,
+                        "original_text": "Op de school van Jimmy en Nina wordt een keuzetest gedaan.",
+                        "new_text": "Op hun school doen ze een keuzetest.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Alle leerlingen moeten een vragenlijst invullen.",
+                "rewritten_sentences": "Alle leerlingen vullen een vragenlijst in.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Maak de zin actiever en korter om afhankelijkheidslengte te verminderen en woordfrequentie te verhogen.",
+                        "start_word": 128,
+                        "end_word": 133,
+                        "original_text": "Alle leerlingen moeten een vragenlijst invullen.",
+                        "new_text": "Alle leerlingen vullen een vragenlijst in.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Aan de hand van de antwoorden kunnen de leerlingen samen met de studiebegeleiders uitzoeken welke sector of welk beroep bij hen past.",
+                "rewritten_sentences": "De antwoorden geven informatie. Leerlingen zoeken dit samen met de studiebegeleiders uit. Zo zien ze welke sector of welk beroep bij hen past.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Splits lange samengestelde zin in kortere stappen om afhankelijkheidslengte te verlagen en de informatie stapsgewijs aan te bieden.",
+                        "start_word": 134,
+                        "end_word": 155,
+                        "original_text": "Aan de hand van de antwoorden kunnen de leerlingen samen met de studiebegeleiders uitzoeken welke sector of welk beroep bij hen past.",
+                        "new_text": "De antwoorden geven informatie. Leerlingen zoeken dit samen met de studiebegeleiders uit. Zo zien ze welke sector of welk beroep bij hen past.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is belangrijk omdat ze een vakkenpakket moeten kiezen.",
+                "rewritten_sentences": "Dat is belangrijk. Ze moeten daarna hun vakkenpakket kiezen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Splits de reden en de consequentie in twee korte zinnen om de zinstructuur te vereenvoudigen.",
+                        "start_word": 156,
+                        "end_word": 164,
+                        "original_text": "Dat is belangrijk omdat ze een vakkenpakket moeten kiezen.",
+                        "new_text": "Dat is belangrijk. Ze moeten daarna hun vakkenpakket kiezen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je keuze voor een beroep hangt niet alleen van de situatie op de arbeidsmarkt af.",
+                "rewritten_sentences": "Je keuze hangt niet alleen van de arbeidsmarkt af.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Maak de zin korter en directer om afhankelijkheidslengte te verlagen.",
+                        "start_word": 165,
+                        "end_word": 179,
+                        "original_text": "Je keuze voor een beroep hangt niet alleen van de situatie op de arbeidsmarkt af.",
+                        "new_text": "Je keuze hangt niet alleen van de arbeidsmarkt af.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is ook belangrijk om een beroep dat bij je past te kiezen.",
+                "rewritten_sentences": "Het is belangrijk dat het beroep bij je past.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Herschrijf naar een kortere, meer directe zin; verminder syntactische complexiteit.",
+                        "start_word": 180,
+                        "end_word": 192,
+                        "original_text": "Het is ook belangrijk om een beroep dat bij je past te kiezen.",
+                        "new_text": "Het is belangrijk dat het beroep bij je past.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je kunt onder andere op alles wat te maken heeft met de veiligheid, de gezondheid en het welzijn (de tevredenheid) van de werknemer op de werkplek letten, met andere woorden op de arbeidsomstandigheden.",
+                "rewritten_sentences": "Let ook op de arbeidsomstandigheden. Denk aan veiligheid op het werk. Denk aan gezondheid. Let op het welzijn of de tevredenheid van de werknemer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Breek de lange opsomming op in korte, duidelijke zinnen en reduceer het aantal contentwoorden per deelzin om de leesbaarheid te verlagen en de zinstructuur te vereenvoudigen.",
+                        "start_word": 193,
+                        "end_word": 225,
+                        "original_text": "Je kunt onder andere op alles wat te maken heeft met de veiligheid, de gezondheid en het welzijn (de tevredenheid) van de werknemer op de werkplek letten, met andere woorden op de arbeidsomstandigheden.",
+                        "new_text": "Let ook op de arbeidsomstandigheden. Denk aan veiligheid op het werk. Denk aan gezondheid. Let op het welzijn of de tevredenheid van de werknemer.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In sommige beroepen doe je veel lichamelijke arbeid, in andere beroepen heb je veel met mensen te maken of zit je de hele dag binnen.",
+                "rewritten_sentences": "Sommige banen vragen veel lichamelijk werk. Andere banen vragen veel contact met mensen. Sommige banen zijn vooral binnenwerk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Splits de samengestelde zin in drie korte zinnen en gebruik eenvoudigere, concrete termen om afhankelijkheidslengte te verlagen en concreetheid te verhogen.",
+                        "start_word": 226,
+                        "end_word": 250,
+                        "original_text": "In sommige beroepen doe je veel lichamelijke arbeid, in andere beroepen heb je veel met mensen te maken of zit je de hele dag binnen.",
+                        "new_text": "Sommige banen vragen veel lichamelijk werk. Andere banen vragen veel contact met mensen. Sommige banen zijn vooral binnenwerk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook de arbeidsomstandigheden moeten bij je passen.",
+                "rewritten_sentences": "De arbeidsomstandigheden moeten ook bij je passen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Herschik licht om de zin directer te maken en afhankelijkheidslengte te verlagen.",
+                        "start_word": 251,
+                        "end_word": 257,
+                        "original_text": "Ook de arbeidsomstandigheden moeten bij je passen.",
+                        "new_text": "De arbeidsomstandigheden moeten ook bij je passen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit is op zoek naar nieuwe chauffeurs voor zijn transportbedrijf.",
+                "rewritten_sentences": "Meneer Smit zoekt nieuwe chauffeurs. Het is voor zijn transportbedrijf.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Splits in twee korte zinnen zodat de informatie stap voor stap wordt gegeven en syntactische afhankelijkheid afneemt.",
+                        "start_word": 258,
+                        "end_word": 268,
+                        "original_text": "Meneer Smit is op zoek naar nieuwe chauffeurs voor zijn transportbedrijf.",
+                        "new_text": "Meneer Smit zoekt nieuwe chauffeurs. Het is voor zijn transportbedrijf.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij heeft de vacatures bij het CWI (Centrum voor Werk en Inkomen) aangemeld.",
+                "rewritten_sentences": "Hij meldde de vacatures aan bij het CWI. CWI is het Centrum voor Werk en Inkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Maak twee korte zinnen en leg de afkorting uit om zinnen korter en concreter te maken.",
+                        "start_word": 269,
+                        "end_word": 281,
+                        "original_text": "Hij heeft de vacatures bij het CWI (Centrum voor Werk en Inkomen) aangemeld.",
+                        "new_text": "Hij meldde de vacatures aan bij het CWI. CWI is het Centrum voor Werk en Inkomen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij heeft ook een personeelsadvertentie in de krant gezet.",
+                "rewritten_sentences": "Hij zette ook een advertentie in de krant.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Vereenvoudig en verkort de zin door \u00e9\u00e9n veelgebruikt woord te kiezen en de constructie actiever te maken.",
+                        "start_word": 282,
+                        "end_word": 290,
+                        "original_text": "Hij heeft ook een personeelsadvertentie in de krant gezet.",
+                        "new_text": "Hij zette ook een advertentie in de krant.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vacature is een baan waar iemand voor wordt gezocht.",
+                "rewritten_sentences": "Een vacature is een open baan. Er wordt iemand voor gezocht.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "Splits definitie in twee korte zinnen om structuur eenvoudiger te maken en woordfrequentie te verhogen.",
+                        "start_word": 291,
+                        "end_word": 300,
+                        "original_text": "Een vacature is een baan waar iemand voor wordt gezocht.",
+                        "new_text": "Een vacature is een open baan. Er wordt iemand voor gezocht.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vacature kan ontstaan omdat er iemand vertrekt.",
+                "rewritten_sentences": "Een vacature ontstaat soms omdat iemand vertrekt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c27",
+                        "reason_for_change": "Maak de zin korter en minder complex om afhankelijkheidslengte te verlagen.",
+                        "start_word": 301,
+                        "end_word": 308,
+                        "original_text": "Een vacature kan ontstaan omdat er iemand vertrekt.",
+                        "new_text": "Een vacature ontstaat soms omdat iemand vertrekt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De werkgever zoekt dan een vervanger.",
+                "rewritten_sentences": "Dan zoekt de werkgever een vervanger.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c28",
+                        "reason_for_change": "Herschik naar een korte, directe zin om afhankelijkheidslengte te verlagen.",
+                        "start_word": 309,
+                        "end_word": 314,
+                        "original_text": "De werkgever zoekt dan een vervanger.",
+                        "new_text": "Dan zoekt de werkgever een vervanger.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vacature kan ook ontstaan doordat een bedrijf erg veel werk heeft, of gaat uitbreiden.",
+                "rewritten_sentences": "Een vacature kan ook ontstaan als een bedrijf veel werk heeft. Een bedrijf krijgt soms een vacature als het uitbreidt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c29",
+                        "reason_for_change": "Splits de samengestelde zin in twee korte zinnen en gebruik meer voorkomende woorden om afhankelijkheidslengte te verlagen en woordfrequentie te verhogen.",
+                        "start_word": 315,
+                        "end_word": 329,
+                        "original_text": "Een vacature kan ook ontstaan doordat een bedrijf erg veel werk heeft, of gaat uitbreiden.",
+                        "new_text": "Een vacature kan ook ontstaan als een bedrijf veel werk heeft. Een bedrijf krijgt soms een vacature als het uitbreidt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Kies een beroep. Nina gaat soms mee met haar moeder. Ze gaat naar de kapsalon. Ze is kapster. Nina wil geen kapster. Daarom kiest ze een andere opleiding. Niet dezelfde als haar moeder. Jimmy weet ook al wat hij niet wil. Hij wil geen chauffeur worden. Voor de meeste beroepen heb je een opleiding nodig. Er zijn ook banen zonder opleiding. Werk zonder opleiding heet ongeschoold werk. Werk aan de lopende band is ongeschoold werk. Ook schoonmaakwerk is een voorbeeld. Voor geschoold werk heb je een opleiding nodig. Voor veel beroepen zijn er speciale opleidingen. Voorbeelden zijn de kappersschool. Ook administratieve en technische opleidingen horen erbij. Op hun school doen ze een keuzetest. Alle leerlingen vullen een vragenlijst in. De antwoorden geven informatie. Leerlingen zoeken dit samen met de studiebegeleiders uit. Zo zien ze welke sector of welk beroep bij hen past. Dat is belangrijk. Ze moeten daarna hun vakkenpakket kiezen. Je keuze hangt niet alleen van de arbeidsmarkt af. Het is belangrijk dat het beroep bij je past. Let ook op de arbeidsomstandigheden. Denk aan veiligheid op het werk. Denk aan gezondheid. Let op het welzijn of de tevredenheid van de werknemer. Sommige banen vragen veel lichamelijk werk. Andere banen vragen veel contact met mensen. Sommige banen zijn vooral binnenwerk. De arbeidsomstandigheden moeten ook bij je passen. Meneer Smit zoekt nieuwe chauffeurs. Het is voor zijn transportbedrijf. Hij meldde de vacatures aan bij het CWI. CWI is het Centrum voor Werk en Inkomen. Hij zette ook een advertentie in de krant. Een vacature is een open baan. Er wordt iemand voor gezocht. Een vacature ontstaat soms omdat iemand vertrekt. Dan zoekt de werkgever een vervanger. Een vacature kan ook ontstaan als een bedrijf veel werk heeft. Een bedrijf krijgt soms een vacature als het uitbreidt.",
+        "prompt_id": "T14_moei",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "Kies een baan. Nina gaat naar de kapper. Mama is een kapper. Nina wil dit niet. Zij gaat naar een andere school. Jimmy wil geen auto rijden. Je moet vaak leren voor een baan. Soms hoef je niet naar school. Dat heet simpel werk. Dat is werk in de fabriek. Voor ander werk moet je leren. Er zijn scholen voor elk vak. Denk aan de kapper of de techniek. Jimmy en Nina doen een test. Zij vullen een lijst in. De hulp op school kijkt mee. Zo kiezen ze hun vakken. Kijk niet alleen naar de markt. Kies werk dat je leuk vindt. Let op je lijf en je rust. Soms werk je met je handen. Het werk moet fijn zijn. Meneer Smit zoekt een chauffeur. Hij zet een tekst in de krant. Hij zoekt zo een man. Een vacature is een vrije baan. Soms gaat een man weg. De baas zoekt hulp. Soms is er veel werk.",
+    "Gemini/gemini-3-flash-preview - lint": "16",
+    "Gemini/gemini-3-flash-preview - sent": "26, 8, 15, 0, 15, 1, 24, 24, 20, 24, 20, 28, 29, 11, 34, 24, 43, 26, 22, 26, 5, 14, 11, 23, 0, 40, 0, 12, 0",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Een beroep kiezen",
+                "rewritten_sentences": "Kies een baan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "'Baan' is een concreter en frequenter woord dan 'beroep'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "beroep",
+                        "new_text": "baan",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "De gebiedende wijs verkort de zin en verlaagt de afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 2,
+                        "original_text": "Een beroep kiezen",
+                        "new_text": "Kies een baan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Nina gaat soms met haar moeder mee naar de kapsalon.",
+                "rewritten_sentences": "Nina gaat naar de kapper.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "'Kapper' is een concreter en bekender woord dan 'kapsalon'.",
+                        "start_word": 9,
+                        "end_word": 9,
+                        "original_text": "kapsalon",
+                        "new_text": "kapper",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Het verwijderen van 'soms met haar moeder mee' verlaagt de afhankelijkheidslengte en het aantal inhoudswoorden.",
+                        "start_word": 2,
+                        "end_word": 6,
+                        "original_text": "soms met haar moeder mee",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Haar moeder werkt daar als kapster.",
+                "rewritten_sentences": "Mama is een kapper.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "'Mama' heeft een hogere woordfrequentie dan 'moeder'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "moeder",
+                        "new_text": "mama",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "'Kapper' is concreter dan de functiebeschrijving 'werkt daar als kapster'.",
+                        "start_word": 2,
+                        "end_word": 5,
+                        "original_text": "werkt daar als kapster",
+                        "new_text": "is een kapper",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Nina wil zelf geen kapster worden.",
+                "rewritten_sentences": "Nina wil dit niet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vervangen van inhoudswoorden door een verwijswoord verlaagt de complexiteit per bijzin.",
+                        "start_word": 2,
+                        "end_word": 4,
+                        "original_text": "zelf geen kapster worden",
+                        "new_text": "dit niet",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daarom zal ze voor een andere opleiding kiezen dan haar moeder.",
+                "rewritten_sentences": "Zij gaat naar een andere school.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "'School' is een veel frequenter en concreter woord dan 'opleiding'.",
+                        "start_word": 7,
+                        "end_word": 7,
+                        "original_text": "opleiding",
+                        "new_text": "school",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "De zin is korter gemaakt door de vergelijking te verwijderen.",
+                        "start_word": 9,
+                        "end_word": 11,
+                        "original_text": "dan haar moeder",
+                        "new_text": "",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook Jimmy weet al wat hij niet wil: hij wil geen chauffeur worden.",
+                "rewritten_sentences": "Jimmy wil geen auto rijden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "'Auto rijden' is concreter dan de beroepsnaam 'chauffeur'.",
+                        "start_word": 11,
+                        "end_word": 12,
+                        "original_text": "chauffeur worden",
+                        "new_text": "auto rijden",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Door de dubbele zin samen te voegen tot \u00e9\u00e9n simpele zin daalt de afhankelijkheidslengte.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Ook Jimmy weet al wat hij niet wil: hij wil",
+                        "new_text": "Jimmy wil",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je hebt voor de meeste beroepen een opleiding nodig.",
+                "rewritten_sentences": "Je moet vaak leren voor een baan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "'Leren' is een frequenter werkwoord dan 'opleiding nodig hebben'.",
+                        "start_word": 7,
+                        "end_word": 8,
+                        "original_text": "opleiding nodig",
+                        "new_text": "leren",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er bestaan ook beroepen waarvoor geen opleiding nodig is.",
+                "rewritten_sentences": "Soms hoef je niet naar school.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "'Naar school' is concreter en algemener dan 'opleiding'.",
+                        "start_word": 7,
+                        "end_word": 7,
+                        "original_text": "opleiding",
+                        "new_text": "naar school",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Werk waarvoor je geen opleiding nodig hebt, is ongeschoold werk.",
+                "rewritten_sentences": "Dat heet simpel werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "'Simpel' is een veel frequenter woord dan 'ongeschoold'.",
+                        "start_word": 9,
+                        "end_word": 9,
+                        "original_text": "ongeschoold",
+                        "new_text": "simpel",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Fabrieksarbeid aan een lopende band en schoonmaakwerk zijn voorbeelden van ongeschoold werk.",
+                "rewritten_sentences": "Dat is werk in de fabriek.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "De opsomming is ingekort om de afhankelijkheidslengte drastisch te verlagen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Fabrieksarbeid aan een lopende band en schoonmaakwerk zijn voorbeelden van ongeschoold werk",
+                        "new_text": "Dat is werk in de fabriek",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor geschoold werk heb je wel een opleiding nodig.",
+                "rewritten_sentences": "Voor ander werk moet je leren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "'Leren' is een hoogfrequent alternatief voor 'opleiding nodig'.",
+                        "start_word": 7,
+                        "end_word": 8,
+                        "original_text": "opleiding nodig",
+                        "new_text": "leren",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Voor veel beroepen bestaan speciale, beroepsgerichte opleidingen.",
+                "rewritten_sentences": "Er zijn scholen voor elk vak.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "'Scholen' en 'vak' zijn concreter dan 'beroepsgerichte opleidingen'.",
+                        "start_word": 6,
+                        "end_word": 7,
+                        "original_text": "beroepsgerichte opleidingen",
+                        "new_text": "scholen voor elk vak",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De kappersschool, administratieve opleidingen of technische opleidingen zijn daar voorbeelden van.",
+                "rewritten_sentences": "Denk aan de kapper of de techniek.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "De abstracte zinsstructuur is vervangen door een concrete aanwijzing.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "De kappersschool, administratieve opleidingen of technische opleidingen zijn daar voorbeelden van",
+                        "new_text": "Denk aan de kapper of de techniek",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op de school van Jimmy en Nina wordt een keuzetest gedaan.",
+                "rewritten_sentences": "Jimmy en Nina doen een test.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "De passieve vorm is vervangen door een actieve vorm met minder woorden.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Op de school van Jimmy en Nina wordt een keuzetest gedaan",
+                        "new_text": "Jimmy en Nina doen een test",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Alle leerlingen moeten een vragenlijst invullen.",
+                "rewritten_sentences": "Zij vullen een lijst in.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "'Lijst' is een korter, hoogfrequent alternatief voor 'vragenlijst'.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "vragenlijst",
+                        "new_text": "lijst",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Aan de hand van de antwoorden kunnen de leerlingen samen met de studiebegeleiders uitzoeken welke sector of welk beroep bij hen past.",
+                "rewritten_sentences": "De hulp op school kijkt mee.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "De zeer lange zin is ingekort tot een simpele zin met weinig inhoudswoorden.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Aan de hand van de antwoorden kunnen de leerlingen samen met de studiebegeleiders uitzoeken welke sector of welk beroep bij hen past",
+                        "new_text": "De hulp op school kijkt mee",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is belangrijk omdat ze een vakkenpakket moeten kiezen.",
+                "rewritten_sentences": "Zo kiezen ze hun vakken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "De redengevende bijzin is omgezet naar een simpele hoofdzin.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Dat is belangrijk omdat ze een vakkenpakket moeten kiezen",
+                        "new_text": "Zo kiezen ze hun vakken",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je keuze voor een beroep hangt niet alleen van de situatie op de arbeidsmarkt af.",
+                "rewritten_sentences": "Kijk niet alleen naar de markt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "'Markt' is concreter en korter dan 'situatie op de arbeidsmarkt'.",
+                        "start_word": 9,
+                        "end_word": 12,
+                        "original_text": "situatie op de arbeidsmarkt",
+                        "new_text": "markt",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is ook belangrijk om een beroep dat bij je past te kiezen.",
+                "rewritten_sentences": "Kies werk dat je leuk vindt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "'Leuk vinden' is een veel frequentere uitdrukking.",
+                        "start_word": 7,
+                        "end_word": 9,
+                        "original_text": "bij je past",
+                        "new_text": "je leuk vindt",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je kunt onder andere op alles wat te maken heeft met de veiligheid, de gezondheid en het welzijn (de tevredenheid) van de werknemer op de werkplek letten, met andere woorden op de arbeidsomstandigheden.",
+                "rewritten_sentences": "Let op je lijf en je rust.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Deze zeer complexe zin is vervangen door een korte zin met concrete woorden.",
+                        "start_word": 0,
+                        "end_word": 33,
+                        "original_text": "Je kunt onder andere op alles wat te maken heeft met de veiligheid, de gezondheid en het welzijn (de tevredenheid) van de werknemer op de werkplek letten, met andere woorden op de arbeidsomstandigheden",
+                        "new_text": "Let op je lijf en je rust",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In sommige beroepen doe je veel lichamelijke arbeid, in andere beroepen heb je veel met mensen te maken of zit je de hele dag binnen.",
+                "rewritten_sentences": "Soms werk je met je handen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "'Handen' is concreter dan 'lichamelijke arbeid'.",
+                        "start_word": 7,
+                        "end_word": 7,
+                        "original_text": "lichamelijke arbeid",
+                        "new_text": "handen",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Ook de arbeidsomstandigheden moeten bij je passen.",
+                "rewritten_sentences": "Het werk moet fijn zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "27",
+                        "reason_for_change": "'Fijn' is een hoogfrequent woord vergeleken met 'arbeidsomstandigheden'.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "arbeidsomstandigheden",
+                        "new_text": "werk",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit is op zoek naar nieuwe chauffeurs voor zijn transportbedrijf.",
+                "rewritten_sentences": "Meneer Smit zoekt een chauffeur.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "28",
+                        "reason_for_change": "Het inkorten van de zin verlaagt de afhankelijkheidslengte.",
+                        "start_word": 7,
+                        "end_word": 9,
+                        "original_text": "voor zijn transportbedrijf",
+                        "new_text": "",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij heeft de vacatures bij het CWI (Centrum voor Werk en Inkomen) aangemeld.",
+                "rewritten_sentences": "Hij zet een tekst in de krant.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "29",
+                        "reason_for_change": "'Tekst in de krant' is concreter dan de afkorting CWI.",
+                        "start_word": 2,
+                        "end_word": 11,
+                        "original_text": "de vacatures bij het CWI (Centrum voor Werk en Inkomen)",
+                        "new_text": "een tekst in de krant",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij heeft ook een personeelsadvertentie in de krant gezet.",
+                "rewritten_sentences": "Hij zoekt zo een man.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "30",
+                        "reason_for_change": "'Man' is een zeer hoogfrequent en concreet woord.",
+                        "start_word": 4,
+                        "end_word": 4,
+                        "original_text": "personeelsadvertentie",
+                        "new_text": "man",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vacature is een baan waar iemand voor wordt gezocht.",
+                "rewritten_sentences": "Een vacature is een vrije baan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "31",
+                        "reason_for_change": "'Vrije baan' is eenvoudiger en korter dan een passieve bijzin.",
+                        "start_word": 5,
+                        "end_word": 9,
+                        "original_text": "waar iemand voor wordt gezocht",
+                        "new_text": "vrije baan",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vacature kan ontstaan omdat er iemand vertrekt.",
+                "rewritten_sentences": "Soms gaat een man weg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "32",
+                        "reason_for_change": "'Man' en 'weggaan' zijn frequenter en concreter.",
+                        "start_word": 7,
+                        "end_word": 7,
+                        "original_text": "iemand",
+                        "new_text": "man",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De werkgever zoekt dan een vervanger.",
+                "rewritten_sentences": "De baas zoekt hulp.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "33",
+                        "reason_for_change": "'Baas' en 'hulp' zijn veel frequenter dan 'werkgever' en 'vervanger'.",
+                        "start_word": 1,
+                        "end_word": 1,
+                        "original_text": "werkgever",
+                        "new_text": "baas",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vacature kan ook ontstaan doordat een bedrijf erg veel werk heeft, of gaat uitbreiden.",
+                "rewritten_sentences": "Soms is er veel werk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "34",
+                        "reason_for_change": "De complexe redengeving is ingekort tot een simpele constatering.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Een vacature kan ook ontstaan doordat een bedrijf erg veel werk heeft, of gaat uitbreiden",
+                        "new_text": "Soms is er veel werk",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst",
+        "full_text": "Kies een baan. Nina gaat naar de kapper. Mama is een kapper. Nina wil dit niet. Zij gaat naar een andere school. Jimmy wil geen auto rijden. Je moet vaak leren voor een baan. Soms hoef je niet naar school. Dat heet simpel werk. Dat is werk in de fabriek. Voor ander werk moet je leren. Er zijn scholen voor elk vak. Denk aan de kapper of de techniek. Jimmy en Nina doen een test. Zij vullen een lijst in. De hulp op school kijkt mee. Zo kiezen ze hun vakken. Kijk niet alleen naar de markt. Kies werk dat je leuk vindt. Let op je lijf en je rust. Soms werk je met je handen. Het werk moet fijn zijn. Meneer Smit zoekt een chauffeur. Hij zet een tekst in de krant. Hij zoekt zo een man. Een vacature is een vrije baan. Soms gaat een man weg. De baas zoekt hulp. Soms is er veel werk.",
+        "prompt_id": "T14_moei",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Een beroep kiezen: wat wil je worden? Nina bezoekt haar moeder in de kapsalon. Haar moeder is kapster. Nina wil niet kapster worden. Ze kiest een andere opleiding. Jimmy weet ook al wat hij niet wil. Hij wil geen chauffeur worden. Veel beroepen vergen een opleiding. Sommige beroepen hebben geen opleiding nodig. Dit noemen we ongeschoold werk. Denk aan fabrieksarbeid of schoonmaken. Geschoold werk vraagt wel een opleiding. Er zijn verschillende soorten opleidingen, zoals kappersopleidingen, administratie of techniek. Jimmy en Nina doen een keuzetest op school. Ze vullen een vragenlijst in. Samen met studiebegeleiders kijken ze welke sector of welk beroep bij hen past. Dit helpt bij het kiezen van vakken. Bij het kiezen van een beroep kijk je niet alleen naar de arbeidsmarkt. Het beroep moet ook bij je passen. Denk aan veiligheid, gezondheid en welzijn op het werk. Sommige beroepen zijn fysiek zwaar. Andere beroepen zijn sociaal of kantoorwerk. Ook dit moet bij je passen. Meneer Smit zoekt nieuwe chauffeurs. Hij meldt vacatures bij het CWI. Ook zet hij een advertentie in de krant. Een vacature is een openstaande baan. Een baan kan vrijkomen als iemand vertrekt. De baas zoekt dan een vervanger. Ook als een bedrijf veel werk heeft of groeit, kan een baan vrijkomen.",
+    "Mistral/ministral-14b-latest - lint": "31",
+    "Mistral/ministral-14b-latest - sent": "29, 18, 11, 32, 0, 0, 53, 39, 20, 33, 42, 61, 18, 34, 43, 40, 38, 37, 42, 47, 38, 16, 57, 25, 51, 35, 21, 28",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Een beroep kiezen",
+                "rewritten_sentences": "Een beroep kiezen: wat wil je worden?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Verhoogde concrete zelfstandignaamwoorden en verlaagde afhankelijkheidslengte door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 1,
+                        "original_text": "Een beroep kiezen",
+                        "new_text": "Een beroep kiezen: wat wil je worden?",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Nina gaat soms met haar moeder mee naar de kapsalon. Haar moeder werkt daar als kapster. Nina wil zelf geen kapster worden. Daarom zal ze voor een andere opleiding kiezen dan haar moeder. Ook Jimmy weet al wat hij niet wil: hij wil geen chauffeur worden.",
+                "rewritten_sentences": "Nina bezoekt haar moeder in de kapsalon. Haar moeder is kapster. Nina wil niet kapster worden. Ze kiest een andere opleiding. Jimmy weet ook al wat hij niet wil. Hij wil geen chauffeur worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door kortere zinnen en verwijdering van onnodige woorden.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Nina gaat soms met haar moeder mee naar de kapsalon. Haar moeder werkt daar als kapster. Nina wil zelf geen kapster worden. Daarom zal ze voor een andere opleiding kiezen dan haar moeder.",
+                        "new_text": "Nina bezoekt haar moeder in de kapsalon. Haar moeder is kapster. Nina wil niet kapster worden. Ze kiest een andere opleiding.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door eenvoudiger formulering.",
+                        "start_word": 20,
+                        "end_word": 31,
+                        "original_text": "Ook Jimmy weet al wat hij niet wil: hij wil geen chauffeur worden.",
+                        "new_text": "Jimmy weet ook al wat hij niet wil. Hij wil geen chauffeur worden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je hebt voor de meeste beroepen een opleiding nodig. Er bestaan ook beroepen waarvoor geen opleiding nodig is. Werk waarvoor je geen opleiding nodig hebt, is ongeschoold werk. Fabrieksarbeid aan een lopende band en schoonmaakwerk zijn voorbeelden van ongeschoold werk. Voor geschoold werk heb je wel een opleiding nodig. Voor veel beroepen bestaan speciale, beroepsgerichte opleidingen. De kappersschool, administratieve opleidingen of technische opleidingen zijn daar voorbeelden van.",
+                "rewritten_sentences": "Veel beroepen vergen een opleiding. Sommige beroepen hebben geen opleiding nodig. Dit noemen we ongeschoold werk. Denk aan fabrieksarbeid of schoonmaken. Geschoold werk vraagt wel een opleiding. Er zijn verschillende soorten opleidingen, zoals kappersopleidingen, administratie of techniek.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door kortere en eenvoudiger zinnen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Je hebt voor de meeste beroepen een opleiding nodig. Er bestaan ook beroepen waarvoor geen opleiding nodig is.",
+                        "new_text": "Veel beroepen vergen een opleiding. Sommige beroepen hebben geen opleiding nodig.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin en verhoogde concrete zelfstandignaamwoorden door eenvoudiger formulering.",
+                        "start_word": 12,
+                        "end_word": 25,
+                        "original_text": "Werk waarvoor je geen opleiding nodig hebt, is ongeschoold werk. Fabrieksarbeid aan een lopende band en schoonmaakwerk zijn voorbeelden van ongeschoold werk.",
+                        "new_text": "Dit noemen we ongeschoold werk. Denk aan fabrieksarbeid of schoonmaken.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door kortere zinnen.",
+                        "start_word": 26,
+                        "end_word": 40,
+                        "original_text": "Voor geschoold werk heb je wel een opleiding nodig. Voor veel beroepen bestaan speciale, beroepsgerichte opleidingen. De kappersschool, administratieve opleidingen of technische opleidingen zijn daar voorbeelden van.",
+                        "new_text": "Geschoold werk vraagt wel een opleiding. Er zijn verschillende soorten opleidingen, zoals kappersopleidingen, administratie of techniek.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Op de school van Jimmy en Nina wordt een keuzetest gedaan. Alle leerlingen moeten een vragenlijst invullen. Aan de hand van de antwoorden kunnen de leerlingen samen met de studiebegeleiders uitzoeken welke sector of welk beroep bij hen past. Dat is belangrijk omdat ze een vakkenpakket moeten kiezen.",
+                "rewritten_sentences": "Jimmy en Nina doen een keuzetest op school. Ze vullen een vragenlijst in. Samen met studiebegeleiders kijken ze welke sector of welk beroep bij hen past. Dit helpt bij het kiezen van vakken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door kortere en eenvoudiger zinnen.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Op de school van Jimmy en Nina wordt een keuzetest gedaan. Alle leerlingen moeten een vragenlijst invullen.",
+                        "new_text": "Jimmy en Nina doen een keuzetest op school. Ze vullen een vragenlijst in.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door eenvoudiger formulering.",
+                        "start_word": 18,
+                        "end_word": 36,
+                        "original_text": "Aan de hand van de antwoorden kunnen de leerlingen samen met de studiebegeleiders uitzoeken welke sector of welk beroep bij hen past.",
+                        "new_text": "Samen met studiebegeleiders kijken ze welke sector of beroep bij hen past.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door kortere zin.",
+                        "start_word": 37,
+                        "end_word": 47,
+                        "original_text": "Dat is belangrijk omdat ze een vakkenpakket moeten kiezen.",
+                        "new_text": "Dit helpt bij het kiezen van vakken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je keuze voor een beroep hangt niet alleen van de situatie op de arbeidsmarkt af. Het is ook belangrijk om een beroep dat bij je past te kiezen. Je kunt onder andere op alles wat te maken heeft met de veiligheid, de gezondheid en het welzijn (de tevredenheid) van de werknemer op de werkplek letten, met andere woorden op de arbeidsomstandigheden. In sommige beroepen doe je veel lichamelijke arbeid, in andere beroepen heb je veel met mensen te maken of zit je de hele dag binnen. Ook de arbeidsomstandigheden moeten bij je passen.",
+                "rewritten_sentences": "Bij het kiezen van een beroep kijk je niet alleen naar de arbeidsmarkt. Het beroep moet ook bij je passen. Denk aan veiligheid, gezondheid en welzijn op het werk. Sommige beroepen zijn fysiek zwaar. Andere beroepen zijn sociaal of kantoorwerk. Ook dit moet bij je passen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door kortere en eenvoudiger zinnen.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Je keuze voor een beroep hangt niet alleen van de situatie op de arbeidsmarkt af. Het is ook belangrijk om een beroep dat bij je past te kiezen.",
+                        "new_text": "Bij het kiezen van een beroep kijk je niet alleen naar de arbeidsmarkt. Het beroep moet ook bij je passen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin en verhoogde concrete zelfstandignaamwoorden door eenvoudiger formulering.",
+                        "start_word": 15,
+                        "end_word": 38,
+                        "original_text": "Je kunt onder andere op alles wat te maken heeft met de veiligheid, de gezondheid en het welzijn (de tevredenheid) van de werknemer op de werkplek letten, met andere woorden op de arbeidsomstandigheden.",
+                        "new_text": "Denk aan veiligheid, gezondheid en welzijn op het werk.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door kortere en eenvoudiger zinnen.",
+                        "start_word": 39,
+                        "end_word": 61,
+                        "original_text": "In sommige beroepen doe je veel lichamelijke arbeid, in andere beroepen heb je veel met mensen te maken of zit je de hele dag binnen. Ook de arbeidsomstandigheden moeten bij je passen.",
+                        "new_text": "Sommige beroepen zijn fysiek zwaar. Andere beroepen zijn sociaal of kantoorwerk. Ook dit moet bij je passen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Meneer Smit is op zoek naar nieuwe chauffeurs voor zijn transportbedrijf. Hij heeft de vacatures bij het CWI (Centrum voor Werk en Inkomen) aangemeld. Hij heeft ook een personeelsadvertentie in de krant gezet.",
+                "rewritten_sentences": "Meneer Smit zoekt nieuwe chauffeurs. Hij meldt vacatures bij het CWI. Ook zet hij een advertentie in de krant.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door kortere en eenvoudiger zinnen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Meneer Smit is op zoek naar nieuwe chauffeurs voor zijn transportbedrijf.",
+                        "new_text": "Meneer Smit zoekt nieuwe chauffeurs.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door kortere zin en verwijdering van onnodige details.",
+                        "start_word": 12,
+                        "end_word": 27,
+                        "original_text": "Hij heeft de vacatures bij het CWI (Centrum voor Werk en Inkomen) aangemeld.",
+                        "new_text": "Hij meldt vacatures bij het CWI.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte door kortere zin.",
+                        "start_word": 28,
+                        "end_word": 39,
+                        "original_text": "Hij heeft ook een personeelsadvertentie in de krant gezet.",
+                        "new_text": "Ook zet hij een advertentie in de krant.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een vacature is een baan waar iemand voor wordt gezocht. Een vacature kan ontstaan omdat er iemand vertrekt. De werkgever zoekt dan een vervanger. Een vacature kan ook ontstaan doordat een bedrijf erg veel werk heeft, of gaat uitbreiden.",
+                "rewritten_sentences": "Een vacature is een openstaande baan. Een baan kan vrijkomen als iemand vertrekt. De baas zoekt dan een vervanger. Ook als een bedrijf veel werk heeft of groeit, kan een baan vrijkomen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Verlaagde inhoudswoorden per deelzin en verhoogde concrete zelfstandignaamwoorden door eenvoudiger formulering.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Een vacature is een baan waar iemand voor wordt gezocht.",
+                        "new_text": "Een vacature is een openstaande baan.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door kortere en eenvoudiger zinnen.",
+                        "start_word": 6,
+                        "end_word": 17,
+                        "original_text": "Een vacature kan ontstaan omdat er iemand vertrekt. De werkgever zoekt dan een vervanger.",
+                        "new_text": "Een baan kan vrijkomen als iemand vertrekt. De baas zoekt dan een vervanger.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Verlaagde afhankelijkheidslengte en inhoudswoorden per deelzin door eenvoudiger formulering.",
+                        "start_word": 18,
+                        "end_word": 34,
+                        "original_text": "Een vacature kan ook ontstaan doordat een bedrijf erg veel werk heeft, of gaat uitbreiden.",
+                        "new_text": "Ook als een bedrijf veel werk heeft of groeit, kan een baan vrijkomen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst voor jongeren over beroepskeuze",
+        "full_text": "Een beroep kiezen: wat wil je worden? Nina bezoekt haar moeder in de kapsalon. Haar moeder is kapster. Nina wil niet kapster worden. Ze kiest een andere opleiding. Jimmy weet ook al wat hij niet wil. Hij wil geen chauffeur worden. Veel beroepen vergen een opleiding. Sommige beroepen hebben geen opleiding nodig. Dit noemen we ongeschoold werk. Denk aan fabrieksarbeid of schoonmaken. Geschoold werk vraagt wel een opleiding. Er zijn verschillende soorten opleidingen, zoals kappersopleidingen, administratie of techniek. Jimmy en Nina doen een keuzetest op school. Ze vullen een vragenlijst in. Samen met studiebegeleiders kijken ze welke sector of welk beroep bij hen past. Dit helpt bij het kiezen van vakken. Bij het kiezen van een beroep kijk je niet alleen naar de arbeidsmarkt. Het beroep moet ook bij je passen. Denk aan veiligheid, gezondheid en welzijn op het werk. Sommige beroepen zijn fysiek zwaar. Andere beroepen zijn sociaal of kantoorwerk. Ook dit moet bij je passen. Meneer Smit zoekt nieuwe chauffeurs. Hij meldt vacatures bij het CWI. Ook zet hij een advertentie in de krant. Een vacature is een openstaande baan. Een baan kan vrijkomen als iemand vertrekt. De baas zoekt dan een vervanger. Ook als een bedrijf veel werk heeft of groeit, kan een baan vrijkomen.",
+        "prompt_id": "T14_moei",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-06-07 22:51:38.926956"
+}

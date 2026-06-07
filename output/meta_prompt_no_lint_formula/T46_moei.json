@@ -1,0 +1,1596 @@
+{
+    "prompt_id": "T46_moei",
+    "Org - text": "Diabetes\n\nDiabetes werd vroeger ook wel suikerziekte genoemd. Dat is niet voor niets: als je diabetes hebt, zit er in je bloed te veel suiker. Die suiker in het bloed noemen we glucose. Iedereen heeft glucose in zijn bloed, ook mensen zonder diabetes. Die glucose heb je nodig om te kunnen leven. Je hele lichaam (je spieren, je hersens en je organen) gebruikt glucose als brandstof. Het is met benzine voor een auto te vergelijken. Een auto rijdt zonder benzine niet. We krijgen door ons eten glucose binnen. Je lichaam maakt als dat nodig is ook zelf glucose.\n\nHet lichaam zorgt er bij mensen zonder diabetes voor dat er niet te veel glucose in het bloed komt. Daar zorgt de stof insuline voor. Insuline is nodig om de glucose uit het bloed te kunnen gebruiken. Het lichaam maakt precies genoeg insuline. Dus extra veel na het eten. Dan kan de glucose uit het bloed snel door het lichaam worden opgenomen. Er komt dan niet te veel glucose tegelijk in het bloed. En als iemand een tijd niets eet, wordt er weinig insuline gemaakt. Er komt dan via het eten geen glucose binnen. Er zit in het bloed alleen glucose dat het lichaam zelf maakt. Er hoeft dus ook maar weinig glucose te worden verwerkt. Bij mensen met diabetes werkt dit systeem niet meer. Hun lichaam maakt te weinig insuline of helemaal geen insuline meer. Omdat er te weinig insuline is, kan het lichaam de glucose bijna niet gebruiken. En dus blijft de glucose in het bloed.\n\nEr zijn verschillende soorten diabetes. Kinderen en jongeren met diabetes hebben bijna altijd diabetes type 1. Diabetes type 1 ontstaat door een vergissing van het lichaam. De cellen die insuline maken zijn per ongeluk door het eigen lichaam kapotgemaakt. Je kunt daarom zelf geen insuline meer maken en daarom moet je insuline spuiten. Diabetes type 1 houd je je hele leven, het is voorlopig niet te genezen. Gelukkig is er goed mee te leven. Diabetes type 2 heeft een andere oorzaak en wordt ook anders behandeld.\n\nHoe het komt dat iemand diabetes type 1 krijgt, weten onderzoekers nog niet precies. Wel is duidelijk dat erfelijkheid een rol speelt. Als je vader of moeder diabetes type 1 heeft, is de kans dat jij het ook krijgt iets groter.",
+    "Org - lint": "33",
+    "Org - sent": "45, 17, 33, 31, 32, 54, 26, 14, 38, 26, 43, 45, 47, 24, 43, 36, 32, 29, 29, 57, 27, 45, 44, 34, 26, 42, 39, 40, 52, 39, 43, 27, 41, 21",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "Diabetes had vroeger een andere naam. Men noemde het ook suikerziekte. Dit klopt niet zomaar. Als je diabetes hebt, is er te veel suiker in je bloed. Suiker in het bloed heet glucose. Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes. Glucose is belangrijk om te leven. Je hele lichaam gebruikt glucose. Dit geldt voor spieren, hersens en organen. Glucose is brandstof voor hen. Je kunt het vergelijken met benzine voor een auto. Een auto rijdt niet zonder benzine. Je krijgt glucose binnen via eten. Je lichaam maakt ook zelf glucose als het nodig is. Bij mensen zonder diabetes zorgt het lichaam dat er niet te veel glucose in het bloed komt. Dat doet de stof insuline. Insuline is nodig om glucose uit het bloed te gebruiken. Het lichaam maakt precies de juiste hoeveelheid insuline. Dus na het eten maakt het lichaam meer insuline. Dan kan het lichaam de glucose uit het bloed snel opnemen. Er komt dan niet te veel glucose tegelijk in het bloed. Als je een tijd niets eet, maakt het lichaam weinig insuline. Dan komt er via het eten geen glucose binnen. Het bloed bevat dan alleen glucose die het lichaam zelf maakt. Dus er hoeft maar weinig glucose verwerkt te worden. Bij mensen met diabetes werkt dit systeem niet goed meer. Hun lichaam maakt te weinig of zelfs geen insuline. Er is te weinig insuline. Daardoor kan het lichaam de glucose bijna niet gebruiken. Daarom blijft de glucose in het bloed. Er bestaan verschillende soorten diabetes. Bij kinderen en jongeren is het meestal diabetes type 1. Diabetes type 1 ontstaat door een fout van het lichaam. De cellen die insuline maken, zijn per ongeluk door het lichaam kapotgemaakt. Je kunt zelf geen insuline meer maken. Daarom moet je insuline spuiten. Diabetes type 1 heb je je hele leven. Het is nu niet te genezen. Gelukkig kun je er goed mee leven. Diabetes type 2 heeft een andere oorzaak. Het wordt ook anders behandeld. Onderzoekers weten nog niet precies waarom iemand diabetes type 1 krijgt. Wel is duidelijk dat erfelijkheid een rol speelt. Als je vader of moeder diabetes type 1 heeft, is de kans groter dat jij het ook krijgt.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "30",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "14, 32, 20, 32, 25, 17, 27, 43, 50, 18, 14, 37, 25, 33, 34, 43, 36, 22, 40, 36, 19, 29, 27, 50, 24, 30, 53, 40, 34, 35, 41, 37, 45, 37, 53, 32, 36, 36, 41, 21",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Diabetes werd vroeger ook wel suikerziekte genoemd.",
+                "rewritten_sentences": "Diabetes had vroeger een andere naam. Men noemde het ook suikerziekte.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Opgesplitst om zin korter en leesbaarder te maken.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Diabetes werd vroeger ook wel suikerziekte genoemd.",
+                        "new_text": "Diabetes had vroeger een andere naam.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is niet voor niets: als je diabetes hebt, zit er in je bloed te veel suiker.",
+                "rewritten_sentences": "Dit klopt niet zomaar. Als je diabetes hebt, is er te veel suiker in je bloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "De zin in twee korte zinnen verdeeld voor eenvoud.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Dat is niet voor niets: als je diabetes hebt, zit er in je bloed te veel suiker.",
+                        "new_text": "Dit klopt niet zomaar. Als je diabetes hebt, is er te veel suiker in je bloed.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die suiker in het bloed noemen we glucose.",
+                "rewritten_sentences": "Suiker in het bloed heet glucose.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Kortere formulering gekozen om leesbaarheid te verhogen.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Die suiker in het bloed noemen we glucose.",
+                        "new_text": "Suiker in het bloed heet glucose.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Iedereen heeft glucose in zijn bloed, ook mensen zonder diabetes.",
+                "rewritten_sentences": "Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Gescheiden in twee zinnen om eenvoudiger te maken.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Iedereen heeft glucose in zijn bloed, ook mensen zonder diabetes.",
+                        "new_text": "Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die glucose heb je nodig om te kunnen leven.",
+                "rewritten_sentences": "Glucose is belangrijk om te leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Kortere formulering gekozen voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Die glucose heb je nodig om te kunnen leven.",
+                        "new_text": "Glucose is belangrijk om te leven.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je hele lichaam (je spieren, je hersens en je organen) gebruikt glucose als brandstof.",
+                "rewritten_sentences": "Je hele lichaam gebruikt glucose. Dit geldt voor spieren, hersens en organen. Glucose is brandstof voor hen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Opdeling in korte zinnen voor lagere leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Je hele lichaam (je spieren, je hersens en je organen) gebruikt glucose als brandstof.",
+                        "new_text": "Je hele lichaam gebruikt glucose. Dit geldt voor spieren, hersens en organen. Glucose is brandstof voor hen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is met benzine voor een auto te vergelijken.",
+                "rewritten_sentences": "Je kunt het vergelijken met benzine voor een auto.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Kortere, eenvoudigere zin gekozen.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Het is met benzine voor een auto te vergelijken.",
+                        "new_text": "Je kunt het vergelijken met benzine voor een auto.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een auto rijdt zonder benzine niet.",
+                "rewritten_sentences": "Een auto rijdt niet zonder benzine.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Omgekeerde volgorde voor eenvoudiger begrip.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Een auto rijdt zonder benzine niet.",
+                        "new_text": "Een auto rijdt niet zonder benzine.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We krijgen door ons eten glucose binnen.",
+                "rewritten_sentences": "Je krijgt glucose binnen via eten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Kortere formulering voor eenvoud.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "We krijgen door ons eten glucose binnen.",
+                        "new_text": "Je krijgt glucose binnen via eten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je lichaam maakt als dat nodig is ook zelf glucose.",
+                "rewritten_sentences": "Je lichaam maakt ook zelf glucose als het nodig is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Kleine herschikking om duidelijkheid te vergroten.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Je lichaam maakt als dat nodig is ook zelf glucose.",
+                        "new_text": "Je lichaam maakt ook zelf glucose als het nodig is.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het lichaam zorgt er bij mensen zonder diabetes voor dat er niet te veel glucose in het bloed komt.",
+                "rewritten_sentences": "Bij mensen zonder diabetes zorgt het lichaam dat er niet te veel glucose in het bloed komt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Actiever en eenvoudiger geformuleerd.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Het lichaam zorgt er bij mensen zonder diabetes voor dat er niet te veel glucose in het bloed komt.",
+                        "new_text": "Bij mensen zonder diabetes zorgt het lichaam dat er niet te veel glucose in het bloed komt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar zorgt de stof insuline voor.",
+                "rewritten_sentences": "Dat doet de stof insuline.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Kort en duidelijk voor eenvoudiger tekst.",
+                        "start_word": 0,
+                        "end_word": 5,
+                        "original_text": "Daar zorgt de stof insuline voor.",
+                        "new_text": "Dat doet de stof insuline.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Insuline is nodig om de glucose uit het bloed te kunnen gebruiken.",
+                "rewritten_sentences": "Insuline is nodig om glucose uit het bloed te gebruiken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Kortere zin voor betere leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Insuline is nodig om de glucose uit het bloed te kunnen gebruiken.",
+                        "new_text": "Insuline is nodig om glucose uit het bloed te gebruiken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het lichaam maakt precies genoeg insuline.",
+                "rewritten_sentences": "Het lichaam maakt precies de juiste hoeveelheid insuline.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Iets eenvoudiger taalgebruik gekozen.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Het lichaam maakt precies genoeg insuline.",
+                        "new_text": "Het lichaam maakt precies de juiste hoeveelheid insuline.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dus extra veel na het eten.",
+                "rewritten_sentences": "Dus na het eten maakt het lichaam meer insuline.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "In zin verwerkt voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 4,
+                        "original_text": "Dus extra veel na het eten.",
+                        "new_text": "Dus na het eten maakt het lichaam meer insuline.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dan kan de glucose uit het bloed snel door het lichaam worden opgenomen.",
+                "rewritten_sentences": "Dan kan het lichaam de glucose uit het bloed snel opnemen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Actieve vorm gekozen voor eenvoudiger leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Dan kan de glucose uit het bloed snel door het lichaam worden opgenomen.",
+                        "new_text": "Dan kan het lichaam de glucose uit het bloed snel opnemen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er komt dan niet te veel glucose tegelijk in het bloed.",
+                "rewritten_sentences": "Er komt dan niet te veel glucose tegelijk in het bloed.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "En als iemand een tijd niets eet, wordt er weinig insuline gemaakt.",
+                "rewritten_sentences": "Als je een tijd niets eet, maakt het lichaam weinig insuline.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Kortere, actieve zin voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "En als iemand een tijd niets eet, wordt er weinig insuline gemaakt.",
+                        "new_text": "Als je een tijd niets eet, maakt het lichaam weinig insuline.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er komt dan via het eten geen glucose binnen.",
+                "rewritten_sentences": "Dan komt er via het eten geen glucose binnen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Kort en eenvoudig gehouden.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Er komt dan via het eten geen glucose binnen.",
+                        "new_text": "Dan komt er via het eten geen glucose binnen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zit in het bloed alleen glucose dat het lichaam zelf maakt.",
+                "rewritten_sentences": "Het bloed bevat dan alleen glucose die het lichaam zelf maakt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Actiever geformuleerd voor eenvoud.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Er zit in het bloed alleen glucose dat het lichaam zelf maakt.",
+                        "new_text": "Het bloed bevat dan alleen glucose die het lichaam zelf maakt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er hoeft dus ook maar weinig glucose te worden verwerkt.",
+                "rewritten_sentences": "Dus er hoeft maar weinig glucose verwerkt te worden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Kortere, eenvoudige formulering.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Er hoeft dus ook maar weinig glucose te worden verwerkt.",
+                        "new_text": "Dus er hoeft maar weinig glucose verwerkt te worden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij mensen met diabetes werkt dit systeem niet meer.",
+                "rewritten_sentences": "Bij mensen met diabetes werkt dit systeem niet goed meer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "Toevoeging 'goed' voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Bij mensen met diabetes werkt dit systeem niet meer.",
+                        "new_text": "Bij mensen met diabetes werkt dit systeem niet goed meer.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hun lichaam maakt te weinig insuline of helemaal geen insuline meer.",
+                "rewritten_sentences": "Hun lichaam maakt te weinig of zelfs geen insuline.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Kortere, duidelijkere formulering.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Hun lichaam maakt te weinig insuline of helemaal geen insuline meer.",
+                        "new_text": "Hun lichaam maakt te weinig of zelfs geen insuline.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Omdat er te weinig insuline is, kan het lichaam de glucose bijna niet gebruiken.",
+                "rewritten_sentences": "Er is te weinig insuline. Daardoor kan het lichaam de glucose bijna niet gebruiken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "Opdeling in twee zinnen voor eenvoud.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Omdat er te weinig insuline is, kan het lichaam de glucose bijna niet gebruiken.",
+                        "new_text": "Er is te weinig insuline. Daardoor kan het lichaam de glucose bijna niet gebruiken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En dus blijft de glucose in het bloed.",
+                "rewritten_sentences": "Daarom blijft de glucose in het bloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "Korte en eenvoudige zin gekozen.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "En dus blijft de glucose in het bloed.",
+                        "new_text": "Daarom blijft de glucose in het bloed.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zijn verschillende soorten diabetes.",
+                "rewritten_sentences": "Er bestaan verschillende soorten diabetes.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Iets eenvoudigere formulering gekozen.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "Er zijn verschillende soorten diabetes.",
+                        "new_text": "Er bestaan verschillende soorten diabetes.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen en jongeren met diabetes hebben bijna altijd diabetes type 1.",
+                "rewritten_sentences": "Bij kinderen en jongeren is het meestal diabetes type 1.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "Kortere en eenvoudigere formulering.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Kinderen en jongeren met diabetes hebben bijna altijd diabetes type 1.",
+                        "new_text": "Bij kinderen en jongeren is het meestal diabetes type 1.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Diabetes type 1 ontstaat door een vergissing van het lichaam.",
+                "rewritten_sentences": "Diabetes type 1 ontstaat door een fout van het lichaam.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c27",
+                        "reason_for_change": "Eenvoudiger woord gekozen voor 'vergissing'.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Diabetes type 1 ontstaat door een vergissing van het lichaam.",
+                        "new_text": "Diabetes type 1 ontstaat door een fout van het lichaam.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De cellen die insuline maken zijn per ongeluk door het eigen lichaam kapotgemaakt.",
+                "rewritten_sentences": "De cellen die insuline maken, zijn per ongeluk door het lichaam kapotgemaakt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c28",
+                        "reason_for_change": "Scheidingskomma toegevoegd voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "De cellen die insuline maken zijn per ongeluk door het eigen lichaam kapotgemaakt.",
+                        "new_text": "De cellen die insuline maken, zijn per ongeluk door het lichaam kapotgemaakt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je kunt daarom zelf geen insuline meer maken en daarom moet je insuline spuiten.",
+                "rewritten_sentences": "Je kunt zelf geen insuline meer maken. Daarom moet je insuline spuiten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c29",
+                        "reason_for_change": "Twee korte zinnen voor eenvoudiger lezen.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Je kunt daarom zelf geen insuline meer maken en daarom moet je insuline spuiten.",
+                        "new_text": "Je kunt zelf geen insuline meer maken. Daarom moet je insuline spuiten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Diabetes type 1 houd je je hele leven, het is voorlopig niet te genezen.",
+                "rewritten_sentences": "Diabetes type 1 heb je je hele leven. Het is nu niet te genezen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c30",
+                        "reason_for_change": "Gescheiden en eenvoudiger geformuleerd.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Diabetes type 1 houd je je hele leven, het is voorlopig niet te genezen.",
+                        "new_text": "Diabetes type 1 heb je je hele leven. Het is nu niet te genezen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Gelukkig is er goed mee te leven.",
+                "rewritten_sentences": "Gelukkig kun je er goed mee leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c31",
+                        "reason_for_change": "Actiever en eenvoudiger geformuleerd.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Gelukkig is er goed mee te leven.",
+                        "new_text": "Gelukkig kun je er goed mee leven.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Diabetes type 2 heeft een andere oorzaak en wordt ook anders behandeld.",
+                "rewritten_sentences": "Diabetes type 2 heeft een andere oorzaak. Het wordt ook anders behandeld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c32",
+                        "reason_for_change": "Zin opgesplitst voor eenvoudiger begrip.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Diabetes type 2 heeft een andere oorzaak en wordt ook anders behandeld.",
+                        "new_text": "Diabetes type 2 heeft een andere oorzaak. Het wordt ook anders behandeld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hoe het komt dat iemand diabetes type 1 krijgt, weten onderzoekers nog niet precies.",
+                "rewritten_sentences": "Onderzoekers weten nog niet precies waarom iemand diabetes type 1 krijgt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c33",
+                        "reason_for_change": "Omgekeerde volgorde gekozen voor eenvoud.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Hoe het komt dat iemand diabetes type 1 krijgt, weten onderzoekers nog niet precies.",
+                        "new_text": "Onderzoekers weten nog niet precies waarom iemand diabetes type 1 krijgt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wel is duidelijk dat erfelijkheid een rol speelt.",
+                "rewritten_sentences": "Wel is duidelijk dat erfelijkheid een rol speelt.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Als je vader of moeder diabetes type 1 heeft, is de kans dat jij het ook krijgt iets groter.",
+                "rewritten_sentences": "Als je vader of moeder diabetes type 1 heeft, is de kans groter dat jij het ook krijgt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c34",
+                        "reason_for_change": "Kleine aanpassing voor vloeiender taalgebruik.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Als je vader of moeder diabetes type 1 heeft, is de kans dat jij het ook krijgt iets groter.",
+                        "new_text": "Als je vader of moeder diabetes type 1 heeft, is de kans groter dat jij het ook krijgt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informerend",
+        "full_text": "Diabetes had vroeger een andere naam. Men noemde het ook suikerziekte. Dit klopt niet zomaar. Als je diabetes hebt, is er te veel suiker in je bloed. Suiker in het bloed heet glucose. Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes. Glucose is belangrijk om te leven. Je hele lichaam gebruikt glucose. Dit geldt voor spieren, hersens en organen. Glucose is brandstof voor hen. Je kunt het vergelijken met benzine voor een auto. Een auto rijdt niet zonder benzine. Je krijgt glucose binnen via eten. Je lichaam maakt ook zelf glucose als het nodig is. Bij mensen zonder diabetes zorgt het lichaam dat er niet te veel glucose in het bloed komt. Dat doet de stof insuline. Insuline is nodig om glucose uit het bloed te gebruiken. Het lichaam maakt precies de juiste hoeveelheid insuline. Dus na het eten maakt het lichaam meer insuline. Dan kan het lichaam de glucose uit het bloed snel opnemen. Er komt dan niet te veel glucose tegelijk in het bloed. Als je een tijd niets eet, maakt het lichaam weinig insuline. Dan komt er via het eten geen glucose binnen. Het bloed bevat dan alleen glucose die het lichaam zelf maakt. Dus er hoeft maar weinig glucose verwerkt te worden. Bij mensen met diabetes werkt dit systeem niet goed meer. Hun lichaam maakt te weinig of zelfs geen insuline. Er is te weinig insuline. Daardoor kan het lichaam de glucose bijna niet gebruiken. Daarom blijft de glucose in het bloed. Er bestaan verschillende soorten diabetes. Bij kinderen en jongeren is het meestal diabetes type 1. Diabetes type 1 ontstaat door een fout van het lichaam. De cellen die insuline maken, zijn per ongeluk door het lichaam kapotgemaakt. Je kunt zelf geen insuline meer maken. Daarom moet je insuline spuiten. Diabetes type 1 heb je je hele leven. Het is nu niet te genezen. Gelukkig kun je er goed mee leven. Diabetes type 2 heeft een andere oorzaak. Het wordt ook anders behandeld. Onderzoekers weten nog niet precies waarom iemand diabetes type 1 krijgt. Wel is duidelijk dat erfelijkheid een rol speelt. Als je vader of moeder diabetes type 1 heeft, is de kans groter dat jij het ook krijgt.",
+        "prompt_id": "T46_moei",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Diabetes Vroeger noemde men diabetes ook wel suikerziekte. Dat is niet zonder reden. Bij diabetes zit er te veel suiker in het bloed. Die suiker in het bloed heet glucose. Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes hebben het. Je hebt glucose nodig om te leven. Je hele lichaam gebruikt glucose als brandstof. Dit geldt voor spieren, hersenen en organen. Je kunt het vergelijken met benzine voor een auto. Een auto rijdt niet zonder benzine. We krijgen glucose binnen via ons eten. Als dat nodig is maakt je lichaam ook zelf glucose. Bij mensen zonder diabetes regelt het lichaam de hoeveelheid glucose in het bloed. Het voorkomt dat er te veel glucose komt. De stof die dit doet heet insuline. Insuline is nodig om glucose uit het bloed te halen. Zonder insuline kan het lichaam de glucose niet gebruiken. Het lichaam maakt precies de juiste hoeveelheid insuline. Na het eten maakt het lichaam extra insuline. Dan kan het lichaam de glucose snel opnemen uit het bloed. Zo komt er niet te veel glucose tegelijk in het bloed. Als iemand lange tijd niets eet, maakt het lichaam weinig insuline. Er komt dan geen glucose binnen via eten. In het bloed zit nu alleen glucose die het lichaam zelf maakt. Het lichaam hoeft dan maar weinig glucose te verwerken. Bij mensen met diabetes werkt dit regelsysteem niet goed. Hun lichaam maakt te weinig insuline. Soms maakt het zelfs geen insuline meer. Er is te weinig insuline. Daardoor kan het lichaam de glucose bijna niet gebruiken. Dus blijft de glucose in het bloed achter. Er bestaan verschillende soorten diabetes. Bij kinderen en jongeren gaat het meestal om diabetes type 1. Dat komt het meeste voor bij jonge mensen. Diabetes type 1 ontstaat door een fout in het lichaam. Het lichaam valt eigen cellen aan. De cellen die insuline maken worden beschadigd. Dat gebeurt doordat het eigen afweersysteem ze aanvalt. Daarom kun je zelf geen insuline meer maken. Je moet dan insuline spuiten. Diabetes type 1 blijft meestal je hele leven. Voorlopig is er geen genezing. Gelukkig kun je er goed mee leven. Met goede zorg en behandeling kan het goed gaan. Diabetes type 2 heeft een andere oorzaak. De behandeling is daarom ook anders dan bij type 1. Onderzoekers weten nog niet precies waarom iemand diabetes type 1 krijgt. De oorzaak is niet helemaal duidelijk. Wel is duidelijk: erfelijkheid speelt een rol. Als je vader of moeder diabetes type 1 heeft, is je kans iets groter om het ook te krijgen.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "30",
+    "GPT 5.1 mini/gpt-5-mini - sent": "30, 21, 27, 32, 25, 8, 27, 35, 42, 18, 14, 38, 23, 41, 44, 31, 47, 48, 36, 26, 35, 36, 20, 37, 20, 40, 32, 25, 38, 53, 40, 35, 35, 30, 5, 37, 23, 46, 26, 39, 53, 30, 26, 27, 36, 37, 36, 33, 36, 24",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Diabetes",
+                "rewritten_sentences": "Diabetes",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Diabetes werd vroeger ook wel suikerziekte genoemd.",
+                "rewritten_sentences": "Vroeger noemde men diabetes ook wel suikerziekte.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2_s2",
+                        "reason_for_change": "Zin licht herformuleerd en eenvoudiger gemaakt; korte volgorde zonder passieve constructie verlaagt afhankelijkheidslengte.",
+                        "start_word": 2,
+                        "end_word": 8,
+                        "original_text": "Diabetes werd vroeger ook wel suikerziekte genoemd.",
+                        "new_text": "Vroeger noemde men diabetes ook wel suikerziekte.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is niet voor niets: als je diabetes hebt, zit er in je bloed te veel suiker.",
+                "rewritten_sentences": "Dat is niet zonder reden. Bij diabetes zit er te veel suiker in het bloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3_s3",
+                        "reason_for_change": "Complexe zin opgesplitst in twee korte zinnen zodat elk deel een eigen stap vormt.",
+                        "start_word": 9,
+                        "end_word": 25,
+                        "original_text": "Dat is niet voor niets: als je diabetes hebt, zit er in je bloed te veel suiker.",
+                        "new_text": "Dat is niet zonder reden. Bij diabetes zit er te veel suiker in het bloed.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die suiker in het bloed noemen we glucose.",
+                "rewritten_sentences": "Die suiker in het bloed heet glucose.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4_s4",
+                        "reason_for_change": "Korte formulering gebruikt en actieve stijl; eenvoudiger leestechnisch.",
+                        "start_word": 26,
+                        "end_word": 33,
+                        "original_text": "Die suiker in het bloed noemen we glucose.",
+                        "new_text": "Die suiker in het bloed heet glucose.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Iedereen heeft glucose in zijn bloed, ook mensen zonder diabetes.",
+                "rewritten_sentences": "Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes hebben het.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5_s5",
+                        "reason_for_change": "De zin is opgesplitst zodat elke bewering kort en onafhankelijk is.",
+                        "start_word": 34,
+                        "end_word": 43,
+                        "original_text": "Iedereen heeft glucose in zijn bloed, ook mensen zonder diabetes.",
+                        "new_text": "Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes hebben het.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die glucose heb je nodig om te kunnen leven.",
+                "rewritten_sentences": "Je hebt glucose nodig om te leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6_s6",
+                        "reason_for_change": "Zin vereenvoudigd en directer gemaakt om leesbaarheid te verlagen.",
+                        "start_word": 44,
+                        "end_word": 52,
+                        "original_text": "Die glucose heb je nodig om te kunnen leven.",
+                        "new_text": "Je hebt glucose nodig om te leven.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je hele lichaam (je spieren, je hersens en je organen) gebruikt glucose als brandstof.",
+                "rewritten_sentences": "Je hele lichaam gebruikt glucose als brandstof. Dit geldt voor spieren, hersenen en organen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7_s7",
+                        "reason_for_change": "De haakjeszin is verplaatst naar een aparte korte zin om de structuur eenvoudiger te maken.",
+                        "start_word": 53,
+                        "end_word": 66,
+                        "original_text": "Je hele lichaam (je spieren, je hersens en je organen) gebruikt glucose als brandstof.",
+                        "new_text": "Je hele lichaam gebruikt glucose als brandstof. Dit geldt voor spieren, hersenen en organen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is met benzine voor een auto te vergelijken.",
+                "rewritten_sentences": "Je kunt het vergelijken met benzine voor een auto.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8_s8",
+                        "reason_for_change": "Zin actiever geformuleerd en kort gehouden.",
+                        "start_word": 67,
+                        "end_word": 75,
+                        "original_text": "Het is met benzine voor een auto te vergelijken.",
+                        "new_text": "Je kunt het vergelijken met benzine voor een auto.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een auto rijdt zonder benzine niet.",
+                "rewritten_sentences": "Een auto rijdt niet zonder benzine.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9_s9",
+                        "reason_for_change": "Woordvolgorde licht aangepast voor duidelijkheid; kort gehouden.",
+                        "start_word": 76,
+                        "end_word": 81,
+                        "original_text": "Een auto rijdt zonder benzine niet.",
+                        "new_text": "Een auto rijdt niet zonder benzine.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We krijgen door ons eten glucose binnen.",
+                "rewritten_sentences": "We krijgen glucose binnen via ons eten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10_s10",
+                        "reason_for_change": "Zin eenvoudiger herordend om informatie stap voor stap te presenteren.",
+                        "start_word": 82,
+                        "end_word": 88,
+                        "original_text": "We krijgen door ons eten glucose binnen.",
+                        "new_text": "We krijgen glucose binnen via ons eten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je lichaam maakt als dat nodig is ook zelf glucose.",
+                "rewritten_sentences": "Als dat nodig is maakt je lichaam ook zelf glucose.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11_s11",
+                        "reason_for_change": "Volgorde aangepast zodat de voorwaardelijke bijzin vooraan staat; kort gehouden.",
+                        "start_word": 89,
+                        "end_word": 98,
+                        "original_text": "Je lichaam maakt als dat nodig is ook zelf glucose.",
+                        "new_text": "Als dat nodig is maakt je lichaam ook zelf glucose.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het lichaam zorgt er bij mensen zonder diabetes voor dat er niet te veel glucose in het bloed komt.",
+                "rewritten_sentences": "Bij mensen zonder diabetes regelt het lichaam de hoeveelheid glucose in het bloed. Het voorkomt dat er te veel glucose komt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12_s12",
+                        "reason_for_change": "Lange zin opgesplitst in twee heldere stappen: regeling en doel.",
+                        "start_word": 100,
+                        "end_word": 118,
+                        "original_text": "Het lichaam zorgt er bij mensen zonder diabetes voor dat er niet te veel glucose in het bloed komt.",
+                        "new_text": "Bij mensen zonder diabetes regelt het lichaam de hoeveelheid glucose in het bloed. Het voorkomt dat er te veel glucose komt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar zorgt de stof insuline voor.",
+                "rewritten_sentences": "De stof die dit doet heet insuline.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13_s13",
+                        "reason_for_change": "Vermijding van verwijzende constructie; direct benoemen van het woord verlaagt afhankelijkheidslengte.",
+                        "start_word": 119,
+                        "end_word": 124,
+                        "original_text": "Daar zorgt de stof insuline voor.",
+                        "new_text": "De stof die dit doet heet insuline.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Insuline is nodig om de glucose uit het bloed te kunnen gebruiken.",
+                "rewritten_sentences": "Insuline is nodig om glucose uit het bloed te halen. Zonder insuline kan het lichaam de glucose niet gebruiken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14_s14",
+                        "reason_for_change": "Complexe doelzin opgesplitst in twee simpele zinnen: werking en gevolg.",
+                        "start_word": 125,
+                        "end_word": 136,
+                        "original_text": "Insuline is nodig om de glucose uit het bloed te kunnen gebruiken.",
+                        "new_text": "Insuline is nodig om glucose uit het bloed te halen. Zonder insuline kan het lichaam de glucose niet gebruiken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het lichaam maakt precies genoeg insuline.",
+                "rewritten_sentences": "Het lichaam maakt precies de juiste hoeveelheid insuline.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15_s15",
+                        "reason_for_change": "Korte herformulering voor meer directheid.",
+                        "start_word": 137,
+                        "end_word": 142,
+                        "original_text": "Het lichaam maakt precies genoeg insuline.",
+                        "new_text": "Het lichaam maakt precies de juiste hoeveelheid insuline.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dus extra veel na het eten.",
+                "rewritten_sentences": "Na het eten maakt het lichaam extra insuline.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16_s16",
+                        "reason_for_change": "Fragment veranderd in volledige zin; directer en duidelijker.",
+                        "start_word": 143,
+                        "end_word": 148,
+                        "original_text": "Dus extra veel na het eten.",
+                        "new_text": "Na het eten maakt het lichaam extra insuline.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dan kan de glucose uit het bloed snel door het lichaam worden opgenomen.",
+                "rewritten_sentences": "Dan kan het lichaam de glucose snel opnemen uit het bloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17_s17",
+                        "reason_for_change": "Passieve constructie omgezet naar actieve formulering en kort gehouden.",
+                        "start_word": 149,
+                        "end_word": 161,
+                        "original_text": "Dan kan de glucose uit het bloed snel door het lichaam worden opgenomen.",
+                        "new_text": "Dan kan het lichaam de glucose snel opnemen uit het bloed.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er komt dan niet te veel glucose tegelijk in het bloed.",
+                "rewritten_sentences": "Zo komt er niet te veel glucose tegelijk in het bloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18_s18",
+                        "reason_for_change": "Korte bijstelling van woordvolgorde voor helderheid.",
+                        "start_word": 162,
+                        "end_word": 172,
+                        "original_text": "Er komt dan niet te veel glucose tegelijk in het bloed.",
+                        "new_text": "Zo komt er niet te veel glucose tegelijk in het bloed.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En als iemand een tijd niets eet, wordt er weinig insuline gemaakt.",
+                "rewritten_sentences": "Als iemand lange tijd niets eet, maakt het lichaam weinig insuline.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19_s19",
+                        "reason_for_change": "De zin is geherstructureerd voor directheid en kortere afhankelijkheden.",
+                        "start_word": 173,
+                        "end_word": 184,
+                        "original_text": "En als iemand een tijd niets eet, wordt er weinig insuline gemaakt.",
+                        "new_text": "Als iemand lange tijd niets eet, maakt het lichaam weinig insuline.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er komt dan via het eten geen glucose binnen.",
+                "rewritten_sentences": "Er komt dan geen glucose binnen via eten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20_s20",
+                        "reason_for_change": "Woordvolgorde vereenvoudigd en kort gehouden.",
+                        "start_word": 185,
+                        "end_word": 193,
+                        "original_text": "Er komt dan via het eten geen glucose binnen.",
+                        "new_text": "Er komt dan geen glucose binnen via eten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zit in het bloed alleen glucose dat het lichaam zelf maakt.",
+                "rewritten_sentences": "In het bloed zit nu alleen glucose die het lichaam zelf maakt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21_s21",
+                        "reason_for_change": "Zin iets eenvoudiger en directer geformuleerd.",
+                        "start_word": 194,
+                        "end_word": 205,
+                        "original_text": "Er zit in het bloed alleen glucose dat het lichaam zelf maakt.",
+                        "new_text": "In het bloed zit nu alleen glucose die het lichaam zelf maakt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er hoeft dus ook maar weinig glucose te worden verwerkt.",
+                "rewritten_sentences": "Het lichaam hoeft dan maar weinig glucose te verwerken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22_s22",
+                        "reason_for_change": "Passieve zin omgezet naar actieve zin en kort gehouden.",
+                        "start_word": 206,
+                        "end_word": 215,
+                        "original_text": "Er hoeft dus ook maar weinig glucose te worden verwerkt.",
+                        "new_text": "Het lichaam hoeft dan maar weinig glucose te verwerken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij mensen met diabetes werkt dit systeem niet meer.",
+                "rewritten_sentences": "Bij mensen met diabetes werkt dit regelsysteem niet goed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23_s23",
+                        "reason_for_change": "Korte herformulering om duidelijker het probleem te benoemen.",
+                        "start_word": 216,
+                        "end_word": 224,
+                        "original_text": "Bij mensen met diabetes werkt dit systeem niet meer.",
+                        "new_text": "Bij mensen met diabetes werkt dit regelsysteem niet goed.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hun lichaam maakt te weinig insuline of helemaal geen insuline meer.",
+                "rewritten_sentences": "Hun lichaam maakt te weinig insuline. Soms maakt het zelfs geen insuline meer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24_s24",
+                        "reason_for_change": "De zin opgesplitst in twee korte zinnen om duidelijk variantie te tonen.",
+                        "start_word": 225,
+                        "end_word": 235,
+                        "original_text": "Hun lichaam maakt te weinig insuline of helemaal geen insuline meer.",
+                        "new_text": "Hun lichaam maakt te weinig insuline. Soms maakt het zelfs geen insuline meer.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Omdat er te weinig insuline is, kan het lichaam de glucose bijna niet gebruiken.",
+                "rewritten_sentences": "Er is te weinig insuline. Daardoor kan het lichaam de glucose bijna niet gebruiken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25_s25",
+                        "reason_for_change": "Reden en gevolg gescheiden in twee zinnen om afhankelijkheden te verkleinen.",
+                        "start_word": 236,
+                        "end_word": 249,
+                        "original_text": "Omdat er te weinig insuline is, kan het lichaam de glucose bijna niet gebruiken.",
+                        "new_text": "Er is te weinig insuline. Daardoor kan het lichaam de glucose bijna niet gebruiken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En dus blijft de glucose in het bloed.",
+                "rewritten_sentences": "Dus blijft de glucose in het bloed achter.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26_s26",
+                        "reason_for_change": "Korte herformulering voor directheid; behoudzelfde betekenis.",
+                        "start_word": 250,
+                        "end_word": 257,
+                        "original_text": "En dus blijft de glucose in het bloed.",
+                        "new_text": "Dus blijft de glucose in het bloed achter.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zijn verschillende soorten diabetes.",
+                "rewritten_sentences": "Er bestaan verschillende soorten diabetes.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c27_s27",
+                        "reason_for_change": "Zin licht herzien om helderheid en eenvoud te verbeteren.",
+                        "start_word": 259,
+                        "end_word": 263,
+                        "original_text": "Er zijn verschillende soorten diabetes.",
+                        "new_text": "Er bestaan verschillende soorten diabetes.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen en jongeren met diabetes hebben bijna altijd diabetes type 1.",
+                "rewritten_sentences": "Bij kinderen en jongeren gaat het meestal om diabetes type 1. Dat komt het meeste voor bij jonge mensen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c28_s28",
+                        "reason_for_change": "De informatie opgesplitst in twee korte zinnen; vermijdt lange zinsstructuur.",
+                        "start_word": 264,
+                        "end_word": 274,
+                        "original_text": "Kinderen en jongeren met diabetes hebben bijna altijd diabetes type 1.",
+                        "new_text": "Bij kinderen en jongeren gaat het meestal om diabetes type 1. Dat komt het meeste voor bij jonge mensen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Diabetes type 1 ontstaat door een vergissing van het lichaam.",
+                "rewritten_sentences": "Diabetes type 1 ontstaat door een fout in het lichaam. Het lichaam valt eigen cellen aan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c29_s29",
+                        "reason_for_change": "Oorzaak en korte uitleg opgesplitst in twee zinnen voor duidelijkheid.",
+                        "start_word": 275,
+                        "end_word": 284,
+                        "original_text": "Diabetes type 1 ontstaat door een vergissing van het lichaam.",
+                        "new_text": "Diabetes type 1 ontstaat door een fout in het lichaam. Het lichaam valt eigen cellen aan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De cellen die insuline maken zijn per ongeluk door het eigen lichaam kapotgemaakt.",
+                "rewritten_sentences": "De cellen die insuline maken worden beschadigd. Dat gebeurt doordat het eigen afweersysteem ze aanvalt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c30_s30",
+                        "reason_for_change": "Langere zin opgesplitst in twee korte zinnen; oorzaak en gevolg apart genoemd.",
+                        "start_word": 285,
+                        "end_word": 297,
+                        "original_text": "De cellen die insuline maken zijn per ongeluk door het eigen lichaam kapotgemaakt.",
+                        "new_text": "De cellen die insuline maken worden beschadigd. Dat gebeurt doordat het eigen afweersysteem ze aanvalt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je kunt daarom zelf geen insuline meer maken en daarom moet je insuline spuiten.",
+                "rewritten_sentences": "Daarom kun je zelf geen insuline meer maken. Je moet dan insuline spuiten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c31_s31",
+                        "reason_for_change": "Twee handelingen gescheiden in twee korte zinnen; vermindert cognitieve belasting per zin.",
+                        "start_word": 298,
+                        "end_word": 311,
+                        "original_text": "Je kunt daarom zelf geen insuline meer maken en daarom moet je insuline spuiten.",
+                        "new_text": "Daarom kun je zelf geen insuline meer maken. Je moet dan insuline spuiten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Diabetes type 1 houd je je hele leven, het is voorlopig niet te genezen.",
+                "rewritten_sentences": "Diabetes type 1 blijft meestal je hele leven. Voorlopig is er geen genezing.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c32_s32",
+                        "reason_for_change": "Combinatiezin opgesplitst in twee korte feiten om begrip te vergemakkelijken.",
+                        "start_word": 312,
+                        "end_word": 325,
+                        "original_text": "Diabetes type 1 houd je je hele leven, het is voorlopig niet te genezen.",
+                        "new_text": "Diabetes type 1 blijft meestal je hele leven. Voorlopig is er geen genezing.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Gelukkig is er goed mee te leven.",
+                "rewritten_sentences": "Gelukkig kun je er goed mee leven. Met goede zorg en behandeling kan het goed gaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c33_s33",
+                        "reason_for_change": "Positieve informatie uitgebreid in twee korte zinnen voor geruststelling en duidelijkheid.",
+                        "start_word": 326,
+                        "end_word": 333,
+                        "original_text": "Gelukkig is er goed mee te leven.",
+                        "new_text": "Gelukkig kun je er goed mee leven. Met goede zorg en behandeling kan het goed gaan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Diabetes type 2 heeft een andere oorzaak en wordt ook anders behandeld.",
+                "rewritten_sentences": "Diabetes type 2 heeft een andere oorzaak. De behandeling is daarom ook anders dan bij type 1.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c34_s34",
+                        "reason_for_change": "Twee gerelateerde feiten gescheiden in korte zinnen om duidelijk onderscheid te maken.",
+                        "start_word": 334,
+                        "end_word": 344,
+                        "original_text": "Diabetes type 2 heeft een andere oorzaak en wordt ook anders behandeld.",
+                        "new_text": "Diabetes type 2 heeft een andere oorzaak. De behandeling is daarom ook anders dan bij type 1.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hoe het komt dat iemand diabetes type 1 krijgt, weten onderzoekers nog niet precies.",
+                "rewritten_sentences": "Onderzoekers weten nog niet precies waarom iemand diabetes type 1 krijgt. De oorzaak is niet helemaal duidelijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c35_s35",
+                        "reason_for_change": "Vraagachtige constructie omgevormd naar twee eenvoudige verklarende zinnen.",
+                        "start_word": 346,
+                        "end_word": 359,
+                        "original_text": "Hoe het komt dat iemand diabetes type 1 krijgt, weten onderzoekers nog niet precies.",
+                        "new_text": "Onderzoekers weten nog niet precies waarom iemand diabetes type 1 krijgt. De oorzaak is niet helemaal duidelijk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wel is duidelijk dat erfelijkheid een rol speelt.",
+                "rewritten_sentences": "Wel is duidelijk: erfelijkheid speelt een rol.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c36_s36",
+                        "reason_for_change": "Korte en kernachtige formulering gekozen om de hoofdboodschap te benadrukken.",
+                        "start_word": 360,
+                        "end_word": 367,
+                        "original_text": "Wel is duidelijk dat erfelijkheid een rol speelt.",
+                        "new_text": "Wel is duidelijk: erfelijkheid speelt een rol.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Als je vader of moeder diabetes type 1 heeft, is de kans dat jij het ook krijgt iets groter.",
+                "rewritten_sentences": "Als je vader of moeder diabetes type 1 heeft, is je kans iets groter om het ook te krijgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c37_s37",
+                        "reason_for_change": "Zin herordend voor eenvoud en directe leesbaarheid; inhoud intact gebleven.",
+                        "start_word": 368,
+                        "end_word": 386,
+                        "original_text": "Als je vader of moeder diabetes type 1 heeft, is de kans dat jij het ook krijgt iets groter.",
+                        "new_text": "Als je vader of moeder diabetes type 1 heeft, is je kans iets groter om het ook te krijgen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Diabetes Vroeger noemde men diabetes ook wel suikerziekte. Dat is niet zonder reden. Bij diabetes zit er te veel suiker in het bloed. Die suiker in het bloed heet glucose. Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes hebben het. Je hebt glucose nodig om te leven. Je hele lichaam gebruikt glucose als brandstof. Dit geldt voor spieren, hersenen en organen. Je kunt het vergelijken met benzine voor een auto. Een auto rijdt niet zonder benzine. We krijgen glucose binnen via ons eten. Als dat nodig is maakt je lichaam ook zelf glucose. Bij mensen zonder diabetes regelt het lichaam de hoeveelheid glucose in het bloed. Het voorkomt dat er te veel glucose komt. De stof die dit doet heet insuline. Insuline is nodig om glucose uit het bloed te halen. Zonder insuline kan het lichaam de glucose niet gebruiken. Het lichaam maakt precies de juiste hoeveelheid insuline. Na het eten maakt het lichaam extra insuline. Dan kan het lichaam de glucose snel opnemen uit het bloed. Zo komt er niet te veel glucose tegelijk in het bloed. Als iemand lange tijd niets eet, maakt het lichaam weinig insuline. Er komt dan geen glucose binnen via eten. In het bloed zit nu alleen glucose die het lichaam zelf maakt. Het lichaam hoeft dan maar weinig glucose te verwerken. Bij mensen met diabetes werkt dit regelsysteem niet goed. Hun lichaam maakt te weinig insuline. Soms maakt het zelfs geen insuline meer. Er is te weinig insuline. Daardoor kan het lichaam de glucose bijna niet gebruiken. Dus blijft de glucose in het bloed achter. Er bestaan verschillende soorten diabetes. Bij kinderen en jongeren gaat het meestal om diabetes type 1. Dat komt het meeste voor bij jonge mensen. Diabetes type 1 ontstaat door een fout in het lichaam. Het lichaam valt eigen cellen aan. De cellen die insuline maken worden beschadigd. Dat gebeurt doordat het eigen afweersysteem ze aanvalt. Daarom kun je zelf geen insuline meer maken. Je moet dan insuline spuiten. Diabetes type 1 blijft meestal je hele leven. Voorlopig is er geen genezing. Gelukkig kun je er goed mee leven. Met goede zorg en behandeling kan het goed gaan. Diabetes type 2 heeft een andere oorzaak. De behandeling is daarom ook anders dan bij type 1. Onderzoekers weten nog niet precies waarom iemand diabetes type 1 krijgt. De oorzaak is niet helemaal duidelijk. Wel is duidelijk: erfelijkheid speelt een rol. Als je vader of moeder diabetes type 1 heeft, is je kans iets groter om het ook te krijgen.",
+        "prompt_id": "T46_moei",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "Diabetes heette vroeger suikerziekte. Bij diabetes zit er te veel suiker in je bloed. Deze suiker heet glucose. Je lichaam gebruikt glucose als brandstof voor je spieren en hersenen. Het lichaam maakt de cellen die insuline maken per ongeluk kapot.",
+    "Gemini/gemini-3-flash-preview - lint": "32",
+    "Gemini/gemini-3-flash-preview - sent": "33, 27, 32, 45, 28",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Diabetes werd vroeger ook wel suikerziekte genoemd.",
+                "rewritten_sentences": "Diabetes heette vroeger suikerziekte.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Het werkwoord 'heette' is korter en vaker gebruikt dan de lijdende vorm 'werd genoemd'.",
+                        "start_word": 1,
+                        "end_word": 6,
+                        "original_text": "werd vroeger ook wel suikerziekte genoemd",
+                        "new_text": "heette vroeger suikerziekte",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat is niet voor niets: als je diabetes hebt, zit er in je bloed te veel suiker.",
+                "rewritten_sentences": "Bij diabetes zit er te veel suiker in je bloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "De dubbele punt en de inleidende zin maken de structuur onnodig complex.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Dat is niet voor niets: als je diabetes hebt,",
+                        "new_text": "Bij diabetes",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die suiker in het bloed noemen we glucose.",
+                "rewritten_sentences": "Deze suiker heet glucose.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "De verwijzing naar 'het bloed' is in de context van de vorige zin al duidelijk en kan weg voor een kortere zin.",
+                        "start_word": 1,
+                        "end_word": 4,
+                        "original_text": "suiker in het bloed",
+                        "new_text": "suiker",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Je hele lichaam (je spieren, je hersens en je organen) gebruikt glucose als brandstof.",
+                "rewritten_sentences": "Je lichaam gebruikt glucose als brandstof voor je spieren en hersenen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "De haakjes onderbreken de leesstroom; door ze te vervangen door een directe opsomming wordt de zin vloeiender.",
+                        "start_word": 2,
+                        "end_word": 9,
+                        "original_text": "(je spieren, je hersens en je organen)",
+                        "new_text": "voor je spieren en hersenen",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De cellen die insuline maken zijn per ongeluk door het eigen lichaam kapotgemaakt.",
+                "rewritten_sentences": "Het lichaam maakt de cellen die insuline maken per ongeluk kapot.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "De lijdende vorm is vervangen door een actieve vorm om de afhankelijkheid tussen woorden te verkleinen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "De cellen die insuline maken zijn per ongeluk door het eigen lichaam kapotgemaakt",
+                        "new_text": "Het lichaam maakt de cellen die insuline maken per ongeluk kapot",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst over gezondheid",
+        "full_text": "Diabetes heette vroeger suikerziekte. Bij diabetes zit er te veel suiker in je bloed. Deze suiker heet glucose. Je lichaam gebruikt glucose als brandstof voor je spieren en hersenen. Het lichaam maakt de cellen die insuline maken per ongeluk kapot.",
+        "prompt_id": "T46_moei",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Diabetes heet ook wel suikerziekte. Waarom? Omdat mensen met diabetes te veel suiker in hun bloed hebben. Deze suiker heet glucose. Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes. Glucose is belangrijk. Het lichaam gebruikt het als brandstof. Spieren, hersenen en organen hebben het nodig. Glucose is als benzine voor een auto. Een auto kan niet rijden zonder benzine. We krijgen glucose binnen via ons eten. Het lichaam maakt zelf ook glucose. Dat gebeurt als het nodig is. Bij mensen zonder diabetes zorgt het lichaam voor een goede glucosehoeveelheid in het bloed. Dat doet het met insuline. Insuline helpt om glucose uit het bloed te halen. Het lichaam maakt precies de juiste hoeveelheid insuline. Na het eten maakt het er meer. Zo kan het lichaam glucose snel gebruiken. Er komt dan niet te veel glucose in het bloed. Als iemand niets eet, maakt het lichaam weinig insuline. Er komt dan geen glucose binnen via het eten. Alleen glucose die het lichaam zelf maakt, zit in het bloed. Het lichaam hoeft dan maar weinig glucose te verwerken. Bij mensen met diabetes werkt dit systeem niet. Hun lichaam maakt te weinig of geen insuline. Door te weinig insuline kan het lichaam glucose niet goed gebruiken. De glucose blijft dan in het bloed. Er zijn verschillende soorten diabetes. Kinderen en jongeren krijgen bijna altijd diabetes type 1. Bij diabetes type 1 maakt het lichaam een fout. Het lichaam vernietigt de cellen die insuline maken. Daardoor kan het lichaam geen insuline meer maken. Mensen moeten insuline spuiten. Diabetes type 1 heb je je hele leven. Het kan niet genezen worden. Toch kun je er goed mee leven. Diabetes type 2 heeft een andere oorzaak. Het wordt ook anders behandeld. Wetenschappers weten niet precies hoe iemand diabetes type 1 krijgt. Wel is bekend dat erfelijkheid een rol speelt. Als je vader of moeder diabetes type 1 heeft, loop je meer risico om het ook te krijgen.",
+    "Mistral/ministral-14b-latest - lint": "28",
+    "Mistral/ministral-14b-latest - sent": "27, 28, 32, 25, 20, 22, 34, 17, 11, 38, 29, 41, 33, 47, 36, 0, 33, 34, 23, 34, 22, 40, 27, 28, 42, 32, 26, 36, 31, 38, 30, 11, 32, 36, 25, 42, 30",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "Diabetes werd vroeger ook wel suikerziekte genoemd. Dat is niet voor niets: als je diabetes hebt, zit er in je bloed te veel suiker. Die suiker in het bloed noemen we glucose.",
+                "rewritten_sentences": "Diabetes heet ook wel suikerziekte. Waarom? Omdat mensen met diabetes te veel suiker in hun bloed hebben. Deze suiker heet glucose.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Vereenvoudigde zinnen en verwijderde onnodige details om de leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Diabetes werd vroeger ook wel suikerziekte genoemd. Dat is niet voor niets:",
+                        "new_text": "Diabetes heet ook wel suikerziekte. Waarom?",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Vereenvoudigde zin om de leesbaarheid te verbeteren.",
+                        "start_word": 11,
+                        "end_word": 19,
+                        "original_text": "als je diabetes hebt, zit er in je bloed te veel suiker.",
+                        "new_text": "mensen met diabetes hebben te veel suiker in hun bloed.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Vereenvoudigde zin en verwijderde herhaling.",
+                        "start_word": 20,
+                        "end_word": 29,
+                        "original_text": "Die suiker in het bloed noemen we glucose.",
+                        "new_text": "Deze suiker heet glucose.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Iedereen heeft glucose in zijn bloed, ook mensen zonder diabetes. Die glucose heb je nodig om te kunnen leven. Je hele lichaam (je spieren, je hersens en je organen) gebruikt glucose als brandstof.",
+                "rewritten_sentences": "Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes. Glucose is belangrijk. Het lichaam gebruikt het als brandstof. Spieren, hersenen en organen hebben het nodig.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "Opgesplitst in kleinere zinnen voor betere leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Iedereen heeft glucose in zijn bloed, ook mensen zonder diabetes.",
+                        "new_text": "Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Vereenvoudigde zin en opgesplitst in twee delen.",
+                        "start_word": 12,
+                        "end_word": 25,
+                        "original_text": "Die glucose heb je nodig om te kunnen leven.",
+                        "new_text": "Glucose is belangrijk.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "Opgesplitst in kleinere zinnen en verwijderde haakjes voor betere leesbaarheid.",
+                        "start_word": 26,
+                        "end_word": 42,
+                        "original_text": "Je hele lichaam (je spieren, je hersens en je organen) gebruikt glucose als brandstof.",
+                        "new_text": "Het lichaam gebruikt glucose als brandstof. Spieren, hersenen en organen hebben het nodig.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is met benzine voor een auto te vergelijken. Een auto rijdt zonder benzine niet.",
+                "rewritten_sentences": "Glucose is als benzine voor een auto. Een auto kan niet rijden zonder benzine.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "Vereenvoudigde vergelijking en verwijderde onnodige woorden.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Het is met benzine voor een auto te vergelijken.",
+                        "new_text": "Glucose is als benzine voor een auto.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 16,
+                        "end_word": 25,
+                        "original_text": "Een auto rijdt zonder benzine niet.",
+                        "new_text": "Een auto kan niet rijden zonder benzine.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "We krijgen door ons eten glucose binnen. Je lichaam maakt als dat nodig is ook zelf glucose.",
+                "rewritten_sentences": "We krijgen glucose binnen via ons eten. Het lichaam maakt zelf ook glucose. Dat gebeurt als het nodig is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Vereenvoudigde zin en verwijderde onnodige woorden.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "We krijgen door ons eten glucose binnen.",
+                        "new_text": "We krijgen glucose binnen via ons eten.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Opgesplitst in twee zinnen voor betere leesbaarheid.",
+                        "start_word": 12,
+                        "end_word": 24,
+                        "original_text": "Je lichaam maakt als dat nodig is ook zelf glucose.",
+                        "new_text": "Het lichaam maakt zelf ook glucose. Dat gebeurt als het nodig is.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het lichaam zorgt er bij mensen zonder diabetes voor dat er niet te veel glucose in het bloed komt. Daar zorgt de stof insuline voor. Insuline is nodig om de glucose uit het bloed te kunnen gebruiken.",
+                "rewritten_sentences": "Bij mensen zonder diabetes zorgt het lichaam voor een goede glucosehoeveelheid in het bloed. Dat doet het met insuline. Insuline helpt om glucose uit het bloed te halen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Vereenvoudigde zin en verwijderde onnodige woorden.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Het lichaam zorgt er bij mensen zonder diabetes voor dat er niet te veel glucose in het bloed komt.",
+                        "new_text": "Bij mensen zonder diabetes zorgt het lichaam voor een goede glucosehoeveelheid in het bloed.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "12",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 20,
+                        "end_word": 29,
+                        "original_text": "Daar zorgt de stof insuline voor.",
+                        "new_text": "Dat doet het met insuline.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "13",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 30,
+                        "end_word": 44,
+                        "original_text": "Insuline is nodig om de glucose uit het bloed te kunnen gebruiken.",
+                        "new_text": "Insuline helpt om glucose uit het bloed te halen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het lichaam maakt precies genoeg insuline. Dus extra veel na het eten. Dan kan de glucose uit het bloed snel door het lichaam worden opgenomen. Er komt dan niet te veel glucose tegelijk in het bloed.",
+                "rewritten_sentences": "Het lichaam maakt precies de juiste hoeveelheid insuline. Na het eten maakt het er meer. Zo kan het lichaam glucose snel gebruiken. Er komt dan niet te veel glucose in het bloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "14",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "Het lichaam maakt precies genoeg insuline.",
+                        "new_text": "Het lichaam maakt precies de juiste hoeveelheid insuline.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    },
+                    {
+                        "change_id": "15",
+                        "reason_for_change": "Vereenvoudigde zin en verwijderde onnodige woorden.",
+                        "start_word": 13,
+                        "end_word": 20,
+                        "original_text": "Dus extra veel na het eten.",
+                        "new_text": "Na het eten maakt het er meer.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "16",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 21,
+                        "end_word": 34,
+                        "original_text": "Dan kan de glucose uit het bloed snel door het lichaam worden opgenomen.",
+                        "new_text": "Zo kan het lichaam glucose snel gebruiken.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "17",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 35,
+                        "end_word": 47,
+                        "original_text": "Er komt dan niet te veel glucose tegelijk in het bloed.",
+                        "new_text": "Er komt dan niet te veel glucose in het bloed.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En als iemand een tijd niets eet, wordt er weinig insuline gemaakt. Er komt dan via het eten geen glucose binnen. Er zit in het bloed alleen glucose dat het lichaam zelf maakt. Er hoeft dus ook maar weinig glucose te worden verwerkt.",
+                "rewritten_sentences": "Als iemand niets eet, maakt het lichaam weinig insuline. Er komt dan geen glucose binnen via het eten. Alleen glucose die het lichaam zelf maakt, zit in het bloed. Het lichaam hoeft dan maar weinig glucose te verwerken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "18",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "En als iemand een tijd niets eet, wordt er weinig insuline gemaakt.",
+                        "new_text": "Als iemand niets eet, maakt het lichaam weinig insuline.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "19",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 16,
+                        "end_word": 27,
+                        "original_text": "Er komt dan via het eten geen glucose binnen.",
+                        "new_text": "Er komt dan geen glucose binnen via het eten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "20",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 28,
+                        "end_word": 41,
+                        "original_text": "Er zit in het bloed alleen glucose dat het lichaam zelf maakt.",
+                        "new_text": "Alleen glucose die het lichaam zelf maakt, zit in het bloed.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "21",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 42,
+                        "end_word": 57,
+                        "original_text": "Er hoeft dus ook maar weinig glucose te worden verwerkt.",
+                        "new_text": "Het lichaam hoeft dan maar weinig glucose te verwerken.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Bij mensen met diabetes werkt dit systeem niet meer. Hun lichaam maakt te weinig insuline of helemaal geen insuline meer. Omdat er te weinig insuline is, kan het lichaam de glucose bijna niet gebruiken. En dus blijft de glucose in het bloed.",
+                "rewritten_sentences": "Bij mensen met diabetes werkt dit systeem niet. Hun lichaam maakt te weinig of geen insuline. Door te weinig insuline kan het lichaam glucose niet goed gebruiken. De glucose blijft dan in het bloed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "22",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Bij mensen met diabetes werkt dit systeem niet meer.",
+                        "new_text": "Bij mensen met diabetes werkt dit systeem niet.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "23",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 16,
+                        "end_word": 29,
+                        "original_text": "Hun lichaam maakt te weinig insuline of helemaal geen insuline meer.",
+                        "new_text": "Hun lichaam maakt te weinig of geen insuline.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "24",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 30,
+                        "end_word": 47,
+                        "original_text": "Omdat er te weinig insuline is, kan het lichaam de glucose bijna niet gebruiken.",
+                        "new_text": "Door te weinig insuline kan het lichaam glucose niet goed gebruiken.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "25",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 48,
+                        "end_word": 59,
+                        "original_text": "En dus blijft de glucose in het bloed.",
+                        "new_text": "De glucose blijft dan in het bloed.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er zijn verschillende soorten diabetes. Kinderen en jongeren met diabetes hebben bijna altijd diabetes type 1. Diabetes type 1 ontstaat door een vergissing van het lichaam. De cellen die insuline maken zijn per ongeluk door het eigen lichaam kapotgemaakt. Je kunt daarom zelf geen insuline meer maken en daarom moet je insuline spuiten.",
+                "rewritten_sentences": "Er zijn verschillende soorten diabetes. Kinderen en jongeren krijgen bijna altijd diabetes type 1. Bij diabetes type 1 maakt het lichaam een fout. Het lichaam vernietigt de cellen die insuline maken. Daardoor kan het lichaam geen insuline meer maken. Mensen moeten insuline spuiten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "26",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Er zijn verschillende soorten diabetes.",
+                        "new_text": "Er zijn verschillende soorten diabetes.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "27",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 16,
+                        "end_word": 33,
+                        "original_text": "Kinderen en jongeren met diabetes hebben bijna altijd diabetes type 1.",
+                        "new_text": "Kinderen en jongeren krijgen bijna altijd diabetes type 1.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "28",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 34,
+                        "end_word": 47,
+                        "original_text": "Diabetes type 1 ontstaat door een vergissing van het lichaam.",
+                        "new_text": "Bij diabetes type 1 maakt het lichaam een fout.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "29",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 48,
+                        "end_word": 68,
+                        "original_text": "De cellen die insuline maken zijn per ongeluk door het eigen lichaam kapotgemaakt.",
+                        "new_text": "Het lichaam vernietigt de cellen die insuline maken.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "30",
+                        "reason_for_change": "Opgesplitst in twee zinnen voor betere leesbaarheid.",
+                        "start_word": 69,
+                        "end_word": 90,
+                        "original_text": "Je kunt daarom zelf geen insuline meer maken en daarom moet je insuline spuiten.",
+                        "new_text": "Daardoor kan het lichaam geen insuline meer maken. Mensen moeten insuline spuiten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Diabetes type 1 houd je je hele leven, het is voorlopig niet te genezen. Gelukkig is er goed mee te leven.",
+                "rewritten_sentences": "Diabetes type 1 heb je je hele leven. Het kan niet genezen worden. Toch kun je er goed mee leven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "31",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Diabetes type 1 houd je je hele leven,",
+                        "new_text": "Diabetes type 1 heb je je hele leven.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "32",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 18,
+                        "end_word": 31,
+                        "original_text": "het is voorlopig niet te genezen.",
+                        "new_text": "Het kan niet genezen worden.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "33",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 32,
+                        "end_word": 42,
+                        "original_text": "Gelukkig is er goed mee te leven.",
+                        "new_text": "Toch kun je er goed mee leven.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Diabetes type 2 heeft een andere oorzaak en wordt ook anders behandeld.",
+                "rewritten_sentences": "Diabetes type 2 heeft een andere oorzaak. Het wordt ook anders behandeld.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "34",
+                        "reason_for_change": "Opgesplitst in twee zinnen voor betere leesbaarheid.",
+                        "start_word": 0,
+                        "end_word": 24,
+                        "original_text": "Diabetes type 2 heeft een andere oorzaak en wordt ook anders behandeld.",
+                        "new_text": "Diabetes type 2 heeft een andere oorzaak. Het wordt ook anders behandeld.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hoe het komt dat iemand diabetes type 1 krijgt, weten onderzoekers nog niet precies. Wel is duidelijk dat erfelijkheid een rol speelt. Als je vader of moeder diabetes type 1 heeft, is de kans dat jij het ook krijgt iets groter.",
+                "rewritten_sentences": "Wetenschappers weten niet precies hoe iemand diabetes type 1 krijgt. Wel is bekend dat erfelijkheid een rol speelt. Als je vader of moeder diabetes type 1 heeft, loop je meer risico om het ook te krijgen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "35",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Hoe het komt dat iemand diabetes type 1 krijgt, weten onderzoekers nog niet precies.",
+                        "new_text": "Wetenschappers weten niet precies hoe iemand diabetes type 1 krijgt.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "36",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 19,
+                        "end_word": 32,
+                        "original_text": "Wel is duidelijk dat erfelijkheid een rol speelt.",
+                        "new_text": "Wel is bekend dat erfelijkheid een rol speelt.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "37",
+                        "reason_for_change": "Vereenvoudigde zin.",
+                        "start_word": 33,
+                        "end_word": 57,
+                        "original_text": "Als je vader of moeder diabetes type 1 heeft, is de kans dat jij het ook krijgt iets groter.",
+                        "new_text": "Als je vader of moeder diabetes type 1 heeft, loop je meer risico om het ook te krijgen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Uitlegtekst over gezondheid",
+        "full_text": "Diabetes heet ook wel suikerziekte. Waarom? Omdat mensen met diabetes te veel suiker in hun bloed hebben. Deze suiker heet glucose. Iedereen heeft glucose in het bloed. Ook mensen zonder diabetes. Glucose is belangrijk. Het lichaam gebruikt het als brandstof. Spieren, hersenen en organen hebben het nodig. Glucose is als benzine voor een auto. Een auto kan niet rijden zonder benzine. We krijgen glucose binnen via ons eten. Het lichaam maakt zelf ook glucose. Dat gebeurt als het nodig is. Bij mensen zonder diabetes zorgt het lichaam voor een goede glucosehoeveelheid in het bloed. Dat doet het met insuline. Insuline helpt om glucose uit het bloed te halen. Het lichaam maakt precies de juiste hoeveelheid insuline. Na het eten maakt het er meer. Zo kan het lichaam glucose snel gebruiken. Er komt dan niet te veel glucose in het bloed. Als iemand niets eet, maakt het lichaam weinig insuline. Er komt dan geen glucose binnen via het eten. Alleen glucose die het lichaam zelf maakt, zit in het bloed. Het lichaam hoeft dan maar weinig glucose te verwerken. Bij mensen met diabetes werkt dit systeem niet. Hun lichaam maakt te weinig of geen insuline. Door te weinig insuline kan het lichaam glucose niet goed gebruiken. De glucose blijft dan in het bloed. Er zijn verschillende soorten diabetes. Kinderen en jongeren krijgen bijna altijd diabetes type 1. Bij diabetes type 1 maakt het lichaam een fout. Het lichaam vernietigt de cellen die insuline maken. Daardoor kan het lichaam geen insuline meer maken. Mensen moeten insuline spuiten. Diabetes type 1 heb je je hele leven. Het kan niet genezen worden. Toch kun je er goed mee leven. Diabetes type 2 heeft een andere oorzaak. Het wordt ook anders behandeld. Wetenschappers weten niet precies hoe iemand diabetes type 1 krijgt. Wel is bekend dat erfelijkheid een rol speelt. Als je vader of moeder diabetes type 1 heeft, loop je meer risico om het ook te krijgen.",
+        "prompt_id": "T46_moei",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-06-07 23:37:53.849870"
+}

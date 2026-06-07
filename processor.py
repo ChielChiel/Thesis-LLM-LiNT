@@ -9,8 +9,8 @@ from pathlib import Path
 import json
 from datetime import datetime
 
-n_pools = 6
-output_dir = Path("./output/cot_multi")
+n_pools = 7
+output_dir = Path("./output/meta_prompt_no_lint_formula")
 n_texts = 40
 
 base_prompt = """
@@ -65,6 +65,17 @@ Methode:
 - Geef de nieuwe tekst in het gegeven format.
 """
 
+meta_prompt_no_metric = f"""
+{base_prompt}
+Het probleem met de volgende tekst is dat deze een te hoge leesbaarheidsscore heeft.
+Herschrijf de tekst zodat het een lagere leesbaarheidsscore heeft. Los het probleem op door het op te splitsen in kleinere stapjes. Geef de nieuwe tekst in het gegeven format
+"""
+
+meta_prompt_no_lint_formula = f"""
+Het probleem met de volgende tekst is dat deze een te hoge leesbaarheidsscore heeft.
+Herschrijf de tekst zodat het een lagere leesbaarheidsscore heeft. Los het probleem op door het op te splitsen in kleinere stapjes. Geef de nieuwe tekst in het gegeven format
+"""
+
 chatgpt_41 = rw.RE_OpenAi(
     model="gpt-4.1-mini",
     name = "ChatGPT 4.1 mini",
@@ -104,7 +115,7 @@ mistral = rw.RE_Mistral(
 
 
 all_prompts = [standard_prompt, roleplay_prompt, meta_prompt, cot_prompt]
-print("Run CoT prompt")
+print("Run meta_prompt_no_metric prompt")
 
 evaluation = None
 
@@ -114,19 +125,19 @@ evaluation = None
 def run(row):
     # print(index, row['id'], row['text'])
     text_id = row['id']
-    PROMPT = cot_prompt
+    PROMPT = meta_prompt_no_lint_formula
     all_pipe = rw.LintPipe(instruction_en=PROMPT, instruction_nl=PROMPT, user_prompt=row['text'], prompt_id=text_id)
-    # all_pipe.add_engine(chatgpt_41)
-    # all_pipe.add_engine(chatgpt_51)
+    all_pipe.add_engine(chatgpt_41)
+    all_pipe.add_engine(chatgpt_51)
     all_pipe.add_engine(gemini)
-    # all_pipe.add_engine(mistral)
+    all_pipe.add_engine(mistral)
     # print("Prompting engines...")
     all_pipe.prompt_engines()
     # print("evaluation")
     evals = all_pipe.eval_response()
     evals["created"] = str(datetime.now())
 
-    output_fp = output_dir / f"{text_id}.gemini.redo.json"
+    output_fp = output_dir / f"{text_id}.json"
     output_fp.parent.mkdir(exist_ok=True, parents=True)
 
     with open(output_fp, "w") as f:
@@ -153,25 +164,25 @@ if __name__ == '__main__':
         n_texts = len(texts)
 
     # Missing values for meta prompt per model. Lists contain indices of texts dataframe.
-    missing_values_cot = {'ChatGPT 4.1 mini/gpt-4.1-mini': [],
- 'GPT 5.1 mini/gpt-5-mini': [30],
- 'Gemini/gemini-3-flash-preview': [39, 25, 29, 33, 20,
-  7,
-  30,
-  11,
-  12,
-  8,
-  31,
-  27,
-  9,
-  28,
-  10,
-  2],
- 'Mistral/ministral-14b-latest': [17, 16]}
+#     missing_values_cot = {'ChatGPT 4.1 mini/gpt-4.1-mini': [],
+#  'GPT 5.1 mini/gpt-5-mini': [30],
+#  'Gemini/gemini-3-flash-preview': [39, 25, 29, 33, 20,
+#   7,
+#   30,
+#   11,
+#   12,
+#   8,
+#   31,
+#   27,
+#   9,
+#   28,
+#   10,
+#   2],
+#  'Mistral/ministral-14b-latest': [17, 16]}
     
     # Only run model for these indices.
     # Now only running GEMINI <-- redo if needed.
-    texts_input = texts.loc[missing_values_cot['Gemini/gemini-3-flash-preview']].to_dict(orient="records")
+    texts_input = texts.to_dict(orient="records")[:n_texts]
 
     with Pool(processes=n_pools) as pool:
         results = list(tqdm.tqdm(iterable=pool.imap(func=run, iterable=texts_input), total=len(texts_input)))
@@ -180,7 +191,7 @@ if __name__ == '__main__':
 
     results_df = pd.DataFrame(data=results)
 
-    output_fp = output_dir / "gemini.redo.merged.parquet"
+    output_fp = output_dir / "meta_prompt_no_lint_formula.parquet"
     results_df.to_parquet(path=output_fp, compression="gzip")
 
     print(f"Opgeslagen als: `{output_fp}`")

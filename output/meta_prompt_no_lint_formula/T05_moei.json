@@ -1,0 +1,1547 @@
+{
+    "prompt_id": "T05_moei",
+    "Org - text": "Leugendetectors\n\nDe deur is dicht. Het is benauwd in de kamer. In een stoel zit een man die met allerlei draden en rubberbanden verbonden is aan een computer. Hij is verdachte van een misdrijf. Achter het beeldscherm zit een andere man. Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Terwijl hij dit vraagt, kijkt hij geconcentreerd naar het beeldscherm, waarop in grafiekjes allerlei informatie verschijnt. De ondervrager kan daaruit opmaken of de verdachte de waarheid spreekt of niet.\n\nDit lijkt een sc\u00e8ne uit een sciencefictionfilm, maar het is de dagelijkse werkelijkheid in Amerika. Daar worden verdachten ondervraagd met behulp van een leugendetector, een machine die nagaat of iemand liegt of niet. Het woord 'detector' betekent niets anders dan 'ontdekker'.\n\nDie machine kan niet in het hoofd van een verdachte kijken. En zover zal het ook wel nooit komen. Een leugendetector meet de reactie van het lichaam. Zo'n machine meet het zweten, de hartslag, de ademhaling en onderzoekt soms ook de manier van praten en de stem tijdens de ondervraging. Uit die metingen denken specialisten te kunnen afleiden of iemand liegt of niet.\n\nIn Amerika is de leugendetector een ingeburgerd verschijnsel. Jaarlijks worden er meer dan een miljoen Amerikanen mee getest. De FBI, de landelijke politie en de geheime dienst CIA vertrouwen sterk op dit apparaat. De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak. De machine wordt zelfs gebruikt bij sollicitatiegesprekken.\n\nIn Nederland heeft de overheid ook laten onderzoeken of de invoering van deze machines nut heeft. Na jarenlange experimenten heeft men hier besloten dat de apparaten nog niet betrouwbaar genoeg zijn. Mensen kunnen door de spannende situatie van het ondervragen gaan zweten of een hogere hartslag krijgen zonder dat ze ook maar iets misdaan hebben. Toch meet de machine dan die reacties en lijkt het erop dat de ondervraagde aan het liegen is.\n\nHet is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector. Wij willen beslist voorkomen dat onschuldige mensen veroordeeld worden op grond van het gebruik van een onbetrouwbaar apparaat. In Amerika denkt men daar blijkbaar anders over.",
+    "Org - lint": "36",
+    "Org - sent": "3, 53, 31, 37, 0, 11, 43, 43, 43, 49, 38, 31, 36, 58, 42, 61, 39, 44, 24, 40, 52, 42, 42, 32, 38, 14",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - text": "De deur is dicht. De kamer voelt benauwd. Een man zit in een stoel. Hij is verbonden met draden en rubberbanden aan een computer. Hij is verdachte. Hij zou een misdaad hebben begaan. Er zit een andere man achter het beeldscherm. Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Terwijl hij dit vraagt, kijkt hij goed naar het beeldscherm. Daar verschijnen grafiekjes met informatie. De ondervrager kijkt naar de grafieken. Zo probeert hij te zien of de verdachte liegt of de waarheid spreekt. Dit lijkt op een sc\u00e8ne uit een sciencefictionfilm. Toch is het elke dag echt in Amerika. Verdachten worden daar ondervraagd met een leugendetector. Dat is een apparaat. Het bekijkt of iemand liegt of niet. Het woord 'detector' betekent gewoon 'ontdekker'. De machine kan niet in het hoofd van de verdachte kijken. Dat zal ook waarschijnlijk nooit gebeuren. Een leugendetector meet wat het lichaam doet als reactie. De machine meet het zweten, de hartslag en de ademhaling. Soms kijkt ze ook naar de manier van spreken en de stem tijdens de ondervraging. De specialisten denken uit die metingen te kunnen zien of iemand liegt. In Amerika kennen ze de leugendetector goed. Elk jaar testen ze meer dan een miljoen Amerikanen met de machine. De FBI, de politie en de geheime dienst CIA gebruiken het apparaat en vertrouwen erop. De uitkomst van de test is belangrijk in rechtszaken. Soms gebruiken bedrijven de machine ook bij sollicitaties. In Nederland onderzocht de overheid ook of deze machines nuttig zijn. Na jaren testen besloten ze dat de apparaten niet betrouwbaar genoeg zijn. Mensen zweten of krijgen een snellere hartslag van spanning. Ze hebben dan niets fout gedaan. De machine meet dat. Dan lijkt het alsof de persoon liegt. Het is logisch dat Nederland de leugendetector niet gebruikt. We willen niet dat onschuldige mensen worden veroordeeld door een apparaat dat niet betrouwbaar is. In Amerika denkt men daar anders over.",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - lint": "26",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - sent": "3, 36, 1, 30, 40, 2, 11, 0, 50, 47, 32, 27, 0, 33, 36, 30, 26, 27, 40, 46, 30, 17, 19, 49, 39, 44, 43, 35, 24, 16, 23, 9, 33, 26, 3",
+    "ChatGPT 4.1 mini/gpt-4.1-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "De deur is dicht. Het is benauwd in de kamer. In een stoel zit een man die met allerlei draden en rubberbanden verbonden is aan een computer.",
+                "rewritten_sentences": "De deur is dicht. De kamer voelt benauwd. Een man zit in een stoel. Hij is verbonden met draden en rubberbanden aan een computer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "De zin is opgesplitst in kleinere delen om afhankelijkheidslengte te verlagen en de leesbaarheid te vergemakkelijken.",
+                        "start_word": 0,
+                        "end_word": 21,
+                        "original_text": "De deur is dicht. Het is benauwd in de kamer. In een stoel zit een man die met allerlei draden en rubberbanden verbonden is aan een computer.",
+                        "new_text": "De deur is dicht. De kamer voelt benauwd. Een man zit in een stoel. Hij is verbonden met draden en rubberbanden aan een computer.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij is verdachte van een misdrijf.",
+                "rewritten_sentences": "Hij is verdachte. Hij zou een misdaad hebben begaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "De zin is opgesplitst en concreter gemaakt om de verhouding van concrete zelfstandignaamwoorden te vergroten en de tekst te vereenvoudigen.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Hij is verdachte van een misdrijf.",
+                        "new_text": "Hij is verdachte. Hij zou een misdaad hebben begaan.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Achter het beeldscherm zit een andere man.",
+                "rewritten_sentences": "Er zit een andere man achter het beeldscherm.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "De zin is herformuleerd voor duidelijkheid en kortheid om afhankelijkheidslengte te verminderen.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "Achter het beeldscherm zit een andere man.",
+                        "new_text": "Er zit een andere man achter het beeldscherm.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Terwijl hij dit vraagt, kijkt hij geconcentreerd naar het beeldscherm, waarop in grafiekjes allerlei informatie verschijnt.",
+                "rewritten_sentences": "Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Terwijl hij dit vraagt, kijkt hij goed naar het beeldscherm. Daar verschijnen grafiekjes met informatie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "De lange zin is gesplitst in kortere zinnen om de leesbaarheid te verbeteren door afhankelijkheidslengte te verlagen.",
+                        "start_word": 0,
+                        "end_word": 27,
+                        "original_text": "Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Terwijl hij dit vraagt, kijkt hij geconcentreerd naar het beeldscherm, waarop in grafiekjes allerlei informatie verschijnt.",
+                        "new_text": "Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Terwijl hij dit vraagt, kijkt hij goed naar het beeldscherm. Daar verschijnen grafiekjes met informatie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De ondervrager kan daaruit opmaken of de verdachte de waarheid spreekt of niet.",
+                "rewritten_sentences": "De ondervrager kijkt naar de grafieken. Zo probeert hij te zien of de verdachte liegt of de waarheid spreekt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Activiteiten en observaties werden opgesplitst om zinnen korter te maken en de tekst duidelijker te maken.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "De ondervrager kan daaruit opmaken of de verdachte de waarheid spreekt of niet.",
+                        "new_text": "De ondervrager kijkt naar de grafieken. Zo probeert hij te zien of de verdachte liegt of de waarheid spreekt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm, maar het is de dagelijkse werkelijkheid in Amerika.",
+                "rewritten_sentences": "Dit lijkt op een sc\u00e8ne uit een sciencefictionfilm. Toch is het elke dag echt in Amerika.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "De zin is verdeeld in twee delen voor eenvoud en om afhankelijkheidslengte te verminderen.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm, maar het is de dagelijkse werkelijkheid in Amerika.",
+                        "new_text": "Dit lijkt op een sc\u00e8ne uit een sciencefictionfilm. Toch is het elke dag echt in Amerika.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar worden verdachten ondervraagd met behulp van een leugendetector, een machine die nagaat of iemand liegt of niet.",
+                "rewritten_sentences": "Verdachten worden daar ondervraagd met een leugendetector. Dat is een apparaat. Het bekijkt of iemand liegt of niet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "De complexe zin is opgesplitst en vereenvoudigd voor een lagere leesbaarheidsscore.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Daar worden verdachten ondervraagd met behulp van een leugendetector, een machine die nagaat of iemand liegt of niet.",
+                        "new_text": "Verdachten worden daar ondervraagd met een leugendetector. Dat is een apparaat. Het bekijkt of iemand liegt of niet.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het woord 'detector' betekent niets anders dan 'ontdekker'.",
+                "rewritten_sentences": "Het woord 'detector' betekent gewoon 'ontdekker'.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "De zin is korter en direct gemaakt voor eenvoud.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "Het woord 'detector' betekent niets anders dan 'ontdekker'.",
+                        "new_text": "Het woord 'detector' betekent gewoon 'ontdekker'.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die machine kan niet in het hoofd van een verdachte kijken.",
+                "rewritten_sentences": "De machine kan niet in het hoofd van de verdachte kijken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Een klein stilistisch aanpassing ter vereenvoudiging, zin is direct gehouden.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Die machine kan niet in het hoofd van een verdachte kijken.",
+                        "new_text": "De machine kan niet in het hoofd van de verdachte kijken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En zover zal het ook wel nooit komen.",
+                "rewritten_sentences": "Dat zal ook waarschijnlijk nooit gebeuren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Zin is vereenvoudigd en directer gemaakt om leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "En zover zal het ook wel nooit komen.",
+                        "new_text": "Dat zal ook waarschijnlijk nooit gebeuren.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een leugendetector meet de reactie van het lichaam.",
+                "rewritten_sentences": "Een leugendetector meet wat het lichaam doet als reactie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Toevoeging voor concreetheid en verduidelijking, eenvoudiger taalgebruik.",
+                        "start_word": 0,
+                        "end_word": 8,
+                        "original_text": "Een leugendetector meet de reactie van het lichaam.",
+                        "new_text": "Een leugendetector meet wat het lichaam doet als reactie.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo'n machine meet het zweten, de hartslag, de ademhaling en onderzoekt soms ook de manier van praten en de stem tijdens de ondervraging.",
+                "rewritten_sentences": "De machine meet het zweten, de hartslag en de ademhaling. Soms kijkt ze ook naar de manier van spreken en de stem tijdens de ondervraging.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "De lange zin is opgesplitst in kortere stukken voor betere leesbaarheid en minder complexiteit.",
+                        "start_word": 0,
+                        "end_word": 29,
+                        "original_text": "Zo'n machine meet het zweten, de hartslag, de ademhaling en onderzoekt soms ook de manier van praten en de stem tijdens de ondervraging.",
+                        "new_text": "De machine meet het zweten, de hartslag en de ademhaling. Soms kijkt ze ook naar de manier van spreken en de stem tijdens de ondervraging.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Uit die metingen denken specialisten te kunnen afleiden of iemand liegt of niet.",
+                "rewritten_sentences": "De specialisten denken uit die metingen te kunnen zien of iemand liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Actieve en korte zin om leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Uit die metingen denken specialisten te kunnen afleiden of iemand liegt of niet.",
+                        "new_text": "De specialisten denken uit die metingen te kunnen zien of iemand liegt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Amerika is de leugendetector een ingeburgerd verschijnsel.",
+                "rewritten_sentences": "In Amerika kennen ze de leugendetector goed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Kortere, eenvoudigere zin met meer concreetheid.",
+                        "start_word": 0,
+                        "end_word": 7,
+                        "original_text": "In Amerika is de leugendetector een ingeburgerd verschijnsel.",
+                        "new_text": "In Amerika kennen ze de leugendetector goed.",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jaarlijks worden er meer dan een miljoen Amerikanen mee getest.",
+                "rewritten_sentences": "Elk jaar testen ze meer dan een miljoen Amerikanen met de machine.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Kort en actief formuleren om leesbaarheid te verlagen.",
+                        "start_word": 0,
+                        "end_word": 10,
+                        "original_text": "Jaarlijks worden er meer dan een miljoen Amerikanen mee getest.",
+                        "new_text": "Elk jaar testen ze meer dan een miljoen Amerikanen met de machine.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De FBI, de landelijke politie en de geheime dienst CIA vertrouwen sterk op dit apparaat.",
+                "rewritten_sentences": "De FBI, de politie en de geheime dienst CIA gebruiken het apparaat en vertrouwen erop.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Zin is eenvoudiger en opgesplitst om beter te begrijpen te zijn.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "De FBI, de landelijke politie en de geheime dienst CIA vertrouwen sterk op dit apparaat.",
+                        "new_text": "De FBI, de politie en de geheime dienst CIA gebruiken het apparaat en vertrouwen erop.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak.",
+                "rewritten_sentences": "De uitkomst van de test is belangrijk in rechtszaken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Korte, simpele zin maakt het makkelijker te lezen.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak.",
+                        "new_text": "De uitkomst van de test is belangrijk in rechtszaken.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De machine wordt zelfs gebruikt bij sollicitatiegesprekken.",
+                "rewritten_sentences": "Soms gebruiken bedrijven de machine ook bij sollicitaties.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Kortere en eenvoudiger geformuleerde zin voor duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "De machine wordt zelfs gebruikt bij sollicitatiegesprekken.",
+                        "new_text": "Soms gebruiken bedrijven de machine ook bij sollicitaties.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Nederland heeft de overheid ook laten onderzoeken of de invoering van deze machines nut heeft.",
+                "rewritten_sentences": "In Nederland onderzocht de overheid ook of deze machines nuttig zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "De zin is korter gemaakt en eenvoudiger geformuleerd voor lagere leesbaarheidsscore.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "In Nederland heeft de overheid ook laten onderzoeken of de invoering van deze machines nut heeft.",
+                        "new_text": "In Nederland onderzocht de overheid ook of deze machines nuttig zijn.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Na jarenlange experimenten heeft men hier besloten dat de apparaten nog niet betrouwbaar genoeg zijn.",
+                "rewritten_sentences": "Na jaren testen besloten ze dat de apparaten niet betrouwbaar genoeg zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Kortere en directe zin om leesbaarheid te verbeteren.",
+                        "start_word": 0,
+                        "end_word": 19,
+                        "original_text": "Na jarenlange experimenten heeft men hier besloten dat de apparaten nog niet betrouwbaar genoeg zijn.",
+                        "new_text": "Na jaren testen besloten ze dat de apparaten niet betrouwbaar genoeg zijn.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen kunnen door de spannende situatie van het ondervragen gaan zweten of een hogere hartslag krijgen zonder dat ze ook maar iets misdaan hebben.",
+                "rewritten_sentences": "Mensen zweten of krijgen een snellere hartslag van spanning. Ze hebben dan niets fout gedaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "De zin is opgesplitst in kortere zinnen voor eenvoudigere leesbaarheid en om contentwoorden per deelzin te verlagen.",
+                        "start_word": 0,
+                        "end_word": 29,
+                        "original_text": "Mensen kunnen door de spannende situatie van het ondervragen gaan zweten of een hogere hartslag krijgen zonder dat ze ook maar iets misdaan hebben.",
+                        "new_text": "Mensen zweten of krijgen een snellere hartslag van spanning. Ze hebben dan niets fout gedaan.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch meet de machine dan die reacties en lijkt het erop dat de ondervraagde aan het liegen is.",
+                "rewritten_sentences": "De machine meet dat. Dan lijkt het alsof de persoon liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "Korte, simpele zinnen om leesbaarheid te verbeteren door stappen te splitsen.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Toch meet de machine dan die reacties en lijkt het erop dat de ondervraagde aan het liegen is.",
+                        "new_text": "De machine meet dat. Dan lijkt het alsof de persoon liegt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector.",
+                "rewritten_sentences": "Het is logisch dat Nederland de leugendetector niet gebruikt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "De zin is korter en directer gemaakt voor eenvoudiger begrip.",
+                        "start_word": 0,
+                        "end_word": 11,
+                        "original_text": "Het is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector.",
+                        "new_text": "Het is logisch dat Nederland de leugendetector niet gebruikt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wij willen beslist voorkomen dat onschuldige mensen veroordeeld worden op grond van het gebruik van een onbetrouwbaar apparaat.",
+                "rewritten_sentences": "We willen niet dat onschuldige mensen worden veroordeeld door een apparaat dat niet betrouwbaar is.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "De zin is vereenvoudigd en opgesplitst voor lagere leesbaarheidsscore en betere duidelijkheid.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Wij willen beslist voorkomen dat onschuldige mensen veroordeeld worden op grond van het gebruik van een onbetrouwbaar apparaat.",
+                        "new_text": "We willen niet dat onschuldige mensen worden veroordeeld door een apparaat dat niet betrouwbaar is.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Amerika denkt men daar blijkbaar anders over.",
+                "rewritten_sentences": "In Amerika denkt men daar anders over.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "Kortere zin zonder overbodige woorden voor eenvoudiger taalgebruik.",
+                        "start_word": 0,
+                        "end_word": 6,
+                        "original_text": "In Amerika denkt men daar blijkbaar anders over.",
+                        "new_text": "In Amerika denkt men daar anders over.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "De deur is dicht. De kamer voelt benauwd. Een man zit in een stoel. Hij is verbonden met draden en rubberbanden aan een computer. Hij is verdachte. Hij zou een misdaad hebben begaan. Er zit een andere man achter het beeldscherm. Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Terwijl hij dit vraagt, kijkt hij goed naar het beeldscherm. Daar verschijnen grafiekjes met informatie. De ondervrager kijkt naar de grafieken. Zo probeert hij te zien of de verdachte liegt of de waarheid spreekt. Dit lijkt op een sc\u00e8ne uit een sciencefictionfilm. Toch is het elke dag echt in Amerika. Verdachten worden daar ondervraagd met een leugendetector. Dat is een apparaat. Het bekijkt of iemand liegt of niet. Het woord 'detector' betekent gewoon 'ontdekker'. De machine kan niet in het hoofd van de verdachte kijken. Dat zal ook waarschijnlijk nooit gebeuren. Een leugendetector meet wat het lichaam doet als reactie. De machine meet het zweten, de hartslag en de ademhaling. Soms kijkt ze ook naar de manier van spreken en de stem tijdens de ondervraging. De specialisten denken uit die metingen te kunnen zien of iemand liegt. In Amerika kennen ze de leugendetector goed. Elk jaar testen ze meer dan een miljoen Amerikanen met de machine. De FBI, de politie en de geheime dienst CIA gebruiken het apparaat en vertrouwen erop. De uitkomst van de test is belangrijk in rechtszaken. Soms gebruiken bedrijven de machine ook bij sollicitaties. In Nederland onderzocht de overheid ook of deze machines nuttig zijn. Na jaren testen besloten ze dat de apparaten niet betrouwbaar genoeg zijn. Mensen zweten of krijgen een snellere hartslag van spanning. Ze hebben dan niets fout gedaan. De machine meet dat. Dan lijkt het alsof de persoon liegt. Het is logisch dat Nederland de leugendetector niet gebruikt. We willen niet dat onschuldige mensen worden veroordeeld door een apparaat dat niet betrouwbaar is. In Amerika denkt men daar anders over.",
+        "prompt_id": "T05_moei",
+        "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
+    },
+    "GPT 5.1 mini/gpt-5-mini - text": "Leugendetectors De deur is dicht. Het is benauwd in de kamer. In een stoel zit een man. Hij is met draden en rubberbanden aan een computer verbonden. Hij is verdachte van een misdrijf. Achter het beeldscherm zit een andere man. Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Hij kijkt geconcentreerd naar het beeldscherm. Op het scherm verschijnen grafiekjes met informatie. De ondervrager leest die grafieken. Hij kan daarmee zien of de verdachte de waarheid spreekt. Dit lijkt een sc\u00e8ne uit een sciencefictionfilm. Maar het gebeurt dagelijks in Amerika. Daar gebruiken ze leugendetectors. Die machines onderzoeken of iemand liegt. Het woord 'detector' betekent niets anders dan 'ontdekker'. Die machine kan niet in het hoofd van een verdachte kijken. En zover zal het ook wel nooit komen. Een leugendetector meet de reactie van het lichaam. De machine meet zweten. Ze meet ook de hartslag en de ademhaling. Soms luistert ze naar de manier van praten en naar de stem. Specialisten bekijken die metingen. Ze denken daaruit te kunnen afleiden of iemand liegt. In Amerika is de leugendetector een ingeburgerd verschijnsel. Elk jaar testen ze meer dan een miljoen Amerikanen. De FBI gebruikt het. De landelijke politie gebruikt het ook. De geheime dienst CIA gebruikt het ook. De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak. De machine wordt zelfs gebruikt bij sollicitatiegesprekken. In Nederland onderzocht de overheid of deze machines nuttig zijn. Na jarenlange experimenten kwam men tot een besluit. De apparaten zijn nog niet betrouwbaar genoeg. Mensen kunnen zweten door de spanning tijdens het ondervragen. Ze kunnen een hogere hartslag krijgen. Dat kan gebeuren zonder dat ze iets hebben misdaan. De machine meet die reacties. Daardoor lijkt het alsof de ondervraagde liegt. Het is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector. We willen voorkomen dat onschuldige mensen veroordeeld worden. Zeker niet op grond van het gebruik van een onbetrouwbaar apparaat. In Amerika denkt men daar blijkbaar anders over.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "29",
+    "GPT 5.1 mini/gpt-5-mini - sent": "3, 53, 0, 31, 37, 0, 11, 25, 45, 58, 26, 30, 16, 22, 38, 31, 36, 27, 34, 38, 40, 61, 12, 20, 32, 30, 44, 24, 41, 45, 49, 31, 18, 32, 18, 14",
+    "GPT 5.1 mini/gpt-5-mini - chngs": {
+        "text": [
+            {
+                "original_sentence": "Leugendetectors",
+                "rewritten_sentences": "Leugendetectors",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "De deur is dicht.",
+                "rewritten_sentences": "De deur is dicht.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het is benauwd in de kamer.",
+                "rewritten_sentences": "Het is benauwd in de kamer.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "In een stoel zit een man die met allerlei draden en rubberbanden verbonden is aan een computer.",
+                "rewritten_sentences": "In een stoel zit een man. Hij is met draden en rubberbanden aan een computer verbonden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s4_c1",
+                        "reason_for_change": "De lange zin met een relatief bijzin is opgesplitst in twee korte zinnen om de afhankelijkheidslengte te verlagen en de tekst stap voor stap te maken.",
+                        "start_word": 1,
+                        "end_word": 17,
+                        "original_text": "In een stoel zit een man die met allerlei draden en rubberbanden verbonden is aan een computer.",
+                        "new_text": "In een stoel zit een man. Hij is met draden en rubberbanden aan een computer verbonden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij is verdachte van een misdrijf.",
+                "rewritten_sentences": "Hij is verdachte van een misdrijf.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Achter het beeldscherm zit een andere man.",
+                "rewritten_sentences": "Achter het beeldscherm zit een andere man.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?'",
+                "rewritten_sentences": "Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?'",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Terwijl hij dit vraagt, kijkt hij geconcentreerd naar het beeldscherm, waarop in grafiekjes allerlei informatie verschijnt.",
+                "rewritten_sentences": "Hij kijkt geconcentreerd naar het beeldscherm. Op het scherm verschijnen grafiekjes met informatie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s8_c1",
+                        "reason_for_change": "De samengestelde zin met bijwoordelijke en betrekkelijke zinsdelen is opgesplitst in twee korte zinnen om de informatie helder en stapsgewijs te presenteren.",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "Terwijl hij dit vraagt, kijkt hij geconcentreerd naar het beeldscherm, waarop in grafiekjes allerlei informatie verschijnt.",
+                        "new_text": "Hij kijkt geconcentreerd naar het beeldscherm. Op het scherm verschijnen grafiekjes met informatie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De ondervrager kan daaruit opmaken of de verdachte de waarheid spreekt of niet.",
+                "rewritten_sentences": "De ondervrager leest die grafieken. Hij kan daarmee zien of de verdachte de waarheid spreekt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s9_c1",
+                        "reason_for_change": "De zin is in twee korte zinnen verdeeld zodat elke handeling apart staat en de lezer stapsgewijs kan volgen wat er gebeurt.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "De ondervrager kan daaruit opmaken of de verdachte de waarheid spreekt of niet.",
+                        "new_text": "De ondervrager leest die grafieken. Hij kan daarmee zien of de verdachte de waarheid spreekt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm, maar het is de dagelijkse werkelijkheid in Amerika.",
+                "rewritten_sentences": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm. Maar het gebeurt dagelijks in Amerika.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s10_c1",
+                        "reason_for_change": "De tegenstellende gedachte is in twee korte zinnen gezet om de contrasten duidelijker en eenvoudiger te maken.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm, maar het is de dagelijkse werkelijkheid in Amerika.",
+                        "new_text": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm. Maar het gebeurt dagelijks in Amerika.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar worden verdachten ondervraagd met behulp van een leugendetector, een machine die nagaat of iemand liegt of niet.",
+                "rewritten_sentences": "Daar gebruiken ze leugendetectors. Die machines onderzoeken of iemand liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s11_c1",
+                        "reason_for_change": "De lange zin met een toelichting is opgesplitst om eerst het handelingselement en daarna de uitleg duidelijk te geven.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "Daar worden verdachten ondervraagd met behulp van een leugendetector, een machine die nagaat of iemand liegt of niet.",
+                        "new_text": "Daar gebruiken ze leugendetectors. Die machines onderzoeken of iemand liegt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het woord 'detector' betekent niets anders dan 'ontdekker'.",
+                "rewritten_sentences": "Het woord 'detector' betekent niets anders dan 'ontdekker'.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Die machine kan niet in het hoofd van een verdachte kijken.",
+                "rewritten_sentences": "Die machine kan niet in het hoofd van een verdachte kijken.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "En zover zal het ook wel nooit komen.",
+                "rewritten_sentences": "En zover zal het ook wel nooit komen.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Een leugendetector meet de reactie van het lichaam.",
+                "rewritten_sentences": "Een leugendetector meet de reactie van het lichaam.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Zo'n machine meet het zweten, de hartslag, de ademhaling en onderzoekt soms ook de manier van praten en de stem tijdens de ondervraging.",
+                "rewritten_sentences": "De machine meet zweten. Ze meet ook de hartslag en de ademhaling. Soms luistert ze naar de manier van praten en naar de stem.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s16_c1",
+                        "reason_for_change": "Een lange opsomming is opgesplitst in korte zinnen zodat elke meting apart genoemd wordt en de informatie makkelijker te verwerken is.",
+                        "start_word": 1,
+                        "end_word": 23,
+                        "original_text": "Zo'n machine meet het zweten, de hartslag, de ademhaling en onderzoekt soms ook de manier van praten en de stem tijdens de ondervraging.",
+                        "new_text": "De machine meet zweten. Ze meet ook de hartslag en de ademhaling. Soms luistert ze naar de manier van praten en naar de stem.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Uit die metingen denken specialisten te kunnen afleiden of iemand liegt of niet.",
+                "rewritten_sentences": "Specialisten bekijken die metingen. Ze denken daaruit te kunnen afleiden of iemand liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s17_c1",
+                        "reason_for_change": "De zin is verdeeld in twee zinnen om eerst de handeling ('bekijken') en daarna de conclusie te tonen, wat de zinsstructuur vereenvoudigt.",
+                        "start_word": 1,
+                        "end_word": 13,
+                        "original_text": "Uit die metingen denken specialisten te kunnen afleiden of iemand liegt of niet.",
+                        "new_text": "Specialisten bekijken die metingen. Ze think daaruit te kunnen afleiden of iemand liegt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Amerika is de leugendetector een ingeburgerd verschijnsel.",
+                "rewritten_sentences": "In Amerika is de leugendetector een ingeburgerd verschijnsel.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Jaarlijks worden er meer dan een miljoen Amerikanen mee getest.",
+                "rewritten_sentences": "Elk jaar testen ze meer dan een miljoen Amerikanen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s19_c1",
+                        "reason_for_change": "Korte en directe formulering gekozen om de zin eenvoudiger en actiever te maken.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Jaarlijks worden er meer dan een miljoen Amerikanen mee getest.",
+                        "new_text": "Elk jaar testen ze meer dan een miljoen Amerikanen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De FBI, de landelijke politie en de geheime dienst CIA vertrouwen sterk op dit apparaat.",
+                "rewritten_sentences": "De FBI gebruikt het. De landelijke politie gebruikt het ook. De geheime dienst CIA gebruikt het ook.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s20_c1",
+                        "reason_for_change": "De opsomming is gesplitst in meerdere korte zinnen om elke organisatie apart te noemen en de lezer stap voor stap te laten volgen wie het apparaat gebruikt.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "De FBI, de landelijke politie en de geheime dienst CIA vertrouwen sterk op dit apparaat.",
+                        "new_text": "De FBI gebruikt het. De landelijke politie gebruikt het ook. De geheime dienst CIA gebruikt het ook.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak.",
+                "rewritten_sentences": "De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "De machine wordt zelfs gebruikt bij sollicitatiegesprekken.",
+                "rewritten_sentences": "De machine wordt zelfs gebruikt bij sollicitatiegesprekken.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "In Nederland heeft de overheid ook laten onderzoeken of de invoering van deze machines nut heeft.",
+                "rewritten_sentences": "In Nederland onderzocht de overheid of deze machines nuttig zijn.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s23_c1",
+                        "reason_for_change": "De formulering is vereenvoudigd en ingekort om de kern van de zin duidelijker en korter te maken.",
+                        "start_word": 1,
+                        "end_word": 16,
+                        "original_text": "In Nederland heeft de overheid ook laten onderzoeken of de invoering van deze machines nut heeft.",
+                        "new_text": "In Nederland onderzocht de overheid of deze machines nuttig zijn.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Na jarenlange experimenten heeft men hier besloten dat de apparaten nog niet betrouwbaar genoeg zijn.",
+                "rewritten_sentences": "Na jarenlange experimenten kwam men tot een besluit. De apparaten zijn nog niet betrouwbaar genoeg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s24_c1",
+                        "reason_for_change": "De samengestelde zin is opgesplitst in twee korte zinnen zodat besluit en gevolg duidelijk en stapsgewijs worden gepresenteerd.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Na jarenlange experimenten heeft men hier besloten dat de apparaten nog niet betrouwbaar genoeg zijn.",
+                        "new_text": "Na jarenlange experimenten kwam men tot een besluit. De apparaten zijn nog niet betrouwbaar genoeg.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen kunnen door de spannende situatie van het ondervragen gaan zweten of een hogere hartslag krijgen zonder dat ze ook maar iets misdaan hebben.",
+                "rewritten_sentences": "Mensen kunnen zweten door de spanning tijdens het ondervragen. Ze kunnen een hogere hartslag krijgen. Dat kan gebeuren zonder dat ze iets hebben misdaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s25_c1",
+                        "reason_for_change": "De lange zin met meerdere gevolgen is verdeeld in drie korte zinnen zodat elk gevolg apart en duidelijk wordt genoemd.",
+                        "start_word": 1,
+                        "end_word": 24,
+                        "original_text": "Mensen kunnen door de spannende situatie van het ondervragen gaan zweten of een hogere hartslag krijgen zonder dat ze ook maar iets misdaan hebben.",
+                        "new_text": "Mensen kunnen zweten door de spanning tijdens het ondervragen. Ze kunnen een hogere hartslag krijgen. Dat kan gebeuren zonder dat ze iets hebben misdaan.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch meet de machine dan die reacties en lijkt het erop dat de ondervraagde aan het liegen is.",
+                "rewritten_sentences": "De machine meet die reacties. Daardoor lijkt het alsof de ondervraagde liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s26_c1",
+                        "reason_for_change": "De originele zin is opgesplitst om oorzaak en schijnbare conclusie in aparte zinnen te zetten en zo misinterpretatie te verminderen.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "Toch meet de machine dan die reacties en lijkt het erop dat de ondervraagde aan het liegen is.",
+                        "new_text": "De machine meet die reacties. Daardoor lijkt het alsof de ondervraagde liegt.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector.",
+                "rewritten_sentences": "Het is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Wij willen beslist voorkomen dat onschuldige mensen veroordeeld worden op grond van het gebruik van een onbetrouwbaar apparaat.",
+                "rewritten_sentences": "We willen voorkomen dat onschuldige mensen veroordeeld worden. Zeker niet op grond van het gebruik van een onbetrouwbaar apparaat.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "s28_c1",
+                        "reason_for_change": "De lange zin is verdeeld in twee korte zinnen om het doel en de nadruk (zeker niet) apart en duidelijk te maken.",
+                        "start_word": 1,
+                        "end_word": 18,
+                        "original_text": "Wij willen beslist voorkomen dat onschuldige mensen veroordeeld worden op grond van het gebruik van een onbetrouwbaar apparaat.",
+                        "new_text": "We willen voorkomen dat onschuldige mensen veroordeeld worden. Zeker niet op grond van het gebruik van een onbetrouwbaar apparaat.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Amerika denkt men daar blijkbaar anders over.",
+                "rewritten_sentences": "In Amerika denkt men daar blijkbaar anders over.",
+                "changes_in_sentence": []
+            }
+        ],
+        "text_genre": "informatief",
+        "full_text": "Leugendetectors De deur is dicht. Het is benauwd in de kamer. In een stoel zit een man. Hij is met draden en rubberbanden aan een computer verbonden. Hij is verdachte van een misdrijf. Achter het beeldscherm zit een andere man. Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Hij kijkt geconcentreerd naar het beeldscherm. Op het scherm verschijnen grafiekjes met informatie. De ondervrager leest die grafieken. Hij kan daarmee zien of de verdachte de waarheid spreekt. Dit lijkt een sc\u00e8ne uit een sciencefictionfilm. Maar het gebeurt dagelijks in Amerika. Daar gebruiken ze leugendetectors. Die machines onderzoeken of iemand liegt. Het woord 'detector' betekent niets anders dan 'ontdekker'. Die machine kan niet in het hoofd van een verdachte kijken. En zover zal het ook wel nooit komen. Een leugendetector meet de reactie van het lichaam. De machine meet zweten. Ze meet ook de hartslag en de ademhaling. Soms luistert ze naar de manier van praten en naar de stem. Specialisten bekijken die metingen. Ze denken daaruit te kunnen afleiden of iemand liegt. In Amerika is de leugendetector een ingeburgerd verschijnsel. Elk jaar testen ze meer dan een miljoen Amerikanen. De FBI gebruikt het. De landelijke politie gebruikt het ook. De geheime dienst CIA gebruikt het ook. De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak. De machine wordt zelfs gebruikt bij sollicitatiegesprekken. In Nederland onderzocht de overheid of deze machines nuttig zijn. Na jarenlange experimenten kwam men tot een besluit. De apparaten zijn nog niet betrouwbaar genoeg. Mensen kunnen zweten door de spanning tijdens het ondervragen. Ze kunnen een hogere hartslag krijgen. Dat kan gebeuren zonder dat ze iets hebben misdaan. De machine meet die reacties. Daardoor lijkt het alsof de ondervraagde liegt. Het is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector. We willen voorkomen dat onschuldige mensen veroordeeld worden. Zeker niet op grond van het gebruik van een onbetrouwbaar apparaat. In Amerika denkt men daar blijkbaar anders over.",
+        "prompt_id": "T05_moei",
+        "engine": "GPT 5.1 mini/gpt-5-mini"
+    },
+    "Gemini/gemini-3-flash-preview - text": "De deur is dicht. Het is erg warm in de kamer. In een stoel zit een man. Hij zit met draden vast aan een computer. De politie denkt dat hij iets slechts heeft gedaan. Achter de computer zit een andere man. Hij vraagt: 'Heeft u de jongen meegenomen? Ja of nee?' Hij kijkt heel goed naar het scherm. Daarop staan plaatjes met informatie. De man ziet zo of de verdachte liegt. Het lijkt op een film. Maar in Amerika gebeurt dit echt. De politie gebruikt daar een leugendetector. Dat is een machine die kijkt of iemand liegt. Het woord detector betekent ontdekker. De machine kan niet zien wat iemand denkt. Dat zal ook nooit gebeuren. De machine kijkt naar het lichaam. De machine kijkt naar zweet en de hartslag. Hij kijkt ook naar de adem. Soms let de machine op de stem. Mensen die er veel van weten, zien zo of iemand liegt. In Amerika is de leugendetector heel gewoon. Elk jaar doen een miljoen Amerikanen de test. De politie en de geheime dienst geloven in het apparaat. De test is erg belangrijk in de rechtszaal. De machine wordt ook gebruikt als mensen een baan zoeken. Nederland wilde weten of de machines helpen. Nederland vindt de machines niet goed genoeg. Mensen worden zenuwachtig van de vragen. Ze gaan dan zweten, ook als ze niks fout hebben gedaan. De machine ziet dat zweten. Dan lijkt het alsof de persoon liegt. Daarom gebruiken we in Nederland de leugendetector niet. Wij willen niet dat onschuldige mensen straf krijgen door een slechte machine. In Amerika denken ze daar anders over.",
+    "Gemini/gemini-3-flash-preview - lint": "16",
+    "Gemini/gemini-3-flash-preview - sent": "3, 22, 0, 17, 17, 0, 0, 11, 30, 7, 18, 0, 27, 15, 34, 1, 14, 25, 14, 27, 0, 17, 16, 37, 23, 22, 11, 11, 17, 35, 16, 9, 30, 21, 3",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "De deur is dicht.",
+                "rewritten_sentences": "De deur is dicht.",
+                "changes_in_sentence": []
+            },
+            {
+                "original_sentence": "Het is benauwd in de kamer.",
+                "rewritten_sentences": "Het is erg warm in de kamer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Het woord 'benauwd' is lastig voor sommige lezers.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "benauwd",
+                        "new_text": "erg warm",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In een stoel zit een man die met allerlei draden en rubberbanden verbonden is aan een computer.",
+                "rewritten_sentences": "In een stoel zit een man. Hij zit met draden vast aan een computer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "De zin is te lang door het woord 'die'.",
+                        "start_word": 6,
+                        "end_word": 13,
+                        "original_text": "die met allerlei draden en rubberbanden verbonden is",
+                        "new_text": ". Hij zit met draden vast",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij is verdachte van een misdrijf.",
+                "rewritten_sentences": "De politie denkt dat hij iets slechts heeft gedaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "'Verdachte van een misdrijf' is een moeilijke term.",
+                        "start_word": 2,
+                        "end_word": 5,
+                        "original_text": "verdachte van een misdrijf",
+                        "new_text": "iemand die misschien iets slechts heeft gedaan",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Achter het beeldscherm zit een andere man.",
+                "rewritten_sentences": "Achter de computer zit een andere man.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "'Computer' is een concreter en bekender woord dan 'beeldscherm'.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "beeldscherm",
+                        "new_text": "computer",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?'",
+                "rewritten_sentences": "Hij vraagt: 'Heeft u de jongen meegenomen? Ja of nee?'",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "'Meegenomen' is een makkelijker woord dan 'ontvoerd'.",
+                        "start_word": 6,
+                        "end_word": 6,
+                        "original_text": "ontvoerd",
+                        "new_text": "meegenomen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Terwijl hij dit vraagt, kijkt hij geconcentreerd naar het beeldscherm, waarop in grafiekjes allerlei informatie verschijnt.",
+                "rewritten_sentences": "Hij kijkt heel goed naar het scherm. Daarop staan plaatjes met informatie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "De zin is erg lang en complex door de komma's.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Terwijl hij dit vraagt, kijkt hij geconcentreerd naar het beeldscherm, waarop in grafiekjes allerlei informatie verschijnt",
+                        "new_text": "Hij kijkt heel goed naar het scherm. Daarop staan plaatjes met informatie",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De ondervrager kan daaruit opmaken of de verdachte de waarheid spreekt of niet.",
+                "rewritten_sentences": "De man ziet zo of de verdachte liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "'Op maken of de verdachte de waarheid spreekt' is een lange, vage zin.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "De ondervrager kan daaruit opmaken of de verdachte de waarheid spreekt of niet",
+                        "new_text": "De man ziet zo of de verdachte liegt",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm, maar het is de dagelijkse werkelijkheid in Amerika.",
+                "rewritten_sentences": "Het lijkt op een film. Maar in Amerika gebeurt dit echt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "'Sciencefictionfilm' en 'dagelijkse werkelijkheid' zijn moeilijke woorden.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm, maar het is de dagelijkse werkelijkheid in Amerika",
+                        "new_text": "Het lijkt op een film. Maar in Amerika gebeurt dit echt",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Daar worden verdachten ondervraagd met behulp van een leugendetector, een machine die nagaat of iemand liegt of niet.",
+                "rewritten_sentences": "De politie gebruikt daar een leugendetector. Dat is een machine die kijkt of iemand liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "De zin is te lang door de uitleg na de komma.",
+                        "start_word": 0,
+                        "end_word": 18,
+                        "original_text": "Daar worden verdachten ondervraagd met behulp van een leugendetector, een machine die nagaat of iemand liegt of niet",
+                        "new_text": "De politie gebruikt daar een leugendetector. Dat is een machine die kijkt of iemand liegt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het woord 'detector' betekent niets anders dan 'ontdekker'.",
+                "rewritten_sentences": "Het woord detector betekent ontdekker.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "De zin kan korter zonder 'niets anders dan'.",
+                        "start_word": 6,
+                        "end_word": 8,
+                        "original_text": "niets anders dan",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die machine kan niet in het hoofd van een verdachte kijken.",
+                "rewritten_sentences": "De machine kan niet zien wat iemand denkt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "'In het hoofd kijken' is figuurlijk, 'zien wat iemand denkt' is duidelijker.",
+                        "start_word": 5,
+                        "end_word": 10,
+                        "original_text": "in het hoofd van een verdachte kijken",
+                        "new_text": "zien wat iemand denkt",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En zover zal het ook wel nooit komen.",
+                "rewritten_sentences": "Dat zal ook nooit gebeuren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "'Zover komen' is een abstracte uitdrukking.",
+                        "start_word": 1,
+                        "end_word": 7,
+                        "original_text": "zover zal het ook wel nooit komen",
+                        "new_text": "dat zal ook nooit gebeuren",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een leugendetector meet de reactie van het lichaam.",
+                "rewritten_sentences": "De machine kijkt naar het lichaam.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "'Reactie' en 'meten' zijn abstracte begrippen.",
+                        "start_word": 3,
+                        "end_word": 8,
+                        "original_text": "meet de reactie van het lichaam",
+                        "new_text": "kijkt naar het lichaam",
+                        "rewrite_category": "verhoog de verhouding van concrete zelfstandignaamwoorden"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo'n machine meet het zweten, de hartslag, de ademhaling en onderzoekt soms ook de manier van praten en de stem tijdens de ondervraging.",
+                "rewritten_sentences": "De machine kijkt naar zweet en de hartslag. Hij kijkt ook naar de adem. Soms let de machine op de stem.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "De zin is veel te lang met te veel opsommingen.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Zo'n machine meet het zweten, de hartslag, de ademhaling en onderzoekt soms ook de manier van praten en de stem tijdens de ondervraging",
+                        "new_text": "De machine kijkt naar zweet en de hartslag. Hij kijkt ook naar de adem. Soms let de machine op de stem",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Uit die metingen denken specialisten te kunnen afleiden of iemand liegt of niet.",
+                "rewritten_sentences": "Mensen die er veel van weten, zien zo of iemand liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "'Specialisten' en 'afleiden' zijn moeilijke woorden.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Uit die metingen denken specialisten te kunnen afleiden of iemand liegt of niet",
+                        "new_text": "Mensen die er veel van weten, zien zo of iemand liegt",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Amerika is de leugendetector een ingeburgerd verschijnsel.",
+                "rewritten_sentences": "In Amerika is de leugendetector heel gewoon.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "'Ingeburgerd verschijnsel' is een te moeilijke uitdrukking.",
+                        "start_word": 6,
+                        "end_word": 8,
+                        "original_text": "een ingeburgerd verschijnsel",
+                        "new_text": "heel gewoon",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jaarlijks worden er meer dan een miljoen Amerikanen mee getest.",
+                "rewritten_sentences": "Elk jaar doen een miljoen Amerikanen de test.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "'Jaarlijks' en 'worden getest' zijn minder direct.",
+                        "start_word": 0,
+                        "end_word": 9,
+                        "original_text": "Jaarlijks worden er meer dan een miljoen Amerikanen mee getest",
+                        "new_text": "Elk jaar doen een miljoen Amerikanen de test",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De FBI, de landelijke politie en de geheime dienst CIA vertrouwen sterk op dit apparaat.",
+                "rewritten_sentences": "De politie en de geheime dienst geloven in het apparaat.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Lange opsomming van namen maakt de zin zwaar.",
+                        "start_word": 0,
+                        "end_word": 14,
+                        "original_text": "De FBI, de landelijke politie en de geheime dienst CIA vertrouwen sterk op dit apparaat",
+                        "new_text": "De politie en de geheime dienst geloven in het apparaat",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak.",
+                "rewritten_sentences": "De test is erg belangrijk in de rechtszaal.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "'Speelt een grote rol' is een abstracte uitdrukking.",
+                        "start_word": 0,
+                        "end_word": 12,
+                        "original_text": "De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak",
+                        "new_text": "De test is erg belangrijk in de rechtszaal",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De machine wordt zelfs gebruikt bij sollicitatiegesprekken.",
+                "rewritten_sentences": "De machine wordt ook gebruikt als mensen een baan zoeken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "'Sollicitatiegesprekken' is een erg lang woord.",
+                        "start_word": 6,
+                        "end_word": 7,
+                        "original_text": "bij sollicitatiegesprekken",
+                        "new_text": "als mensen een baan zoeken",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Nederland heeft de overheid ook laten onderzoeken of de invoering van deze machines nut heeft.",
+                "rewritten_sentences": "Nederland wilde weten of de machines helpen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c21",
+                        "reason_for_change": "'De overheid', 'onderzoeken' en 'invoering' maken de zin formeel en lastig.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "In Nederland heeft de overheid ook laten onderzoeken of de invoering van deze machines nut heeft",
+                        "new_text": "Nederland wilde weten of de machines helpen",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Na jarenlange experimenten heeft men hier besloten dat de apparaten nog niet betrouwbaar genoeg zijn.",
+                "rewritten_sentences": "Nederland vindt de machines niet goed genoeg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c22",
+                        "reason_for_change": "'Experimenten' en 'betrouwbaar' zijn abstract.",
+                        "start_word": 0,
+                        "end_word": 15,
+                        "original_text": "Na jarenlange experimenten heeft men hier besloten dat de apparaten nog niet betrouwbaar genoeg zijn",
+                        "new_text": "Nederland vindt de machines niet goed genoeg",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen kunnen door de spannende situatie van het ondervragen gaan zweten of een hogere hartslag krijgen zonder dat ze ook maar iets misdaan hebben.",
+                "rewritten_sentences": "Mensen worden zenuwachtig van de vragen. Ze gaan dan zweten, ook als ze niks fout hebben gedaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c23",
+                        "reason_for_change": "De zin is erg lang en heeft een complexe structuur.",
+                        "start_word": 0,
+                        "end_word": 22,
+                        "original_text": "Mensen kunnen door de spannende situatie van het ondervragen gaan zweten of een hogere hartslag krijgen zonder dat ze ook maar iets misdaan hebben",
+                        "new_text": "Mensen worden zenuwachtig van de vragen. Ze gaan dan zweten, ook als ze niks fout hebben gedaan",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Toch meet de machine dan die reacties en lijkt het erop dat de ondervraagde aan het liegen is.",
+                "rewritten_sentences": "De machine ziet dat zweten. Dan lijkt het alsof de persoon liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c24",
+                        "reason_for_change": "'Reacties' en 'ondervraagde' zijn abstracte woorden.",
+                        "start_word": 0,
+                        "end_word": 16,
+                        "original_text": "Toch meet de machine dan die reacties en lijkt het erop dat de ondervraagde aan het liegen is",
+                        "new_text": "De machine ziet dat zweten. Dan lijkt het alsof de persoon liegt",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector.",
+                "rewritten_sentences": "Daarom gebruiken we in Nederland de leugendetector niet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c25",
+                        "reason_for_change": "'Het is niet vreemd dat' is een onnodig moeilijke start.",
+                        "start_word": 0,
+                        "end_word": 13,
+                        "original_text": "Het is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector",
+                        "new_text": "Daarom gebruiken we in Nederland de leugendetector niet",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Wij willen beslist voorkomen dat onschuldige mensen veroordeeld worden op grond van het gebruik van een onbetrouwbaar apparaat.",
+                "rewritten_sentences": "Wij willen niet dat onschuldige mensen straf krijgen door een slechte machine.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c26",
+                        "reason_for_change": "'Veroordeeld worden op grond van' is juridische taal.",
+                        "start_word": 0,
+                        "end_word": 17,
+                        "original_text": "Wij willen beslist voorkomen dat onschuldige mensen veroordeeld worden op grond van het gebruik van een onbetrouwbaar apparaat",
+                        "new_text": "Wij willen niet dat onschuldige mensen straf krijgen door een slechte machine",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Amerika denkt men daar blijkbaar anders over.",
+                "rewritten_sentences": "In Amerika denken ze daar anders over.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c27",
+                        "reason_for_change": "'Men' is formeel, 'ze' is gewoner. 'Blijkbaar' is een lastig woord.",
+                        "start_word": 3,
+                        "end_word": 5,
+                        "original_text": "men daar blijkbaar",
+                        "new_text": "ze daar",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst",
+        "full_text": "De deur is dicht. Het is erg warm in de kamer. In een stoel zit een man. Hij zit met draden vast aan een computer. De politie denkt dat hij iets slechts heeft gedaan. Achter de computer zit een andere man. Hij vraagt: 'Heeft u de jongen meegenomen? Ja of nee?' Hij kijkt heel goed naar het scherm. Daarop staan plaatjes met informatie. De man ziet zo of de verdachte liegt. Het lijkt op een film. Maar in Amerika gebeurt dit echt. De politie gebruikt daar een leugendetector. Dat is een machine die kijkt of iemand liegt. Het woord detector betekent ontdekker. De machine kan niet zien wat iemand denkt. Dat zal ook nooit gebeuren. De machine kijkt naar het lichaam. De machine kijkt naar zweet en de hartslag. Hij kijkt ook naar de adem. Soms let de machine op de stem. Mensen die er veel van weten, zien zo of iemand liegt. In Amerika is de leugendetector heel gewoon. Elk jaar doen een miljoen Amerikanen de test. De politie en de geheime dienst geloven in het apparaat. De test is erg belangrijk in de rechtszaal. De machine wordt ook gebruikt als mensen een baan zoeken. Nederland wilde weten of de machines helpen. Nederland vindt de machines niet goed genoeg. Mensen worden zenuwachtig van de vragen. Ze gaan dan zweten, ook als ze niks fout hebben gedaan. De machine ziet dat zweten. Dan lijkt het alsof de persoon liegt. Daarom gebruiken we in Nederland de leugendetector niet. Wij willen niet dat onschuldige mensen straf krijgen door een slechte machine. In Amerika denken ze daar anders over.",
+        "prompt_id": "T05_moei",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "Mistral/ministral-14b-latest - text": "Stel je voor: een kamer. De deur staat dicht. Het is er benauwd. Een man zit in een stoel. Hij is verdacht van iets ernstigs. Overal om hem heen zitten draden en rubberbanden. Die verbinden hem met een computer. Achter het scherm zit iemand anders. Deze man stelt een vraag: 'Heeft u de jongen ontvoerd? Antwoord met ja of nee.' Hij kijkt naar het scherm. Daar verschijnen grafieken. Die tonen allerlei gegevens. De man achter het scherm kijkt naar de gegevens. Hij besluit: liegt de verdachte of niet? Dit lijkt op een film. Maar het is echt. Het gebeurt elke dag in Amerika. Daar gebruiken ze een leugendetector. Dit is een apparaat. Het checkt of iemand liegt. 'Detector' betekent 'ontdekker'. De machine kan niet in het hoofd kijken. Dat zal ook nooit gebeuren. Een leugendetector meet lichaamsreacties. Het kijkt naar zweten. Het meet hartslag en ademhaling. Soms luistert het ook naar de stem en de manier van praten tijdens het vragen. Experts kijken naar die gegevens. Ze denken: liegt de persoon of niet? In Amerika gebruiken ze vaak leugendetectors. Elk jaar testen ze meer dan een miljoen mensen. De FBI, de politie en de CIA vertrouwen op deze machines. De testresultaten zijn belangrijk in een rechtszaak. Ze gebruiken de machines ook bij sollicitatiegesprekken. In Nederland heeft de overheid gekeken of deze machines nuttig zijn. Ze hebben jarenlang getest. Nu besluiten ze: de machines zijn nog niet betrouwbaar genoeg. Iemand kan gaan zweten of een snellere hartslag krijgen. Dat kan door de spanning tijdens het ondervragen. Ze hebben niets fout gedaan. Toch meet de machine deze reacties. Het lijkt dan alsof ze liegen. Het is logisch. Nederland gebruikt geen leugendetectors. We willen voorkomen dat onschuldige mensen veroordeeld worden. Dat zou kunnen gebeuren door een onbetrouwbare machine. In Amerika vinden ze het wel goed.",
+    "Mistral/ministral-14b-latest - lint": "22",
+    "Mistral/ministral-14b-latest - sent": "0, 1, 31, 4, 10, 11, 17, 50, 33, 23, 18, 1, 23, 36, 23, 22, 29, 46, 26, 13, 29, 8, 29, 28, 37, 28, 29, 40, 17, 40, 26, 18, 25, 0",
+    "Mistral/ministral-14b-latest - chngs": {
+        "text": [
+            {
+                "original_sentence": "De deur is dicht. Het is benauwd in de kamer. In een stoel zit een man die met allerlei draden en rubberbanden verbonden is aan een computer. Hij is verdachte van een misdrijf.",
+                "rewritten_sentences": "Stel je voor: een kamer. De deur staat dicht. Het is er benauwd. Een man zit in een stoel. Hij is verdacht van iets ernstigs. Overal om hem heen zitten draden en rubberbanden. Die verbinden hem met een computer.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "split_sentence_1",
+                        "reason_for_change": "Sentence split to reduce complexity and improve readability by breaking it into smaller, more digestible parts.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "De deur is dicht. Het is benauwd in de kamer.",
+                        "new_text": "Stel je voor: een kamer. De deur staat dicht. Het is er benauwd.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_sentence_2",
+                        "reason_for_change": "Simplified sentence structure to reduce cognitive load and improve clarity.",
+                        "start_word": 11,
+                        "end_word": 27,
+                        "original_text": "In een stoel zit een man die met allerlei draden en rubberbanden verbonden is aan een computer.",
+                        "new_text": "Een man zit in een stoel. Hij is verbonden met een computer. Overal om hem heen zitten draden en rubberbanden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "simplify_sentence_3",
+                        "reason_for_change": "Shortened sentence to make it more direct and easier to understand.",
+                        "start_word": 28,
+                        "end_word": 33,
+                        "original_text": "Hij is verdachte van een misdrijf.",
+                        "new_text": "Hij is verdacht van iets ernstigs.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Achter het beeldscherm zit een andere man. Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?' Terwijl hij dit vraagt, kijkt hij geconcentreerd naar het beeldscherm, waarop in grafiekjes allerlei informatie verschijnt.",
+                "rewritten_sentences": "Achter het scherm zit iemand anders. Deze man stelt een vraag: 'Heeft u de jongen ontvoerd? Antwoord met ja of nee.' Hij kijkt naar het scherm. Daar verschijnen grafieken. Die tonen allerlei gegevens.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_4",
+                        "reason_for_change": "Simplified sentence to reduce complexity and improve readability.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Achter het beeldscherm zit een andere man.",
+                        "new_text": "Achter het scherm zit iemand anders.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "split_sentence_5",
+                        "reason_for_change": "Split sentence to break down complex information and improve clarity.",
+                        "start_word": 11,
+                        "end_word": 23,
+                        "original_text": "Hij vraagt: 'Heeft u de jongen ontvoerd? Ja of nee?'",
+                        "new_text": "Deze man stelt een vraag: 'Heeft u de jongen ontvoerd? Antwoord met ja of nee.'",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "split_sentence_6",
+                        "reason_for_change": "Split sentence to reduce complexity and make it easier to follow.",
+                        "start_word": 24,
+                        "end_word": 37,
+                        "original_text": "Terwijl hij dit vraagt, kijkt hij geconcentreerd naar het beeldscherm, waarop in grafiekjes allerlei informatie verschijnt.",
+                        "new_text": "Hij kijkt naar het scherm. Daar verschijnen grafieken. Die tonen allerlei gegevens.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De ondervrager kan daaruit opmaken of de verdachte de waarheid spreekt of niet.",
+                "rewritten_sentences": "De man achter het scherm kijkt naar de gegevens. Hij besluit: liegt de verdachte of niet?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_7",
+                        "reason_for_change": "Simplified sentence to make it more direct and easier to understand.",
+                        "start_word": 1,
+                        "end_word": 12,
+                        "original_text": "De ondervrager kan daaruit opmaken",
+                        "new_text": "De man achter het scherm kijkt naar de gegevens. Hij besluit",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_question_8",
+                        "reason_for_change": "Simplified the question to make it more straightforward.",
+                        "start_word": 13,
+                        "end_word": 24,
+                        "original_text": "of de verdachte de waarheid spreekt of niet.",
+                        "new_text": "liegt de verdachte of niet?",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm, maar het is de dagelijkse werkelijkheid in Amerika. Daar worden verdachten ondervraagd met behulp van een leugendetector, een machine die nagaat of iemand liegt of niet.",
+                "rewritten_sentences": "Dit lijkt op een film. Maar het is echt. Het gebeurt elke dag in Amerika. Daar gebruiken ze een leugendetector. Dit is een apparaat. Het checkt of iemand liegt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_comparison_9",
+                        "reason_for_change": "Simplified comparison to make it more accessible.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Dit lijkt een sc\u00e8ne uit een sciencefictionfilm",
+                        "new_text": "Dit lijkt op een film.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "split_sentence_10",
+                        "reason_for_change": "Split sentence to break down complex information.",
+                        "start_word": 11,
+                        "end_word": 17,
+                        "original_text": "maar het is de dagelijkse werkelijkheid in Amerika.",
+                        "new_text": "Maar het is echt. Het gebeurt elke dag in Amerika.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "split_sentence_11",
+                        "reason_for_change": "Split sentence to make it clearer and more direct.",
+                        "start_word": 18,
+                        "end_word": 30,
+                        "original_text": "Daar worden verdachten ondervraagd met behulp van een leugendetector,",
+                        "new_text": "Daar gebruiken ze een leugendetector. Dit is een apparaat.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    },
+                    {
+                        "change_id": "simplify_sentence_12",
+                        "reason_for_change": "Simplified sentence to make it more straightforward.",
+                        "start_word": 31,
+                        "end_word": 40,
+                        "original_text": "een machine die nagaat of iemand liegt of niet.",
+                        "new_text": "Het checkt of iemand liegt.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het woord 'detector' betekent niets anders dan 'ontdekker'.",
+                "rewritten_sentences": "'Detector' betekent 'ontdekker'.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_13",
+                        "reason_for_change": "Simplified sentence to remove redundancy and make it more concise.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Het woord 'detector' betekent niets anders dan",
+                        "new_text": "",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "shorten_sentence_14",
+                        "reason_for_change": "Shortened sentence to make it more direct.",
+                        "start_word": 11,
+                        "end_word": 20,
+                        "original_text": "'ontdekker'.",
+                        "new_text": "'Detector' betekent 'ontdekker'.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Die machine kan niet in het hoofd van een verdachte kijken. En zover zal het ook wel nooit komen.",
+                "rewritten_sentences": "De machine kan niet in het hoofd kijken. Dat zal ook nooit gebeuren.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_15",
+                        "reason_for_change": "Simplified sentence to make it more direct and easier to understand.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Die machine kan niet in het hoofd van een verdachte kijken.",
+                        "new_text": "De machine kan niet in het hoofd kijken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_sentence_16",
+                        "reason_for_change": "Simplified sentence to make it more straightforward.",
+                        "start_word": 16,
+                        "end_word": 27,
+                        "original_text": "En zover zal het ook wel nooit komen.",
+                        "new_text": "Dat zal ook nooit gebeuren.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een leugendetector meet de reactie van het lichaam. Zo'n machine meet het zweten, de hartslag, de ademhaling en onderzoekt soms ook de manier van praten en de stem tijdens de ondervraging.",
+                "rewritten_sentences": "Een leugendetector meet lichaamsreacties. Het kijkt naar zweten. Het meet hartslag en ademhaling. Soms luistert het ook naar de stem en de manier van praten tijdens het vragen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_17",
+                        "reason_for_change": "Simplified sentence to make it more direct.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Een leugendetector meet de reactie van het lichaam.",
+                        "new_text": "Een leugendetector meet lichaamsreacties.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "split_sentence_18",
+                        "reason_for_change": "Split sentence to break down complex information.",
+                        "start_word": 16,
+                        "end_word": 25,
+                        "original_text": "Zo'n machine meet het zweten, de hartslag, de ademhaling",
+                        "new_text": "Het kijkt naar zweten. Het meet hartslag en ademhaling.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "split_sentence_19",
+                        "reason_for_change": "Split sentence to make it clearer.",
+                        "start_word": 26,
+                        "end_word": 40,
+                        "original_text": "en onderzoekt soms ook de manier van praten en de stem tijdens de ondervraging.",
+                        "new_text": "Soms luistert het ook naar de stem en de manier van praten tijdens het vragen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Uit die metingen denken specialisten te kunnen afleiden of iemand liegt of niet.",
+                "rewritten_sentences": "Experts kijken naar die gegevens. Ze denken: liegt de persoon of niet?",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_20",
+                        "reason_for_change": "Simplified sentence to make it more direct and easier to understand.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Uit die metingen denken specialisten",
+                        "new_text": "Experts kijken naar die gegevens.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_sentence_21",
+                        "reason_for_change": "Simplified sentence to make it more straightforward.",
+                        "start_word": 11,
+                        "end_word": 23,
+                        "original_text": "te kunnen afleiden of iemand liegt of niet.",
+                        "new_text": "Ze denken: liegt de persoon of niet?",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Amerika is de leugendetector een ingeburgerd verschijnsel. Jaarlijks worden er meer dan een miljoen Amerikanen mee getest.",
+                "rewritten_sentences": "In Amerika gebruiken ze vaak leugendetectors. Elk jaar testen ze meer dan een miljoen mensen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_22",
+                        "reason_for_change": "Simplified sentence to make it more direct.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "In Amerika is de leugendetector een ingeburgerd verschijnsel.",
+                        "new_text": "In Amerika gebruiken ze vaak leugendetectors.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_sentence_23",
+                        "reason_for_change": "Simplified sentence to make it more straightforward.",
+                        "start_word": 16,
+                        "end_word": 28,
+                        "original_text": "Jaarlijks worden er meer dan een miljoen Amerikanen mee getest.",
+                        "new_text": "Elk jaar testen ze meer dan een miljoen mensen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De FBI, de landelijke politie en de geheime dienst CIA vertrouwen sterk op dit apparaat. De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak. De machine wordt zelfs gebruikt bij sollicitatiegesprekken.",
+                "rewritten_sentences": "De FBI, de politie en de CIA vertrouwen op deze machines. De testresultaten zijn belangrijk in een rechtszaak. Ze gebruiken de machines ook bij sollicitatiegesprekken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_24",
+                        "reason_for_change": "Simplified sentence to make it more concise.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "De FBI, de landelijke politie en de geheime dienst CIA vertrouwen sterk op dit apparaat.",
+                        "new_text": "De FBI, de politie en de CIA vertrouwen op deze machines.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_sentence_25",
+                        "reason_for_change": "Simplified sentence to make it more direct.",
+                        "start_word": 21,
+                        "end_word": 35,
+                        "original_text": "De uitkomst van de leugendetectortest speelt een grote rol bij een rechtszaak.",
+                        "new_text": "De testresultaten zijn belangrijk in een rechtszaak.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_sentence_26",
+                        "reason_for_change": "Simplified sentence to make it more straightforward.",
+                        "start_word": 36,
+                        "end_word": 48,
+                        "original_text": "De machine wordt zelfs gebruikt bij sollicitatiegesprekken.",
+                        "new_text": "Ze gebruiken de machines ook bij sollicitatiegesprekken.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Nederland heeft de overheid ook laten onderzoeken of de invoering van deze machines nut heeft. Na jarenlange experimenten heeft men hier besloten dat de apparaten nog niet betrouwbaar genoeg zijn.",
+                "rewritten_sentences": "In Nederland heeft de overheid gekeken of deze machines nuttig zijn. Ze hebben jarenlang getest. Nu besluiten ze: de machines zijn nog niet betrouwbaar genoeg.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_27",
+                        "reason_for_change": "Simplified sentence to make it more direct.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "In Nederland heeft de overheid ook laten onderzoeken of de invoering van deze machines nut heeft.",
+                        "new_text": "In Nederland heeft de overheid gekeken of deze machines nuttig zijn.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "split_sentence_28",
+                        "reason_for_change": "Split sentence to break down complex information.",
+                        "start_word": 16,
+                        "end_word": 25,
+                        "original_text": "Na jarenlange experimenten heeft men hier besloten",
+                        "new_text": "Ze hebben jarenlang getest. Nu besluiten ze",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_sentence_29",
+                        "reason_for_change": "Simplified sentence to make it more straightforward.",
+                        "start_word": 26,
+                        "end_word": 40,
+                        "original_text": "dat de apparaten nog niet betrouwbaar genoeg zijn.",
+                        "new_text": "de machines zijn nog niet betrouwbaar genoeg.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Mensen kunnen door de spannende situatie van het ondervragen gaan zweten of een hogere hartslag krijgen zonder dat ze ook maar iets misdaan hebben. Toch meet de machine die reacties en lijkt het erop dat de ondervraagde aan het liegen is.",
+                "rewritten_sentences": "Iemand kan gaan zweten of een snellere hartslag krijgen. Dat kan door de spanning tijdens het ondervragen. Ze hebben niets fout gedaan. Toch meet de machine deze reacties. Het lijkt dan alsof ze liegen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_30",
+                        "reason_for_change": "Simplified sentence to make it more direct.",
+                        "start_word": 1,
+                        "end_word": 15,
+                        "original_text": "Mensen kunnen door de spannende situatie van het ondervragen gaan zweten",
+                        "new_text": "Iemand kan gaan zweten",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "split_sentence_31",
+                        "reason_for_change": "Split sentence to break down complex information.",
+                        "start_word": 16,
+                        "end_word": 25,
+                        "original_text": "of een hogere hartslag krijgen zonder dat ze ook maar iets misdaan hebben.",
+                        "new_text": "of een snellere hartslag krijgen. Dat kan door de spanning tijdens het ondervragen.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_sentence_32",
+                        "reason_for_change": "Simplified sentence to make it clearer.",
+                        "start_word": 26,
+                        "end_word": 35,
+                        "original_text": "Toch meet de machine die reacties",
+                        "new_text": "Toch meet de machine deze reacties.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_sentence_33",
+                        "reason_for_change": "Simplified sentence to make it more straightforward.",
+                        "start_word": 36,
+                        "end_word": 48,
+                        "original_text": "en lijkt het erop dat de ondervraagde aan het liegen is.",
+                        "new_text": "Het lijkt dan alsof ze liegen.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het is niet vreemd dat we in Nederland geen gebruik maken van de leugendetector. Wij willen beslist voorkomen dat onschuldige mensen veroordeeld worden op grond van het gebruik van een onbetrouwbaar apparaat.",
+                "rewritten_sentences": "Het is logisch. Nederland gebruikt geen leugendetectors. We willen voorkomen dat onschuldige mensen veroordeeld worden. Dat zou kunnen gebeuren door een onbetrouwbare machine.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_34",
+                        "reason_for_change": "Simplified sentence to make it more direct.",
+                        "start_word": 1,
+                        "end_word": 10,
+                        "original_text": "Het is niet vreemd dat we in Nederland",
+                        "new_text": "Het is logisch.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "simplify_sentence_35",
+                        "reason_for_change": "Simplified sentence to make it more straightforward.",
+                        "start_word": 11,
+                        "end_word": 20,
+                        "original_text": "geen gebruik maken van de leugendetector.",
+                        "new_text": "Nederland gebruikt geen leugendetectors.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "split_sentence_36",
+                        "reason_for_change": "Split sentence to break down complex information.",
+                        "start_word": 21,
+                        "end_word": 35,
+                        "original_text": "Wij willen beslist voorkomen dat onschuldige mensen veroordeeld worden",
+                        "new_text": "We willen voorkomen dat onschuldige mensen veroordeeld worden.",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    },
+                    {
+                        "change_id": "simplify_sentence_37",
+                        "reason_for_change": "Simplified sentence to make it clearer.",
+                        "start_word": 36,
+                        "end_word": 50,
+                        "original_text": "op grond van het gebruik van een onbetrouwbaar apparaat.",
+                        "new_text": "Dat zou kunnen gebeuren door een onbetrouwbare machine.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In Amerika denkt men daar blijkbaar anders over.",
+                "rewritten_sentences": "In Amerika vinden ze het wel goed.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "simplify_sentence_38",
+                        "reason_for_change": "Simplified sentence to make it more direct and easier to understand.",
+                        "start_word": 1,
+                        "end_word": 20,
+                        "original_text": "In Amerika denkt men daar blijkbaar anders over.",
+                        "new_text": "In Amerika vinden ze het wel goed.",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "uitleggende tekst (non-fictie)",
+        "full_text": "Stel je voor: een kamer. De deur staat dicht. Het is er benauwd. Een man zit in een stoel. Hij is verdacht van iets ernstigs. Overal om hem heen zitten draden en rubberbanden. Die verbinden hem met een computer. Achter het scherm zit iemand anders. Deze man stelt een vraag: 'Heeft u de jongen ontvoerd? Antwoord met ja of nee.' Hij kijkt naar het scherm. Daar verschijnen grafieken. Die tonen allerlei gegevens. De man achter het scherm kijkt naar de gegevens. Hij besluit: liegt de verdachte of niet? Dit lijkt op een film. Maar het is echt. Het gebeurt elke dag in Amerika. Daar gebruiken ze een leugendetector. Dit is een apparaat. Het checkt of iemand liegt. 'Detector' betekent 'ontdekker'. De machine kan niet in het hoofd kijken. Dat zal ook nooit gebeuren. Een leugendetector meet lichaamsreacties. Het kijkt naar zweten. Het meet hartslag en ademhaling. Soms luistert het ook naar de stem en de manier van praten tijdens het vragen. Experts kijken naar die gegevens. Ze denken: liegt de persoon of niet? In Amerika gebruiken ze vaak leugendetectors. Elk jaar testen ze meer dan een miljoen mensen. De FBI, de politie en de CIA vertrouwen op deze machines. De testresultaten zijn belangrijk in een rechtszaak. Ze gebruiken de machines ook bij sollicitatiegesprekken. In Nederland heeft de overheid gekeken of deze machines nuttig zijn. Ze hebben jarenlang getest. Nu besluiten ze: de machines zijn nog niet betrouwbaar genoeg. Iemand kan gaan zweten of een snellere hartslag krijgen. Dat kan door de spanning tijdens het ondervragen. Ze hebben niets fout gedaan. Toch meet de machine deze reacties. Het lijkt dan alsof ze liegen. Het is logisch. Nederland gebruikt geen leugendetectors. We willen voorkomen dat onschuldige mensen veroordeeld worden. Dat zou kunnen gebeuren door een onbetrouwbare machine. In Amerika vinden ze het wel goed.",
+        "prompt_id": "T05_moei",
+        "engine": "Mistral/ministral-14b-latest"
+    },
+    "created": "2026-06-07 23:38:04.395508"
+}
