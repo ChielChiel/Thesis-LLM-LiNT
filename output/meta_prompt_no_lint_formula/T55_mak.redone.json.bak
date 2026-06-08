@@ -1,0 +1,165 @@
+{
+    "prompt_id": "T55_mak",
+    "Org - text": "Werkende jongeren\n\nJongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben. Tot die tijd mogen ze wel een bijbaan en vakantiebaan hebben of stage lopen. Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen.\n\nOm te voorkomen dat jongeren te zwaar werk doen of te veel werken, zijn er regels. De Inspectie SZW let erop dat deze regels worden gevolgd.\n\nKinderen van 12 jaar mogen alleen werken als onderdeel van een werkstraf of een leerproject. Het kind moet altijd onder toezicht van een volwassene werken. Voor kinderen tot 13 jaar die meewerken aan een uitvoering gelden andere regels.\n\nKinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht, niet-industrieel werk. Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken. Voor kinderen vanaf 13 jaar die meewerken aan een uitvoering gelden andere regels.\n\nKinderen van 15 jaar mogen zelfstandig licht, niet-industrieel werk doen, zoals vakken vullen in een supermarkt en avondkranten en reclamefolders bezorgen. Voor het bezorgen van ochtendkranten gelden extra regels. De maximale werktijden voor kinderen van 15 jaar hangen af van of het kind leerplichtig is en of het wel of geen schooldag is.\n\nJongeren van 16 en 17 jaar mogen bijna elk soort werk doen, maar geen gevaarlijk werk. Bovendien mag het werk hen niet verhinderen om naar school te gaan. Er gelden andere regels voor werktijden voor 16- en 17-jarigen dan voor volwassenen.\n\nKinderen van 14 en 15 jaar mogen onder bepaalde voorwaarden stage lopen. Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf, of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd. Maatschappelijke stage is een vorm van leren binnen het voortgezet onderwijs (vo). Leerlingen doen vrijwilligerswerk om anderen te helpen. Kinderen van 13, 14 en 15 jaar mogen tijdens hun maatschappelijke stage licht, niet-industrieel werk doen.",
+    "Org - lint": "39",
+    "Org - sent": "26, 30, 30, 51, 51, 35, 37, 35, 48, 31, 35, 40, 42, 28, 46, 30, 60, 36, 63, 58, 20, 49",
+    "Gemini/gemini-3-flash-preview - text": "Jongeren moeten naar school tot ze 18 jaar zijn of een diploma hebben. Er zijn regels voor het soort werk dat zij mogen doen. Er zijn regels zodat jongeren niet te zwaar of te veel werken. De overheid controleert of iedereen de regels volgt. Kinderen van 13 en 14 jaar mogen alleen simpel werk doen. Zij mogen bijvoorbeeld helpen met klusjes. In vakanties mogen zij meer uren werken dan wanneer zij naar school gaan. Jongeren van 16 en 17 jaar mogen bijna alles doen. Alleen gevaarlijk werk mag niet. Er moet een afspraak zijn tussen de school en de baas. Of de gemeente moet toestemming geven.",
+    "Gemini/gemini-3-flash-preview - lint": "25",
+    "Gemini/gemini-3-flash-preview - sent": "26, 20, 42, 41, 25, 31, 23, 15, 17, 26, 28",
+    "Gemini/gemini-3-flash-preview - chngs": {
+        "text": [
+            {
+                "original_sentence": "Jongeren horen op school te zitten totdat ze 18 jaar zijn of een startkwalificatie hebben.",
+                "rewritten_sentences": "Jongeren moeten naar school tot ze 18 jaar zijn of een diploma hebben.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "1",
+                        "reason_for_change": "Gebruik van vaker voorkomende woorden om de tekst simpeler te maken.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "horen op school te zitten",
+                        "new_text": "moeten naar school",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "2",
+                        "reason_for_change": "Het woord startkwalificatie is een moeilijk woord voor jongeren.",
+                        "start_word": 13,
+                        "end_word": 13,
+                        "original_text": "startkwalificatie",
+                        "new_text": "diploma",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hieraan zijn regels verbonden, bijvoorbeeld over het soort werk dat ze mogen doen.",
+                "rewritten_sentences": "Er zijn regels voor het soort werk dat zij mogen doen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "3",
+                        "reason_for_change": "Zinsconstructie vereenvoudigd door hulpwerkwoorden en passieve vorm te schrappen.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "Hieraan zijn regels verbonden",
+                        "new_text": "Er zijn regels",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Om te voorkomen dat jongeren te zwaar werk doen of te veel werken, zijn er regels.",
+                "rewritten_sentences": "Er zijn regels zodat jongeren niet te zwaar of te veel werken.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "4",
+                        "reason_for_change": "De structuur 'Om te voorkomen dat' is complexer dan een directe 'zodat' verbinding.",
+                        "start_word": 0,
+                        "end_word": 3,
+                        "original_text": "Om te voorkomen dat",
+                        "new_text": "Er zijn regels zodat",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Inspectie SZW let erop dat deze regels worden gevolgd.",
+                "rewritten_sentences": "De overheid controleert of iedereen de regels volgt.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "5",
+                        "reason_for_change": "Inspectie SZW is een specifieke term die minder bekend is dan overheid.",
+                        "start_word": 1,
+                        "end_word": 2,
+                        "original_text": "Inspectie SZW",
+                        "new_text": "overheid",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Kinderen van 13 en 14 jaar mogen alleen klusjes doen en helpen bij licht, niet-industrieel werk.",
+                "rewritten_sentences": "Kinderen van 13 en 14 jaar mogen alleen simpel werk doen. Zij mogen bijvoorbeeld helpen met klusjes.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "6",
+                        "reason_for_change": "De term 'niet-industrieel' is abstract en moeilijk.",
+                        "start_word": 14,
+                        "end_word": 15,
+                        "original_text": "niet-industrieel werk",
+                        "new_text": "simpel werk",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "7",
+                        "reason_for_change": "De zin is gesplitst om de hoeveelheid informatie per deelzin te beperken.",
+                        "start_word": 8,
+                        "end_word": 15,
+                        "original_text": "klusjes doen en helpen bij licht, niet-industrieel werk",
+                        "new_text": "simpel werk doen. Zij mogen bijvoorbeeld helpen met klusjes",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken.",
+                "rewritten_sentences": "In vakanties mogen zij meer uren werken dan wanneer zij naar school gaan.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "8",
+                        "reason_for_change": "De vergelijking tussen uren is directer gemaakt om de cognitieve last te verlagen.",
+                        "start_word": 0,
+                        "end_word": 20,
+                        "original_text": "Het aantal uren dat kinderen van 13 en 14 jaar mogen werken in schoolweken verschilt van het aantal dat geldt voor vakantieweken",
+                        "new_text": "In vakanties mogen zij meer uren werken dan wanneer zij naar school gaan",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Jongeren van 16 en 17 jaar mogen bijna elk soort werk doen, maar geen gevaarlijk werk.",
+                "rewritten_sentences": "Jongeren van 16 en 17 jaar mogen bijna alles doen. Alleen gevaarlijk werk mag niet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "9",
+                        "reason_for_change": "Opsplitsen van de zin voor betere leesbaarheid.",
+                        "start_word": 10,
+                        "end_word": 15,
+                        "original_text": "doen, maar geen gevaarlijk werk",
+                        "new_text": "doen. Alleen gevaarlijk werk mag niet",
+                        "rewrite_category": "verlaag contentwoorden per deelzin"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Er moet een stageovereenkomst gesloten zijn tussen de school en het bedrijf, of de burgemeester en wethouders moeten een verzoek tot vervangende leerplicht hebben goedgekeurd.",
+                "rewritten_sentences": "Er moet een afspraak zijn tussen de school en de baas. Of de gemeente moet toestemming geven.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "10",
+                        "reason_for_change": "Stageovereenkomst is een lang, lastig woord.",
+                        "start_word": 2,
+                        "end_word": 2,
+                        "original_text": "stageovereenkomst",
+                        "new_text": "afspraak",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    },
+                    {
+                        "change_id": "11",
+                        "reason_for_change": "Burgemeester en wethouders vervangen door de gemeente.",
+                        "start_word": 12,
+                        "end_word": 15,
+                        "original_text": "de burgemeester en wethouders",
+                        "new_text": "de gemeente",
+                        "rewrite_category": "verhoog woordfrequentie"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Informatieve tekst",
+        "full_text": "Jongeren moeten naar school tot ze 18 jaar zijn of een diploma hebben. Er zijn regels voor het soort werk dat zij mogen doen. Er zijn regels zodat jongeren niet te zwaar of te veel werken. De overheid controleert of iedereen de regels volgt. Kinderen van 13 en 14 jaar mogen alleen simpel werk doen. Zij mogen bijvoorbeeld helpen met klusjes. In vakanties mogen zij meer uren werken dan wanneer zij naar school gaan. Jongeren van 16 en 17 jaar mogen bijna alles doen. Alleen gevaarlijk werk mag niet. Er moet een afspraak zijn tussen de school en de baas. Of de gemeente moet toestemming geven.",
+        "prompt_id": "T55_mak",
+        "engine": "Gemini/gemini-3-flash-preview"
+    },
+    "created": "2026-06-08 18:53:07.699365"
+}

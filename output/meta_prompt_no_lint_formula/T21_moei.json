@@ -299,13 +299,315 @@
         "prompt_id": "T21_moei",
         "engine": "ChatGPT 4.1 mini/gpt-4.1-mini"
     },
-    "GPT 5.1 mini/gpt-5-mini - text": "",
-    "GPT 5.1 mini/gpt-5-mini - lint": NaN,
-    "GPT 5.1 mini/gpt-5-mini - sent": NaN,
+    "GPT 5.1 mini/gpt-5-mini - text": "Opmaat van de Tweede Wereldoorlog. De Eerste Wereldoorlog begon op een bepaalde manier. De Tweede Wereldoorlog begon anders. In 1914 gingen Europeanen bijna gretig de oorlog in. 22 jaar later wekten de herinneringen aan die oorlog angst bij mensen. De strijd duurde vier jaar, van 1914 tot 1918. De meeste gevechten vonden plaats in loopgraven. Ongeveer 8.500.000 mensen kwamen om. In september 1939 herinnerden veel mensen zich die oorlog nog goed. De herinneringen lagen nog vers in het geheugen. In de jaren v\u00f3\u00f3r de Tweede Wereldoorlog probeerden regeringsleiders en diplomaten onenigheid met Duitsland te voorkomen. Vooral Groot-Brittanni\u00eb en Frankrijk deden dat. Hitler kwam in 1933 aan de macht. Hij stuurde vrijwel meteen aan op een militaire confrontatie. Duitsland verliet de Volkenbond. Hitler zei dat de Duitsers Lebensraum nodig hadden. Dat schond de bepalingen uit het Verdrag van Versailles. Dat deerde Hitler niet. De Duitse economie richtte zich snel op wapenproductie. De krijgsmacht werd uitgebreid. De Duitse economie kon zich niet volledig voorzien. Daarom streefde Duitsland naar meer grondgebied. Andere Europese landen protesteerden tegen deze plannen. Ze waren echter bang voor een nieuwe oorlog. In 1936 trokken Duitse troepen ongestraft het Rijnland binnen. Hitler zei dat de Duitse bevolking later gevoed moest worden met graan uit Oekra\u00efne. Die graanvelden liggen in Oost-Europa. Groot-Brittanni\u00eb was Europa's machtigste natie. In de jaren dertig voerde het een appeasementpolitiek. Het vermeed internationale confrontaties. Frankrijk kende veel regeringscrisissen. Duitsland hoefde niet bang te zijn voor Frankrijk. Op 13 maart 1938 nam Hitler Oostenrijk in. Dit gebeurde zonder veel tegenstand. Eind september 1938 vond de conferentie van M\u00fcnchen plaats. De deelnemers probeerden Hitler te stoppen. Zij gaven hem het Sudetenland in ruil voor beloften. Die beloften waren vals. In het voorjaar van 1939 veroverde Hitler heel Tsjecho-Slowakije. Dit schond verdragen en akkoorden. Groot-Brittanni\u00eb en Frankrijk zagen nu in dat men met Hitler geen akkoorden kon sluiten. In augustus 1939 onderhandelden Von Ribbentrop en Molotov over een niet-aanvalsverdrag tussen Duitsland en Rusland. Intussen hoopten Frankrijk en Engeland dat de oorlog van 1914-1918 zich niet zou herhalen. Een week later viel Duitsland Polen binnen.",
+    "GPT 5.1 mini/gpt-5-mini - lint": "34",
+    "GPT 5.1 mini/gpt-5-mini - sent": "35, 26, 36, 42, 25, 36, 0, 27, 45, 56, 14, 18, 48, 31, 0, 74, 57, 47, 55, 46, 36, 38, 21, 46, 32, 24, 42, 39, 58, 27, 16, 14, 39, 35, 26, 47, 41, 18, 66, 43, 42, 13",
     "GPT 5.1 mini/gpt-5-mini - chngs": {
-        "text": [],
-        "text_genre": "NA",
-        "full_text": "",
+        "text": [
+            {
+                "original_sentence": "Opmaat van de Tweede Wereldoorlog",
+                "rewritten_sentences": "Opmaat van de Tweede Wereldoorlog.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c1",
+                        "reason_for_change": "Titel is kort en duidelijk; geen verdere opsplitsing nodig.",
+                        "start_word": 1,
+                        "end_word": 5,
+                        "original_text": "Opmaat van de Tweede Wereldoorlog",
+                        "new_text": "Opmaat van de Tweede Wereldoorlog.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Eerste Wereldoorlog en de Tweede Wereldoorlog begonnen op tegengestelde wijze.",
+                "rewritten_sentences": "De Eerste Wereldoorlog begon op een bepaalde manier. De Tweede Wereldoorlog begon anders.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c2",
+                        "reason_for_change": "Opgesplitst in twee korte zinnen om de zinslengte en afhankelijkheden te verminderen.",
+                        "start_word": 6,
+                        "end_word": 16,
+                        "original_text": "De Eerste Wereldoorlog en de Tweede Wereldoorlog begonnen op tegengestelde wijze.",
+                        "new_text": "De Eerste Wereldoorlog begon op een bepaalde manier. De Tweede Wereldoorlog begon anders.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Terwijl in 1914 de Europeanen bijna gretig de oorlog in gingen, wekten de herinneringen aan de Eerste Wereldoorlog 22 jaar later gevoelens van angst op.",
+                "rewritten_sentences": "In 1914 gingen Europeanen bijna gretig de oorlog in. 22 jaar later wekten de herinneringen aan die oorlog angst bij mensen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c3",
+                        "reason_for_change": "Gesplitst in twee eenvoudige zinnen en plaatsing van tijdsaanduiding vereenvoudigd.",
+                        "start_word": 17,
+                        "end_word": 41,
+                        "original_text": "Terwijl in 1914 de Europeanen bijna gretig de oorlog in gingen, wekten de herinneringen aan de Eerste Wereldoorlog 22 jaar later gevoelens van angst op.",
+                        "new_text": "In 1914 gingen Europeanen bijna gretig de oorlog in. 22 jaar later wekten de herinneringen aan die oorlog angst bij mensen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De vier jaar lange strijd tussen 1914 en 1918, die grotendeels door militairen in de loopgraven was gevoerd, had 8.500.000 doden opgeleverd.",
+                "rewritten_sentences": "De strijd duurde vier jaar, van 1914 tot 1918. De meeste gevechten vonden plaats in loopgraven. Ongeveer 8.500.000 mensen kwamen om.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c4",
+                        "reason_for_change": "Lange bijzin opgesplitst in korte, feitelijke zinnen om de leesbaarheid te verlagen.",
+                        "start_word": 42,
+                        "end_word": 63,
+                        "original_text": "De vier jaar lange strijd tussen 1914 en 1918, die grotendeels door militairen in de loopgraven was gevoerd, had 8.500.000 doden opgeleverd.",
+                        "new_text": "De strijd duurde vier jaar, van 1914 tot 1918. De meeste gevechten vonden plaats in loopgraven. Ongeveer 8.500.000 mensen kwamen om.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "En dat lag in september 1939, in de opmaat van de Tweede Wereldoorlog, bij veel mensen nog vers in het geheugen.",
+                "rewritten_sentences": "In september 1939 herinnerden veel mensen zich die oorlog nog goed. De herinneringen lagen nog vers in het geheugen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c5",
+                        "reason_for_change": "Opdeling in twee korte zinnen en vereenvoudiging van zinsbouw.",
+                        "start_word": 64,
+                        "end_word": 84,
+                        "original_text": "En dat lag in september 1939, in de opmaat van de Tweede Wereldoorlog, bij veel mensen nog vers in het geheugen.",
+                        "new_text": "In september 1939 herinnerden veel mensen zich die oorlog nog goed. De herinneringen lagen nog vers in het geheugen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "In de jaren die voorafgaan aan de Tweede Wereldoorlog hadden regeringsleiders en diplomaten uit met name Groot-Brittanni\u00eb en Frankrijk er alles aan gedaan om onenigheid met Duitsland te voorkomen.",
+                "rewritten_sentences": "In de jaren v\u00f3\u00f3r de Tweede Wereldoorlog probeerden regeringsleiders en diplomaten onenigheid met Duitsland te voorkomen. Vooral Groot-Brittanni\u00eb en Frankrijk deden dat.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c6",
+                        "reason_for_change": "Zin opgesplitst en onderwerp dichterbij geplaatst om complexiteit te verminderen.",
+                        "start_word": 85,
+                        "end_word": 113,
+                        "original_text": "In de jaren die voorafgaan aan de Tweede Wereldoorlog hadden regeringsleiders en diplomaten uit met name Groot-Brittanni\u00eb en Frankrijk er alles aan gedaan om onenigheid met Duitsland te voorkomen.",
+                        "new_text": "In de jaren v\u00f3\u00f3r de Tweede Wereldoorlog probeerden regeringsleiders en diplomaten onenigheid met Duitsland te voorkomen. Vooral Groot-Brittanni\u00eb en Frankrijk deden dat.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hitler stuurde na zijn machtsovername in 1933 vrijwel meteen aan op een militaire confrontatie.",
+                "rewritten_sentences": "Hitler kwam in 1933 aan de macht. Hij stuurde vrijwel meteen aan op een militaire confrontatie.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c7",
+                        "reason_for_change": "Opdeling in twee korte zinnen om informatiestappen duidelijker te maken.",
+                        "start_word": 114,
+                        "end_word": 127,
+                        "original_text": "Hitler stuurde na zijn machtsovername in 1933 vrijwel meteen aan op een militaire confrontatie.",
+                        "new_text": "Hitler kwam in 1933 aan de macht. Hij stuurde vrijwel meteen aan op een militaire confrontatie.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Duitsland verliet de Volkenbond en Hitler verkondigde dat de Duitsers Lebensraum nodig hadden.",
+                "rewritten_sentences": "Duitsland verliet de Volkenbond. Hitler zei dat de Duitsers Lebensraum nodig hadden.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c8",
+                        "reason_for_change": "Samengestelde zin opgesplitst in twee losse feiten om leesafstand te verlagen.",
+                        "start_word": 128,
+                        "end_word": 140,
+                        "original_text": "Duitsland verliet de Volkenbond en Hitler verkondigde dat de Duitsers Lebensraum nodig hadden.",
+                        "new_text": "Duitsland verliet de Volkenbond. Hitler zei dat de Duitsers Lebensraum nodig hadden.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Dat hij daarmee de bepalingen uit het Verdrag van Versailles schond, deerde hem niet.",
+                "rewritten_sentences": "Dat schond de bepalingen uit het Verdrag van Versailles. Dat deerde Hitler niet.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c9",
+                        "reason_for_change": "Bijzin opgesplitst in twee korte zinnen voor duidelijkheid en kortere afhankelijkheden.",
+                        "start_word": 141,
+                        "end_word": 154,
+                        "original_text": "Dat hij daarmee de bepalingen uit het Verdrag van Versailles schond, deerde hem niet.",
+                        "new_text": "Dat schond de bepalingen uit het Verdrag van Versailles. Dat deerde Hitler niet.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Duitse economie werd zo snel mogelijk op wapenproductie geconcentreerd en de krijgsmacht werd uitgebreid.",
+                "rewritten_sentences": "De Duitse economie richtte zich snel op wapenproductie. De krijgsmacht werd uitgebreid.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c10",
+                        "reason_for_change": "Samengestelde zin verdeeld in twee korte zinnen om complexiteit te verminderen.",
+                        "start_word": 155,
+                        "end_word": 169,
+                        "original_text": "De Duitse economie werd zo snel mogelijk op wapenproductie geconcentreerd en de krijgsmacht werd uitgebreid.",
+                        "new_text": "De Duitse economie richtte zich snel op wapenproductie. De krijgsmacht werd uitgebreid.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Omdat de Duitse economie zichzelf niet volledig kon voorzien, streefde Duitsland naar gebiedsexpansie.",
+                "rewritten_sentences": "De Duitse economie kon zich niet volledig voorzien. Daarom streefde Duitsland naar meer grondgebied.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c11",
+                        "reason_for_change": "Oorzaak-gevolgzin opgesplitst in twee korte zinnen voor helderheid.",
+                        "start_word": 170,
+                        "end_word": 182,
+                        "original_text": "Omdat de Duitse economie zichzelf niet volledig kon voorzien, streefde Duitsland naar gebiedsexpansie.",
+                        "new_text": "De Duitse economie kon zich niet volledig voorzien. Daarom streefde Duitsland naar meer grondgebied.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "De Europese landen maakten bezwaar hiertegen, maar waren erg beducht voor een nieuwe oorlog.",
+                "rewritten_sentences": "Andere Europese landen protesteerden tegen deze plannen. Ze waren echter bang voor een nieuwe oorlog.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c12",
+                        "reason_for_change": "Tegengestelde zaak opgesplitst in twee korte zinnen om de informatie stap voor stap te presenteren.",
+                        "start_word": 183,
+                        "end_word": 196,
+                        "original_text": "De Europese landen maakten bezwaar hiertegen, maar waren erg beducht voor een nieuwe oorlog.",
+                        "new_text": "Andere Europese landen protesteerden tegen deze plannen. Ze waren echter bang voor een nieuwe oorlog.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Zo konden de Duitse troepen in 1936 ongestraft het Rijnland binnendringen, terwijl Hitler verkondigde dat de Duitse bevolking in de toekomst gevoed zou moeten worden met voedsel van de Oekra\u00efense graanvelden, in het oosten van Europa.",
+                "rewritten_sentences": "In 1936 trokken Duitse troepen ongestraft het Rijnland binnen. Hitler zei dat de Duitse bevolking later gevoed moest worden met graan uit Oekra\u00efne. Die graanvelden liggen in Oost-Europa.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c13",
+                        "reason_for_change": "Zeer lange samengestelde zin opgesplitst in meerdere korte zinnen en complexe zinsdelen verhelderd.",
+                        "start_word": 197,
+                        "end_word": 232,
+                        "original_text": "Zo konden de Duitse troepen in 1936 ongestraft het Rijnland binnendringen, terwijl Hitler verkondigde dat de Duitse bevolking in de toekomst gevoed zou moeten worden met voedsel van de Oekra\u00efense graanvelden, in het oosten van Europa.",
+                        "new_text": "In 1936 trokken Duitse troepen ongestraft het Rijnland binnen. Hitler zei dat de Duitse bevolking later gevoed moest worden met graan uit Oekra\u00efne. Die graanvelden liggen in Oost-Europa.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Europa's machtigste natie, Groot-Brittanni\u00eb, voerde in de jaren dertig een politiek van appeasement; elke internationale confrontatie werd gemeden.",
+                "rewritten_sentences": "Groot-Brittanni\u00eb was Europa's machtigste natie. In de jaren dertig voerde het een appeasementpolitiek. Het vermeed internationale confrontaties.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c14",
+                        "reason_for_change": "Co\u00f6rdinaten en bijvoeglijke zinnen opgesplitst in korte, losse zinnen.",
+                        "start_word": 233,
+                        "end_word": 250,
+                        "original_text": "Europa's machtigste natie, Groot-Brittanni\u00eb, voerde in de jaren dertig een politiek van appeasement; elke internationale confrontatie werd gemeden.",
+                        "new_text": "Groot-Brittanni\u00eb was Europa's machtigste natie. In de jaren dertig voerde het een appeasementpolitiek. Het vermeed internationale confrontaties.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Van Frankrijk, dat de ene na de andere regeringscrisis beleefde, had Duitsland evenmin iets te duchten.",
+                "rewritten_sentences": "Frankrijk kende veel regeringscrisissen. Duitsland hoefde niet bang te zijn voor Frankrijk.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c15",
+                        "reason_for_change": "Bijzin eenvoudiger gemaakt en vervolgens gevolg als aparte zin geplaatst.",
+                        "start_word": 251,
+                        "end_word": 266,
+                        "original_text": "Van Frankrijk, dat de ene na de andere regeringscrisis beleefde, had Duitsland evenmin iets te duchten.",
+                        "new_text": "Frankrijk kende veel regeringscrisissen. Duitsland hoefde niet bang te zijn voor Frankrijk.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Hitler lijfde op 13 maart 1938 zonder slag of stoot buurland Oostenrijk in.",
+                "rewritten_sentences": "Op 13 maart 1938 nam Hitler Oostenrijk in. Dit gebeurde zonder veel tegenstand.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c16",
+                        "reason_for_change": "Tijdsaanduiding en handeling apart gezet voor eenvoudiger begrip.",
+                        "start_word": 267,
+                        "end_word": 279,
+                        "original_text": "Hitler lijfde op 13 maart 1938 zonder slag of stoot buurland Oostenrijk in.",
+                        "new_text": "Op 13 maart 1938 nam Hitler Oostenrijk in. Dit gebeurde zonder veel tegenstand.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "W\u00e9liswaar werd er nog gepoogd om gedurende de conferentie van M\u00fcnchen, eind september 1938, Hitler een halt toe te roepen, maar hij ontving in ruil voor valse beloften wel Sudetenland van Tsjecho-Slowakije.",
+                "rewritten_sentences": "Eind september 1938 vond de conferentie van M\u00fcnchen plaats. De deelnemers probeerden Hitler te stoppen. Zij gaven hem het Sudetenland in ruil voor beloften. Die beloften waren vals.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c17",
+                        "reason_for_change": "Lange samengestelde zin opgesplitst in meerdere korte zinnen om stappen duidelijk te tonen.",
+                        "start_word": 280,
+                        "end_word": 311,
+                        "original_text": "W\u00e9liswaar werd er nog gepoogd om gedurende de conferentie van M\u00fcnchen, eind september 1938, Hitler een halt toe te roepen, maar hij ontving in ruil voor valse beloften wel Sudetenland van Tsjecho-Slowakije.",
+                        "new_text": "Eind september 1938 vond de conferentie van M\u00fcnchen plaats. De deelnemers probeerden Hitler te stoppen. Zij gaven hem het Sudetenland in ruil voor beloften. Die beloften waren vals.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Tegen alle akkoorden in veroverde Hitler in het voorjaar van 1939 vervolgens heel Tsjecho-Slowakije en toen was het Groot-Brittanni\u00eb en Frankrijk evident dat met deze Duitse heerser geen akkoorden te sluiten waren.",
+                "rewritten_sentences": "In het voorjaar van 1939 veroverde Hitler heel Tsjecho-Slowakije. Dit schond verdragen en akkoorden. Groot-Brittanni\u00eb en Frankrijk zagen nu in dat men met Hitler geen akkoorden kon sluiten.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c18",
+                        "reason_for_change": "Zin opgesplitst in meerdere korte zinnen en gevolgen explicieter gemaakt.",
+                        "start_word": 312,
+                        "end_word": 343,
+                        "original_text": "Tegen alle akkoorden in veroverde Hitler in het voorjaar van 1939 vervolgens heel Tsjecho-Slowakije en toen was het Groot-Brittanni\u00eb en Frankrijk evident dat met deze Duitse heerser geen akkoorden te sluiten waren.",
+                        "new_text": "In het voorjaar van 1939 veroverde Hitler heel Tsjecho-Slowakije. Dit schond verdragen en akkoorden. Groot-Brittanni\u00eb en Frankrijk zagen nu in dat men met Hitler geen akkoorden kon sluiten.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Terwijl de Duitse minister van Buitenlandse Zaken Von Ribbentrop met zijn Russische ambtsgenoot Molotov onderhandelde over een niet-aanvalsverdrag (augustus 1939), hoopten de Fransen en Engelsen dat er geen herhaling zou komen van de periode 1914-1918.",
+                "rewritten_sentences": "In augustus 1939 onderhandelden Von Ribbentrop en Molotov over een niet-aanvalsverdrag tussen Duitsland en Rusland. Intussen hoopten Frankrijk en Engeland dat de oorlog van 1914-1918 zich niet zou herhalen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c19",
+                        "reason_for_change": "Complexe zinsconstructie opgesplitst in twee duidelijke zinnen en personages kort genoemd.",
+                        "start_word": 344,
+                        "end_word": 378,
+                        "original_text": "Terwijl de Duitse minister van Buitenlandse Zaken Von Ribbentrop met zijn Russische ambtsgenoot Molotov onderhandelde over een niet-aanvalsverdrag (augustus 1939), hoopten de Fransen en Engelsen dat er geen herhaling zou komen van de periode 1914-1918.",
+                        "new_text": "In augustus 1939 onderhandelden Von Ribbentrop en Molotov over een niet-aanvalsverdrag tussen Duitsland en Rusland. Intussen hoopten Frankrijk en Engeland dat de oorlog van 1914-1918 zich niet zou herhalen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            },
+            {
+                "original_sentence": "Een week later begon de Duitse invasie in Polen.",
+                "rewritten_sentences": "Een week later viel Duitsland Polen binnen.",
+                "changes_in_sentence": [
+                    {
+                        "change_id": "c20",
+                        "reason_for_change": "Korte zin behouden en licht vereenvoudigd om directheid te verhogen.",
+                        "start_word": 379,
+                        "end_word": 387,
+                        "original_text": "Een week later begon de Duitse invasie in Polen.",
+                        "new_text": "Een week later viel Duitsland Polen binnen.",
+                        "rewrite_category": "verlaag afhankelijkheidslengte"
+                    }
+                ]
+            }
+        ],
+        "text_genre": "Historische tekst",
+        "full_text": "Opmaat van de Tweede Wereldoorlog. De Eerste Wereldoorlog begon op een bepaalde manier. De Tweede Wereldoorlog begon anders. In 1914 gingen Europeanen bijna gretig de oorlog in. 22 jaar later wekten de herinneringen aan die oorlog angst bij mensen. De strijd duurde vier jaar, van 1914 tot 1918. De meeste gevechten vonden plaats in loopgraven. Ongeveer 8.500.000 mensen kwamen om. In september 1939 herinnerden veel mensen zich die oorlog nog goed. De herinneringen lagen nog vers in het geheugen. In de jaren v\u00f3\u00f3r de Tweede Wereldoorlog probeerden regeringsleiders en diplomaten onenigheid met Duitsland te voorkomen. Vooral Groot-Brittanni\u00eb en Frankrijk deden dat. Hitler kwam in 1933 aan de macht. Hij stuurde vrijwel meteen aan op een militaire confrontatie. Duitsland verliet de Volkenbond. Hitler zei dat de Duitsers Lebensraum nodig hadden. Dat schond de bepalingen uit het Verdrag van Versailles. Dat deerde Hitler niet. De Duitse economie richtte zich snel op wapenproductie. De krijgsmacht werd uitgebreid. De Duitse economie kon zich niet volledig voorzien. Daarom streefde Duitsland naar meer grondgebied. Andere Europese landen protesteerden tegen deze plannen. Ze waren echter bang voor een nieuwe oorlog. In 1936 trokken Duitse troepen ongestraft het Rijnland binnen. Hitler zei dat de Duitse bevolking later gevoed moest worden met graan uit Oekra\u00efne. Die graanvelden liggen in Oost-Europa. Groot-Brittanni\u00eb was Europa's machtigste natie. In de jaren dertig voerde het een appeasementpolitiek. Het vermeed internationale confrontaties. Frankrijk kende veel regeringscrisissen. Duitsland hoefde niet bang te zijn voor Frankrijk. Op 13 maart 1938 nam Hitler Oostenrijk in. Dit gebeurde zonder veel tegenstand. Eind september 1938 vond de conferentie van M\u00fcnchen plaats. De deelnemers probeerden Hitler te stoppen. Zij gaven hem het Sudetenland in ruil voor beloften. Die beloften waren vals. In het voorjaar van 1939 veroverde Hitler heel Tsjecho-Slowakije. Dit schond verdragen en akkoorden. Groot-Brittanni\u00eb en Frankrijk zagen nu in dat men met Hitler geen akkoorden kon sluiten. In augustus 1939 onderhandelden Von Ribbentrop en Molotov over een niet-aanvalsverdrag tussen Duitsland en Rusland. Intussen hoopten Frankrijk en Engeland dat de oorlog van 1914-1918 zich niet zou herhalen. Een week later viel Duitsland Polen binnen.",
+        "prompt_id": "T21_moei",
         "engine": "GPT 5.1 mini/gpt-5-mini"
     },
     "Gemini/gemini-3-flash-preview - text": "De Eerste Wereldoorlog en de Tweede Wereldoorlog begonnen heel anders. In 1914 wilden de Europeanen graag de oorlog in. Maar 22 jaar later waren ze bang door herinneringen aan die tijd. De oorlog van 1914 tot 1918 duurde vier jaar. Soldaten vochten toen in loopgraven. Er vielen 8,5 miljoen doden. Mensen wisten dit nog goed in september 1939. Toen begon de Tweede Wereldoorlog. Vlak voor de Tweede Wereldoorlog deden leiders uit Engeland en Frankrijk hun best. Ze wilden geen ruzie met Duitsland. Hitler kwam in 1933 aan de macht. Hij wilde meteen een oorlog. Duitsland stapte uit de Volkenbond. Hitler zei dat de Duitsers meer land nodig hadden. Hij brak de regels van het vredesverdrag. Dat vond hij niet erg. Duitsland kon niet alles zelf maken. Daarom wilden ze meer land van andere landen. Engeland was het machtigste land van Europa. In de jaren dertig deden ze aan 'appeasement'. Dat betekent dat ze elke ruzie vermeden.",
