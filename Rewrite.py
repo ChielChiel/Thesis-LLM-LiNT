@@ -1,7 +1,6 @@
 from lint_ii import ReadabilityAnalysis
 import pandas as pd
 import numpy as np
-import json
 from enum import Enum
 from typing import List
 
@@ -14,15 +13,8 @@ import lmstudio as lms
 from pydantic import BaseModel, Field
 
 from dotenv import load_dotenv
-load_dotenv(".env", override=True)
-
-
-import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline, BitsAndBytesConfig
-import tqdm
-import outlines
+load_dotenv(dotenv_path=".env", override=True)
 import os
-os.environ['HF_TOKEN'] = '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'
 
 class RewriteEngine:
      """
@@ -53,11 +45,6 @@ class RewriteEngine:
           pass
      
 # Response schema
-# class RewriteChange(BaseModel):
-#     original_part_of_text: str
-#     rewritten_part_of_text: str
-#     reason_for_change: str
-
 class RewriteCategory(str, Enum):
     word_frequency = "verhoog woordfrequentie"
     syntactic_dependency_length = "verlaag afhankelijkheidslengte"
@@ -83,40 +70,14 @@ class RewrittenText(BaseModel):
     text: List[RewriteSentence]
     text_genre: str
 
-
-# class RewriteCategory(str, Enum):
-#     word_frequency = "verhoog woordfrequentie"
-#     syntactic_dependency_length = "verlaag afhankelijkheidslengte"
-#     content_words_per_clause = "verlaag contentwoorden per deelzin"
-#     proportion_concrete_nouns = "verhoog de verhouding van concrete zelfstandignaamwoorden"
-
-# class RewriteChange(BaseModel):
-#     change_id: str 
-#     start_word: int
-#     end_word: int
-#     original_text: str
-#     new_text: str
-#     reason_for_change: str
-#     rewrite_category: RewriteCategory
-
-# class RewriteSentence(BaseModel):
-#     original_sentence: str
-#     rewritten_sentences: str
-#     changes_in_sentence: List[RewriteChange]
-
-# class RewrittenText(BaseModel):
-#     text: List[RewriteSentence]
-#     text_genre: str
-
 class RE_Mistral(RewriteEngine):
-
+    # Constructor for Mistral models
     def __init__(self, model, name, is_dutch = False, is_local = False, is_open_source = False, is_large = False, timeout_ms=None):
         super().__init__(model, name, is_dutch, is_local, is_open_source, is_large)
         self.client = Mistral(
             api_key=os.environ.get("MISTRAL_API_KEY"),
             timeout_ms=timeout_ms,
             )
-        # print("key:", os.environ.get("MISTRAL_API_KEY"))
 
     def set_instruction(self, instruction):
         return super().set_instruction(instruction)
@@ -140,28 +101,9 @@ class RE_Mistral(RewriteEngine):
         )
         return response.choices[0].message.parsed
 
-
-class RE_Local(RewriteEngine):
-
-  def __init__(self, model, name, is_dutch = False, is_local = False, is_open_source = False, is_large = False):
-    super().__init__(model, name, is_dutch, is_local, is_open_source, is_large)
-    # print("hic")
-    self.client = outlines.from_transformers(
-      AutoModelForCausalLM.from_pretrained(model, device_map="auto"),
-      AutoTokenizer.from_pretrained(model)
-    )
-        
-  def set_instruction(self, instruction):
-    return super().set_instruction(instruction)
-    
-  def prompt_model(self, user_prompt):
-    response = self.client(f"{self.instruction}\n{user_prompt}", RewrittenText)
-    return response
-
-
 # LMStudio hosts and manages all my local models. It optimizes gpu allocation so i don't have to.
 class RE_LMStudio(RewriteEngine):
-
+    # Constructor for locally hosted models using LMStudio
     def __init__(self, model, name, is_dutch = False, is_local = False, is_open_source = False, is_large = False):
         super().__init__(model, name, is_dutch, is_local, is_open_source, is_large)
         print("hic sunt 2.")
@@ -193,7 +135,7 @@ class RE_LMStudio(RewriteEngine):
         return returnObject
     
 class RE_Claude(RewriteEngine):
-
+    # Constructor for Claude models
     def __init__(self, model, name, is_dutch = False, is_local = False, is_open_source = False, is_large = False):
         super().__init__(model, name, is_dutch, is_local, is_open_source, is_large)
         self.client = Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
@@ -217,7 +159,7 @@ class RE_Claude(RewriteEngine):
         return response.parsed_output
     
 class RE_OpenAi(RewriteEngine):
-
+    # Constructor for OpenAI models
     def __init__(self, model, name, is_dutch = False, is_local = False, is_open_source = False, is_large = False):
         super().__init__(model, name, is_dutch, is_local, is_open_source, is_large)
         self.client = OpenAI(api_key=os.environ.get('OPENAI_API_KEY'))
@@ -227,7 +169,7 @@ class RE_OpenAi(RewriteEngine):
 
     def prompt_model(self, user_prompt) -> str:
         response = self.client.responses.parse(
-            model=self.model, # "gpt-4.1-nano"
+            model=self.model,
             instructions=self.instruction,
             text_format = RewrittenText,
             input=[
@@ -243,12 +185,10 @@ class RE_OpenAi(RewriteEngine):
             store=True,
             include=[]
             )
-        # print(f"tokens: {response.input_tokens}")
         return response.output_parsed
     
 class RE_Gemini(RewriteEngine):
-
-
+    # Constructor for Google Gemini models
     def __init__(self, model, name, is_dutch = False, is_local = False, is_open_source = False, is_large = False):
         super().__init__(model, name, is_dutch, is_local, is_open_source, is_large)
         self.client = genai.Client()
@@ -274,10 +214,10 @@ class RE_Gemini(RewriteEngine):
 class LintPipe:
 
     def __init__(self, instruction_en:str, instruction_nl:str, user_prompt:str, prompt_id:str):
+        # Analyse the text using lint_ii and insert the LiNT-scores into the prompts.
         self.user_prompt = user_prompt
         self.prompt_id = prompt_id
         self.analysis = self.get_lint_analysis(self.user_prompt)
-        # print(self.analysis)
 
         self.instruction_en = self.format_instruction(instruction_en)
         self.instruction_nl = self.format_instruction(instruction_nl, is_dutch = True)
@@ -287,7 +227,7 @@ class LintPipe:
         return
 
     def format_instruction(self, instruction:str, is_dutch:bool = False):
-        # Determine document and sentence scores:
+        # Determine document and sentence scores and impute them into the prompt:
         sent_scores = [int(sent_analysis['score']) for sent_analysis in self.analysis['sentence_stats'] if sent_analysis['score'] is not None]
         doc_score = str(int(self.analysis['document_stats']['document_lint_score']))
         
@@ -303,8 +243,7 @@ class LintPipe:
 
 
     def add_engine(self, engine:RewriteEngine):
-        # TODO: Retrieve all top_n uncommon 
-
+        # Add a specific RewriteEngine to the pipeline. Only added engines will be prompted.
         if engine.is_dutch:
             engine.set_instruction(self.instruction_nl)
         else:
@@ -312,19 +251,14 @@ class LintPipe:
         self.rewriteEngines.append(engine)
 
     def list_engines(self):
-        # print("Rewrite engines:")
+        # Give a print out of all the models currently in the pipeline. For debugging purposes only.
+        print("Rewrite engines:")
         for engine in self.rewriteEngines:
-            # print(f"NAME: {engine.name}, MODEL: '{engine.model}', ?NL {engine.is_dutch}, ?LOCAL: {engine.is_local}, ?OS {engine.is_open_source}, ?LARGE {engine.is_large}")
+            print(f"NAME: {engine.name}, MODEL: '{engine.model}', ?NL {engine.is_dutch}, ?LOCAL: {engine.is_local}, ?OS {engine.is_open_source}, ?LARGE {engine.is_large}")
             pass
 
     def prompt_engines(self):
-        # TODO: Prompt engines moet doen:
-        # 1. Return een clean object:
-        #     - Model id
-        #     - Lint scores per zinsblok.
-        #     - Herschreven tekst
-
-        # - Dit object moet ook een methode hebben: extract_text en get_overall_lint_score()
+        # Prompt all models inside the pipeline. Format the engine results as JSON and return all the rewritten texts a
         self.prompt_responses = []
         results = []
         if [] == self.rewriteEngines:
@@ -332,7 +266,6 @@ class LintPipe:
             return
 
         for engine in self.rewriteEngines:
-            # print(f"Rewriting using {engine.name} - Model: {engine.model}")
             engine_id = f'{engine.name}/{engine.model}'
             try:
                 engine_result = engine.prompt_model(self.user_prompt)
@@ -346,13 +279,15 @@ class LintPipe:
                 engine_result['engine'] = engine_id
                 results.append(engine_result)
             except Exception as e:
+                # Due to unforseen circumstances, the RewriteEngine did not return the result in the right response schema. 
+                # Probably due to an API server error. So return an empty result.
                 print(f"Something went wrong with {engine_id}, text: {self.prompt_id} skipping...")
                 print(e)
                 faulty_engine = dict()
                 faulty_engine['text'] = []
                 faulty_engine['text_genre'] = 'NA'
                 faulty_engine['full_text'] = ''
-                engine_result['prompt_id'] = self.prompt_id
+                faulty_engine['prompt_id'] = self.prompt_id
                 faulty_engine['engine'] = engine_id
 
 
@@ -362,10 +297,12 @@ class LintPipe:
         return results
 
     def get_lint_analysis(self, user_prompt):
+        # Get the lint_ii analysis of the text to rewrite.
         analysis = ReadabilityAnalysis.from_text(user_prompt)
         return analysis.get_detailed_analysis()
     
     def eval_response(self):
+        # Evaluate the response of the rewritten texts, return as a pandas DataFrame. Used for further quantitative and qualitative evaluation.
         org_sent_scores = map(int, [sent_analysis['score'] for sent_analysis in self.analysis['sentence_stats'] if sent_analysis['score'] is not None])
         org_sent_scores = ", ".join(map(str, org_sent_scores))
         org_doc_score = str(int(self.analysis['document_stats']['document_lint_score']))

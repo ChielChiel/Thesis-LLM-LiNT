@@ -9,7 +9,7 @@ from pathlib import Path
 import json
 from datetime import datetime
 
-n_pools = 1
+n_pools = 7
 output_dir = Path("./output/meta_prompt_no_lint_formula")
 n_texts = 40
 
@@ -127,17 +127,16 @@ def run(row):
     text_id = row['id']
     PROMPT = meta_prompt_no_lint_formula
     all_pipe = rw.LintPipe(instruction_en=PROMPT, instruction_nl=PROMPT, user_prompt=row['text'], prompt_id=text_id)
-    # all_pipe.add_engine(chatgpt_41)
-    # all_pipe.add_engine(chatgpt_51)
+    all_pipe.add_engine(chatgpt_41)
+    all_pipe.add_engine(chatgpt_51)
     all_pipe.add_engine(gemini)
-    # all_pipe.add_engine(mistral)
-    # print("Prompting engines...")
+    all_pipe.add_engine(mistral)
+    
     all_pipe.prompt_engines()
-    # print("evaluation")
     evals = all_pipe.eval_response()
     evals["created"] = str(datetime.now())
 
-    output_fp = output_dir / f"{text_id}.redone.json"
+    output_fp = output_dir / f"{text_id}.json"
     output_fp.parent.mkdir(exist_ok=True, parents=True)
 
     with open(output_fp, "w") as f:
@@ -146,41 +145,23 @@ def run(row):
 
     return output
 
-    # if index == 0:
-    #     evaluation = evals
-    # else:
-    #     evaluation = pd.concat([evaluation, evals])
-    
-    # if index % 20 == 0 or index == texts.shape[0] - 1:
-    #     print("saving progress till", index)
-    #     evaluation.to_parquet(f"./output/df_stand_{index}.parquet.gzip", compression="gzip")
-
 
 if __name__ == '__main__':
     texts = pd.read_csv("./prep_texts.csv")
-    # texts.head(5)
 
     if isinstance(n_texts, type(None)):
         n_texts = len(texts)
 
-    # Missing values for meta prompt per model. Lists contain indices of texts dataframe.
-    missing_values_meta_no_lint = {'ChatGPT 4.1 mini/gpt-4.1-mini': [],
-        'GPT 5.1 mini/gpt-5-mini': [38],
-        'Gemini/gemini-3-flash-preview': [28, 39],
-        'Mistral/ministral-14b-latest': []}
-    
-    # Only run model for these indices.
-    # Now only running GEMINI <-- redo if needed.
-    texts_input = texts.loc[missing_values_meta_no_lint['Gemini/gemini-3-flash-preview']].to_dict(orient="records")
+    texts_input = texts.to_dict(orient="records")[:n_texts]
 
     with Pool(processes=n_pools) as pool:
         results = list(tqdm.tqdm(iterable=pool.imap(func=run, iterable=texts_input), total=len(texts_input)))
 
-    print("Hoera! Gelukt! Denk ik...")
+    print("Rewriting finished. Saving...")
 
     results_df = pd.DataFrame(data=results)
 
     output_fp = output_dir / "gemini-meta_prompt_no_lint_formula.redone.parquet"
     results_df.to_parquet(path=output_fp, compression="gzip")
 
-    print(f"Opgeslagen als: `{output_fp}`")
+    print(f"Saved as: `{output_fp}`")
